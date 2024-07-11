@@ -1,7 +1,7 @@
 ---
 title: Video - Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
-date: 2024-07-08 13:53:57
-updated: 2024-07-11 12:28:12
+date: 2024-07-10T06:43:04.189Z
+updated: 2024-07-11T06:43:04.189Z
 categories:
   - repair-tools
 description: This Article Describes Video - Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
@@ -160,3 +160,41 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://data-wizards.techidaily.com/how-to-repair-h264-mov-files/"><u>How to Repair H.264 MOV Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/user-friendly-data-security-stellar-revamps-software-approach/"><u>User-Friendly Data Security: Stellar Revamps Software Approach</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solving-mp4-format-defects/"><u>Solving MP4 Format Defects</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unblock-displaced-avi-flac-files/"><u>Unblock Displaced AVI, FLAC Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-your-videos-with-precision-discover-grau-gmbhs-cutting-edge-repair-tech/"><u>Revive Your Videos with Precision: Discover Grau GmbH's Cutting-Edge Repair Tech</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-unsupported-codec-functionality/"><u>Restoring Unsupported Codec Functionality</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rebuild-lost-video-catalogs/"><u>Rebuild Lost Video Catalogs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-the-art-of-mpeg-restoration-top-techniques-for-video-recovery-success/"><u>Master the Art of MPEG Restoration - Top Techniques for Video Recovery Success</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cosmic-file-restoration-hub/"><u>Cosmic File Restoration Hub</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-broken-movies-best-tools-for-restoring-corrupted-hd-video-footage/"><u>Fix Broken Movies: Best Tools for Restoring Corrupted HD Video Footage</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recovering-flawed-video-playback-in-macos/"><u>Recovering Flawed Video Playback in macOS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-repair-corrupt-avchd-files/"><u>How to Repair Corrupt AVCHD Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimal-fixers-internet-based-stream-repair/"><u>Optimal Fixers: Internet Based Stream Repair</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/improving-faulty-cctv-picture-quality/"><u>Improving Faulty CCTV Picture Quality</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/boosted-mac-data-capabilities-revealed-by-stellar/"><u>Boosted Mac Data Capabilities Revealed by Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-storage-saving-skills-shine-in-testimonial/"><u>Stellar's Storage Saving Skills Shine in Testimonial</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-potential-top-tier-tutorials-and-tricks-for-home-improvement-by-steller-tech/"><u>Unlocking Potential: Top-Tier Tutorials and Tricks for Home Improvement by Steller Tech</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-fix-stuck-freezing-or-glitched-movies-quick-diy-methods-for-an-enhanced-viewing-experience-at-your-place/"><u>How To Fix Stuck, Freezing or Glitched Movies: Quick DIY Methods for an Enhanced Viewing Experience at Your Place</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/premium-quality-video-correction-services-offered-by-grau-gmbh-technology-partners/"><u>Premium Quality Video Correction Services Offered by Grau GmbH Technology Partners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-venn-of-virtuality-metaverse-and-multiverse-analysis/"><u>[Updated] The Venn of Virtuality  Metaverse & Multiverse Analysis</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-technical-savvy-selecting-the-best-capture-tools/"><u>[New] 2024 Approved  Technical Savvy  Selecting the Best Capture Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/abolish-all-fb-push-notifications/"><u>Abolish All FB Push Notifications</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-social-media-sensations-most-liked-and-watched-amazon-originals-for-2024/"><u>[New] The Social Media Sensations  Most Liked & Watched Amazon Originals for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-apple-video-editing-mastery-essential-software-you-need/"><u>Updated 2024 Approved Apple Video Editing Mastery Essential Software You Need</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-down-the-spectacular-features-of-dells-p2715q-display/"><u>2024 Approved  Breaking Down the Spectacular Features of Dell's P2715Q Display</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-infinix-note-30-vip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Infinix Note 30 VIP Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v29-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V29 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stream-your-spotify-hits-on-youtube-with-these-select-tools/"><u>[New] Stream Your Spotify Hits on YouTube with These Select Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/amplify-your-server-experience-with-these-select-bots/"><u>Amplify Your Server Experience with These Select Bots</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-where-are-my-youtube-comments-desktopiosandroid-strategies/"><u>[Updated] In 2024, Where Are My YouTube Comments? Desktop/iOS/Android Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-recently-accessed-windows-documents/"><u>Deciphering Recently Accessed Windows Documents</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/disappear-and-reappear-avoiding-shadowbans-on-tiktok/"><u>Disappear and Reappear  Avoiding Shadowbans on TikTok</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-best-of-both-worlds-online-and-offline-glitch-video-editors-compared-for-2024/"><u>The Best of Both Worlds Online and Offline Glitch Video Editors Compared for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-5-stop-motion-animation-tools-free-and-paid-options/"><u>Updated 2024 Approved Top 5 Stop Motion Animation Tools Free and Paid Options</u></a></li>
+</ul></div>
