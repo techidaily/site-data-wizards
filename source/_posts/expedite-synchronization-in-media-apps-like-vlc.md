@@ -1,7 +1,7 @@
 ---
 title: Expedite Synchronization in Media Apps Like VLC
-date: 2024-07-10T06:36:28.867Z
-updated: 2024-07-11T06:36:28.867Z
+date: 2024-07-29T00:00:53.370Z
+updated: 2024-07-30T00:00:53.370Z
 categories:
   - repair-tools
 description: This Article Describes Expedite Synchronization in Media Apps Like VLC
@@ -16,6 +16,13 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 
 # How to Fix Audio Video Delay in VLC Media Player
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
  Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
@@ -46,6 +53,9 @@ Table of Content
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
 _Figure: Audio delay message in VLC_
@@ -58,6 +68,9 @@ _Figure: Audio delay message in VLC_
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
  The answer is ‘Yes’. You can apply the settings for once for all the videos you play in VLC. For this, use the **‘Audio desynchronization compensation’** feature. It would permanently fix the audio-video sync in VLC Player. Unlike the Audio track synchronization value, which you must reset every time, you must set the ‘Audio desynchronization compensation’ value just once. The settings get saved for all the videos until you change it again.
@@ -73,6 +86,10 @@ _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
  Often, users ask if every time they play a video in VLC, they have to manually adjust Audio track synchronization to get the audio in sync with the video. So, is it possible for this setting to be saved permanently?
@@ -94,6 +111,9 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 
  The video or movie should now play without any audio sync issue in the VLC Player.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -154,6 +174,9 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 0
@@ -182,3 +205,63 @@ About The Author
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-inspire-audiences-with-these-high-quality-free-sound-files/"><u>[New] 2024 Approved  Inspire Audiences with These High-Quality, Free Sound Files</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-recording-real-time-google-meetings/"><u>[New] In 2024, Recording Real-Time Google Meetings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-minimize-external-noise-find-a-quiet-environment-to-minimize-distractions-that-can-hinder-understanding/"><u>[New] Minimize External Noise  Find a Quiet Environment to Minimize Distractions that Can Hinder Understanding</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-setup-of-obs-and-streamlabs-for-mac-users/"><u>[New] Navigating the Setup of OBS & Streamlabs for Mac Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-obs-recording-software-unveiled-in-our-latest-study-for-2024/"><u>[New] Top OBS Recording Software Unveiled in Our Latest Study for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-potential-mastering-facebooks-best-practices-for-video-advertising/"><u>[New] Unlocking Potential  Mastering Facebook's Best Practices for Video Advertising</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-2023s-elite-web-based-recording-devices/"><u>[Updated] 2024 Approved  2023'S Elite Web-Based Recording Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-chrome-drawing-programs-the-ultimate-list/"><u>[Updated] Prime Chrome Drawing Programs  The Ultimate List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-innovators-defining-next-gen-vr-experiences/"><u>[Updated] Top Innovators Defining Next-Gen VR Experiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-sluggish-to-speedy-on-android-vids/"><u>[Updated] Transform Sluggish to Speedy on Android Vids</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweeting-tiktoks-made-easy/"><u>[Updated] Tweeting TikToks Made Easy</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-perfect-blend-of-creativity-and-data-for-title-genius/"><u>2024 Approved  The Perfect Blend of Creativity & Data for Title Genius</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uncomplicated-process-altering-clown-fish-voices-in-winos/"><u>2024 Approved  Uncomplicated Process  Altering Clown Fish Voices in WinOS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-11-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 11 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/accelerated-buy-interstellar-scene-improvement/"><u>Accelerated Buy: Interstellar Scene Improvement</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/actions-to-take-on-faulty-surveillance-feed/"><u>Actions to Take on Faulty Surveillance Feed</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/basic-tricks-for-clearer-captures/"><u>Basic Tricks for Clearer Captures</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/best-alternative-for-online-video-repair-software/"><u>Best Alternative for Online Video Repair Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-mac-compatible-video-defects/"><u>Correcting Mac-Compatible Video Defects</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/digital-detritus-recovering-photos-from-camera/"><u>Digital Detritus: Recovering Photos From Camera</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/empowering-creators-with-stellars-comprehve-diy-hacks-and-insightful-articles-on-software-toolkit-mastery/"><u>Empowering Creators with Stellar’s Comprehve DIY Hacks and Insightful Articles on Software Toolkit Mastery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fabios-testimonial-triumph-a-step-by-step-it-guide-in-exchange/"><u>Fabio's Testimonial Triumph: A Step-by-Step IT Guide in Exchange</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixer-extraordinaire-your-jpeg-savior/"><u>Fixer Extraordinaire: Your JPEG Savior</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-fractured-videos-leveraging-backup-copies/"><u>Fixing Fractured Videos: Leveraging Backup Copies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/gary-weighs-in-exceptional-ms-sql-support-by-stellar-experts/"><u>Gary Weighs In: Exceptional MS SQL Support by Stellar Experts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-chuckles-and-chortles-reviewing-the-goofy-movie-on-vhs/"><u>In 2024, 'Chuckles and Chortles' - Reviewing The Goofy Movie on VHS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-xs-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone XS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-hot-30i-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Hot 30i Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-6-plus-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 6 Plus and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/infusing-immersive-experiences-in-ar-via-customized-lut-application/"><u>Infusing Immersive Experiences in AR via Customized LUT Application</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/lost-and-found-unveiling-macs-top-free-and-paid-data-rescue-software/"><u>Lost and Found: Unveiling Mac's Top Free & Paid Data Rescue Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/masterful-techniques-in-data-salvage-a-deep-dive-by-singh/"><u>Masterful Techniques in Data Salvage: A Deep Dive by Singh</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-audiovideo-alignment-in-vlc/"><u>Mastering Audio/Video Alignment in VLC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mpeg-file-recovery-how-to-salvage-damaged-video-content-effortlessly/"><u>MPEG File Recovery: How to Salvage Damaged Video Content Effortlessly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mpeg-video-repair-tool-repair-corrupt-or-damaged-mpeg-video/"><u>MPEG Video Repair Tool. Repair Corrupt or Damaged MPEG Video</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-the-most-downloaded-iphone-apps/"><u>New 2024 Approved The Ultimate Guide to the Most Downloaded iPhone Apps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcome-frozen-videos-on-vlc/"><u>Overcome Frozen Videos on VLC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/polishing-perfect-solutions-for-interlace-video-defects/"><u>Polishing Perfect: Solutions for Interlace Video Defects</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restore-ravaged-dv-avi-video-streams/"><u>Restore Ravaged DV, AVI Video Streams</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-video-playback-code-224003/"><u>Restoring Video Playback, Code 224003</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revamped-kratos-skillset/"><u>Revamped Kratos Skillset</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-your-mov-files-smoothly-with-stellar-technology/"><u>Revive Your MOV Files Smoothly with Stellar Technology</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-archived-communication-exporting-to-live-exchange-server/"><u>Reviving Archived Communication: Exporting to LIVE Exchange Server</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/saving-history-migrate-lost-e-mails-to-active-server-platform/"><u>Saving History: Migrate Lost E-Mails to Active Server Platform</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-guide-to-sql-data-reset/"><u>Stellar Guide to SQL Data Reset</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stop-playback-trouble-at-error-xc00d36c4/"><u>Stop Playback Trouble at Error XC00D36C4</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/swiftly-fix-damaged-rmvb-and-ogms/"><u>Swiftly Fix Damaged RMVB and OGMs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-complete-cheat-sheet-for-negative-snap-playback-for-2024/"><u>The Complete Cheat Sheet for Negative Snap Playback for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/totan-banerjee-on-stellar-pathways-to-digital-redemption/"><u>Totan Banerjee on Stellar Pathways to Digital Redemption</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-guide-to-fixing-videos-the-best-software-for-pcs-and-macs/"><u>Ultimate Guide to Fixing Videos: The Best Software for PCs & Macs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unraveling-media-format-obstructions/"><u>Unraveling Media Format Obstructions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-8-ways-to-fix-external-hard-drive-not-showing-up-problem-in-mac/"><u>Video - 8 Ways to Fix External Hard Drive Not Showing Up Problem in Mac</u></a></li>
+</ul></div>

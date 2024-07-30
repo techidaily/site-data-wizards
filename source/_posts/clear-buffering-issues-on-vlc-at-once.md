@@ -1,0 +1,257 @@
+---
+title: Clear Buffering Issues on VLC at Once
+date: 2024-07-29T00:10:18.145Z
+updated: 2024-07-30T00:10:18.145Z
+categories:
+  - repair-tools
+description: This Article Describes Clear Buffering Issues on VLC at Once
+excerpt: This Article Describes Clear Buffering Issues on VLC at Once
+keywords: Resolve VLC Video Buffering,Uninterrupted Streaming with VLC Player,Stop Latency in VLC Playback Instantly,Remedy Clear Buffering Problems in VLC Media Player,Efficient VLC Playback,Enhance VLC Performance,Optimize Streaming Experience
+thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0eb3993597fb253da585f204.jpg
+---
+
+## Clear Buffering Issues on VLC at Once
+
+[Video Repair](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+
+# How to Fix Video Stuck or Freeze in VLC
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+* ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-625c9ec/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
+ Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
+* ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
+ Updated on31 May, 2024
+* Min Reading 6  Min
+* Share
+
+---
+
+Table of Content
+
+**Summary:** This post shares the best solutions to fix video freezing, buffering or audio lag in VLC Media Player. In some cases, if troubleshooting the VLC Player doesn’t fix the video freezing issue, try Stellar Repair for Video. The software fixes corruption in video frames, slider movement, etc.
+
+[Free Download Windows  Free Download100% secure](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/windows.svg)  Free Download100% secure ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Free Download Mac  Free Download100% secure](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/source/rev-625c9ec/www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/mac-os.svg)  Free Download100% secure ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+ VLC Media Player is one of the most compatible and user-friendly media players. It can play almost all video file types from any source stored on hard drives, SD cards, CD/ DVD, and others.
+
+ But as technical glitches can occur anytime, videos may start to stutter, freeze, or show audio lags in VLC Player. This is commonly reported while playing large-sized HD or UHD videos, such as movies, animated films, etc. The HD or UHD videos don’t play smoothly and skip frames or freeze in VLC.
+
+ **_‘When I watch the 1080p H265 .mp4 movie file, the VLC Player freezes randomly after about 5 minutes. However, I can hear the audio track, but the video lags. Can I fix this?’_**
+
+ Here are the six best solutions to fix Video Stuck or Frozen in VLC.
+
+## Solutions to fix video stuck, stuttering, buffering or lagging in VLC Media Player
+
+ Although there isn’t a set solution, changing the VLC media player’s settings can work. You may have to try various methods shared here to fix the video freeze or lag issues in VLC Media Player.
+
+ You can apply the solutions here to play high-quality HD/ UHD/ HDR, 8k, or H.265 videos of any size and file format.
+
+### **Method 1: Update VLC Media Player to the latest version**
+
+ If your videos freeze, stutter, or are not playing in VLC Media Player, first update the player to the latest version. The updates improve support for new HD codecs, advanced formats, HDR, H.265/HEVC, 4K & 8K playback, 360-degree videos, VP9 (HD videos at lower bitrates), and others for decoding and encoding. It also fixes streaming issues and bugs, if any.
+
+**Also read:** [How to open HEIC, HEVC files on Windows 10](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### **Method 2: Increase cache values in VLC Player**
+
+ VLC Player preloads video cache files in the computer’s RAM to properly access and plays the video. You can try to fix the video buffering issue by increasing the cache value. However, this would increase the number of seconds videos are cached to play in VLC Player.
+
+**Steps to increase cache value in VLC:**
+
+* Open VLC Player.
+* Go to**Tools** \>**Preferences** .
+* At the bottom-left corner, under**Show settings,** select ‘**All** .’
+
+_Figure: Reset Preferences in VLC_
+
+* In the left pane, click**Input/ Codecs** from the list.
+* On the right pane, scroll down to the**Advanced** section.
+
+_Figure: Input/Codecs pane in VLC_
+
+* In the**Advanced** section, across**File caching (ms),** change the value to 1000 or above.
+* Click**Save.** Next, restart VLC Player and check if the videos are playing properly.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
+### **Method 3: Disable Hardware Decoding in VLC Player**
+
+ VLC Media Player can use the GPU of a computer to accelerate video decoding in high-quality videos. However, your PC’s drivers may behave abruptly, resulting in video playback or streaming issues. You can try disabling hardware decoding to fix Video Stuck or Freeze in the VLC player.
+
+**Steps to disable hardware decoding in VLC:**
+
+1. Open VLC Media Player.
+2. Go to**Tools** \>**Preferences** .
+3. At the bottom-left corner, under**Show settings,** select ‘**All** .’
+4. In the left pane, click**Input/ Codecs** from the list.
+5. Click**Video Codecs** _**\>**_ **FFmpeg** .
+
+ _Figure: Disable Hardware decoding in VLC_
+
+* Under**FFmpeg audio/video decoder** , scroll down to**Hardware decoding** and set it to**Disable** .
+* Click **Save** . Restart VLC Payer to enable the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### **Method 4: Change FFmpeg settings in VLC Player**
+
+ Making changes in the FFmpeg video codec in VLC Player has worked for some. You can also try to resolve video stuttering and freezing with this technique.
+
+* Open VLC Media Player.
+* Go to**Tools** \>**Preferences.**
+
+* At the bottom-left corner, under**Show settings,** select ‘**All** .’
+
+* In the left pane, click**Input/ Codecs** from the list.
+* Click**Video Codecs > FFmpeg** .
+
+* Under**FFmpeg audio/video decoder** _,_ scroll down to**Skip the loop filter for H.264 decoding** option. Set it to ‘**All** .’
+
+* Click**Save** .
+
+### **Method 5: Switch video output to DirectX DirectDraw in VLC**
+
+ Try switching between output video stream settings in the VLC media player. For example, you can set the output video module to Direct 3D video output, DirectX DirectDraw, or Open GL video output.
+
+**Steps to change video output in VLC:**
+
+* Open**VLC** **Media Player** .
+* Click and follow**Tools > Preferences** .
+
+* In the**Preferences** window, click on**Reset Preferences.**
+
+* In the confirmation dialog box, click**OK.**
+* Again, go to**Tools > Preferences** .
+* In the**Preferences** window, at the bottom left, under the**Show Settings** section, select the ‘**All’** option**.**
+
+* Now, scroll down and click on**Video** .
+* On the right pane,**Video** options appear. For example, uncheck****Drop late frames** and**Skip frames** .
+
+* On the left pane, under the**Video** section, select**Output modules** .
+
+_Figure: Video output modules in VLC_
+
+* **Output modules** options appear on the right pane.
+* View the drop-down of the**Video output module** and select**Direct 3D video output.**
+
+**Note:** If this doesn’t work, you can try to fix videos by choosing**DirectX DirectDraw** or**Open GL video output.**
+
+* Click on**Save** at the bottom**.**
+* Check if VLC Player can play your videos without freeze or interruption.
+
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### **Method 6: Repair your video using Stellar Repair for Video**
+
+ The video file may be corrupt if the above methods using VLC Media Player don’t fix video freeze, lag, or stuttering issues. To confirm corruption, see if your video freezes while playing in another media player.
+
+ If yes, try [**video repair software**](https://tools.techidaily.com/stellardata-recovery/buy-now/) that can fix corruption in the file header, frames, and slider movement that may result in video freeze or stuttering.
+
+**Stellar Repair for Video** is one such tool that can easily repair damaged videos and fix Video Stuck or Freeze in the VLC player. You can download the free trial to evaluate the software capabilities and preview the repaired videos before saving them.
+
+[](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+#### **Steps to fix video freezing issue using Stellar Repair for Video**
+
+**Step 1** : Launch**Stellar Repair for Video**
+
+**Step 2:** Click**Add file** to add the corrupt video files not playing VLC or other media players. You can add multiple videos of different formats and repair them in one go using Stellar Repair for Video.
+
+**Step 3** : Click the**‘Repair’** button to begin the repair process.
+
+**Step 4** : Preview the repaired videos before saving them to your desired location. Select videos and click on**Save Repaired Files.**
+
+[](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## **Conclusion**
+
+ Here we have recommended changing the settings of VLC Media Player to fix video freezing or lag using the below methods:
+
+1. Update VLC Media Player to the latest version
+2. Increase cache value in VLC Player
+3. Disable Hardware Decoding
+4. Change FFmpeg settings in VLC Player
+5. Switch video output to DirectX DirectDraw in VLC
+
+ If changing the VLC settings doesn’t work, your file may be corrupt. Repair it using an advanced video repair software — Stellar Repair for Video that fixes corrupt header, data, frames, slider movement, etc., in videos.
+
+ I hope you found this helpful. Do share with our readers which method helped you fix Video Stuck or Freeze in the VLC player issue in the comment box below.
+
+### Was this article helpful?
+
+YES 1
+
+NO
+
+About The Author
+
+[Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [](https://www.linkedin.com/in/nishat-paiker-81a31313/)
+
+ Nishat Paiker is an expert technical writer and editor with over 8 years of experience. She has deep knowledge about data recovery and loves to explore new technology and DIY tools. Nishat has keen interest in photography. You will often find her giving photography tips and hacks.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-filmmakers-pathway-to-anime-subscription-buttons-in-filmora/"><u>[New] 2024 Approved  Filmmaker’s Pathway to Anime Subscription Buttons in Filmora</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-streamlining-gaming-sessions-without-microsofts-intervention/"><u>[New] In 2024, Streamlining Gaming Sessions Without Microsoft's Intervention</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-fix-how-to-add-and-label-chapters-on-youtube-projects/"><u>[New] Quick Fix  How to Add and Label Chapters on YouTube Projects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-learning-the-ropes-of-telegram-promotion-for-beginners/"><u>[Updated] Learning the Ropes of Telegram Promotion for Beginners</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-frame-your-shot-ultimate-software-guide-image-editors/"><u>2024 Approved  Frame Your Shot  Ultimate Software Guide Image Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simple-methods-swap-sea-creature-sounds-in-windows-os/"><u>2024 Approved  Simple Methods  Swap Sea Creature Sounds in Windows OS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-social-media-economy-maximizing-your-facebook-revenue/"><u>2024 Approved  The Social Media Economy  Maximizing Your Facebook Revenue</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-views-to-interactions-a-telegram-strategy-guide/"><u>2024 Approved  Transforming Views to Interactions  A Telegram Strategy Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unlocking-your-sound-potential-a-modern-look-at-pazeras-techniques/"><u>2024 Approved  Unlocking Your Sound Potential  A Modern Look at Pazera's Techniques</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ace-your-developer-skills-dive-into-stellars-treasury-of-software-tools-tutorials-and-tricks-of-the-trade/"><u>Ace Your Developer Skills: Dive Into Stellar's Treasury of Software Tools, Tutorials & Tricks of the Trade</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/application-insurance-plan/"><u>Application Insurance Plan</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-lossless-errors-in-h264-mov-files/"><u>Correcting Lossless Errors in H.264 MOV Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cosmic-renewal-stellars-server-restoration/"><u>Cosmic Renewal: Stellar’s Server Restoration</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/customer-vision-our-video-endorsements/"><u>Customer Vision: Our Video Endorsements</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/disable-video-halt-on-code-cx0d36c4/"><u>Disable Video Halt on Code Cx0d36c4</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eradicate-code-0xc00d36c4-playback-issue/"><u>Eradicate Code 0XC00D36C4 Playback Issue</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/excellent-windows-and-mac-video-enhancers/"><u>Excellent Windows & Mac Video Enhancers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/exploring-the-interface-of-stellars-data-recovery-for-mac/"><u>Exploring the Interface of Stellar's Data Recovery for Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/grandest-film-storytelling-explored-for-2024/"><u>Grandest Film Storytelling Explored for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hard-drive-heroics-unveiled-by-customer-testimonial/"><u>Hard Drive Heroics Unveiled by Customer Testimonial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-htc-u23-pro-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On HTC U23 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-infinix-note-30-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Infinix Note 30</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-12-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 12 Pro Max Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-the-art-of-fixing-flaky-videos/"><u>Mastering the Art of Fixing Flaky Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/outage-overcome-exchanging-best-practices/"><u>Outage Overcome: Exchanging Best Practices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-smooth-transitions-in-h264-playback/"><u>Restoring Smooth Transitions in H.264 Playback</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revolutionizing-bookkeeping-stellar-fixes-corrupted-quickbooks-files/"><u>Revolutionizing Bookkeeping: Stellar Fixes Corrupted QuickBooks Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/seamlessly-integrate-with-stellar/"><u>Seamlessly Integrate with Stellar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/soundscape-integration-for-statements-for-2024/"><u>Soundscape Integration for Statements for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tapping-into-your-true-essence-guide-for-accessing-windows-silent-personal-analyzer/"><u>Tapping Into Your True Essence: Guide for Accessing Windows' Silent Personal Analyzer</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-to-boost-signal-quality-in-cameras/"><u>Techniques to Boost Signal Quality in Cameras</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/transferring-restored-edb-files-to-a-microsoft-exchange-server-comprehensive-tutorial/"><u>Transferring Restored EDB Files to a Microsoft Exchange Server - Comprehensive Tutorial</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-realme-narzo-60x-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme Narzo 60x 5G FRP Bypass</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unwavering-excellence-in-support-a-mean-satisfaction-of-245/"><u>Unwavering Excellence in Support - A Mean Satisfaction of 245</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/videos-in-top-form-no-distortions-allowed/"><u>Videos in Top Form, No Distortions Allowed</u></a></li>
+</ul></div>

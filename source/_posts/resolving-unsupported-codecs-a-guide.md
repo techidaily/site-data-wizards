@@ -1,7 +1,7 @@
 ---
 title: "Resolving Unsupported Codecs: A Guide"
-date: 2024-07-10T06:36:26.823Z
-updated: 2024-07-11T06:36:26.823Z
+date: 2024-07-29T00:01:06.002Z
+updated: 2024-07-30T00:01:06.002Z
 categories:
   - repair-tools
 description: "This Article Describes Resolving Unsupported Codecs: A Guide"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
 
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
  Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on12 Jun, 2024
 * Min Reading 6  Min
@@ -49,6 +52,9 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -67,6 +73,9 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -85,6 +94,9 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -118,6 +130,9 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -147,10 +162,16 @@ _Figure: Video profile options in VLC Player_
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
  When converting or getting the compatible codecs don’t solve the problem, chances are your video file is giving error due to corruption.
@@ -176,6 +197,9 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -212,3 +236,51 @@ About The Author
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-ensuring-smooth-streaming-solutions-for-fb-livestream-problems/"><u>[New] 2024 Approved  Ensuring Smooth Streaming  Solutions for FB Livestream Problems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flawless-online-invitation-crafting-youtube-subscription-buttons-for-2024/"><u>[New] Flawless Online Invitation  Crafting YouTube Subscription Buttons for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-high-definition-magic-cutting-edge-camcorders-reviewed/"><u>[New] In 2024, High-Definition Magic  Cutting-Edge Camcorders Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-shade-changes-3-photoshop-hacks/"><u>[New] Mastering Shade Changes  3 Photoshop Hacks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/er-view-payment-potential-for-online-content-creators-for-2024/"><u>[New] Per-View Payment Potential for Online Content Creators for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-creating-your-channels-simple-subscribe-button/"><u>[New] Step by Step  Creating Your Channel's Simple Subscribe Button</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-artists-guide-to-crafting-impactful-tiktok-backdrops-for-2024/"><u>[New] The Artist's Guide to Crafting Impactful TikTok Backdrops for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transform-your-archive-with-instagrams-filters-an-easy-guide-for-2024/"><u>[New] Transform Your Archive with Instagram’s Filters – An Easy Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-audio-excellence-in-ios-settings/"><u>[New] Unlocking Audio Excellence in iOS Settings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-recording-audio-for-impactful-ppts-and-presentations/"><u>[Updated] Recording Audio For Impactful PPTs & Presentations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/advanced-text-finessing-guide/"><u>Advanced Text Finessing Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-video-breakdown-what-now/"><u>Advanced Video Breakdown: What Now?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/astronomical-archive-salvage-site/"><u>Astronomical Archive Salvage Site</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/authentic-reviews-the-mac-customer-voice/"><u>Authentic Reviews: The Mac Customer Voice</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blending-beats-and-visuals-a-tutorial-on-youtube-music-addition/"><u>Blending Beats and Visuals  A Tutorial on YouTube Music Addition</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/champion-for-repairing-faulty-photos/"><u>Champion for Repairing Faulty Photos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/codebase-protection-agreement/"><u>Codebase Protection Agreement</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Motorola Moto G Stylus 5G (2023).</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/critical-communication-restored-exchange-analysis/"><u>Critical Communication Restored: Exchange Analysis</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/dynamic-visuals-optimal-mac-and-win-software/"><u>Dynamic Visuals: Optimal Mac & Win Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eradicating-jittery-video-performance-expert-tips/"><u>Eradicating Jittery Video Performance - Expert Tips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixes-for-incompatible-codec-issues/"><u>Fixes for Incompatible Codec Issues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-apple-iphone-se-2020-by-drfone-ios/"><u>How to Bypass iCloud Lock from Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-fix-choppy-or-jerky-videos/"><u>How to Fix Choppy or Jerky Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/image-guardian-safeguard-your-jpegs/"><u>Image Guardian: Safeguard Your JPEGs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-12-pro-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 12 Pro 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-initial-steps-to-professional-motion-graphics/"><u>In 2024, Initial Steps to Professional Motion Graphics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revitalizing-mobile-cinematic-vision-4-strategies-for-hdr-enhancement-in-premiere/"><u>In 2024, Revitalizing Mobile Cinematic Vision  4 Strategies for HDR Enhancement in Premiere</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/inconsistent-stellar-video-editing-results/"><u>Inconsistent Stellar Video Editing Results</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/intuitive-ui-and-improved-data-retrieval-stellars-12v-update-revealed/"><u>Intuitive UI & Improved Data Retrieval: Stellar's 12v Update Revealed</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mac-users-get-ready-to-marvel-at-stellars-phoenix-image-fixer/"><u>Mac Users, Get Ready to Marvel at Stellar’s Phoenix Image Fixer</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macos-fix-trash-empty-failure-case/"><u>MacOS: Fix Trash Empty Failure Case</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-the-art-of-fixing-damaged-m4v-playback-problems/"><u>Master the Art of Fixing Damaged M4V Playback Problems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-playback-roadblocks-in-media/"><u>Overcoming Playback Roadblocks in Media</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/perfect-your-videography-skills-with-the-leading-10-video-repair-programs-for-both-mac-and-pc/"><u>Perfect Your Videography Skills with the Leading 10 Video Repair Programs for Both Mac & PC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rejuvenate-damaged-jpegs-instantly/"><u>Rejuvenate Damaged JPEGs Instantly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-and-refresh-jpeg-files-effortlessly/"><u>Revive and Refresh JPEG Files Effortlessly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720670882419-revolutionize-your-visual-media-with-grau-gmbhs-advanced-video-repair-suite-ideal-for-tech-enthusiasts/"><u>Revolutionize Your Visual Media with Grau GmbH's Advanced Video Repair Suite - Ideal for Tech Enthusiasts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/systematic-approach-to-end-macs-system-lockup/"><u>Systematic Approach to End Mac's System Lockup</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tackling-windows-blue-screen-with-expertise/"><u>Tackling Windows Blue Screen with Expertise</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-ultimate-guide-to-playful-videos/"><u>The Ultimate Guide to Playful Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/user-friendly-data-security-stellar-revamps-software-approach/"><u>User-Friendly Data Security: Stellar Revamps Software Approach</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-file-resurrection-program/"><u>Video File Resurrection Program</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/why-cant-i-open-my-photos/"><u>Why Can't I Open My Photos?</u></a></li>
+</ul></div>

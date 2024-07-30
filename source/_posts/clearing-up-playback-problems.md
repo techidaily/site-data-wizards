@@ -1,0 +1,224 @@
+---
+title: Clearing Up Playback Problems
+date: 2024-07-29T00:10:39.204Z
+updated: 2024-07-30T00:10:39.204Z
+categories:
+  - repair-tools
+description: This Article Describes Clearing Up Playback Problems
+excerpt: This Article Describes Clearing Up Playback Problems
+keywords: Fix Playback Issues,Troubleshoot Video Buffering,Resolve Media Playback Errors,Stop Video Stuttering,Enhance Stream Quality,Correct Video Playback Errors,Optimize Video Performance
+thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37108b148f724431123b9f7ea.jpg
+---
+
+## Clearing Up Playback Problems
+
+[Video Repair](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+
+# \[Solved\] Can’t Play Recorded Videos
+
+* ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.c9bb62a8b6933fa154b7ace0a9e6f6f9)  
+ Written By [Vishakha Singh](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/vishakha-singh-717931aa)
+* ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
+ Updated on30 May, 2024
+* Min Reading 5  Min
+* Share
+
+---
+
+Table of Content
+
+**Summary:** The issue of ‘Can’t play recorded videos on Windows or Mac may occur due to disrupted transfer, improper conversion, sudden system shutdown, etc. Convert the file format of the recorded videos or play it on other media players to see if your video is playing. If nothing works, use professional MOV video repair tool to fix the ‘can’t play recorded videos’ issue.
+
+[Free Download Windows  Free Download100% secure](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/windows.svg)  Free Download100% secure ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Free Download Mac  Free Download100% secure](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/source/rev-636f8fd/www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/mac-os.svg)  Free Download100% secure ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+ “ _I recorded my sister’s Graduation Day using my iPhone 15\. The video was playing fine on the iPhone, but when I transferred the video to my computer, my iPhone recorded video wouldn’t play. Can someone tell me why my video won’t play? And how to fix this issue?”_
+
+ Recording a video via smartphone, webcam, or digital camera to capture and share precious moments, create educational content, document important events, and preserve memories.
+
+ However, users often complain that they can’t play recorded videos on a Mac or Windows PC. There could be many reasons why your Android or iPhone recorded videos won’t play:
+
+* Media Player does not support the recorded video file format.
+* Missing codecs.
+* Outdated media player.
+* MOV video file is corrupt or damaged due to bad sectors.
+* Interruption during transferring or editing a video.
+* Virus or malware infection.
+
+ Fortunately, using some basic solutions, it’s easy to get your recorded videos to play again. Read this detailed guide to learn how to fix the issue of ‘can’t play recorded videos.’
+
+## **Workarounds to Fix the Problem of Can’t Play Recorded Videos**
+
+ Here are some common solutions to fix the**‘Can’t Play Recorded Videos’** issue on Windows/Mac. We recommend trying each method one by one.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### **Restart the Media Player or PC**
+
+ The most basic step is when your iPhone recorded videos are not playing on the existing media player of your Mac or Windows PC, restart the media player and try to play the video. If this doesn’t work, close all the applications and restart your Mac or Windows PC.
+
+### **Use another Media Player**
+
+ If your screen-recorded video is not playing on Windows/ Mac due to a missing codec, try to play your video on another media player. For example, if the screen-recoded video is incompatible with QuickTime Player, try opening the same file in another media player like VLC Media Player, KMPlayer, Windows Media Player, etc.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
+### **Convert Video File Format**
+
+ Often, converting Android-recorded video to another format like MP4 or AVI can fix the problem. Use the VLC Media Player or online video converter tools like CloudConvert, Zamzar, VEED.io, etc., to change your recorded video file format.
+
+ **Here’s how to use VLC Media Player to convert the file format of your recorded video:**
+
+* Open**VLC** **Media** **Player** and go to the**Media** tab.
+* Select**Convert/Save** from the drop-down list.
+
+* Click**Add** to browse and select the**recorded** **video** **file** you want to convert. Click**Convert/Save** .
+
+* Next, provide the**location** and**file** **name** against the**Destination file** option.
+* Select the desired**input** **codec** from the drop-down list of Profile.
+
+* Click**Start** to begin the conversion process. Once done, check whether your corrupt video is playing after conversion.
+
+### **Fix Incompatible Codec Issue**
+
+ Your recorded video files won’t play if there are missing or incompatible codecs installed on your system. Therefore, to fix the codec issue, download the necessary codec pack and see if your recorded video plays. Make sure to download the required codec from only authorized websites.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+### **Use Video Repair Tool to Fix Can’t Play Recorded Video**
+
+ After trying all the above workarounds, if you can’t play recorded video on a Mac or Windows PC, your file may be corrupted. In such a situation, use a [professional video repair tool](https://tools.techidaily.com/stellardata-recovery/buy-now/) like Stellar Repair for Video to fix corruption in recorded videos.
+
+ This video repair software can fix corrupt or unplayable videos saved in Windows/Mac, memory cards, SD cards, and other storage drives. The software even repairs videos recorded via Digicam, digital cameras, iPhone/Android, etc.
+
+ Stellar Repair for Video fixes corruption issues in video headers, frames, or indexes for seamless playback. It can even [fix video corruption caused by improper file transfer](https://tools.techidaily.com/stellardata-recovery/buy-now/) , viruses or malware attacks, OS crashes, etc.
+
+**Key advantages of Stellar Video Repair Tool**
+
+* Works on all major video formats – MP4, MOV, MKV, AVI etc.
+* Repairs severely corrupt videos using Advanced Repair.
+* Simultaneously repairs multiple videos.
+* Supports 4K, 8K, 12K, 16K, HD & VR videos.
+
+ Download the free trial of Stellar Repair for Video and assess its video repair capability.
+
+[](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe%0A) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+**Steps to Fix Can’t Play Recorded Videos**
+
+* Download, install, and launch**Stellar Repair for Video** on your Mac or Windows.
+* In the home screen, click**Add File** to upload your corrupt videos.
+
+* Click**Repair** to initiate the repair process.
+
+* You can check the progress of the repair process in the progress bar.
+
+* Once the repair process is complete, click the**OK** button.
+
+* You can see the preview of the repaired video and save it at a desired location by clicking**Save Repaired files** . Wait for some time for the saving process to complete.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+## **Conclusion**
+
+ Try methods like playing videos in different media players or changing the file format to see if your recorded videos are playable. However, if your video is still not playing, it may be corrupt. To fix it, use a professional video repair tool such as Stellar Repair for Video. This tool can easily fix corruption in video headers, frames, or indexes caused by incomplete transfer, sudden system shutdown, etc.
+
+ Moreover, always remember to create a backup of your recorded videos before attempting any repair method.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## **FAQ**
+
+#### **1\. ‘I am unable to play the Dash Cam video on the computer.’ Why?**
+
+ There can be various reasons why you are unable to play Dash Cam video on computers, such as incomplete or partial video transfer, corruption in audio and video data, or incompatible codec.
+
+#### **2\. How do you repair recorded videos for free?**
+
+ You can repair recorded videos for free using VLC Media Player (in both Windows and Mac) or QuickTime Player (specifically on the Mac).
+
+#### **3\. How do you fix iPhone videos not playing on Windows?**
+
+ You can try the following troubleshooting tips to fix ‘[iPhone videos not playing](https://tools.techidaily.com/stellardata-recovery/buy-now/) ‘:
+
+* Transfer the iPhone videos again to your system.
+* Update the media player.
+* Convert the video to a different format.
+* Play iPhone video on another media player.
+
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
+### Was this article helpful?
+
+YES 0
+
+NO
+
+About The Author
+
+[Vishakha Singh](https://tools.techidaily.com/stellardata-recovery/buy-now/) [](https://www.linkedin.com/in/vishakha-singh-717931aa)
+
+ Vishakha Singh is a Senior Writer at Stellar Data Recovery with half a decade of experience in writing content in diverse verticals. She's a tech enthusiast who loves creating photo/video recovery & repair tutorials. Vishakha also specializes in writing full-blown iPhone and Android guides.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-get-unlimited-data-for-nothing-a-compreran-guide-to-30-best-cloud-storages/"><u>[Updated] Get Unlimited Data for Nothing! A Compreran Guide to 30 Best Cloud Storages</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-ultimate-guide-to-effective-instagram-tagging-with-these-top-25-hashes/"><u>[Updated] In 2024, The Ultimate Guide to Effective Instagram Tagging with These Top 25 Hashes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-upconversion-unveiled-sdr-to-hdri-a-complete-guide/"><u>[Updated] Upconversion Unveiled  SDR to HDRI - A Complete Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-creative-potential-in-filmmaking-with-filmora-answers/"><u>2024 Approved  Unlock Creative Potential in Filmmaking with Filmora Answers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-nubia-red-magic-9-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Nubia Red Magic 9 Pro Phone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nokia-xr21-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nokia XR21 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/augmenting-your-database-mysql-enhancements-by-admin-augusto/"><u>Augmenting Your Database: MySQL Enhancements by Admin Augusto</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/best-digital-photography-saviour/"><u>Best Digital Photography Saviour</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/crafting-perfection-with-stellars-article-archive-and-diy-shortcuts/"><u>Crafting Perfection with Stellar's Article Archive and DIY Shortcuts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ensuring-high-quality-videos-say-no-to-pixelated-frames/"><u>Ensuring High Quality Videos - Say No to Pixelated Frames</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ensuring-playback-continuity-with-app-video/"><u>Ensuring Playback Continuity with App Video</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-tips-for-restoring-inaccessible-or-corrupted-mpeg-video-files/"><u>Expert Tips for Restoring Inaccessible or Corrupted MPEG Video Files</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/immersive-recording-enhancing-your-gaming-with-windows-11/"><u>Immersive Recording  Enhancing Your Gaming with Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-auditory-performances/"><u>In 2024, Ultimate Auditory Performances</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/integrated-content-marketing-tips-for-enhanced-engagement-on-facebook-linkedin-and-youtube/"><u>Integrated Content Marketing Tips for Enhanced Engagement on Facebook, LinkedIn and YouTube</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimizing-recording-clarity-in-cameras/"><u>Optimizing Recording Clarity in Cameras</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-blurry-output-in-the-post-upgrade-window/"><u>Overcoming Blurry Output in the Post-Upgrade Window</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-fix-new-jpeg-tool-by-stellar-on-macos/"><u>Phoenix Fix: New JPEG Tool by Stellar on macOS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recover-distorted-aac-and-divx-with-simple-tools/"><u>Recover Distorted AAC & DIVX with Simple Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recovery-of-degraded-h264-file-quality/"><u>Recovery of Degraded H.264 File Quality</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-scratched-mp4-video-files/"><u>Repairing Scratched MP4 Video Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-clear-footage-from-cctv-cameras/"><u>Restoring Clear Footage From CCTV Cameras</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-mp4-video-integrity/"><u>Restoring MP4 Video Integrity</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviveclipbot-restore-videos-in-seconds/"><u>ReviveClipBot: Restore Videos in Seconds</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720673464616-seeking-answers-to-flawed-video-editing-fixes/"><u>Seeking Answers to Flawed Video Editing Fixes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solutions-to-avoid-video-decline-after-exporting/"><u>Solutions to Avoid Video Decline After Exporting</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-assistance-reviving-apple-quicktime-files/"><u>Stellar Assistance: Reviving Apple QuickTime Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-data-recovery-techniques-demystified-by-singh/"><u>Stellar Data Recovery Techniques Demystified by Singh</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamlining-your-workflow-solving-20-common-videography-errors/"><u>Streamlining Your Workflow: Solving 20 Common Videography Errors</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-10-video-fixing-tools-compatible-with-pc-and-mac/"><u>Top 10 Video Fixing Tools Compatible with PC & MAC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/workarounds-for-inaccessible-video-codings/"><u>Workarounds for Inaccessible Video Codings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/xsplit-index-download-and-evaluation-guide/"><u>XSplit Index  Download & Evaluation Guide</u></a></li>
+</ul></div>

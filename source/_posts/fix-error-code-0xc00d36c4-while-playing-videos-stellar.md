@@ -1,7 +1,7 @@
 ---
 title: Fix Error Code 0Xc00d36c4 While Playing Videos - Stellar
-date: 2024-07-10T06:36:58.484Z
-updated: 2024-07-11T06:36:58.484Z
+date: 2024-07-29T00:02:13.665Z
+updated: 2024-07-30T00:02:13.665Z
 categories:
   - repair-tools
 description: This Article Describes Fix Error Code 0Xc00d36c4 While Playing Videos - Stellar
@@ -16,6 +16,9 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 # Fix Error Code 0xc00d36c4 While Playing Videos
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-625c9ec/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.574139bee03ec4bdb0cd6e869a4670da)  
  Written By [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
@@ -53,6 +56,9 @@ Table of Content
 * System drivers are outdated
 * Windows Media Player has a copy-protected feature enabled (in case of DVD/CD videos)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## **How to fix error 0xc00d36c4 in videos** **?**
 
  The error usually occurs due to an incompatible file format or codec. Thus, workarounds involve either converting the video file format or installing the supporting codec. In case, the video doesn’t play even after converting the video or installing the codec, troubleshoot the system drivers.
@@ -92,6 +98,9 @@ Table of Content
 
 [Read More](http://www.microsoft.com/windows/windowsmedia/player/faq/codec.mspx)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### **Method 3: Convert the video file format**
 
  Converting the problematic video to another file format can play your video. Use a secure video file converter tool that’s free from malware. There are both online converters and desktop converters like [Stellar Converter for Audio Video](https://tools.techidaily.com/stellardata-recovery/buy-now/) and VLC Media Player.
@@ -115,6 +124,10 @@ Table of Content
 * Add profile or click **Edit Selected Profile** – the wrench icon to change or add particular profile settings.
 * Next, click**Start.** Your converted video file will be saved at the specified location.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### **Method 4: Disable Copy Protection in Windows Media Player**
 
  Does the error 0xc00d36c4 pops up every time you try to play CD/DVD or a mobile phone music on your PC?
@@ -201,6 +214,9 @@ Tip – If the current driver is up-to-date, just to be on the safer side, unins
 
 **Step 3:** Preview the repaired videos and click**Save Repaired File.**
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 8: Try AVI repair in VLC Media Player to fix error 0xc00d36c4**
 
  Free VLC Media Player has an AVI repair feature. Try the function to fix the video error 0xc00d36c4 in AVI files. If your video file is other than AVI, you can rename it to AVI and then fix it using the media player.
@@ -227,6 +243,9 @@ Now, check if the video error is resolved.
 | **Copy and Paste Hack you may try to fix code 0xc00d36c4**  Does the error code 0xc00d36c4 occur while trying to open the video saved on DVD/CD, USB drive, etc.?  Simply copy your video file from the external storage to the computer drive and then play. This hack has actually worked for many! |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **To Sum Up**
 
  Error code 0xc00d36c4 while playing videos is either due to unsupported video format or codec or corruption in the video file. It could also occur because of computer conflict with USB devices. Troubleshooting the error should begin by installing the supporting codec or converting the video file format to another. If these methods do not help, reinstall or update the drivers using the above methods.
@@ -237,6 +256,9 @@ Now, check if the video error is resolved.
 
 **For any query reach us through comments in the box below.**
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 0
@@ -265,3 +287,45 @@ About The Author
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-balancing-soundtracks-with-visual-storytelling-in-trailers/"><u>[New] Balancing Soundtracks with Visual Storytelling in Trailers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-flawless-mobile-filmmaking-leading-phones-with-image-stability/"><u>[New] Flawless Mobile Filmmaking  Leading Phones with Image Stability</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-cutting-edge-from-srt-to-subtitle-system/"><u>[New] In 2024, Cutting Edge From SRT to Subtitle System</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-10-best-webcams-to-enhance-your-podcast-experience/"><u>[Updated] 10 Best Webcams to Enhance Your Podcast Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unlocking-fbx-filming-in-games/"><u>[Updated] 2024 Approved  Unlocking FBX Filming in Games</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-storystitcher-compelling-collage-for-instagram-users/"><u>[Updated] In 2024, StoryStitcher  Compelling Collage for Instagram Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-5-live-stream-video-recorders-for-remote-sessions/"><u>2024 Approved  Essential 5 Live Stream Video Recorders for Remote Sessions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-time-reverse-techniques-for-ios-users/"><u>2024 Approved  Master Time-Reverse Techniques for iOS Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-smart-8-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Smart 8</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/adaptable-video-restoration-suite-by-grau-gmbh-advanced-tools-for-optimal-performance/"><u>Adaptable Video Restoration Suite by Grau GmbH: Advanced Tools for Optimal Performance</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-database-recovery-aid/"><u>Celestial Database Recovery Aid</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/client-success-stories-hard-drive-data/"><u>Client Success Stories: Hard Drive Data</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/direct-order-ultimate-screen-restoration/"><u>Direct Order: Ultimate Screen Restoration</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effective-routines-for-patching-videos/"><u>Effective Routines for Patching Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effortless-visual-corrections-macwindows/"><u>Effortless Visual Corrections (Mac/Windows)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/email-backup-strategies-from-lost-mail-to-online-success/"><u>Email Backup Strategies: From Lost Mail to Online Success</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/extracting-soundtracks-from-facebook-videos-for-2024/"><u>Extracting Soundtracks From Facebook Videos for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-disconnectivity-between-iphone-and-youtube/"><u>Fix Disconnectivity Between iPhone and YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-zte-nubia-z60-ultra-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on ZTE Nubia Z60 Ultra Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-obs-for-live-skype-recording/"><u>In 2024, Mastering OBS for Live Skype Recording</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcome-frame-skipping-at-0xc00d36c4/"><u>Overcome Frame Skipping at 0XC00D36C4</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-20-standard-video-issues-effortlessly/"><u>Overcoming 20 Standard Video Issues Effortlessly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repair-your-mpeg-media-effective-solutions-for-fixing-damaged-video-files/"><u>Repair Your MPEG Media: Effective Solutions for Fixing Damaged Video Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resource-allocation-mastery/"><u>Resource Allocation Mastery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restorereel-reclaiming-videography/"><u>RestoreReel: Reclaiming Videography</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reversing-video-error-fix-224003/"><u>Reversing Video Error: Fix 224003</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720673464616-seeking-answers-to-flawed-video-editing-fixes/"><u>Seeking Answers to Flawed Video Editing Fixes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/selecting-the-best-sketchpad-and-design-tools-for-windows/"><u>Selecting the Best Sketchpad and Design Tools for Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/selecting-the-perfect-footage-editor-hero-vs-the-cube/"><u>Selecting the Perfect Footage Editor  Hero Vs. The Cube</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solutions-for-non-compatible-video-format/"><u>Solutions for Non-Compatible Video Format</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/star-system-information-repository/"><u>Star System Information Repository</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamlining-video-output-after-the-windows-update/"><u>Streamlining Video Output After the Windows Update</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/superior-video-restoration-software-for-all-systems/"><u>Superior Video Restoration Software for All Systems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-best-10-software-solutions-to-repair-videos-on-your-computer-or-mac/"><u>The Best 10 Software Solutions to Repair Videos on Your Computer or Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720671051513-transform-your-media-with-grau-gmbhs-elite-video-repair-software-perfect-for-both-novices-and-tech-gurus/"><u>Transform Your Media with Grau GmbH's Elite Video Repair Software – Perfect for Both Novices and Tech Gurus</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/why-do-my-videos-show-varied-repair-quality/"><u>Why Do My Videos Show Varied Repair Quality?</u></a></li>
+</ul></div>

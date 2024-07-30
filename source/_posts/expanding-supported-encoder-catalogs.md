@@ -1,0 +1,273 @@
+---
+title: Expanding Supported Encoder Catalogs
+date: 2024-07-29T00:06:19.729Z
+updated: 2024-07-30T00:06:19.729Z
+categories:
+  - repair-tools
+description: This Article Describes Expanding Supported Encoder Catalogs
+excerpt: This Article Describes Expanding Supported Encoder Catalogs
+keywords: Supported Encoders,Encoder Catalog Expansion,Enhanced Encoding Lists,New Encoder Support,Encoding Solutions Expansion,Upgraded Encoder Options,Diverse Encoding Support
+thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566aeb576eef913d65398f2493.jpg
+---
+
+## Expanding Supported Encoder Catalogs
+
+[Video Repair](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+
+# How do I Fix an Unsupported Video Codec?
+
+* ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
+ Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+* ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
+ Updated on12 Jun, 2024
+* Min Reading 6  Min
+* Share
+
+---
+
+Table of Content
+
+**Summary:** Are you unable to watch videos on computer or phone due to unsupported video codec error? Learn the best ways to fix unsupported video format or codec error on your Windows, Mac or Android.
+
+[Free Download Windows  Free Download100% secure](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/windows.svg)  Free Download100% secure ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Free Download Mac  Free Download100% secure](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/source/rev-636f8fd/www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/mac-os.svg)  Free Download100% secure ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+![Missing codec error](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/blog/wp-content/uploads/2020/07/missing-codec-video-not-playing-1.png)
+
+_Figure: Missing codec error in Films & TV app_
+
+ It’s annoying to receive unsupported video codec or format errors as they don’t let you play videos.
+
+ ‘ _Missing codec. An item was encoded in a format that’s not supported.’_
+
+ _‘Windows Media Player cannot play the file because the required video codec is not installed on your computer.’_
+
+ _‘A codec is required to play this file.’_
+
+_‘Invalid File Format.’_
+
+_An error occurred. Unsupported file format.’_
+
+ You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
+
+## Why does unsupported codec or format error occur?
+
+ The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
+
+ Technically, a video file comprises a codec and a container. A container is the file format that contains the file metadata while codec is required to encode or decode the video data.
+
+ So if your media player or device doesn’t support the video format or codec, it won’t play the video file.
+
+ Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
+
+## How to fix an unsupported video codec error?
+
+ There are various ways to deal with the unsupported format problem in videos.
+
+ Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
+
+ **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
+
+## Method 1: Play video in a different media player
+
+ Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
+
+ Similarly, Windows Media Player won’t play FLV or FLAC files due to absence of their codecs.
+
+ If videos are giving codec error in one media player, try with another. May be the default media player of your device doesn’t support the video file format.
+
+ Get VLC Media Player to fix video codec error on Android, Mac or Windows. The player is compatible with most file formats including MP4, AVI, MKV, MOV, AVCHD, etc. You can even watch DVD movies on VLC Player.
+
+ There are many free open source multimedia players. Try 5K Player, PotPlayer, Winamp, KMPlayer, Roxio Popcorn, and others.
+
+ Also, you can search online, which media players support your video file format and install that on your system.
+
+ If video file gives unsupported codec error on Mac, right-click on the file. Click on**‘Open With’** option. Mac may suggest all the installed apps that can play the video.
+
+_Figure: Mac suggests installed apps to open video_
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+## Method 2: Download the missing video codecs
+
+ If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
+
+ Search the web for the supported codec of your video file type to install the right codec.
+
+ Another option is to install a complete codec pack such as K-Lite for Windows and Perian for Mac. A codec pack extends support for the default media player on your system. A pack would contain codec for almost all file formats.
+
+ However, be aware that there may be malicious ads for codec downloads. This can put your computer at risk. Make sure you download codecs from a trusted source, preferably from the manufacturer’s site.
+
+ Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
+
+### **Steps to fix video codec not supported in Windows Media Player:**
+
+* Open Windows Media Player.
+* Go to**Tools** \> **Options.**
+* **Click on Player tab.**
+* Select the **Download codecs automatically** check box and make sure you have a continuous internet connection.
+* Click **OK.**
+* **Next, play your video** file in the player. A message will prompt to install codec.
+* Click **Install.**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### **Steps to download codec in VLC Player**
+
+* Open VLC Media Player.
+* Click**Help >> Check for Updates** .
+
+_Figure: Check for Updates in VLC_
+
+_Figure: VLC message when new version is available._
+
+* Click**Yes.** This will automatically download the new codecs also.
+
+## Method 3: Convert the video file format
+
+ If you don’t want to install a new codec or codec pack, there is another option.
+
+ Convert the file format of your video that is showing unsupported codec error. Choose a different format that is compatible with your player. Usually MP4, MOV, and AVI files are playable in all media players and video editing software.
+
+ You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
+
+ The open source VLC Media Player can also convert video files to different format.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### **Steps to convert video in VLC to fix unsupported codec problems:**
+
+* Go to **Media.**
+* Select **Convert/Save** .
+* Click **Add** and select the video to be repaired.
+
+_Figure: Open Media window in VLC_
+
+* Click **Convert/Save.**
+
+_Figure: Video profile options in VLC Player_
+
+* In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
+* Once done, click **Start** to convert the video file.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+### **Convert video file to fix unsupported codec error on Android**
+
+ Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
+
+### **Convert file to fix codec not supported error on Smart TV**
+
+ If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+## Method 4: Repair video codec error using Stellar Repair for Video
+
+ When converting or getting the compatible codecs don’t solve the problem, chances are your video file is giving error due to corruption.
+
+ In such a situation, try a video repair software – **[Stellar Repair for Video.](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
+
+ It can fix unsupported video format error on Windows and Mac computer by fixing the file corruption issues. The DIY software can repair popular video file formats like MP4, MOV, ASF, WMV, MKV, M4V, DIVX, WEBM, AVI, FLV, and others. It’s easy to use and can repair multiple videos in one go.
+
+#### **Steps to repair corrupt videos with Stellar Repair for Video**
+
+* Download and launch Stellar Repair for Video on PC or Mac.
+* Click**Add file** to upload corrupt videos.
+
+_Figure: Add files to Stellar Repair for Video_
+
+* Click**Repair** to start the repair process.
+
+_Figure: Repair button in software_
+
+* **Preview** the repaired video and click**Save Repaired Files.** You can save the repaired videos at a desired location on your computer or external media.
+
+_Figure: Preview video after repair_
+
+[](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### **Wrapping up**
+
+ Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
+
+ But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+### Was this article helpful?
+
+YES 0
+
+NO
+
+About The Author
+
+[Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [](https://www.linkedin.com/in/nishat-paiker-81a31313/)
+
+ Nishat Paiker is an expert technical writer and editor with over 8 years of experience. She has deep knowledge about data recovery and loves to explore new technology and DIY tools. Nishat has keen interest in photography. You will often find her giving photography tips and hacks.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-vids-to-dollars-navigating-youtubes-monetization-landscape-for-2024/"><u>[New] From Vids to Dollars  Navigating YouTube's Monetization Landscape for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-simplify-stream-sideswapping-youtube-playlist-tips/"><u>[New] In 2024, Simplify Stream-Sideswapping  Youtube Playlist Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frosty-flourishes-at-the-winter-games/"><u>[Updated] Frosty Flourishes at the Winter Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reviving-rare-memories-turning-photos-into-engaging-videos/"><u>[Updated] Reviving Rare Memories  Turning Photos Into Engaging Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-valheim-planting-manual/"><u>[Updated] The Ultimate Valheim Planting Manual</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-guide-on-converting-videos-into-dynamic-gifs-online/"><u>2024 Approved  Quick Guide on Converting Videos Into Dynamic Gifs Online</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-huawei-nova-y91-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Huawei Nova Y91 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/corrupted-file-conversion-basics/"><u>Corrupted File Conversion Basics</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/digital-welding-uniting-severed-videotapes/"><u>Digital Welding: Uniting Severed Videotapes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/efficient-erasure-the-best-practices-for-facial-pixelation/"><u>Efficient Erasure  The Best Practices for Facial Pixelation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhancing-broken-h264-videos/"><u>Enhancing Broken H.264 Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/finding-what-was-lost-stellar-recovery-guide/"><u>Finding What Was Lost: Stellar Recovery Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-fragmented-video-data-in-apple-movies/"><u>Fixing Fragmented Video Data in Apple Movies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/flash-forgotten-revive-erased-pictures/"><u>Flash Forgotten: Revive Erased Pictures</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hard-disk-heroics-stellars-remarkable-recovery/"><u>Hard Disk Heroics: Stellar's Remarkable Recovery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-restore-and-transfer-historical-mailbox-data-online/"><u>How to Restore & Transfer Historical Mailbox Data Online</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y100i-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y100i by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-iphone-14-pro-max-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From iPhone 14 Pro Max Online</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/jpeg-revival-on-macos-introducing-stellars-phoenix-application/"><u>JPEG Revival on macOS: Introducing Stellar's Phoenix Application</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterful-audio-mesh-for-voice-broadcasters-for-2024/"><u>Masterful Audio Mesh for Voice Broadcasters for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-quick-remedy-for-video-error-0xc10100be/"><u>Mastering Quick Remedy for Video Error 0XC10100be</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/maximize-reach-across-platforms-strategies-for-uniting-facebook-linkedin-youtube-audiences/"><u>Maximize Reach Across Platforms: Strategies for Uniting Facebook, LinkedIn, YouTube Audiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-vr-headset-choice-embracing-the-freedom-of-mobile-or-the-tethered-experience-in-2024/"><u>Optimal VR Headset Choice  Embracing the Freedom of Mobile Or The Tethered Experience, In 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-stuck-playback-on-ios-devices/"><u>Overcoming Stuck Playback on iOS Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/powerful-persuasion-client-filmed-support/"><u>Powerful Persuasion: Client-Filmed Support</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolved-instagram-reel-bug/"><u>Resolved: Instagram Reel Bug</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-error-224003-unplayable-video/"><u>Resolving Error 224003: Unplayable Video</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-media-error-0xc10100be-explained/"><u>Resolving Media Error: 0XC10100be Explained</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoremediasuite-efficiently-heal-vids/"><u>RestoreMediaSuite: Efficiently Heal Vids</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/software-service-contract/"><u>Software Service Contract</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720671545458-some-files-untouched-by-video-repair-software/"><u>Some Files Untouched by Video Repair Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamlined-recovery-system-stellars-consumer-focused-tech-update/"><u>Streamlined Recovery System: Stellar’s Consumer-Focused Tech Update</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-in-2024-7-best-real-time-video-translation-apps/"><u>Updated In 2024, 7 Best Real Time Video Translation Apps</u></a></li>
+</ul></div>
