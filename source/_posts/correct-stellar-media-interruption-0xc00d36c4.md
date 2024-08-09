@@ -1,7 +1,7 @@
 ---
 title: "Correct Stellar Media Interruption: 0XC00D36C4"
-date: 2024-07-10T06:46:20.912Z
-updated: 2024-07-11T06:46:20.912Z
+date: 2024-08-08T00:23:48.599Z
+updated: 2024-08-09T00:23:48.599Z
 categories:
   - repair-tools
 description: "This Article Describes Correct Stellar Media Interruption: 0XC00D36C4"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-625c9ec/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.574139bee03ec4bdb0cd6e869a4670da)  
  Written By [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on3 Jun, 2024
 * Min Reading 8  Min
@@ -42,6 +45,9 @@ Table of Content
 
  _Figure: Error 0xc00d36c4 message in Windows_
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **What is error 0xc00d36c4 in videos?**
 
  The message: _This file isn’t playable. That might be because the file type is unsupported, the file extension is incorrect, or the file is corrupt. 0xc00d36c4.’_ is a Windows error that can occur due to the following reasons:
@@ -70,12 +76,19 @@ Table of Content
  7\. Repair with a Stellar Repair for Video software  
  8\. Try AVI repair in VLC Media Player to fix error 0xc00d36c4
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 1: Play video in another media player**
 
  The error code 0xc00d36c4 mostly occurs due to unsupported file format or codec. Playing the problematic video in another media player often fixes this issue. The most preferred player in such cases is VLC Media Player. It is configured to play most of the video file formats.
 
  Other than VLC, you can use Winamp, QuickTime, Windows Media Player, KMPlayer, or Windows Media Center, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 2: Download the missing codecs**
 
  The video error could be because one or more supporting codecs are not installed on your computer. So download compatible codec(s) for that particular video file format.
@@ -140,6 +153,9 @@ Table of Content
 
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 5: Remove and reinstall all USB controllers**
 
  ‘This file isn’t playable 0xc00d36c4 error’ can also be due to system conflict between the connected external media (SD card, USB pen drive, etc.) and your computer.
@@ -201,6 +217,9 @@ Tip – If the current driver is up-to-date, just to be on the safer side, unins
 
 **Step 3:** Preview the repaired videos and click**Save Repaired File.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 8: Try AVI repair in VLC Media Player to fix error 0xc00d36c4**
 
  Free VLC Media Player has an AVI repair feature. Try the function to fix the video error 0xc00d36c4 in AVI files. If your video file is other than AVI, you can rename it to AVI and then fix it using the media player.
@@ -227,6 +246,18 @@ Now, check if the video error is resolved.
 | **Copy and Paste Hack you may try to fix code 0xc00d36c4**  Does the error code 0xc00d36c4 occur while trying to open the video saved on DVD/CD, USB drive, etc.?  Simply copy your video file from the external storage to the computer drive and then play. This hack has actually worked for many! |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **To Sum Up**
 
  Error code 0xc00d36c4 while playing videos is either due to unsupported video format or codec or corruption in the video file. It could also occur because of computer conflict with USB devices. Troubleshooting the error should begin by installing the supporting codec or converting the video file format to another. If these methods do not help, reinstall or update the drivers using the above methods.
@@ -265,3 +296,58 @@ About The Author
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-guidance-to-youtube-music-mix/"><u>[New] 2024 Approved  Guidance to YouTube Music Mix</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-quick-and-easy-guide-to-turn-videos-into-animated-gif-delights/"><u>[New] 2024 Approved  Quick & Easy Guide to Turn Videos Into Animated GIF Delights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-art-of-going-viral-with-instagram-stories/"><u>[New] 2024 Approved  The Art of Going Viral with Instagram Stories</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlock-the-full-potential-of-your-h-videos-on-instagram-tv-for-2024/"><u>[New] Unlock the Full Potential of Your H-Videos on Instagram TV for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-choosing-hdr-over-sdr-elevating-your-video-creation-process/"><u>2024 Approved  Choosing HDR over SDR  Elevating Your Video Creation Process</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-expert-review-top-5-webcams-for-ultimate-visual-and-auditory-experience/"><u>2024 Approved  Expert Review  Top 5 Webcams for Ultimate Visual & Auditory Experience</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/a-comprehensive-guide-to-mac-hd-management/"><u>A Comprehensive Guide to Mac HD Management</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/adjusting-to-novel-yet-incompatible-encodings/"><u>Adjusting to Novel, Yet Incompatible Encodings</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/boosting-movement-in-static-footage/"><u>Boosting Movement in Static Footage</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/breathing-life-into-dormant-data-with-totans-stellar-know-how/"><u>Breathing Life Into Dormant Data with Totan’s Stellar Know-How</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-backup-and-retrieval-database/"><u>Celestial Backup & Retrieval Database</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-salvation-data-hubs-repaired-with-stellar/"><u>Celestial Salvation: Data Hubs Repaired with Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/coding-license-pledge/"><u>Coding License Pledge</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/combat-video-problem-explaining-and-overcoming-error-0xc1-written-by-your-name/"><u>Combat Video Problem: Explaining and Overcoming Error 0XC1 Written by [Your Name]</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comet-bookkeeper-system-fixes/"><u>Comet Bookkeeper System Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comprehensive-tutorial-exporting-edb-file-contents-to-functioning-exchange-servers/"><u>Comprehensive Tutorial: Exporting EDB File Contents to Functioning Exchange Servers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-common-interlacing-mishaps-in-film/"><u>Correcting Common Interlacing Mishaps in Film</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/corrupted-clip-rehabilitation-service/"><u>Corrupted Clip Rehabilitation Service</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cure-ailing-mov-video-formats-on-mac/"><u>Cure Ailing MOV Video Formats on Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cut-the-jerkiness-secrets-of-synchronized-video-display/"><u>Cut the Jerkiness: Secrets of Synchronized Video Display</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/data-restoration-solutions-for-mac-best-of-free-and-paid-software/"><u>Data Restoration Solutions for Mac - Best of Free & Paid Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/decoding-digital-footage-error-patterns/"><u>Decoding Digital Footage Error Patterns</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/decoding-movie-issues-with-stellar-intervention/"><u>Decoding Movie Issues with Stellar Intervention</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/decoding-techniques-for-clear-artifact-free-videos/"><u>Decoding Techniques for Clear, Artifact-Free Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/digital-products-waiver/"><u>Digital Products Waiver</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/discrepancies-in-video-repair-effectiveness/"><u>Discrepancies in Video Repair Effectiveness.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/dissecting-and-resolving-video-problem-0xc10100be/"><u>Dissecting & Resolving Video Problem: 0XC10100be</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diy-programming-secrets-from-the-experts-at-stellar-your-ultimate-software-guidebook/"><u>DIY Programming Secrets From the Experts at Stellar - Your Ultimate Software Guidebook</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eliminating-blurry-display-after-windows-10-installation/"><u>Eliminating Blurry Display After Windows 10 Installation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhancing-video-quality-post-export/"><u>Enhancing Video Quality Post-Export</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/epic-video-enhancement-client-accolades/"><u>Epic Video Enhancement - Client Accolades</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/excellent-visual-repair-service-praises-aplenty/"><u>Excellent Visual Repair Service, Praises Aplenty</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/experience-next-gen-mac-software-with-advanced-data-recovery-features/"><u>Experience Next-Gen Mac Software with Advanced Data Recovery Features</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-guide-to-solving-win11-blue-screen-problems/"><u>Expert Guide to Solving Win11 Blue Screen Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-to-correct-the-xlivedll-not-found-issue-easily/"><u>Expert Tips to Correct the 'Xlive.dll Not Found' Issue Easily</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expertise-in-mending-broken-jpegs/"><u>Expertise in Mending Broken JPEGs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expertise-in-videography-praises-from-patrons/"><u>Expertise in Videography, Praises From Patrons</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fabios-video-guide-for-winning-exchange-customer-feedback/"><u>Fabio's Video Guide for Winning Exchange Customer Feedback</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/greatest-copyright-free-pubg-image-anthology/"><u>Greatest Copyright-Free PUBG Image Anthology</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-8-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 8 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-s23-fe-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy S23 FE Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-14-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi 14 Pro Device</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-winning-the-acoustic-illusion-techniques-for-adding-delay-and-echo-via-web-based-audio-tools/"><u>New Winning the Acoustic Illusion Techniques for Adding Delay and Echo via Web-Based Audio Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720672254611-resolving-critical-email-outage-stellar-repair-for-exchange-case-study-worktrainers-ltd/"><u>Resolving Critical Email Outage: Stellar Repair for Exchange Case Study | Worktrainers Ltd.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720672461093-stellar-repair-not-improving-all-video-files/"><u>Stellar Repair Not Improving All Video Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-zooming-in-and-out-on-apple-mobile-gadgets/"><u>The Ultimate Guide to Zooming In and Out on Apple Mobile Gadgets</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720670365742-videofixer-pro-enhance-videos-anywhere/"><u>Videofixer Pro: Enhance Videos Anywhere</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtubes-image-files-made-simple-online-desktop-and-terminal-steps-for-2024/"><u>Youtube’s Image Files Made Simple  Online, Desktop & Terminal Steps for 2024</u></a></li>
+</ul></div>

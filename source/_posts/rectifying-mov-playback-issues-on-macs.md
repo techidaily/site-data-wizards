@@ -1,0 +1,245 @@
+---
+title: Rectifying MOV Playback Issues on Macs
+date: 2024-08-08T00:30:48.091Z
+updated: 2024-08-09T00:30:48.091Z
+categories:
+  - repair-tools
+description: This Article Describes Rectifying MOV Playback Issues on Macs
+excerpt: This Article Describes Rectifying MOV Playback Issues on Macs
+keywords: Fix MOV Playback Issues Mac,Resolve MOV File Errors on macOS,Troubleshoot MOV Videos in QuickTime on Mac,Correct Common MOV Playback Issues with QuickTime,Address MOV Compatibility Problems on Apple Devices,Enhance Mac's MOV File Performance,Fix QuickTime MOV Issues on Mac OS X (Sierra/High Sierra)
+thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858e011b7c1ceac58f39d7b6f4.jpg
+---
+
+## Rectifying MOV Playback Issues on Macs
+
+[Video Repair](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+
+# How to Repair Corrupted MOV Video Files on Mac?
+
+* ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.c9bb62a8b6933fa154b7ace0a9e6f6f9)  
+ Written By [Vishakha Singh](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/vishakha-singh-717931aa)
+* ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
+ Updated on23 Apr, 2024
+* Min Reading 6  Min
+* Share
+
+---
+
+Table of Content
+
+**Summary:** MOV is a widely supported file format for streaming high-quality videos on Mac. Your video may corrupt due to disrupted transfer, improper conversion, sudden system shutdown, etc. Try to repair the MOV file on Mac by converting the file format or playing it on other media players. You can use a free VLC Media Player or a professional MOV video repair tool to fix corrupt MOV files.
+
+[Free Download Mac  Free Download100% secure](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/source/rev-636f8fd/www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/mac-os.svg)  Free Download100% secure ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+ MOV video file format, developed by Apple, is a popular format for editing and distributing videos. It is an MPEG 4 video container file, usually played by the built-in QuickTime player on Mac.
+
+ A MOV file is a multimedia container that can store video, audio, and text –in the same file on different tracks. These files contain high bitrate videos with little to no compression resulting in a substantial file size. Since MOV files offer high-quality videos, they are the preferred choice of professional media editors.
+
+ _“I recorded a movie in iMovie and transferred it from my iPhone to Mac. While transferring it to Mac, the process was interrupted due to low battery._
+
+ _Now the video is not opening in the QuickTime Player. iPhone, too, doesn’t have the video, as I deleted it after copying it to Mac. I tried a couple of video repair tools to repair my MOV video, but they didn’t work. Can someone tell me the best software to repair corrupted MOV video files on Mac?”_
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Why Your MOV Video On Mac Turned Corrupt?**
+
+ From incomplete video transfer to incompatible video player, there could be various reasons for your MOV video to go corrupt on Mac. Improper system shutdown or bad sectors on storage media can corrupt your MOV video. Here are some common reasons for MOV video corruption:
+
+* Sudden Mac shutdown
+* Incompatible video players can overwrite or damage the file header of your MOV video.
+* Bad or improper video conversion.
+* Presence of bad sectors on storage media like hard drive or USB drive.
+* Virus or malware infection.
+* Interruption during transferring, editing, or recording a video.
+
+## **How to Fix a Corrupted MOV File on Mac?**
+
+ You can try various solutions to fix a corrupted MOV file on Mac, such as playing the video in a different player, changing the file format, transcoding the video, or using the VLC video fix feature. Let’s check these fixes one by one.
+
+### **Play Videos in Different Media Players**
+
+ Change the media player to check if your MOV videos are playing. You can use QuickTime Player, VLC Media Player, 5K Player, or Cisdem Video Player to play your MOV video on your Mac.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+### **Repair MOV File by Converting its Format**
+
+ Converting the video file format can fix the corruption in MOV files. You can use online tools like CloudConvert, VEED.io, Movavi Video Converter etc.
+
+### **Transcode MOV Video using VLC Media Player**
+
+ Use VLC Media Player to transcode your corrupt MOV videos to make them playable on any unsupported media player. This method generally arises due to video incompatibility with the media player.
+
+* Open VLC Media Player on your Mac
+* Click the**File option at the top and select the Convert/S** **tream** option.
+
+* Click **Open Media**  and select one or more videos you want to transcode. Select the**Customize** option next to the**Choose** **Profile** .
+
+* Navigate to the**Encapsulation tab** , and select any**file** **format** , say, for example, AVI. Click**Apply** .
+
+* Click the**Save as File** button at the bottom of the**Convert & Stream** window.
+
+* Click **Browse** to select the location to save your video, and remember to give a proper name to your file**.** Then click**Save.**
+
+ After transcoding, you can play the video in VLC or any other media player.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+### **Repair MOV File on Mac using VLC Video Fix Feature**
+
+ Use the built-in**‘Repair AVI fixes’** feature in VLC Player to fix corruption issues in the file header and file index of any videos. To use this feature, you need to change the file extension of your MOV videos to AVI and then repair your file using VLC.
+
+* Open the converted**video** **file** in VLC Media Player and then click**VLC Media Player** \>**Preferences** .
+
+* Go to**the Input/Codec** tab.
+
+* Select the**Always Fix** option from the**‘Repair AVI Files’** drop-down list. Click**Save** .
+
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+### **Use Mac Video Repair Software to Repair Corrupt MOV File on Mac.**
+
+ After trying the following troubleshooting methods, if you cannot open your MOV file on your Mac, your file may be corrupted. In such a situation, you must use a professional MOV [video repair tool](https://tools.techidaily.com/stellardata-recovery/buy-now/) like Stellar Repair for Video to fix corrupt MOV files.
+
+ This video repair tool can fix video corruption issues like unplayable, out-of-sync, choppy, and blurry videos. It even fixes ‘QuickTime Error’ or corruption issues in video frames, headers, or indexes for seamless playback.
+
+ It can simultaneously repair multiple videos of any file format like MOV, AVI, MP4, etc. Stellar Repair for Video tool can fix corrupt or damaged videos caused by OS crashes, improper file transfer, viruses or malware attacks, and more.
+
+[](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+**Steps: How to Fix Corrupt MOV File**
+
+* Download, install, and launch**Stellar Repair for Video** on your Mac.
+* Click**Add File** on the home screen to upload your corrupt MOV videos.
+
+* Click**Repair** to initiate the repair process.
+
+* You can check the progress of the video repair process in the progress bar.
+
+* Once the repair process completes, click on the**OK** button.
+
+* You can see the preview of the repaired video and save them at a desired location by clicking**Save Repaired files** .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+## **Conclusion**
+
+ MOV is a high-definition and widely supported file format for streaming and sharing video. Though it supports high-quality video, it can get unreadable or corrupted anytime due to disrupted transfer, improper system shutdown, etc.
+
+ You can repair MOV files on Mac by converting the file format or checking if videos are playing on other media players. You can even use a free VLC Media Player to repair corrupt MOV videos. However, it is recommended to use a professional MOV video repair tool like Stellar Repair for Video to fix corrupt MOV files.
+
+ Moreover, always remember to create a backup of your MOV video before attempting any repair methods
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **FAQ**
+
+#### **1\. Why does MOV file plays only audio but no video?**
+
+ There can be many reasons why your [MOV file plays audio but no video](https://tools.techidaily.com/stellardata-recovery/buy-now/) , such as incomplete or partial video download, incompatible codec, or corruption in audio and video data.
+
+#### **2\. How can I repair MOV video files for free?**
+
+ You can repair MOV files for free by using VLC Media Player (in both Windows and Mac) or QuickTime Player (specifically on Mac).
+
+#### **3\. How to repair corrupted MOV files with VLC?**
+
+ To [repair corrupted MOV files with VLC](https://tools.techidaily.com/stellardata-recovery/buy-now/) , you can:
+
+* Use the VLC video fix feature.
+* Transcode your MOV files to make them playable.
+* Increase the cache value of the video.
+
+#### **4\. How to open a MOV file on a Mac?**
+
+ You can use QuickTime Player or VLC Media Player to open a MOV file on Mac.
+
+### Was this article helpful?
+
+YES 0
+
+NO
+
+About The Author
+
+[Vishakha Singh](https://tools.techidaily.com/stellardata-recovery/buy-now/) [](https://www.linkedin.com/in/vishakha-singh-717931aa)
+
+ Vishakha Singh is a Senior Writer at Stellar Data Recovery with half a decade of experience in writing content in diverse verticals. She's a tech enthusiast who loves creating photo/video recovery & repair tutorials. Vishakha also specializes in writing full-blown iPhone and Android guides.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-streamlining-sonic-selection-a-guide-to-curating-youtube-content/"><u>[New] 2024 Approved  Streamlining Sonic Selection  A Guide to Curating YouTube Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-hub-for-newbies-in-cinematic-craftsmanship/"><u>[New] 2024 Approved  YouTube Hub for Newbies in Cinematic Craftsmanship</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-choosing-the-right-microphone-for-mac-devices-a-compreenas/"><u>[New] Choosing the Right Microphone for Mac Devices (A Compreenas)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-creating-seamless-connections-spotify-to-youtube-music-conversion/"><u>[New] Creating Seamless Connections  Spotify to YouTube Music Conversion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-htc-vive-comfort-top-strategies-to-prevent-discomfort/"><u>[New] In 2024, HTC Vive Comfort  Top Strategies to Prevent Discomfort</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-your-makeup-maestro-journey-establishing-a-channel-for-beauty-buffs/"><u>[New] Your Makeup Maestro Journey  Establishing a Channel for Beauty Buffs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-dive-into-dynamic-youtube-discussions-for-2024/"><u>[Updated] Dive Into Dynamic YouTube Discussions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-yuneec-typhoon-h-examined-a-drone-review-perspective/"><u>[Updated] In 2024, Yuneec Typhoon H Examined  A Drone Review Perspective</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-simple-screenshot-pro-on-windows-10-for-2024/"><u>[Updated] Simple Screenshot Pro on Windows 10 for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-guide-to-writing-click-worthy-youtube-titles/"><u>2024 Approved  Essential Guide to Writing Click-Worthy Youtube Titles</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/a-tale-of-revival-thousands-of-lost-images-rediscovered/"><u>A Tale of Revival: Thousands of Lost Images Rediscovered</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/addressing-unsupported-codec-lack/"><u>Addressing Unsupported Codec Lack</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comet-collection-highlighting-achievements-and-admiration/"><u>Comet Collection: Highlighting Achievements & Admiration</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-graphics-glitches-on-new-windows-11/"><u>Correcting Graphics Glitches on New Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/discovering-phantoms-temporal-expansion-capabilities/"><u>Discovering Phantom's Temporal Expansion Capabilities</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elevating-playback-success-with-vfiles/"><u>Elevating Playback Success with VFiles</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eradicating-interlacing-issues-in-film-reels/"><u>Eradicating Interlacing Issues in Film Reels</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/harnessing-stellar-recovery-methods-with-expert-vishakha/"><u>Harnessing Stellar Recovery Methods with Expert Vishakha</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-export-recovered-mailboxes-to-live-exchange-server/"><u>How to Export Recovered Mailboxes to Live Exchange Server?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-salvage-damaged-mp4-and-mov-movies-a-comprehensive-guide-using-vlc-player/"><u>How to Salvage Damaged MP4 and MOV Movies - A Comprehensive Guide Using VLC Player</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pinnacle-creations-summary-studio-25-detailed-assessment-2023/"><u>In 2024, Pinnacle Creations Summary  Studio 25 Detailed Assessment, 2023</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ethical-way-to-grow-your-fan-base-effectively/"><u>In 2024, The Ethical Way to Grow Your Fan Base Effectively</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-elites-creator-conclave/"><u>In 2024, YouTube Elites  Creator Conclave</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/interstellar-quickbooks-troubleshoot/"><u>Interstellar QuickBooks Troubleshoot</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-doesnt-recognize-full-screen-windows-11/"><u>Monitor Doesn't Recognize Full-Screen Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ms-sql-survival-guide-by-microsoft-mvp-damian/"><u>MS SQL Survival Guide by Microsoft MVP, Damian</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-to-download-top-rated-3d-animation-apps-for-mobile-devices/"><u>New In 2024, Free to Download Top-Rated 3D Animation Apps for Mobile Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimizing-video-stream-after-conversion-processes/"><u>Optimizing Video Stream After Conversion Processes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/prime-screen-recording-tools-for-no-ad-android/"><u>Prime Screen Recording Tools for No-Ad Android</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rejuvenating-corrupt-video-files-via-qt-player/"><u>Rejuvenating Corrupt Video Files via QT Player</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restore-android-media-performance/"><u>Restore Android Media Performance</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reversing-screen-glitches-post-win10-operating-system-change/"><u>Reversing Screen Glitches Post-Win10 Operating System Change</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-makes-mac-tasks-effortless-and-faster/"><u>Stellar Makes Mac Tasks Effortless and Faster</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-revamps-data-backup-simplifying-consumer-use/"><u>Stellar Revamps Data Backup, Simplifying Consumer Use</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-solutions-for-qtp-corrections/"><u>Stellar Solutions for QTP Corrections</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-video-library-watch-out-stellar-product-and-testimonials-videos/"><u>Stellar Video Library - Watch Out Stellar Product & Testimonials Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-toolkit-expert-insights-on-software-and-do-it-yourself-techniques/"><u>Stellar's Toolkit: Expert Insights on Software and Do-It-Yourself Techniques</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/strategies-for-fixing-muddled-cctv-outputs/"><u>Strategies for Fixing Muddled CCTV Outputs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-rescaling-perfect-mac-pixels-with-youtube-for-2024/"><u>Swift Rescaling  Perfect Mac Pixels with YouTube for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/synergy-of-social-networks-uniting-facebook-linkedin-and-youtube/"><u>Synergy of Social Networks: Uniting Facebook, LinkedIn and YouTube</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tackling-typical-transition-delays-in-videos/"><u>Tackling Typical Transition Delays in Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tech-talk-with-fabio-goncalves-exchange-recovery-story/"><u>Tech Talk with Fabio Goncalves: Exchange Recovery Story</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-lost-and-found-chronicles-totan-banerjees-guide-to-data-recovery-at-stellar/"><u>The Lost & Found Chronicles: Totan Banerjee’s Guide to Data Recovery at Stellar</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-best-gimbals-for-4k-dsrlmirrorless-cameras-for-2024/"><u>Top 10 Best Gimbals for 4K DSRL/Mirrorless Cameras for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-rated-support-center-grossing-a-245100-score/"><u>Top-Rated Support Center - Grossing a 245/100 Score</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-f04-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy F04 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-firmware-troubleshooting-steps/"><u>Unlocking Firmware Troubleshooting Steps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unveiling-fix-for-videography-hiccup-0xc10100be/"><u>Unveiling Fix for Videography Hiccup: 0XC10100be</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unveiling-youtube-video-mastery-through-finalcut-pro-methods/"><u>Unveiling YouTube Video Mastery Through FinalCut Pro Methods</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-error-224003-decoded-resolved/"><u>Video Error 224003 Decoded, Resolved</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/why-stellar-repair-for-video-doesnt-work-properly-on-some-of-my/"><u>Why Stellar Repair for Video Doesn't Work Properly on Some of My ...</u></a></li>
+</ul></div>
