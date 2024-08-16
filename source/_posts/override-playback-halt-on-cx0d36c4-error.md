@@ -1,7 +1,7 @@
 ---
 title: Override Playback Halt on Cx0d36c4 Error
-date: 2024-07-10T06:42:01.140Z
-updated: 2024-07-11T06:42:01.140Z
+date: 2024-08-15T04:59:03.011Z
+updated: 2024-08-16T04:59:03.011Z
 categories:
   - repair-tools
 description: This Article Describes Override Playback Halt on Cx0d36c4 Error
@@ -59,6 +59,9 @@ Table of Content
 
  If none of these methods work and you still receive_‘this file isn’t playable 0xc00d36c4 error’_ , then the video file has turned corrupt and needs to be fixed with the help of video repair software.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **8 Methods to fix Video error 0xc00d36c4**
 
  1\. Play the video in another compatible media player like a VLC player  
@@ -70,12 +73,18 @@ Table of Content
  7\. Repair with a Stellar Repair for Video software  
  8\. Try AVI repair in VLC Media Player to fix error 0xc00d36c4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### **Method 1: Play video in another media player**
 
  The error code 0xc00d36c4 mostly occurs due to unsupported file format or codec. Playing the problematic video in another media player often fixes this issue. The most preferred player in such cases is VLC Media Player. It is configured to play most of the video file formats.
 
  Other than VLC, you can use Winamp, QuickTime, Windows Media Player, KMPlayer, or Windows Media Center, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### **Method 2: Download the missing codecs**
 
  The video error could be because one or more supporting codecs are not installed on your computer. So download compatible codec(s) for that particular video file format.
@@ -92,6 +101,9 @@ Table of Content
 
 [Read More](http://www.microsoft.com/windows/windowsmedia/player/faq/codec.mspx)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 3: Convert the video file format**
 
  Converting the problematic video to another file format can play your video. Use a secure video file converter tool that’s free from malware. There are both online converters and desktop converters like [Stellar Converter for Audio Video](https://tools.techidaily.com/stellardata-recovery/buy-now/) and VLC Media Player.
@@ -115,6 +127,9 @@ Table of Content
 * Add profile or click **Edit Selected Profile** – the wrench icon to change or add particular profile settings.
 * Next, click**Start.** Your converted video file will be saved at the specified location.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 4: Disable Copy Protection in Windows Media Player**
 
  Does the error 0xc00d36c4 pops up every time you try to play CD/DVD or a mobile phone music on your PC?
@@ -140,6 +155,9 @@ Table of Content
 
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 5: Remove and reinstall all USB controllers**
 
  ‘This file isn’t playable 0xc00d36c4 error’ can also be due to system conflict between the connected external media (SD card, USB pen drive, etc.) and your computer.
@@ -265,3 +283,41 @@ About The Author
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-viral-visionaries-top-10-tiktok-secrets-for-2024/"><u>[New] Viral Visionaries  Top 10 TikTok Secrets for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-bridging-the-gap-integrating-spotify-and-youtube-music-playlists-for-2024/"><u>[Updated] Bridging the Gap  Integrating Spotify and YouTube Music Playlists for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-enhancing-image-aesthetics-with-effective-instagram-borders/"><u>[Updated] In 2024, Enhancing Image Aesthetics with Effective Instagram Borders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-loom-lens-illuminating-your-recording-journey/"><u>[Updated] Loom Lens  Illuminating Your Recording Journey</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-set-a-unique-tiktok-sound-as-your-cellphone-alarm-or-ringtone/"><u>[Updated] Set a Unique TikTok Sound as Your Cellphone Alarm or Ringtone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-capturing-movie-scenes-as-single-image-snapshots-windows-10/"><u>2024 Approved  Capturing Movie Scenes as Single Image Snapshots (Windows 10)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-social-media-elite-playbook-cultivate-your-stardom-in-9-easy-steps/"><u>2024 Approved  The Social Media Elite Playbook  Cultivate Your Stardom in 9 Easy Steps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-infinix-note-30-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Note 30 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-android-launch-a-new-era-begins/"><u>ChatGPT's Android Launch - A New Era Begins</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-motorola-moto-g24-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Motorola Moto G24</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/comprehensive-guide-to-ios-screenshotting/"><u>Comprehensive Guide to iOS Screenshotting</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-errors-in-mp4-files-on-smartphones/"><u>Fixing Errors in MP4 Files on Smartphones</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-motorola-moto-g-stylus-5g-2023-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Motorola Moto G Stylus 5G (2023) Devices | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/grau-gmbhs-video-restoration-suite-top-tier-hardware-and-software-fixes/"><u>Grau GmbH's Video Restoration Suite: Top-Tier Hardware & Software Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-10t-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme 10T 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-lava-yuva-2-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Lava Yuva 2 Pro Device SIM</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mac-stellar-recovery-mastering-ui-basics/"><u>Mac Stellar Recovery: Mastering UI Basics</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/navigating-social-media-triple-threat-strategies-for-facebook-linkedin-and-youtube-growth/"><u>Navigating Social Media Triple Threat: Strategies for Facebook, LinkedIn, and YouTube Growth</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-screen-shake-phenomenon/"><u>Overcoming Screen Shake Phenomenon</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-windowsmac-movie-file-malfunctions/"><u>Overcoming Windows/Mac Movie File Malfunctions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-assistance-stellars-server-sos-help/"><u>Phoenix Assistance: Stellar's Server SOS Help</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-renewal-the-pdf-repair-solution/"><u>Phoenix Renewal: The PDF Repair Solution</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-guide-to-win11s-blue-screen-step-by-step-troubleshooting/"><u>Quick Guide to Win11's Blue Screen - Step by Step Troubleshooting</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/starlight-backup-and-retrieval-assistant/"><u>Starlight Backup & Retrieval Assistant</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/steps-to-fix-illegitimate-codes/"><u>Steps to Fix Illegitimate Codes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/synchronizing-audiovideo-in-vlc-player/"><u>Synchronizing Audio/Video in VLC Player</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-reclamation-of-forgotten-files-secrets-from-totan-and-stellar/"><u>The Reclamation of Forgotten Files: Secrets From Totan and Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/totan-banerjees-expertise-in-restoring-digital-legacies/"><u>Totan Banerjee’s Expertise in Restoring Digital Legacies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/understanding-the-stellar-data-interface-on-mac/"><u>Understanding the Stellar Data Interface on Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unleash-movie-potential-stellars-quicksilver-fixes/"><u>Unleash Movie Potential - Stellar's Quicksilver Fixes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlock-the-secrets-to-restored-jpegs/"><u>Unlock the Secrets to Restored JPEGs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-the-power-of-recovering-h265-videos/"><u>Unlocking the Power of Recovering H.265 Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-windows-11-how-to-resolve-the-notorious-blue-screen-error/"><u>Unlocking Windows 11: How to Resolve the Notorious Blue Screen Error</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-guide-to-stellar-mysql-rehabilitation-with-sysadmin-destrero/"><u>Video Guide to Stellar MySql Rehabilitation with SysAdmin Destrero</u></a></li>
+</ul></div>
