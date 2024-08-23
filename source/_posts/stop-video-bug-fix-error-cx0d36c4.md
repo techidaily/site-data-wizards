@@ -1,7 +1,7 @@
 ---
 title: Stop Video Bug - Fix Error Cx0d36c4
-date: 2024-07-10T06:40:20.793Z
-updated: 2024-07-11T06:40:20.793Z
+date: 2024-08-22T12:29:09.369Z
+updated: 2024-08-23T12:29:09.369Z
 categories:
   - repair-tools
 description: This Article Describes Stop Video Bug - Fix Error Cx0d36c4
@@ -59,6 +59,9 @@ Table of Content
 
  If none of these methods work and you still receive_‘this file isn’t playable 0xc00d36c4 error’_ , then the video file has turned corrupt and needs to be fixed with the help of video repair software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## **8 Methods to fix Video error 0xc00d36c4**
 
  1\. Play the video in another compatible media player like a VLC player  
@@ -70,6 +73,9 @@ Table of Content
  7\. Repair with a Stellar Repair for Video software  
  8\. Try AVI repair in VLC Media Player to fix error 0xc00d36c4
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### **Method 1: Play video in another media player**
 
  The error code 0xc00d36c4 mostly occurs due to unsupported file format or codec. Playing the problematic video in another media player often fixes this issue. The most preferred player in such cases is VLC Media Player. It is configured to play most of the video file formats.
@@ -115,6 +121,9 @@ Table of Content
 * Add profile or click **Edit Selected Profile** – the wrench icon to change or add particular profile settings.
 * Next, click**Start.** Your converted video file will be saved at the specified location.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 4: Disable Copy Protection in Windows Media Player**
 
  Does the error 0xc00d36c4 pops up every time you try to play CD/DVD or a mobile phone music on your PC?
@@ -140,6 +149,9 @@ Table of Content
 
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 5: Remove and reinstall all USB controllers**
 
  ‘This file isn’t playable 0xc00d36c4 error’ can also be due to system conflict between the connected external media (SD card, USB pen drive, etc.) and your computer.
@@ -164,6 +176,9 @@ Table of Content
 
  Now, connect your USB device to a computer, and check if the video 0xc00d36c4 error is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 6: Update the Display Adapter Driver**
 
  As the error code may occur due to hardware conflict, you can also try once updating the display drivers. This may fix the video error.
@@ -227,6 +242,9 @@ Now, check if the video error is resolved.
 | **Copy and Paste Hack you may try to fix code 0xc00d36c4**  Does the error code 0xc00d36c4 occur while trying to open the video saved on DVD/CD, USB drive, etc.?  Simply copy your video file from the external storage to the computer drive and then play. This hack has actually worked for many! |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **To Sum Up**
 
  Error code 0xc00d36c4 while playing videos is either due to unsupported video format or codec or corruption in the video file. It could also occur because of computer conflict with USB devices. Troubleshooting the error should begin by installing the supporting codec or converting the video file format to another. If these methods do not help, reinstall or update the drivers using the above methods.
@@ -265,3 +283,77 @@ About The Author
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-adeptly-archive-your-fb-friends-lives-in-seconds-for-2024/"><u>[New] Adeptly Archive Your Fb Friends' Lives in Seconds for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-eliminate-your-instagram-existence-a-comprehensive-walkthrough-for-2024/"><u>[New] How to Eliminate Your Instagram Existence  A Comprehensive Walkthrough for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigate-the-social-media-lands-cookie-with-youtubes-automatic-play-feature/"><u>[New] In 2024, Navigate the Social Media Lands Cookie with YouTube's Automatic Play Feature</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-iphoneandroid-blur-application-guide/"><u>[Updated] Expert iPhone/Android Blur Application Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-effortless-facebook-video-streaming-with-fire-browser-plugins-firefox-edition-2023/"><u>[Updated] In 2024, Effortless Facebook Video Streaming with Fire-Browser Plugins, Firefox Edition 2023</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-streamline-your-social-experience-with-mobile-music-files/"><u>[Updated] In 2024, Streamline Your Social Experience with Mobile Music Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-list-of-non-game-bar-recording-tools-for-2024/"><u>[Updated] The Ultimate List of Non-Game Bar Recording Tools for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-digital-dilemma-unexpectedly-barred-content/"><u>2024 Approved  Digital Dilemma  Unexpectedly Barred Content</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-digital-dividends-the-creators-guide-to-monetization/"><u>2024 Approved  Digital Dividends  The Creator's Guide to Monetization</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-fps-game-quest-discovering-7-ultimate-titles/"><u>2024 Approved  FPS Game Quest – Discovering 7 Ultimate Titles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-guidelines-for-effective-video-integration-in-teaching/"><u>2024 Approved  Guidelines for Effective Video Integration in Teaching</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-refine-image-quality-on-canon-devices-using-free-plus-payable-lut-tools/"><u>2024 Approved  Refine Image Quality on Canon Devices Using Free + Payable LUT Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-from-dji-action-gopro-max-360-insta360-x3/"><u>2024 Approved  Selecting From DJI Action, GoPro Max 360, Insta360 X3</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlocking-the-power-of-cross-social-media-file-transfers-youtube-and-facebook/"><u>2024 Approved  Unlocking the Power of Cross-Social Media File Transfers (YouTube & Facebook)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/boom-in-the-loop-crafting-addictive-ig-videos-for-2024/"><u>Boom in the Loop  Crafting Addictive IG Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bridging-virtuality-business-applications-in-vr/"><u>Bridging Virtuality  Business Applications in VR</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-insight-on-the-asus-x441ba-understanding-its-benefits-and-drawbacks/"><u>Detailed Insight on the Asus X441BA: Understanding Its Benefits & Drawbacks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elevate-your-exercise-game-with-cubefts-reviewed-terramat-all-about-staying-active/"><u>Elevate Your Exercise Game with CubeFt's Reviewed TerraMat - All About Staying Active</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empower-web-creators-with-chatgpts-essential-tools-and-strategies/"><u>Empower Web Creators with ChatGPT's Essential Tools and Strategies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/find-your-custom-box-top-10-online-stores-offering-tailored-packaging/"><u>Find Your Custom Box  Top 10 Online Stores Offering Tailored Packaging</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-broken-mp4-videos-on-smartphones/"><u>Fixing Broken MP4 Videos on Smartphones</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-the-20-typical-video-technical-hiccups/"><u>Fixing the 20 Typical Video Technical Hiccups</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-visual-deformation-after-new-windows-10-installation/"><u>Fixing Visual Deformation After New Windows 10 Installation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/free-file-savior-the-stellar-rescue-tool/"><u>Free File Savior - The Stellar Rescue Tool</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-compiling-shaders-error-for-a-smooth-cod-black-ops-cold-war-experience/"><u>How to Fix 'Compiling Shaders' Error for a Smooth COD: Black Ops Cold War Experience</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-fix-corrupt-h265hevc-video-file-stellar/"><u>How to Fix Corrupt H.265/HEVC Video File? - Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>How to identify some outdated your drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-poco-m6-pro-4g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Poco M6 Pro 4G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-note-30-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Note 30 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-funnyframe-easy-memes-no-stress/"><u>In 2024, FunnyFrame  Easy Memes, No Stress</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-prime-anime-selections-on-youtube-ranked/"><u>In 2024, Prime Anime Selections on YouTube, Ranked</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-radiant-tone-refactoring-pro/"><u>In 2024, Radiant Tone Refactoring Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-6s-plus-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 6s Plus Activation Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/interstellar-disk-rescue-compendium/"><u>Interstellar Disk Rescue Compendium</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mac-and-win-video-fixer-ultimate-repair-solution/"><u>Mac & Win Video Fixer: Ultimate Repair Solution</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-media-motion-management/"><u>Mastering Media Motion Management</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-self-help-with-stellar-toolkit-articles-for-savvy-software-diyers/"><u>Mastering Self-Help with Stellar Toolkit Articles for Savvy Software DIYers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/media-rejuvenator-healing-hd-content/"><u>Media Rejuvenator: Healing HD Content</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/new-phoenix-technology-for-file-repair/"><u>New Phoenix Technology for File Repair</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimize-android-video-streaming/"><u>Optimize Android Video Streaming</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimizing-playback-seamlessness-in-vlc/"><u>Optimizing Playback Seamlessness in VLC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-challenges-with-rare-encoding-methods/"><u>Overcoming Challenges with Rare Encoding Methods</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/preeminent-6-networks-driving-biz-innovation-for-2024/"><u>Preeminent 6 Networks Driving Biz Innovation for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reclaim-data-the-stellar-freedom-solution/"><u>Reclaim Data: The Stellar Freedom Solution</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reclaiming-the-past-how-stellar-recovery-saved-my-memories/"><u>Reclaiming the Past: How Stellar Recovery Saved My Memories</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rectifying-disrupted-video-display-with-win10-changes/"><u>Rectifying Disrupted Video Display with Win10 Changes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/redeeming-compromised-movmp4-through-quicktime-playback/"><u>Redeeming Compromised MOV/MP4 Through QuickTime Playback</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reinstating-compromised-mp4-media/"><u>Reinstating Compromised MP4 Media</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/renovate-damaged-footage-effortlessly-using-grau-gmbhs-premier-video-repair-application/"><u>Renovate Damaged Footage Effortlessly Using Grau GmbH's Premier Video Repair Application</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repair-your-videos-with-ease-using-grau-gmbhs-advanced-technology-suite/"><u>Repair Your Videos with Ease Using Grau GmbH's Advanced Technology Suite</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-file-errors-of-movmp4-videos-with-quicktime/"><u>Repairing File Errors of MOV/MP4 Videos with QuickTime</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restore-hd-videos-naturally-quick-cure/"><u>Restore HD Videos Naturally: Quick Cure</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-macs-ailing-media-files/"><u>Restoring Mac's Ailing Media Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-lost-files-on-mac-free-and-paid-data-recovery-tools-compared/"><u>Reviving Lost Files on Mac: Free & Paid Data Recovery Tools Compared</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-old-emails-connecting-with-live-exchange-servers/"><u>Reviving Old Emails - Connecting with LIVE Exchange Servers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revolutionize-your-morning-routine-with-the-ihome-zenergy-bedside-sleep-therapy-machine-a-comprehensive-review/"><u>Revolutionize Your Morning Routine with the IHome Zenergy Bedside Sleep Therapy Machine - A Comprehensive Review</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solve-video-glitches-at-home-simple-fix-tips/"><u>Solve Video Glitches at Home – Simple Fix Tips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-for-salvaging-compromised-movs-and-mp4s/"><u>Techniques for Salvaging Compromised MOVs & MP4s</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tips-for-clear-high-quality-post-export-videos/"><u>Tips for Clear, High-Quality Post-Export Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-find-x7-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo Find X7 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-corrupt-video-extensions-on-oses/"><u>Troubleshooting Corrupt VIDEO Extensions on OSes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tutorial-steps-for-transferring-retrieved-edb-mailboxes-from-pstedb-to-active-exchange-servers/"><u>Tutorial: Steps for Transferring Retrieved EDB Mailboxes From PST/EDB to Active Exchange Servers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unblocking-obstructed-recorded-content/"><u>Unblocking Obstructed Recorded Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlock-the-power-8-best-no-cost-software-for-videographers-and-editors-for-2024/"><u>Unlock the Power  8 Best No-Cost Software for Videographers & Editors for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unparalleled-support-outstanding-customer-rates/"><u>Unparalleled Support, Outstanding Customer Rates</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-exploration-of-optimized-mysql-strategies-with-administrator-augusto/"><u>Video Exploration of Optimized MySQL Strategies with Administrator Augusto</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-walkthrough-seamlessly-integrating-restored-edb-filemailbox-into-your-current-exchange-setup/"><u>Video Walkthrough: Seamlessly Integrating Restored EDB File(Mailbox) Into Your Current Exchange Setup</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/videorescue-kit-restore-mp4-mov/"><u>VideoRescue Kit – Restore MP4, MOV</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Smart 8 | Dr.fone</u></a></li>
+</ul></div>

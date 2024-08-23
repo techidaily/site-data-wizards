@@ -1,7 +1,7 @@
 ---
 title: Eradicate Code 0XC00D36C4 Playback Issue
-date: 2024-07-10T06:41:09.473Z
-updated: 2024-07-11T06:41:09.473Z
+date: 2024-08-22T12:26:59.612Z
+updated: 2024-08-23T12:26:59.612Z
 categories:
   - repair-tools
 description: This Article Describes Eradicate Code 0XC00D36C4 Playback Issue
@@ -59,6 +59,9 @@ Table of Content
 
  If none of these methods work and you still receive_‘this file isn’t playable 0xc00d36c4 error’_ , then the video file has turned corrupt and needs to be fixed with the help of video repair software.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **8 Methods to fix Video error 0xc00d36c4**
 
  1\. Play the video in another compatible media player like a VLC player  
@@ -70,12 +73,18 @@ Table of Content
  7\. Repair with a Stellar Repair for Video software  
  8\. Try AVI repair in VLC Media Player to fix error 0xc00d36c4
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 1: Play video in another media player**
 
  The error code 0xc00d36c4 mostly occurs due to unsupported file format or codec. Playing the problematic video in another media player often fixes this issue. The most preferred player in such cases is VLC Media Player. It is configured to play most of the video file formats.
 
  Other than VLC, you can use Winamp, QuickTime, Windows Media Player, KMPlayer, or Windows Media Center, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 2: Download the missing codecs**
 
  The video error could be because one or more supporting codecs are not installed on your computer. So download compatible codec(s) for that particular video file format.
@@ -92,6 +101,9 @@ Table of Content
 
 [Read More](http://www.microsoft.com/windows/windowsmedia/player/faq/codec.mspx)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 3: Convert the video file format**
 
  Converting the problematic video to another file format can play your video. Use a secure video file converter tool that’s free from malware. There are both online converters and desktop converters like [Stellar Converter for Audio Video](https://tools.techidaily.com/stellardata-recovery/buy-now/) and VLC Media Player.
@@ -179,6 +191,9 @@ Table of Content
 
 Tip – If the current driver is up-to-date, just to be on the safer side, uninstall the driver first and then reinstall it.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 7: Repair with a Stellar Repair for Video software**
 
  If the error code 0xc00d36c4 issue is not resolved with the above methods, your video is probably corrupt. The only way to fix is by using advanced video repair software such as [**Stellar Repair for Video**](https://tools.techidaily.com/stellardata-recovery/buy-now/) **.**
@@ -201,6 +216,10 @@ Tip – If the current driver is up-to-date, just to be on the safer side, unins
 
 **Step 3:** Preview the repaired videos and click**Save Repaired File.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### **Method 8: Try AVI repair in VLC Media Player to fix error 0xc00d36c4**
 
  Free VLC Media Player has an AVI repair feature. Try the function to fix the video error 0xc00d36c4 in AVI files. If your video file is other than AVI, you can rename it to AVI and then fix it using the media player.
@@ -265,3 +284,45 @@ About The Author
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-instant-recording-sight-and-sound-fused/"><u>[New] 2024 Approved  Instant Recording  Sight & Sound Fused</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-step-into-stardom-building-starry-eyed-tiktok-dances-on-macos/"><u>[New] 2024 Approved  Step Into Stardom  Building Starry-Eyed TikTok Dances on MacOS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-ultimate-list-free-online-meeting-software-roundup/"><u>[New] 2024 Approved  The Ultimate List  Free Online Meeting Software Roundup</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-endless-eradication-guide-bypassing-youtubes-snappy-content/"><u>[New] In 2024, Endless Eradication Guide  Bypassing YouTube's Snappy Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-gameplay-best-4k-hdmi-21-display-for-players-for-2024/"><u>[New] Ultimate Gameplay  Best 4K (HDMI 2.1) Display for Players for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-crafting-high-quality-game-stream-videos-with-artificial-intelligence/"><u>[Updated] 2024 Approved  Crafting High-Quality Game Stream Videos with Artificial Intelligence</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-explore-9-simple-and-economical-editing-solutions-for-your-projects/"><u>[Updated] In 2024, Explore 9 Simple & Economical Editing Solutions for Your Projects</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-best-practices-for-live-streaming-services-and-local-channels/"><u>2024 Approved  Best Practices for Live Streaming Services & Local Channels</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-synchronizing-audio-with-visual-media-the-quicktime-method/"><u>2024 Approved Synchronizing Audio with Visual Media The QuickTime Method</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-samsung-galaxy-a34-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-data-security-when-utilizing-tailored-gpt-models-like-chatgpt/"><u>Ensuring Data Security When Utilizing Tailored GPT Models Like ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-8024020-successful-troubleshooting-steps-for-windows-11-setup-issues/"><u>Error Code 8024020 - Successful Troubleshooting Steps for Windows 11 Setup Issues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/face-off-feature-analysis-iphone-15-pro-max-vs-samsungs-latest-powerhouse-the-z-fold6/"><u>Face-Off Feature Analysis: IPhone 15 Pro Max Vs. Samsung's Latest Powerhouse, the Z Fold6</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-unresponsive-itunes-media-content/"><u>Fix Unresponsive iTunes Media Content</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/garys-endorsement-top-rated-stellar-repairs-for-ms-sql-systems/"><u>Gary's Endorsement: Top-Rated Stellar Repairs for MS SQL Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-vrchat-working-again-dealing-with-loading-errors/"><u>How to Get VRChat Working Again: Dealing with Loading Errors</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-move-edb-file-contents-back-into-live-exchange-after-successful-data-restoration-a-visual-guide/"><u>How to Move EDB File Contents Back Into Live Exchange After Successful Data Restoration - A Visual Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-seamlessly-export-repaired-edb-archives-into-current-exchange-server-infrastructure-video-guide/"><u>How To Seamlessly Export Repaired EDB Archives Into Current Exchange Server Infrastructure - Video Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-sweeping-sonic-narratives-with-expert-crossfade-techniques-audacity/"><u>In 2024, Crafting Sweeping Sonic Narratives with Expert Crossfade Techniques (Audacity)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/instant-upgrade-celebrity-film-restoration/"><u>Instant Upgrade: Celebrity Film Restoration</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mend-cracked-mpeg-files-a-simple-tool-for-fixing-broken-video-playback/"><u>Mend Cracked MPEG Files: A Simple Tool for Fixing Broken Video Playback</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/methods-to-prevent-video-degradation-after-output/"><u>Methods to Prevent Video Degradation After Output</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/navigating-through-videography-error-code-0xc10100be/"><u>Navigating Through Videography Error Code 0XC10100be</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/orbital-databases-a-new-dawn-in-ms-sql/"><u>Orbital Databases: A New Dawn in MS SQL</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-obsolete-video-codecs/"><u>Overcoming Obsolete Video Codecs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/premium-animated-design-kits-for-2024/"><u>Premium Animated Design Kits for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-past-visual-data-effortlessly/"><u>Repairing Past Visual Data Effortlessly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-screen-refresh-problems/"><u>Repairing Screen Refresh Problems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resurrect-your-broken-videos-mastering-vlc-for-mp4mov-repairs/"><u>Resurrect Your Broken Videos: Mastering VLC for MP4/MOV Repairs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-scrambled-vobs-quickly-and-effectively/"><u>Revive Scrambled VOBs Quickly & Effectively</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-announces-phoenix-software-for-mac-superior-jpeg-fixing/"><u>Stellar Announces Phoenix Software for Mac - Superior JPEG Fixing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-unlocks-silent-hdd-secrets-for-clients/"><u>Stellar Unlocks Silent HDD Secrets for Clients</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tackling-overheated-gpus/"><u>Tackling Overheated GPUs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-ultimate-guide-to-mending-frequent-video-fails/"><u>The Ultimate Guide to Mending Frequent Video Fails</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-interlace-distortions-in-media/"><u>Troubleshooting Interlace Distortions in Media</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-low-quality-h264-output/"><u>Troubleshooting Low Quality H.264 Output</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/why-cant-i-view-my-photos-after-fix/"><u>Why Can't I View My Photos After Fix?</u></a></li>
+</ul></div>

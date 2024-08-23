@@ -1,7 +1,7 @@
 ---
 title: Fixes for Incompatible Codec Issues
-date: 2024-07-10T06:40:56.836Z
-updated: 2024-07-11T06:40:56.836Z
+date: 2024-08-22T12:27:06.389Z
+updated: 2024-08-23T12:27:06.389Z
 categories:
   - repair-tools
 description: This Article Describes Fixes for Incompatible Codec Issues
@@ -67,6 +67,9 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -85,6 +88,9 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -97,6 +103,9 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -107,6 +116,9 @@ _Figure: Mac suggests installed apps to open video_
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -143,6 +155,9 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
@@ -151,6 +166,9 @@ _Figure: Video profile options in VLC Player_
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
  When converting or getting the compatible codecs don’t solve the problem, chances are your video file is giving error due to corruption.
@@ -212,3 +230,43 @@ About The Author
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-learn-the-layers-of-photography-with-snapseed/"><u>[New] Learn the Layers of Photography with Snapseed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>[New] Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-vision-to-reality-taking-control-of-your-lyric-videos-with-lyric-video-maker/"><u>[Updated] From Vision to Reality  Taking Control of Your Lyric Videos with Lyric Video Maker</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-social-media-spotlight-top-tiktok-tweets/"><u>[Updated] In 2024, Social Media Spotlight  Top TikTok Tweets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-silent-symphony-softening-computer-sounds-system-wide/"><u>[Updated] Silent Symphony  Softening Computer Sounds System-Wide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-uncomplicated-method-fast-clearance-of-online-discussions/"><u>2024 Approved  Uncomplicated Method  Fast Clearance of Online Discussions</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-prevent-and-fix-yakuza-nthe-song-of-life-pc-game-crashes/"><u>Expert Tips to Prevent and Fix Yakuza nThe Song of Life PC Game Crashes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/first-ever-software-fixes-quickbooks-corruption-thanks-to-stellar/"><u>First-Ever Software Fixes QuickBooks Corruption, Thanks to Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-recovered-to-ready-migrating-e-mail-to-live-exchange/"><u>From Recovered to Ready: Migrating E-Mail to Live Exchange</u></a></li>
+<li><a href="https://fox-info.techidaily.com/heartfelt-cinematic-experiences-for-hopeful-hearts/"><u>Heartfelt Cinematic Experiences for Hopeful Hearts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-seamless-integration-transferring-snapchat-images-directly/"><u>In 2024, Seamless Integration  Transferring Snapchat Images Directly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macs-premier-choices-8-leading-free-and-paid-data-recovery-tools/"><u>Mac's Premier Choices: 8 Leading Free & Paid Data Recovery Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mend-broken-pngg-tiffs-and-riffs/"><u>Mend Broken PNGG TIFFs and RIFFs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-broken-video-formats-on-android-devices/"><u>Mending Broken Video Formats on Android Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/menditmedia-fixing-faulty-videos/"><u>MendItMedia: Fixing Faulty Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/navigating-the-labyrinth-of-data-loss-totan-banerjees-guide/"><u>Navigating the Labyrinth of Data Loss - Totan Banerjee's Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rectifying-blue-light-issues-on-monitor/"><u>Rectifying Blue Light Issues on Monitor</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rectifying-illegitimate-video-codings/"><u>Rectifying Illegitimate Video Codings</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rehabilitating-deteriorated-movie-files-for-apple/"><u>Rehabilitating Deteriorated Movie Files for Apple</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/remedying-paused-streaming-videos/"><u>Remedying Paused Streaming Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolve-network-latency-problems-when-watching-youtube/"><u>Resolve Network Latency Problems When Watching YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionize-video-production-150plus-complimentary-pp-samples/"><u>Revolutionize Video Production  150+ Complimentary PP Samples</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/sql-sos-damians-roadmap-to-database-recovery/"><u>SQL SOS: Damian's Roadmap to Database Recovery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/star-stellar-solutions-unmatched-in-ms-sql-repairment-says-gary/"><u>Star Stellar Solutions - Unmatched in MS SQL Repairment, Says Gary</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/strategies-for-endless-flawless-video-playback/"><u>Strategies for Endless, Flawless Video Playback</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/superior-stream-service-online-quality-revamp/"><u>Superior Stream Service: Online Quality Revamp</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/technical-glitch-post-repair-next-step-advice/"><u>Technical Glitch Post Repair: Next Step Advice</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-do-it-yourself-guide-to-video-repair/"><u>The Do-It-Yourself Guide to Video Repair</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-tactics-for-fixing-troubled-video-playback/"><u>Top Tactics for Fixing Troubled Video Playback</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-poor-cctv-images/"><u>Troubleshooting Poor CCTV Images</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-guide-fixing-damaged-mp4mov-videos-with-vlc-media-player/"><u>Ultimate Guide: Fixing Damaged MP4/MOV Videos with VLC Media Player</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlock-your-macs-lost-data-top-free-and-paid-recovery-tools/"><u>Unlock Your Mac's Lost Data: Top Free & Paid Recovery Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/why-is-video-repair-failing-in-some-files/"><u>Why Is Video Repair Failing in some Files?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-issue-unresponsive-to-changes/"><u>Win11 Display Issue: Unresponsive to Changes</u></a></li>
+</ul></div>
