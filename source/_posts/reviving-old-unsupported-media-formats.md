@@ -1,7 +1,7 @@
 ---
 title: Reviving Old, Unsupported Media Formats
-date: 2024-07-10T06:38:16.688Z
-updated: 2024-07-11T06:38:16.688Z
+date: 2024-08-27T03:23:55.375Z
+updated: 2024-08-28T03:23:55.375Z
 categories:
   - repair-tools
 description: This Article Describes Reviving Old, Unsupported Media Formats
@@ -67,6 +67,9 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -85,6 +88,9 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -118,6 +124,9 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -128,6 +137,9 @@ _Figure: VLC message when new version is available._
 
  The open source VLC Media Player can also convert video files to different format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -151,6 +163,9 @@ _Figure: Video profile options in VLC Player_
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
  When converting or getting the compatible codecs don’t solve the problem, chances are your video file is giving error due to corruption.
@@ -184,6 +199,10 @@ _Figure: Preview video after repair_
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 0
@@ -212,3 +231,50 @@ About The Author
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-enlightenment-streams-foremost-ed-resources-online/"><u>[New] 2024 Approved  Enlightenment Streams  Foremost Ed Resources Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-strategies-to-enhance-twitter-user-experience-with-ads/"><u>[New] In 2024, Strategies to Enhance Twitter User Experience with Ads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-leading-speedy-visualizer-in-windows/"><u>[New] Leading Speedy Visualizer in Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-terror-in-towns-selecting-the-best-8-zombie-gaming-titles/"><u>[New] Terror in Towns  Selecting the Best 8 Zombie Gaming Titles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-beat-the-norm-with-mac-audio-guide-for-2024/"><u>[Updated] Beat the Norm with Mac Audio Guide for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enhance-visibility-on-yt-key-aspects-of-channel-art-and-banner-size/"><u>[Updated] Enhance Visibility on YT  Key Aspects of Channel Art & Banner Size</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/convert-huge-databases-to-csv-best-practices-and-tools-for-a-seamless-transfer-process-from-various-formats-including-edb-data-science-blog/"><u>Convert Huge Databases to CSV - Best Practices & Tools for a Seamless Transfer Process From Various Formats Including .EDB | Data Science Blog</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/digital-devices-guarantee/"><u>Digital Devices Guarantee</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diving-into-the-future-with-stellars-12v-mac-software-update/"><u>Diving Into the Future with Stellar's 12v Mac Software Update</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhancing-video-clarity-h264-tips/"><u>Enhancing Video Clarity: H.264 Tips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/epic-quest-for-the-perfect-fix-to-stop-your-panicking-mac/"><u>Epic Quest for the Perfect Fix to Stop Your Panicking Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/error-36-and-trash-emptying-a-quick-solution-for-macos-users/"><u>Error 36 & Trash Emptying: A Quick Solution for macOS Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/exchangedb-recovery-made-simple-with-stellar/"><u>ExchangeDB Recovery Made Simple with Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fabios-it-success-video-on-exchanging-effective-testimonials/"><u>Fabio's IT Success: Video on Exchanging Effective Testimonials</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/failed-video-fix-time-to-reassess-strategy/"><u>Failed Video Fix? Time to Reassess Strategy</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-frequent-foggy-scene-presentation/"><u>Fixing Frequent Foggy Scene Presentation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-restricted-video-formats/"><u>Fixing Restricted Video Formats</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/flawless-film-formats-effortlessly/"><u>Flawless Film Formats, Effortlessly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-xr-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone XR Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/galaxy-gallery-star-rated-productions-and-reviews/"><u>Galaxy Gallery: Star-Rated Productions & Reviews</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-i-transfer-massive-edb-files-into-a-more-manageable-and-versatile-csv-format-an-industrial-experts-guide-tech-blog-post/"><u>How I Transfer Massive EDB Files Into a More Manageable and Versatile CSV Format – An Industrial Expert's Guide | Tech Blog Post</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-the-latest-amd-gpu-drivers-for-windows/"><u>How to Obtain and Install the Latest AMD GPU Drivers for Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-s18-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo S18?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/intergalactic-db-refresh-tactics/"><u>Intergalactic DB Refresh Tactics</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/intergalactic-file-recovery-resource/"><u>Intergalactic File Recovery Resource</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/navigating-the-labyrinth-of-lost-files-a-guide-to-recovery-by-singh/"><u>Navigating the Labyrinth of Lost Files: A Guide to Recovery, by Singh</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimize-your-business-operations-with-fast-effective-methods-of-converting-extensive-databases-from-edb-format-into-csv-expert-advice-tech-blog-post/"><u>Optimize Your Business Operations with Fast, Effective Methods of Converting Extensive Databases From EDB Format Into CSV – Expert Advice | Tech Blog Post</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/perfecting-the-art-of-seamless-video-delivery/"><u>Perfecting the Art of Seamless Video Delivery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/productivity-boosting/"><u>Productivity Boosting</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reignite-hidden-hd-in-apple-systems-8-ways-to-do-it/"><u>Reignite Hidden HD in Apple Systems: 8 Ways to Do It</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolved-reel-hiccup-on-instagram/"><u>Resolved: Reel Hiccup on Instagram</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/salvaging-scratched-vids-apples-best-approach/"><u>Salvaging Scratched Vids - Apple's Best Approach</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/simplify-movie-file-fixes-with-stellar-expertise/"><u>Simplify Movie File Fixes with Stellar Expertise</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-phoenix-emerges-for-mac-users-seeking-image-perfection/"><u>Stellar’s Phoenix Emerges for Mac Users Seeking Image Perfection</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamline-your-macs-storage-with-our-in-depth-guide/"><u>Streamline Your Mac's Storage with Our In-Depth Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamline-your-views-eradicate-lags-in-vlc/"><u>Streamline Your Views, Eradicate Lags in VLC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/sysadmin-augusto-explains-complex-mysql-fixes-in-video/"><u>SysAdmin Augusto Explains Complex MySQL Fixes in Video</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/taking-control-of-your-gmail-steps-to-create-custom-filters-and-manage-multiple-accounts/"><u>Taking Control of Your Gmail: Steps to Create Custom Filters & Manage Multiple Accounts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-to-minimize-compression-in-exported-media/"><u>Techniques to Minimize Compression in Exported Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/the-actual-fix-for-exporting-srt-from-premiere-not-working-for-2024/"><u>The Actual Fix for Exporting SRT From Premiere Not Working for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-when-stardew-valley-wont-load-up/"><u>Troubleshooting Guide: When Stardew Valley Won't Load Up</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unsteady-visuals-a-manual-for-mending-disrupted-videos-on-budget/"><u>Unsteady Visuals: A Manual for Mending Disrupted Videos on Budget</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-repair-guide-fix-corrupted-video-files-by-diy-methods/"><u>Video Repair Guide - Fix Corrupted Video Files by DIY Methods</u></a></li>
+</ul></div>

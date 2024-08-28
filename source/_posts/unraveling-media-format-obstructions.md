@@ -1,7 +1,7 @@
 ---
 title: Unraveling Media Format Obstructions
-date: 2024-07-10T06:37:58.526Z
-updated: 2024-07-11T06:37:58.526Z
+date: 2024-08-27T03:25:11.536Z
+updated: 2024-08-28T03:25:11.536Z
 categories:
   - repair-tools
 description: This Article Describes Unraveling Media Format Obstructions
@@ -85,6 +85,9 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -97,6 +100,10 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -107,6 +114,9 @@ _Figure: Mac suggests installed apps to open video_
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -118,6 +128,9 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -147,6 +160,9 @@ _Figure: Video profile options in VLC Player_
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
@@ -176,6 +192,9 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -212,3 +231,53 @@ About The Author
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-screeneasew11-simplified-windows-11-recording-software/"><u>[New] 2024 Approved  ScreenEaseW11  Simplified Windows 11 Recording Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-achieving-expert-control-the-steam-switch-controllers-guide/"><u>[New] Achieving Expert Control  The Steam Switch Controllers Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-from-download-to-implementation-installing-obs-on-a-macpc/"><u>[New] From Download to Implementation  Installing OBS on a MacPC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-igtv-success-hashtag-strategies-for-fame-for-2024/"><u>[New] Unlocking IGTV Success  Hashtag Strategies for Fame for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-superior-windows-11-cam-tech-picks/"><u>[Updated] 2024 Approved  Superior Windows 11 Cam Tech Picks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-monetization-carryminati-ajey-nagar-youtube-income-for-2024/"><u>[Updated] YouTube Monetization  CarryMinati (Ajey Nagar) YouTube Income for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-evaluation-of-slomo-recording-software/"><u>2024 Approved  Complete Evaluation of SloMo Recording Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chromebooks-finest-drawing-software-compared/"><u>Chromebook's Finest Drawing Software Compared</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/filefixer-combat-corrupted-videos/"><u>FileFixer: Combat Corrupted Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/flawless-film-formats-forever/"><u>Flawless Film Formats Forever</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/galactic-bookkeeper-rescue-guide/"><u>Galactic Bookkeeper Rescue Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-11-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-convert-big-sized-edb-data-sets-from-various-sources-including-sql-nosql-etc-for-use-in-pst-format-seamlessly/"><u>How to Convert Big Sized EDB Data Sets From Various Sources Including SQL, NoSQL, Etc., For Use in PST Format Seamlessly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-all-you-need-to-know-about-the-youtube-shorts-fund/"><u>In 2024, All You Need to Know About the YouTube Shorts Fund</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-the-most-recent-oculus-drivers-on-any-windows-machine-111087/"><u>Installing the Most Recent Oculus Drivers on Any Windows Machine (11/10/8/7)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/integrated-marketing-success-with-facebook-linkedin-and-youtube-techniques/"><u>Integrated Marketing Success with Facebook, LinkedIn, and YouTube Techniques</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/jpeg-repair-tool-to-fix-corrupt-jpeg-files/"><u>JPEG Repair Tool to Fix Corrupt JPEG Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mend-mpeg-video-glitches-top-tool-to-repair-and-resurrect-your-corrupt-movie-files/"><u>Mend MPEG Video Glitches – Top Tool to Repair and Resurrect Your Corrupt Movie Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-common-h264-file-errors/"><u>Mending Common H.264 File Errors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mocroscreen-recording-ads/"><u>MocroScreen Recording Ads</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mpeg-video-recovery-solutions-how-to-repair-damaged-film-files-easily/"><u>MPEG Video Recovery Solutions: How to Repair Damaged Film Files Easily</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mpeg-video-repair-wizard-how-to-salvage-corrupted-video-clips-quickly/"><u>MPEG Video Repair Wizard: How to Salvage Corrupted Video Clips Quickly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-common-issues-with-corrupted-m4v-files/"><u>Overcoming Common Issues with Corrupted M4V Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/premier-software-flawless-video-restoration/"><u>Premier Software: Flawless Video Restoration</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/professional-video-restoration-customer-acclaim/"><u>Professional Video Restoration, Customer Acclaim</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-guide-4-tricks-for-resolving-symbol-on-mac-folders/"><u>Quick Guide: 4 Tricks for Resolving ?-Symbol on Mac Folders</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/real-life-heroes-client-video-praise/"><u>Real-Life Heroes: Client Video Praise</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reconstructing-corrupted-nikon-video-archives/"><u>Reconstructing Corrupted Nikon Video Archives</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recovering-deleted-scenes-in-macs-damaged-mov-files/"><u>Recovering Deleted Scenes in Mac's Damaged MOV Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rectifying-graphics-glitch-post-win10-update/"><u>Rectifying Graphics Glitch Post-Win10 Update</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rectifying-mov-playback-issues-on-macs/"><u>Rectifying MOV Playback Issues on Macs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rejuvenating-exchdb-unveiling-stellarrepair-strategies/"><u>Rejuvenating Exchdb: Unveiling StellarRepair Strategies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-trash-empty-functionality-on-mac-os/"><u>Revive Trash Empty Functionality on Mac OS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-corrupted-video-files-on-phones/"><u>Reviving Corrupted Video Files on Phones</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-lost-visual-stories-in-videos/"><u>Reviving Lost Visual Stories in Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/smarter-mac-performance-unveil-stellars-tool/"><u>Smarter Mac Performance: Unveil Stellar’s Tool</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-becomes-the-first-data-recovery-company-to-recover/"><u>Stellar Becomes The First Data Recovery Company To Recover</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-data-recovery-12-mac-en-getting-familiar-with-user-interface/"><u>Stellar Data Recovery 12 Mac en Getting Familiar with User Interface</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-repair-for-video-customer-testimonial/"><u>Stellar Repair for Video - Customer Testimonial</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-first-step-in-photo-rehabilitation-software/"><u>Stellar's First Step in Photo Rehabilitation Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-ns-user-profile/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest N's User Profile</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/strategies-to-improve-exported-video-definition/"><u>Strategies to Improve Exported Video Definition</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/synergizing-social-media-impact-effective-integration-of-facebook-linkedin-and-youtube-for-greater-visibility/"><u>Synergizing Social Media Impact: Effective Integration of Facebook, LinkedIn & YouTube for Greater Visibility</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-8-best-data-recovery-software-for-mac-free-and-paid/"><u>Top 8 Best Data Recovery Software for Mac - Free and Paid</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlock-your-past-get-stellar-today/"><u>Unlock Your Past, Get Stellar Today!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unveiling-horizon-based-approaches-to-post-on-igtv/"><u>Unveiling Horizon-Based Approaches to Post on IGTV</u></a></li>
+</ul></div>

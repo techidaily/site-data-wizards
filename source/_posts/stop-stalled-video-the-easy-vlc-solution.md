@@ -1,7 +1,7 @@
 ---
 title: "Stop Stalled Video: The Easy VLC Solution"
-date: 2024-07-10T06:39:01.577Z
-updated: 2024-07-11T06:39:01.577Z
+date: 2024-08-27T03:22:13.889Z
+updated: 2024-08-28T03:22:13.889Z
 categories:
   - repair-tools
 description: "This Article Describes Stop Stalled Video: The Easy VLC Solution"
@@ -51,6 +51,9 @@ Table of Content
 
 **Also read:** [How to open HEIC, HEVC files on Windows 10](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### **Method 2: Increase cache values in VLC Player**
 
  VLC Player preloads video cache files in the computer’s RAM to properly access and plays the video. You can try to fix the video buffering issue by increasing the cache value. However, this would increase the number of seconds videos are cached to play in VLC Player.
@@ -71,6 +74,9 @@ _Figure: Input/Codecs pane in VLC_
 * In the**Advanced** section, across**File caching (ms),** change the value to 1000 or above.
 * Click**Save.** Next, restart VLC Player and check if the videos are playing properly.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 3: Disable Hardware Decoding in VLC Player**
 
  VLC Media Player can use the GPU of a computer to accelerate video decoding in high-quality videos. However, your PC’s drivers may behave abruptly, resulting in video playback or streaming issues. You can try disabling hardware decoding to fix Video Stuck or Freeze in the VLC player.
@@ -88,6 +94,9 @@ _Figure: Input/Codecs pane in VLC_
 * Under**FFmpeg audio/video decoder** , scroll down to**Hardware decoding** and set it to**Disable** .
 * Click **Save** . Restart VLC Payer to enable the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 4: Change FFmpeg settings in VLC Player**
 
  Making changes in the FFmpeg video codec in VLC Player has worked for some. You can also try to resolve video stuttering and freezing with this technique.
@@ -134,6 +143,9 @@ _Figure: Video output modules in VLC_
 * Click on**Save** at the bottom**.**
 * Check if VLC Player can play your videos without freeze or interruption.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 6: Repair your video using Stellar Repair for Video**
 
  The video file may be corrupt if the above methods using VLC Media Player don’t fix video freeze, lag, or stuttering issues. To confirm corruption, see if your video freezes while playing in another media player.
@@ -156,6 +168,9 @@ _Figure: Video output modules in VLC_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Conclusion**
 
  Here we have recommended changing the settings of VLC Media Player to fix video freezing or lag using the below methods:
@@ -170,6 +185,9 @@ _Figure: Video output modules in VLC_
 
  I hope you found this helpful. Do share with our readers which method helped you fix Video Stuck or Freeze in the VLC player issue in the comment box below.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 1
@@ -198,3 +216,40 @@ About The Author
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/days-gone-the-ultimate-survival-horror-game-drops-today-get-ready-to-ride-on-your-pc/"><u>'Days Gone': The Ultimate Survival Horror Game Drops Today – Get Ready to Ride on Your PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-creating-captivating-slideshows-on-the-social-media-giant/"><u>[New] Creating Captivating Slideshows on the Social Media Giant</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-image-saver-compilation/"><u>[New] In 2024, Free YouTube Image Saver Compilation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-guide-youtube-channel-titles-for-video-blogging-max-156/"><u>[New] Ultimate Guide  YouTube Channel Titles For Video Blogging (Max 156)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-mastering-slug-lines-for-effective-storytelling/"><u>[Updated] Mastering Slug Lines for Effective Storytelling</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-this-article-provides-helpful-tips-for-creating-better-film-footage-in-public-places-learn-how-to-choose-the-right-angle-and-re-record-the-aud/"><u>2024 Approved This Article Provides Helpful Tips for Creating Better Film Footage in Public Places. Learn How to Choose the Right Angle and Re-Record the Audio with Filmora</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/adaptable-video-restoration-suite-by-grau-gmbh-advanced-tools-for-optimal-performance/"><u>Adaptable Video Restoration Suite by Grau GmbH: Advanced Tools for Optimal Performance</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-database-recovery-aid/"><u>Celestial Database Recovery Aid</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/client-success-stories-hard-drive-data/"><u>Client Success Stories: Hard Drive Data</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correct-stellar-media-interruption-0xc00d36c4/"><u>Correct Stellar Media Interruption: 0XC00D36C4</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/direct-order-ultimate-screen-restoration/"><u>Direct Order: Ultimate Screen Restoration</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-dell-sound-card-drivers-free-downloads-and-updates/"><u>Easy Installation: Dell Sound Card Drivers - Free Downloads and Updates</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effective-routines-for-patching-videos/"><u>Effective Routines for Patching Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effortless-visual-corrections-macwindows/"><u>Effortless Visual Corrections (Mac/Windows)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/email-backup-strategies-from-lost-mail-to-online-success/"><u>Email Backup Strategies: From Lost Mail to Online Success</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-whiteboard-animation-software-for-windows-and-mac-top-10-picks/"><u>Free Whiteboard Animation Software for Windows and Mac Top 10 Picks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macdatarescue-roundup-discovering-8-top-rated-apps/"><u>MacDataRescue Roundup: Discovering 8 Top-Rated Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/methods-for-extracting-video-tweets-from-twitter-and-youtube-into-mp3-format-for-2024/"><u>Methods for Extracting Video Tweets From Twitter & YouTube Into MP3 Format for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-printing-latest-canon-xp-software-available/"><u>Optimize Printing: Latest Canon XP Software Available</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcome-frame-skipping-at-0xc00d36c4/"><u>Overcome Frame Skipping at 0XC00D36C4</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-20-standard-video-issues-effortlessly/"><u>Overcoming 20 Standard Video Issues Effortlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-and-effective-ways-to-prevent-your-pc-from-freezing-during-assassins-creed-odyssey/"><u>Quick and Effective Ways to Prevent Your PC From Freezing During Assassin's Creed Odyssey</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repair-your-mpeg-media-effective-solutions-for-fixing-damaged-video-files/"><u>Repair Your MPEG Media: Effective Solutions for Fixing Damaged Video Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resource-allocation-mastery/"><u>Resource Allocation Mastery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restorereel-reclaiming-videography/"><u>RestoreReel: Reclaiming Videography</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rtl8723c-pcie-chipset-latest-windows-11-drivers-unveiled/"><u>RTL8723C PCIe Chipset: Latest Windows 11 Drivers Unveiled</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solutions-for-non-compatible-video-format/"><u>Solutions for Non-Compatible Video Format</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/star-system-information-repository/"><u>Star System Information Repository</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/superior-video-restoration-software-for-all-systems/"><u>Superior Video Restoration Software for All Systems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-best-10-software-solutions-to-repair-videos-on-your-computer-or-mac/"><u>The Best 10 Software Solutions to Repair Videos on Your Computer or Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720671051513-transform-your-media-with-grau-gmbhs-elite-video-repair-software-perfect-for-both-novices-and-tech-gurus/"><u>Transform Your Media with Grau GmbH's Elite Video Repair Software – Perfect for Both Novices and Tech Gurus</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/why-do-my-videos-show-varied-repair-quality/"><u>Why Do My Videos Show Varied Repair Quality?</u></a></li>
+</ul></div>
