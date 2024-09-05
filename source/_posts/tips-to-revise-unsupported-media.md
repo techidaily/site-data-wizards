@@ -1,7 +1,7 @@
 ---
 title: Tips to Revise Unsupported Media
-date: 2024-08-15T05:01:42.134Z
-updated: 2024-08-16T05:01:42.134Z
+date: 2024-09-04T06:58:56.488Z
+updated: 2024-09-05T06:58:56.488Z
 categories:
   - repair-tools
 description: This Article Describes Tips to Revise Unsupported Media
@@ -67,9 +67,6 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -88,9 +85,6 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -103,6 +97,12 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -113,9 +113,6 @@ _Figure: Mac suggests installed apps to open video_
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -138,8 +135,10 @@ _Figure: VLC message when new version is available._
  The open source VLC Media Player can also convert video files to different format.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -156,6 +155,12 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
@@ -164,6 +169,12 @@ _Figure: Video profile options in VLC Player_
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
  When converting or getting the compatible codecs don’t solve the problem, chances are your video file is giving error due to corruption.
@@ -190,7 +201,10 @@ _Figure: Preview video after repair_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **Wrapping up**
 
@@ -201,7 +215,16 @@ _Figure: Preview video after repair_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Was this article helpful?
 

@@ -1,7 +1,7 @@
 ---
 title: Tighten Timing in Video Playback on VLC
-date: 2024-08-15T05:05:07.842Z
-updated: 2024-08-16T05:05:07.842Z
+date: 2024-09-04T06:58:52.721Z
+updated: 2024-09-05T06:58:52.721Z
 categories:
   - repair-tools
 description: This Article Describes Tighten Timing in Video Playback on VLC
@@ -46,9 +46,6 @@ Table of Content
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
 _Figure: Audio delay message in VLC_
@@ -61,6 +58,12 @@ _Figure: Audio delay message in VLC_
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
  The answer is ‘Yes’. You can apply the settings for once for all the videos you play in VLC. For this, use the **‘Audio desynchronization compensation’** feature. It would permanently fix the audio-video sync in VLC Player. Unlike the Audio track synchronization value, which you must reset every time, you must set the ‘Audio desynchronization compensation’ value just once. The settings get saved for all the videos until you change it again.
@@ -77,7 +80,10 @@ _Figure: Audio track synchronization in VLC_
 * Next, click**Close** .
 
 <!-- affiliate ads begin -->
-
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -101,7 +107,10 @@ _Figure: Set Audio desynchronization compensation value in VLC_
  The video or movie should now play without any audio sync issue in the VLC Player.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
@@ -121,10 +130,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -138,7 +143,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **How to fix audio sync issue with repair software**
 
@@ -155,7 +163,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Conclusion**
 
@@ -173,6 +184,12 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 0

@@ -1,7 +1,7 @@
 ---
 title: Resolving Power Supply Issues to GPU
-date: 2024-08-15T05:03:08.736Z
-updated: 2024-08-16T05:03:08.736Z
+date: 2024-09-04T06:58:54.995Z
+updated: 2024-09-05T06:58:54.995Z
 categories:
   - repair-tools
 description: This Article Describes Resolving Power Supply Issues to GPU
@@ -76,15 +76,15 @@ Table of Content
 
  A graphics card is not always the cause of video problems; sometimes, the problems are caused due to other hardware-related aspects, as follows:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### **1\. Loose connection:**
 
  Visual issues can be caused due to a loose connection between the computer and the graphics card. Ensure that the video cable is fine and plugged in properly. Replace the faulty cable.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **2\. Swap graphics card slot:**
 
@@ -94,17 +94,26 @@ Table of Content
 
  Video display problems could be monitor-related issues instead of the graphics card. Replacing the monitor may fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **4\. Test another graphics card:**
 
  If you use a dedicated NVidia GeForce or AMD card, replace it with another card of similar specifications. If the display problem gets fixed, your old graphics card needs repair or replacement.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **5\. Check your Sound Drivers:**
 
  Is the computer crashing only while playing games? It may be due to the sound hardware. To check this possibility, disable the sound hardware temporarily via**Device Manager** on your PC. If your computer doesn’t crash now, it’s a sound system issue. Download sound card drivers from the manufacturer’s website.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **6\. Check the ‘Device Status’ of your graphic card:**
 
  Go to**Device Manager> Display adapters** . Right-click on your graphic card and click**Properties** . See the**Device Status** If it shows a video card error like Code 43 or Code 12, it indicates a video card problem. Follow the given troubleshooting methods to fix the video card error.
@@ -116,9 +125,6 @@ Table of Content
  If your videos are not playing and the**Device Status** of your graphic card reads –_‘The device is working properly,’_ the video might be corrupt.**In this case, you would need software like** Stellar Repair for Video, which can repair visual and sound corruption in damaged videos. The software fixes video glitches, stuttering, missing sound, video lag, and other problems.
 
 ![Device Status of Graphic card showing ‘device working’](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/ww.png)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Figure: Device Status of Graphic card showing ‘device working’
 
@@ -126,9 +132,6 @@ Try the free version of the software:
 
 [Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **How to fix video card problems**
 
  After the physical checks and fix, if the computer display problem continues, move to the below troubleshooting methods:
@@ -140,8 +143,10 @@ Try the free version of the software:
 5. [**Replace your video card**](#5)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **1\. Upgrade video card drivers**
 
@@ -157,9 +162,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **_ [Read More](https://support.microsoft.com/en-us/help/4028443/windows-10-update-drivers) _**
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **2\. Disable/Enable the graphics card**
 
  To repair the graphics card ‘no display’ problem, disable/enable the card driver. This method can fix integrated video cards and dedicated (external) graphics cards.
@@ -182,6 +184,12 @@ To disable video card drives, follow the below steps:
 * Click on properties.
 * Go to the**Driver** tab and click the**Enable** button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **3.** **Uninstall and reinstall the drivers**
 
  Uninstall the graphic drivers and then reboot your PC. Windows will automatically install the drivers after Windows Update.
@@ -200,7 +208,10 @@ To uninstall the driver, follow the below steps:
 > **Note:** NVidia and AMD provide specific tools to uninstall and reinstall graphic drivers. However, these should be only used when the Windows normal uninstall/ reinstall process fails.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **4\. Cool and clean video card**
 
@@ -212,15 +223,18 @@ To uninstall the driver, follow the below steps:
 
  If the motherboard or the dedicated graphic card is damaged due to overheating, you would need to replace them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **5\. Replace your video card**
 
  Buying a new video card is the only option when the existing card is damaged due to overheating or overclocking or has become outdated. If you are using an integrated video card, replace the whole motherboard.
 
  Before buying, consider the specific use of graphics cards. Gamers or video editing professionals need a more powerful GPU to process intense graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **To Sum Up**
 
  Graphics card problems can be related to hardware or software. The blog highlighted a few quick symptoms that identify corruption or damage in your graphics card.
@@ -235,18 +249,33 @@ To uninstall the driver, follow the below steps:
 
 [Video Repair](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Video Repair Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Was this article helpful?
 
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 About The Author
 
 ![](https://secure.gravatar.com/avatar/574139bee03ec4bdb0cd6e869a4670da?s=85&d=mm&r=g)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 

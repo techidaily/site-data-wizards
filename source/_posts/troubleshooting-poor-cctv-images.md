@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Poor CCTV Images
-date: 2024-08-15T05:01:57.229Z
-updated: 2024-08-16T05:01:57.229Z
+date: 2024-09-04T06:58:56.214Z
+updated: 2024-09-05T06:58:56.214Z
 categories:
   - repair-tools
 description: This Article Describes Troubleshooting Poor CCTV Images
@@ -55,15 +55,15 @@ Table of Content
 
  A corrupt CCTV footage will not work on Mac/Windows. A video footage gets corrupted when the CCTV camera abruptly shuts down while recording.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **How to fix CCTV Videos Not Playing Issue?**
 
  CCTV videos not opening or playing can be frustrating when you need to watch a recorded video urgently to retrieve a lost asset or review a past event. Here are some common CCTV videos not working scenarios and how to solve them.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **Choppy or Blurry CCTV Videos**
 
@@ -73,6 +73,12 @@ Table of Content
 
  If your SD card is corrupted, reformat it, and then use a professional photo recovery tool to recover lost CCTV videos from the formatted card.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Black Screen while playing CCTV Videos**
 
  If you see a black screen error while playing CCTV videos on your PC, it can be due to a missing codec, file corruption, outdated display driver, or incomplete video transfer.
@@ -80,7 +86,10 @@ Table of Content
  You can update the display driver, transfer the video again, or change the video format to [fix the black screen error](https://tools.techidaily.com/stellardata-recovery/buy-now/) .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **Unsupported Video Codec**
 
@@ -89,7 +98,10 @@ Table of Content
  In this case, play the video in another media player or download the missing codec. Or, convert the video format of your CCTV footage using an online converter or VLC Player.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **CCTV Video won’t play due to Video Corruption**
 
@@ -108,9 +120,6 @@ Table of Content
 
 * Once the repair process ends, click **Preview** to see the repaired CCTV videos. Then click**Save** **Repaired** **Files** to save them at the desired location.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Tips to Avoid Corruption in CCTV Video Footage**
 
  While the problem of**‘CCTV video footage not playing on Windows/Mac’** is very common, you can prevent this error altogether by following some best practices:
@@ -121,6 +130,12 @@ Table of Content
 * Properly transfer CCTV footage from one SD card to another device.
 * Don’t save a new video on the SD card when it’s running out of space.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **FAQ**
 
 **1** .**How do we recover lost videos from CCTV cameras?**
@@ -137,7 +152,10 @@ To troubleshoot the CCTV camera with no video feed, try the following:
 * Reboot the camera.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Was this article helpful?
 

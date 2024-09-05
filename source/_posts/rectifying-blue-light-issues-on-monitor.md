@@ -1,7 +1,7 @@
 ---
 title: Rectifying Blue Light Issues on Monitor
-date: 2024-08-15T05:02:11.752Z
-updated: 2024-08-16T05:02:11.752Z
+date: 2024-09-04T06:58:56.016Z
+updated: 2024-09-05T06:58:56.016Z
 categories:
   - repair-tools
 description: This Article Describes Rectifying Blue Light Issues on Monitor
@@ -76,6 +76,12 @@ Table of Content
 
  A graphics card is not always the cause of video problems; sometimes, the problems are caused due to other hardware-related aspects, as follows:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **1\. Loose connection:**
 
  Visual issues can be caused due to a loose connection between the computer and the graphics card. Ensure that the video cable is fine and plugged in properly. Replace the faulty cable.
@@ -84,13 +90,22 @@ Table of Content
 
  The problem might be due to a faulty PCI card slot. Insert your external graphics card in a different slot and see if this resolves the problem.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **3\. Check the PC monitor:**
 
  Video display problems could be monitor-related issues instead of the graphics card. Replacing the monitor may fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **4\. Test another graphics card:**
 
  If you use a dedicated NVidia GeForce or AMD card, replace it with another card of similar specifications. If the display problem gets fixed, your old graphics card needs repair or replacement.
@@ -99,24 +114,30 @@ Table of Content
 
  Is the computer crashing only while playing games? It may be due to the sound hardware. To check this possibility, disable the sound hardware temporarily via**Device Manager** on your PC. If your computer doesn’t crash now, it’s a sound system issue. Download sound card drivers from the manufacturer’s website.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### **6\. Check the ‘Device Status’ of your graphic card:**
 
  Go to**Device Manager> Display adapters** . Right-click on your graphic card and click**Properties** . See the**Device Status** If it shows a video card error like Code 43 or Code 12, it indicates a video card problem. Follow the given troubleshooting methods to fix the video card error.
 
 ![Device Status of Graphics card showing Code 43](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/vv.png)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Figure: Device Status of Graphics card showing Code 43
 
  If your videos are not playing and the**Device Status** of your graphic card reads –_‘The device is working properly,’_ the video might be corrupt.**In this case, you would need software like** Stellar Repair for Video, which can repair visual and sound corruption in damaged videos. The software fixes video glitches, stuttering, missing sound, video lag, and other problems.
 
 ![Device Status of Graphic card showing ‘device working’](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/ww.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Figure: Device Status of Graphic card showing ‘device working’
 
 Try the free version of the software:
@@ -134,7 +155,10 @@ Try the free version of the software:
 5. [**Replace your video card**](#5)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **1\. Upgrade video card drivers**
 
@@ -164,10 +188,13 @@ To disable video card drives, follow the below steps:
 * Next, reboot your computer.
 
 ![enable the graphics card](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/Screenshot-61.png)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, enable the graphics card again by visiting the**Device Manager** on your PC or laptop and following these steps:
 
 * Click**Display Adapters**
@@ -176,7 +203,10 @@ To disable video card drives, follow the below steps:
 * Go to the**Driver** tab and click the**Enable** button.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **3.** **Uninstall and reinstall the drivers**
 
@@ -195,9 +225,6 @@ To uninstall the driver, follow the below steps:
 
 > **Note:** NVidia and AMD provide specific tools to uninstall and reinstall graphic drivers. However, these should be only used when the Windows normal uninstall/ reinstall process fails.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### **4\. Cool and clean video card**
 
  Does your CPU turn hot after some time? Or do your videos and games stop playing properly after a few minutes? It may be because of overheating of the motherboard or video card.
@@ -229,20 +256,29 @@ To uninstall the driver, follow the below steps:
 [Video Repair](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Video Repair Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Was this article helpful?
 
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 About The Author
 
 ![](https://secure.gravatar.com/avatar/574139bee03ec4bdb0cd6e869a4670da?s=85&d=mm&r=g)
