@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Video Demonstration: Migrating Recovered EDB Files to a Live Exchange Environment"
-date: 2024-09-04T06:58:55.314Z
-updated: 2024-09-05T06:58:55.314Z
+date: 2024-09-09T02:01:27.188Z
+updated: 2024-09-10T02:01:27.188Z
 categories:
   - repair-tools
 description: "This Article Describes Step-by-Step Video Demonstration: Migrating Recovered EDB Files to a Live Exchange Environment"
@@ -17,12 +17,24 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
 ##### 
 ![](https://www.stellarinfo.com/images/youtube/youtube-icon small.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/clock-icon.png)
 
 ###### 4:27
 
 ![](https://www.stellarinfo.com/images/youtube/eye-icon.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###### 303 Views
 
 ![](https://www.stellarinfo.com/images/youtube/calander-icon.png)
@@ -31,6 +43,12 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
 
 [Subscribe](https://www.stellarinfo.com/images/youtube/shareIcon.png) Share ](javascript:void%280%29) [Subscribe ![](https://www.stellarinfo.com/images/youtube/link-icon.png) ](https://www.youtube.com/@stellardatarecovery)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 303 views Jun 14, 2021
 
  This video shows how to export the recovered EDB file (mailboxes) to live Exchange Server. For this, you need to download one of the best Exchange recovery software - Stellar Repair for Exchange. The software can easily repair large EDB files and is compatible with Exchange Server 2019, 2016, 2013, 2010, 2007, 2003, and 2000\. You can download the software from: <https://www.stellarinfo.com/edb-exchange-server-recovery.htm> Other than this video, you can have more information about how to export recovered mailboxes to live Exchange Server through this guide: <https://www.stellarinfo.com/support/kb/index.php/article/export-recovered-mailboxes-to-live-exchange-server> STELLAR REPAIR FOR EXCHANGE Stellar Repair for Exchange software has some remarkable features that make it the top choice of Exchange administrators and MVPs. It repairs EDB file without any data loss and maintains the complete folder hierarchy. Advanced Features 1\. You can process 4 mailboxes at a time. 2\. Offers the ‘Select Scan Mode’ feature, having two options: Quick and Extensive Scan. 3\. You can select, unselect, or enter the mailbox number in the priority queue to scan it and export it to PST, Office 365, or live Exchange. 4\. Multiple options are available for exporting recovered mailboxes: PST, EML, HTML, RTF, MSG, and PDF. 5\. You can select a particular mailbox or item using the selective mailbox recovery feature. 6\. Repairs corrupt archive mailboxes. 7\. You can repair corrupt public folders in the EDB file. 8\. It takes less time to repair even large-sized EDB file. Easy Steps to Export Recovered Mailboxes to Live Exchange Server 1\. Download, install, and launch Stellar Repair for Exchange software. 2\. Choose ‘Browse’ to select the corrupt EDB file and select ‘Next’. 3\. Choose the ‘Scan’ mode (Quick or Extensive) as per your need and click on ‘OK’. 4\. Now, preview the recovered mailboxes and their items. 5\. Select ‘Save’ and choose the ‘Export to Live Exchange’ option. Click on ‘Next’. 6\. Enter the destination Exchange Server credentials, then click on ‘Next’. 7\. Review the recovered mailboxes from the ‘Map Mailboxes’ window. You can also manually map them. 8\. Set the priority as per your requirement. 9\. Click on ‘Export’ to export recovered Exchange mailboxes on the destination Exchange server. 10\. Now you can view and manage the mailboxes from the save window. 11\. Finally, the recovered mailboxes are successfully exported to the live Exchange Server. Dial Tone Recovery - Exchange Server Being an Exchange Administrator, you may have to restore a corrupt or dismounted database, which may cause server downtime. Dial Tone Recovery helps in reducing this downtime. It creates an empty Exchange database and gives temporary access to the mailbox to send/receive emails. After performing the required steps for the Dial Tone Recovery available in the Microsoft Exchange Server, you will need the Stellar Repair for Exchange tool to export corrupt or dismounted database to an empty database. To know the detailed steps and to use the Dial Tone Recovery, please refer: <https://www.stellarinfo.com/article/dialtone-recovery-exchange-server.php> If you have any queries or suggestions, let us know in the comments section below or send us an email using this URL: <https://www.stellarinfo.com/contact/contact-us.php> If you need any help, you can contact us via our Support Page: <https://www.stellarinfo.com/support/> Languages German: <https://bit.ly/358TX3f> French: <https://bit.ly/3bIiuij> Italian: <https://bit.ly/3aB7ulm> Spanish: <https://bit.ly/2Y56T8Z>
@@ -39,6 +57,18 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
 
 [How to Repair Corrupt MP4 Videos using Stellar Repair for Video? Jul 27, 2021](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/VCGtfXVO2AM/mqdefault.jpg)  How to Repair Corrupt MP4 Videos using Stellar Repair for Video? Jul 27, 2021 ](/video-details.php?id=VCGtfXVO2AM&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl) [How to Repair Corrupt MySQL Database Using Stellar Repair for MySQL (Windows OS) Jul 27, 2021](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/30Zgkp99mDQ/mqdefault.jpg)  How to Repair Corrupt MySQL Database Using Stellar Repair for MySQL (Windows OS) Jul 27, 2021 ](/video-details.php?id=30Zgkp99mDQ&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl) [How to Repair and Restore Corrupt SQL server Database with Stellar Repair for MS SQL Software Jul 27, 2021](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/yso4axqXxlM/mqdefault.jpg)  How to Repair and Restore Corrupt SQL server Database with Stellar Repair for MS SQL Software Jul 27, 2021 ](/video-details.php?id=yso4axqXxlM&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl) [How to Repair Corrupt Exchange Database -Stellar Repair for Exchange | Best Solution | Jul 29, 2021](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/HBr66z7BUvI/mqdefault.jpg)  How to Repair Corrupt Exchange Database -Stellar Repair for Exchange | Best Solution | Jul 29, 2021 ](/video-details.php?id=HBr66z7BUvI&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl) [How to Export Recovered Mailboxes to Live Exchange Server? Jul 29, 2021](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/QX4omQI2mb8/mqdefault.jpg)  How to Export Recovered Mailboxes to Live Exchange Server? Jul 29, 2021 ](/video-details.php?id=QX4omQI2mb8&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl) [How to Repair and Restore Exchange Database - Stellar Repair for Exchange || Alternative to ESEUTIL Jul 29, 2021](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/CMbUv4CiWJA/mqdefault.jpg)  How to Repair and Restore Exchange Database - Stellar Repair for Exchange || Alternative to ESEUTIL Jul 29, 2021 ](/video-details.php?id=CMbUv4CiWJA&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl) [How to Export Recovered EDB file(Mailboxes) to Live Exchange Server? Jul 29, 2021](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/F7ND-ZrrBto/mqdefault.jpg)  How to Export Recovered EDB file(Mailboxes) to Live Exchange Server? Jul 29, 2021 ](/video-details.php?id=F7ND-ZrrBto&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl) [How to Fix Excel Hyperlinks that are not working with Stellar Repair for Excel Software Aug 02, 2022](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/0zqTH_IBYCA/mqdefault.jpg)  How to Fix Excel Hyperlinks that are not working with Stellar Repair for Excel Software Aug 02, 2022 ](/video-details.php?id=0zqTH%5FIBYCA&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl) [Cómo arreglar los hipervínculos de Excel que no funcionan Aug 25, 2022](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/GXb6-1tN1n4/mqdefault.jpg) Cómo arreglar los hipervínculos de Excel que no funcionan Aug 25, 2022 ](/video-details.php?id=GXb6-1tN1n4&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl) [Comment réparer les hyperliens Excel qui ne fonctionnent pas? Sep 02, 2022](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/2HL_isVYnN8/mqdefault.jpg)  Comment réparer les hyperliens Excel qui ne fonctionnent pas? Sep 02, 2022 ](/video-details.php?id=2HL%5FisVYnN8&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl) [How to Fix Microsoft Excel File Error ‘The document cannot be saved’🤔 Sep 15, 2022](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/9aeqD5uegc4/mqdefault.jpg)  How to Fix Microsoft Excel File Error ‘The document cannot be saved’🤔 Sep 15, 2022 ](/video-details.php?id=9aeqD5uegc4&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl) [How to Repair and Recover Corrupt MDB & ACCDB Access Files? Oct 11, 2023](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/DgejMDOAWg8/mqdefault.jpg)  How to Repair and Recover Corrupt MDB & ACCDB Access Files? Oct 11, 2023 ](/video-details.php?id=DgejMDOAWg8&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl) [File Format and Extension don't Match Error in MS Excel [Fixed] May 08, 2024](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/ZEyti5O2C9g/mqdefault.jpg)  File Format and Extension don't Match Error in MS Excel \[Fixed\] May 08, 2024 ](/video-details.php?id=ZEyti5O2C9g&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl) [How to Fix "The File you specified cannot be opened" error in QuickBooks? Jun 17, 2024](images/youtube/youtube-icon.png) ![](https://i.ytimg.com/vi/k-tO1JecaqM/mqdefault.jpg)  How to Fix "The File you specified cannot be opened" error in QuickBooks? Jun 17, 2024 ](/video-details.php?id=k-tO1JecaqM&list=PL2n3bfp4d8xot2EDUKUpQ9jAR2D8lb6tl)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/clock-icon.png)
 
 ###### 4:27
@@ -49,6 +79,18 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
 
 ![](https://www.stellarinfo.com/images/youtube/calander-icon.png)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###### Jun 14, 2021
 
 [Subscribe](https://www.stellarinfo.com/images/youtube/shareIcon.png) Share ](javascript:void%280%29) [Subscribe ![](https://www.stellarinfo.com/images/youtube/link-icon.png) ](https://www.youtube.com/@stellardatarecovery)
@@ -84,6 +126,12 @@ Awards Received
 * [TUV SUD ISO 9001](https://www.stellarinfo.com/images/v7/tuv2.png) ](https://www.stellarinfo.com/images/v7/ISO-9001-2008Certificate.pdf)
 * ![NIST](https://www.stellarinfo.com/images/v7/nist.png)
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Stellar Official Website
 
@@ -145,7 +193,31 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 * ![Notron](https://www.stellarinfo.com/images/v7/notron.png)
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -216,16 +288,3 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 <li><a href="https://data-wizards.techidaily.com/why-my-photos-refuse-to-open/"><u>Why My Photos Refuse to Open?</u></a></li>
 <li><a href="https://data-wizards.techidaily.com/your-macs-safety-net-ranking-of-top-data-recovery-tools/"><u>Your Mac's Safety Net: Ranking of Top Data Recovery Tools</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Introducing Yourself to the Stellar Mac Interface
-date: 2024-09-04T06:58:53.739Z
-updated: 2024-09-05T06:58:53.739Z
+date: 2024-09-09T02:01:25.419Z
+updated: 2024-09-10T02:01:25.419Z
 categories:
   - repair-tools
 description: This Article Describes Introducing Yourself to the Stellar Mac Interface
@@ -10,6 +10,18 @@ keywords: Stellar Mac Interface,Mac Interface Introduction Guide,Getting Started
 thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a2892c96756f155f1fe1fe9c5e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Introducing Yourself to the Stellar Mac Interface
 
 Stellar Data Recovery
@@ -66,6 +78,12 @@ Stellar Data Recovery
 
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Stellar Data Recovery](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[3. Getting Started](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**3.3\. Getting Familiar with User Interface**
 
 # **3.3\. Getting Familiar with User Interface**
@@ -74,6 +92,12 @@ Stellar Data Recovery
 
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-data-recovery-12-mac-en/images/main%20screen.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **"What To Recover"** Screen provides you with the following options to recover your data:
 
 * **Recover Everything:** this option recovers complete data from the selected hard drive or storage media. All documents, Emails, Videos, Audios, Photos, files and folders present or deleted from the drive/media can be recovered using this option.
@@ -98,6 +122,12 @@ Stellar Data Recovery
   
 ![](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-data-recovery-12-mac-en/images/help-topic.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * **Help Topics:** Use this option to view the **Stellar Data Recovery**  help manual .
 * **Buy Stellar Data Recovery :** Use this option to purchase Stellar Data Recovery software .
 * **Send an Email Message to Stellar Support:** Use this option to receive [email support](mailto:support@stellarinfo.com) if you have any issues.
@@ -109,10 +139,22 @@ Stellar Data Recovery
 
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-data-recovery-12-mac-fr/images/4edit.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click the three vertical dots at the upper right corner of the main interface to use additional tools of **Stellar Data Recovery**  . The screen looks like this:
 
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-data-recovery-12-mac-en/images/more%20tools%20EN.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * **Drive Monitor:** A tool to monitor various disk parameters, such as temperature, performance and hard drive status, as well as scan, clone and view partition details of the selected hard drive.
 
  _**Note: Drive Monitor is available in** **Professional**  , **Premium** , and_ **_Technician_**   _editions_ **.**
@@ -215,16 +257,3 @@ _**Note:**  Video Repair is available in the **Premium** and **Technician**  edi
 <li><a href="https://data-wizards.techidaily.com/video-revival-excellence-endorsed-by-users/"><u>Video Revival Excellence, Endorsed by Users</u></a></li>
 <li><a href="https://data-wizards.techidaily.com/vidfixmaster-quick-repair-made-easy/"><u>VidFixMaster: Quick Repair Made Easy</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
