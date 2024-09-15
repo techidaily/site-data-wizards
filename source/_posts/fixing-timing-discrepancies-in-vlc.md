@@ -1,7 +1,7 @@
 ---
 title: Fixing Timing Discrepancies in VLC
-date: 2024-08-15T04:59:22.349Z
-updated: 2024-08-16T04:59:22.349Z
+date: 2024-09-12T00:11:12.319Z
+updated: 2024-09-14T17:22:56.320Z
 categories:
   - repair-tools
 description: This Article Describes Fixing Timing Discrepancies in VLC
@@ -46,9 +46,6 @@ Table of Content
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
 _Figure: Audio delay message in VLC_
@@ -61,9 +58,6 @@ _Figure: Audio delay message in VLC_
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
  The answer is ‘Yes’. You can apply the settings for once for all the videos you play in VLC. For this, use the **‘Audio desynchronization compensation’** feature. It would permanently fix the audio-video sync in VLC Player. Unlike the Audio track synchronization value, which you must reset every time, you must set the ‘Audio desynchronization compensation’ value just once. The settings get saved for all the videos until you change it again.
@@ -79,9 +73,6 @@ _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
  Often, users ask if every time they play a video in VLC, they have to manually adjust Audio track synchronization to get the audio in sync with the video. So, is it possible for this setting to be saved permanently?
@@ -104,8 +95,12 @@ _Figure: Set Audio desynchronization compensation value in VLC_
  The video or movie should now play without any audio sync issue in the VLC Player.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -125,8 +120,12 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -153,9 +152,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## **Conclusion**
 
  It’s annoying when your favourite VLC Player suddenly starts playing videos out of sync. But the best thing about VLC is that it can fix its glitches. You can use various features in VLC to fix video-audio sync problems.
@@ -190,8 +186,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,41 +195,20 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-streamlabs-competitors-in-the-livestream-arena/"><u>[New] 2024 Approved  Streamlabs' Competitors in the Livestream Arena</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-constructing-cinema-stories/"><u>[New] Constructing Cinema Stories</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-seamless-youtube-experience-facebooks-autoplay-solution-for-2024/"><u>[New] Seamless YouTube Experience  Facebook's Autoplay Solution for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-essentials-of-film-production-for-youtube-originals/"><u>[Updated] 2024 Approved  The Essentials of Film Production for YouTube Originals</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-2023s-most-captivating-channel-the-ultimate-story-showcase/"><u>2024 Approved  2023'S Most Captivating Channel  The Ultimate Story Showcase</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-comparing-streams-vimeo-versus-youtube/"><u>2024 Approved  Comparing Streams  Vimeo Versus YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-preventing-motion-sickness-in-virtual-worlds/"><u>2024 Approved  Preventing Motion Sickness in Virtual Worlds</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effective-solutions-to-rectify-arduino-uno-driver-problems-in-windows/"><u>Effective Solutions to Rectify Arduino Uno Driver Problems in Windows</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-mp4-file-errors/"><u>Fixing MP4 File Errors</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/halt-video-lag-with-a-simple-fix-vlc/"><u>Halt Video Lag with a Simple Fix (VLC)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-repair-corrupt-m4v-video-files-on-macwindows-stellar/"><u>How To Repair Corrupt M4V Video Files on Mac/Windows? - Stellar</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-infinix-smart-7-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Infinix Smart 7 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-motorola-moto-g13-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-15-pro-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 15 Pro? How to Fix</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/kernel-calamity-a-step-by-step-guide-to-fixing-your-mac/"><u>Kernel Calamity: A Step-by-Step Guide to Fixing Your Mac</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/live-from-the-frontlines-of-mac-loyalty/"><u>Live From the Frontlines of Mac Loyalty</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/master-your-project-with-stellar-toolkits-and-ingenious-hacks/"><u>Master Your Project with Stellar Toolkits & Ingenious Hacks</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/methods-for-reducing-background-distortion/"><u>Methods for Reducing Background Distortion</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/nebula-data-revival-techniques-for-sql/"><u>Nebula Data Revival Techniques for SQL</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/phoenix-jpeg-repair-now-available-via-stellars-new-app/"><u>Phoenix JPEG Repair Now Available via Stellar's New App</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rectify-flawed-asf-and-mkv-videos/"><u>Rectify Flawed ASF and MKV Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/resolve-blue-screen-on-w10-step-by-step-tutorial/"><u>Resolve Blue Screen on W10: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reversing-the-impact-of-rare-video-formats/"><u>Reversing the Impact of Rare Video Formats</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviveit-mp4-mov-rescue/"><u>ReviveIt! – MP4, MOV Rescue</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-eroded-footage-with-digital-reconstruction/"><u>Reviving Eroded Footage with Digital Reconstruction</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solving-avi-and-mkv-format-flaws-on-all-oses/"><u>Solving AVI and MKV Format Flaws on All OSes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solving-glitches-within-macs-mov-footage/"><u>Solving Glitches Within Mac's MOV Footage</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-unveils-qb-file-recovery-technology-at-launch-event/"><u>Stellar Unveils QB File Recovery Technology at Launch Event</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/step-by-step-guide-to-fixing-win11s-infamous-blue-screen-error/"><u>Step-by-Step Guide to Fixing Win11's Infamous Blue Screen Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-reduce-cpu-and-ram-overuse-by-unrealcefsubprocess-on-systems/"><u>Strategies to Reduce CPU and RAM Overuse by UnrealCEFSubprocess on Systems</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-complete-apple-hard-drive-setup-manual-in-a-15-minute-video/"><u>The Complete Apple Hard Drive Setup Manual in a 15-Minute Video</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-10-best-video-repair-software/"><u>Top 10 Best Video Repair Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-windows-update-error-0x8024401c-for-windows-10-and-11-users/"><u>Troubleshooting and Fixing Windows Update Error 0X8024401c for Windows 10 & 11 Users</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unblock-stalled-media-with-ease-vlc/"><u>Unblock Stalled Media with Ease (VLC)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unite-audiences-across-social-media-with-seamless-integration-of-facebook-linkedin-and-youtube/"><u>Unite Audiences Across Social Media with Seamless Integration of Facebook, LinkedIn & YouTube</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unraveling-the-securely-sealed-drives-stellars-historic-triumph/"><u>Unraveling the Securely Sealed Drives - Stellar's Historic Triumph</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-funimate-easy-video-download-tutorial/"><u>[New] Mastering Funimate Easy Video Download Tutorial</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-custom-coverage-made-simple-fast-track-your-youtube-shorts-design/"><u>[Updated] In 2024, Custom Coverage Made Simple Fast-Track Your YouTube Shorts Design</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-kinetic-mastery-in-your-pocket-a-2023-review-of-kinemaster-on-android/"><u>2024 Approved Kinetic Mastery in Your Pocket A 2023 Review of KineMaster on Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-photographers-list-of-top-10-lenses/"><u>2024 Approved The Photographer's List of Top 10 Lenses</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y17s-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y17s</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apple-m1-pro-vs-m1-max-the-difference-between-them-for-2024/"><u>Apple M1 Pro Vs. M1 Max The Difference Between Them for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhancing-broken-h264-videos/"><u>Enhancing Broken H.264 Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-fragmented-video-data-in-apple-movies/"><u>Fixing Fragmented Video Data in Apple Movies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/flash-forgotten-revive-erased-pictures/"><u>Flash Forgotten: Revive Erased Pictures</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/jpeg-revival-on-macos-introducing-stellars-phoenix-application/"><u>JPEG Revival on macOS: Introducing Stellar's Phoenix Application</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-stuck-playback-on-ios-devices/"><u>Overcoming Stuck Playback on iOS Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-12-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme 12 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720671545458-some-files-untouched-by-video-repair-software/"><u>Some Files Untouched by Video Repair Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamlined-recovery-system-stellars-consumer-focused-tech-update/"><u>Streamlined Recovery System: Stellar’s Consumer-Focused Tech Update</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-eu-ai-act-explained-what-it-means-for-future-of-conversational-agents-including-chatgpt/"><u>The EU AI Act Explained: What It Means for Future of Conversational Agents Including ChatGPT</u></a></li>
 </ul></div>
+

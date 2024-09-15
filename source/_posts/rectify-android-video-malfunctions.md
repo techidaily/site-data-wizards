@@ -1,7 +1,7 @@
 ---
 title: Rectify Android Video Malfunctions
-date: 2024-09-09T02:01:25.337Z
-updated: 2024-09-10T02:01:25.337Z
+date: 2024-09-11T06:01:58.368Z
+updated: 2024-09-14T16:42:56.544Z
 categories:
   - repair-tools
 description: This Article Describes Rectify Android Video Malfunctions
@@ -10,12 +10,6 @@ keywords: Android Video Fix,Android Playback Troubleshooting,Troubleshoot Androi
 thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960550c4309b2e36a11fd875c9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Rectify Android Video Malfunctions
 
 [Video Repair](https://tools.techidaily.com/stellardata-recovery/buy-now/)
@@ -26,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
  Written By [Sumona Chatterjee](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/sumona-chatterjee-38984450/)
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on1 Feb, 2024
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Min Reading 6  Min
 * Share
 
@@ -76,16 +64,17 @@ Now, go back to the Gallery to play the videos.
 
  Trojans are a menace for your Android phones too. If you have downloaded any app or software from an**untrusted** source, remove it. There are chances that it disrupts your mobile Device’s smooth functioning, including not letting you play your mobile videos or making your videos corrupt.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **4\. Install VLC player/MX Player on Android phone**
 
  It might be possible that the media player on your Android phone does not support the video codec you are trying to play. Install a**compatible** video player like a VLC player, BS Player, or MX Player from the Google Play store.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **5\. Update your Android OS**
 
  Update your Android OS to fix the videos not playing problem. Before updating the Android OS, it is always recommended to back up your mobile data like contacts, photos, videos, etc.
@@ -138,12 +127,6 @@ Now, go back to the Gallery to play the videos.
 
  You may also refer to [How to Fix ‘No sound on Android video’ Error](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **8\. Reset your app preferences**
 
  Resetting your app preferences lets you choose which video player you want to use for playing videos.
@@ -156,23 +139,18 @@ Now, go back to the Gallery to play the videos.
 Now try to play your videos on the Android phone.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **9\. Factory Reset your smartphone**
 
  If none of the above methods can play your Android phone videos, the last resort is Factory Reset.
 
  Factory Reset wipes out all data and renders your smartphone as new. Thus, before doing it, ensure you have taken all your contacts, photos, videos, and other smartphone data into a backup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Cannot play Facebook, YouTube, or other web videos on your Android phone? Try the below fixes:**
 
 * Check your Wi-Fi network
@@ -184,11 +162,18 @@ Now try to play your videos on the Android phone.
 * Update your Android OS
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **To Sum up**
 
  Mostly, the’ video not playing’ on Android issue is resolved by clearing the cache or restarting your smartphone. However, if the mobile video file is corrupt, it is recommended to use Stellar Repair for Video. This software is an efficient video repair utility that fixes all sorts of corruption. In addition, you can repair multiple corrupt videos simultaneously, saving a lot of your time.
@@ -202,11 +187,18 @@ Now try to play your videos on the Android phone.
 **[Solved: iPhone Videos not playing on Windows](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -225,8 +217,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,43 +226,16 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-velocity-in-virtue-share-your-youtube-lists-fast/"><u>[New] 2024 Approved  Velocity in Virtue  Share Your YouTube Lists Fast</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-elevating-the-art-of-unboxing-adventure-for-2024/"><u>[New] Elevating the Art of Unboxing Adventure for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-photographys-top-10-digital-notebooks-for-smartphones-for-2024/"><u>[New] Photography's Top 10 Digital Notebooks for Smartphones for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-live-online-broadcasts-recording-techniques-for-2024/"><u>[Updated] Mastering Live Online Broadcasts  Recording Techniques for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-expert-ideal-approaches-to-correct-iphone-hdr-overexposure-in-adobe-premiere/"><u>2024 Approved  [Expert] Ideal Approaches to Correct iPhone HDR Overexposure in Adobe Premiere</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-best-methods-for-documenting-live-youtube-broadcasts/"><u>2024 Approved  Best Methods for Documenting Live YouTube Broadcasts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bridging-the-gap-between-standard-and-superior-video-quality-techniques-for-2024/"><u>Bridging the Gap Between Standard and Superior Video Quality Techniques for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-motorola-razr-40-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Motorola Razr 40 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/effortless-webcam-recordings-on-hp-systems/"><u>Effortless Webcam Recordings on HP Systems</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/elevate-content-with-properly-sized-videos-on-instagram/"><u>Elevate Content with Properly Sized Videos on Instagram</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-videos-with-unrecognized-encoders/"><u>Fixing Videos With Unrecognized Encoders</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-8-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 8 Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-repair-faulty-movies-an-easy-step-by0bly-guide-to-fixing-shaky-visuals-including-a-section-on-using-subtitles/"><u>How To Repair Faulty Movies - An Easy, Step-By0bly Guide to Fixing Shaky Visuals (Including a Section On Using Subtitles)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/insightful-article-on-advanced-data-restoration-by-vishakha/"><u>Insightful Article on Advanced Data Restoration by Vishakha</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mac-data-revival-revolutionized-by-stellars-12v-update/"><u>Mac Data Revival Revolutionized by Stellar's 12v Update</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/netatmo-weather-monitoring-system-an-app-enthusiasts-dream-in-depth-analysis-inside/"><u>Netatmo Weather Monitoring System: An App-Enthusiast's Dream, In-Depth Analysis Inside</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overcoming-common-video-streaming-challenges/"><u>Overcoming Common Video Streaming Challenges</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/pro-recommendations-leading-video-restoration-software-for-windows-and-macos-users/"><u>Pro Recommendations: Leading Video Restoration Software for Windows and macOS Users</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quick-tips-for-repairing-corrupted-video-files-using-vlc-media-players-features/"><u>Quick Tips for Repairing Corrupted Video Files Using VLC Media Player's Features</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/quick-video-playback-with-vimeo-for-2024/"><u>Quick Video Playback with Vimeo for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quickbooks-salvation-stellar-introduces-repairing-technology/"><u>QuickBooks Salvation: Stellar Introduces Repairing Technology</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rapid-procurement-cinematic-quality-boost/"><u>Rapid Procurement: Cinematic Quality Boost</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/recovering-corrupted-audio-visual-content-on-phones/"><u>Recovering Corrupted Audio-Visual Content on Phones</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-70-lite-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of 70 Lite 5G</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restore-your-broken-movie-files-quickly-the-ultimate-vlc-repair-method/"><u>Restore Your Broken Movie Files Quickly: The Ultimate VLC Repair Method</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-h264-file-integrity/"><u>Restoring H.264 File Integrity</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revitalize-mac-efficiency-stellars-breakthrough-utility/"><u>Revitalize Mac Efficiency – Stellar's Breakthrough Utility</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-repair-not-improving-all-video-files/"><u>Stellar Repair Not Improving All Video Files.</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-support-a-unanimous-declaration-of-245-satisfaction/"><u>Stellar Support - A Unanimous Declaration of 245 Satisfaction</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/steps-to-clear-video-from-cctv-cameras/"><u>Steps to Clear Video From CCTV Cameras</u></a></li>
-<li><a href="https://win-forum.techidaily.com/tackling-complete-disk-congestion-in-windows-10-essential-techniques-and-solutions/"><u>Tackling Complete Disk Congestion in Windows 10: Essential Techniques and Solutions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-definitive-tutorial-formatting-a-macs-hard-drive-correctly/"><u>The Definitive Tutorial: Formatting a Mac’s Hard Drive Correctly</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-professionals-guide-to-rectifying-video-defects-h265/"><u>The Professional's Guide to Rectifying Video Defects (H.265)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-fixes-to-get-the-most-out-of-your-streams/"><u>Top Fixes to Get the Most Out of Your Streams</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/transparent-trials-user-produced-praise-videos/"><u>Transparent Trials: User-Produced Praise Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ultimate-editing-enhancement-satisfied-testimonials/"><u>Ultimate Editing Enhancement - Satisfied Testimonials</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/uncovering-the-efficacy-of-youtubes-4-second-rule-for-2024/"><u>Uncovering the Efficacy of YouTube's 4-Second Rule for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/videofix-pro-revive-mp4-and-mov-files/"><u>VideoFix Pro: Revive MP4 & MOV Files</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-visual-bedtime-plays-reviewed/"><u>[Updated] 2024 Approved Visual Bedtime Plays Reviewed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-problems-with-exam-platform-launches-in-202n-a-comprehensive-fix-guide/"><u>Addressing Problems with Exam Platform Launches in 202N: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-ps4-dualshock-troubleshooting-charging-issues/"><u>Fixing Your PS4 Dualshock: Troubleshooting Charging Issues</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hd-file-reviver-data-disaster-fixer/"><u>HD File Reviver: Data Disaster Fixer</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-fix-choppy-or-jerky-videos-playback-smoothly/"><u>How to Fix Choppy or Jerky Videos Playback Smoothly?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-asus-rog-phone-8-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-undo-video-errors-in-m4v-format-for-pc-and-mac/"><u>How to Undo Video Errors in M4V Format for PC & Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairtool-reclaim-your-distorted-videos-at-no-cost/"><u>RepairTool: Reclaim Your Distorted Videos at No Cost</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/simple-solutions-for-flawless-video-playback/"><u>Simple Solutions for Flawless Video Playback</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-non-compatible-hardware-drivers-on-your-pc-a-guide-to-overcoming-wow-issues/"><u>Solution Steps for Non-Compatible Hardware Drivers on Your PC - A Guide to Overcoming WoW Issues</u></a></li>
 </ul></div>
+

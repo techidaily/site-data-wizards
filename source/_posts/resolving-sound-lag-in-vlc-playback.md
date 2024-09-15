@@ -1,7 +1,7 @@
 ---
 title: Resolving Sound Lag in VLC Playback
-date: 2024-08-15T04:59:55.798Z
-updated: 2024-08-16T04:59:55.798Z
+date: 2024-09-12T23:43:27.410Z
+updated: 2024-09-14T18:16:44.567Z
 categories:
   - repair-tools
 description: This Article Describes Resolving Sound Lag in VLC Playback
@@ -58,9 +58,6 @@ _Figure: Audio delay message in VLC_
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
  The answer is ‘Yes’. You can apply the settings for once for all the videos you play in VLC. For this, use the **‘Audio desynchronization compensation’** feature. It would permanently fix the audio-video sync in VLC Player. Unlike the Audio track synchronization value, which you must reset every time, you must set the ‘Audio desynchronization compensation’ value just once. The settings get saved for all the videos until you change it again.
@@ -76,9 +73,6 @@ _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
  Often, users ask if every time they play a video in VLC, they have to manually adjust Audio track synchronization to get the audio in sync with the video. So, is it possible for this setting to be saved permanently?
@@ -118,9 +112,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -133,9 +124,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **How to fix audio sync issue with repair software**
 
  Simply download it on your Mac or Windows PC and follow the onscreen instructions. The video repair process is completed in 3 steps –
@@ -151,8 +139,12 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Conclusion**
 
  It’s annoying when your favourite VLC Player suddenly starts playing videos out of sync. But the best thing about VLC is that it can fix its glitches. You can use various features in VLC to fix video-audio sync problems.
@@ -170,8 +162,12 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -190,8 +186,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,39 +195,16 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-downloading-and-archiving-facebook-gifs-a-unified-approach/"><u>[New] Downloading and Archiving Facebook GIFs  A Unified Approach</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-accelerated-learning-for-chromakey-artistry/"><u>[New] In 2024, Accelerated Learning for Chromakey Artistry</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-stealth-in-social-media-going-unseen-with-live-feeds/"><u>[New] Stealth in Social Media  Going Unseen with Live Feeds</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-flashcapture-screen-tools/"><u>2024 Approved  FlashCapture Screen Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-pro-snipping-made-simple-the-top-5-pc-screen-capture-apps-revealed/"><u>2024 Approved  Pro Snipping Made Simple  The Top 5 PC Screen Capture Apps Revealed</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-vivo-s17-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo S17 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixes-instagram-reel-quirks/"><u>Fixes: Instagram Reel Quirks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/generate-impressive-corporate-emails-instantly-for-free-discover-how-chatgpt-and-ai-innovation-can-streamline-your-inbox/"><u>Generate Impressive Corporate Emails Instantly for Free - Discover How ChatGPT & AI Innovation Can Streamline Your Inbox</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/grau-gmbhs-expert-hardware-and-software-fixes-for-seamless-video-editing/"><u>Grau GmbH's Expert Hardware and Software Fixes for Seamless Video Editing</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/guaranteeing-your-videos-playability/"><u>Guaranteeing Your Video's Playability</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/guardianship-against-flawed-videos/"><u>Guardianship Against Flawed Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/healing-defective-mp4mov-using-qt-player-features/"><u>Healing Defective MP4/MOV Using QT Player Features</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/healing-torn-avchd-archives/"><u>Healing Torn AVCHD Archives</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/improve-android-media-streaming/"><u>Improve Android Media Streaming</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-an-easy-way-to-amplify-your-instagram-presence-by-sharing-youtube-links-in-stories/"><u>In 2024, An Easy Way to Amplify Your Instagram Presence by Sharing YouTube Links in Stories</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 13 Pro Max?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-se-2022-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone SE (2022) Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-shaking-it-off-analyzing-the-efficacy-of-photostability/"><u>In 2024, Shaking It Off  Analyzing the Efficacy of PhotoStability</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-visual-marketing-on-youtube-with-banners-and-thumbnails-for-2024/"><u>Mastering Visual Marketing on YouTube with Banners & Thumbnails for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/next-gen-streaming-error-eradicators/"><u>Next-Gen Streaming Error Eradicators</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/optimize-mac-faster-discover-stellars-solution/"><u>Optimize Mac Faster - Discover Stellar's Solution</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/patching-flawed-mp4mov-through-quicktime-solutions/"><u>Patching Flawed MP4/MOV Through QuickTime Solutions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/phoenix-fusion-fixes-pdf-malfunctions/"><u>Phoenix Fusion Fixes PDF Malfunctions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/resolving-video-glitches-in-windows-10/"><u>Resolving VIDEO Glitches in Windows 10</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/save-fix-enhance-discover-the-finest-video-repair-solutions-compatible-with-both-windows-and-mac/"><u>Save, Fix, Enhance: Discover the Finest Video Repair Solutions Compatible With Both Windows & Mac</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-latest-app-phoenix-takes-the-lead-in-jpeg-repair-for-macos/"><u>Stellar's Latest App, Phoenix, Takes the Lead in JPEG Repair for macOS</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tech-whisperer-navigating-macs-system-anomalies/"><u>Tech Whisperer: Navigating Mac's System Anomalies</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-ultimate-testimonial-thousands-saved-one-recovery-at-a-time/"><u>The Ultimate Testimonial: Thousands Saved, One Recovery at a Time</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-10-video-editing-and-repair-tools-for-windowsmac-users/"><u>Top 10 Video Editing & Repair Tools for Windows/Mac Users</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unlocking-mac-trash-error-36-guide/"><u>Unlocking Mac Trash - Error 36 Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-motorolas-mg7700-delivering-fast-and-dependable-internet-speeds/"><u>Unveiling Motorola's MG7700: Delivering Fast and Dependable Internet Speeds</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/unveiling-the-most-trustworthy-digital-chat-services-for-social-engagement-for-2024/"><u>Unveiling the Most Trustworthy Digital Chat Services for Social Engagement for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-health-protocol-hd-content-revival/"><u>Video Health Protocol: HD Content Revival</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-combine-videos-on-iphone/"><u>[Updated] How to Combine Videos on iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-windows-file-concordance-with-aoemi-tutorial/"><u>Achieve Windows File Concordance with AOEMi Tutorial</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/blue-screen-downfall-turn-it-around-with-these-tips/"><u>Blue Screen Downfall? Turn It Around with These Tips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guardian-tips-for-flawless-video-formats/"><u>Guardian Tips for Flawless Video Formats</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-fixing-your-graphics-driver-solves-overwatch-crashes-a-guide/"><u>How Fixing Your Graphics Driver Solves Overwatch Crashes - A Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/innovating-backup-solutions-stellars-new-user-interface/"><u>Innovating Backup Solutions: Stellar's New User Interface</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-facebook-connection-essentials/"><u>Insta-Facebook Connection Essentials</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/maximize-mac-data-a-deep-dive-into-the-best-recovery-software/"><u>Maximize Mac Data: A Deep Dive Into the Best Recovery Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-and-quirky-make-memes-with-kapwing-app-for-2024/"><u>Quick & Quirky Make Memes with Kapwing App for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-4-ways-to-fix-flashing-folder-with-question-mark-on-macbook/"><u>Video - 4 Ways to Fix Flashing Folder With Question Mark on Macbook</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-motorola-moto-g04-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Motorola Moto G04 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
