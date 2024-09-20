@@ -1,7 +1,7 @@
 ---
 title: Rectifying Illegitimate Video Codings
-date: 2024-09-07T17:57:05.459Z
-updated: 2024-09-15T03:47:46.361Z
+date: 2024-09-16T17:07:12.763Z
+updated: 2024-09-20T08:05:18.146Z
 categories:
   - repair-tools
 description: This Article Describes Rectifying Illegitimate Video Codings
@@ -98,10 +98,10 @@ _Figure: Mac suggests installed apps to open video_
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Steps to fix video codec not supported in Windows Media Player:**
@@ -113,13 +113,6 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -142,6 +135,13 @@ _Figure: VLC message when new version is available._
 
  The open source VLC Media Player can also convert video files to different format.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -157,26 +157,27 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -211,13 +212,6 @@ _Figure: Preview video after repair_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Was this article helpful?
 
 YES 0
@@ -245,18 +239,15 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-engaging-audiences-with-instagram-stories-surveys-for-2024/"><u>[New] Engaging Audiences with Instagram Stories Surveys for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-comprehensive-guide-for-effective-video-capturing/"><u>[New] In 2024, Comprehensive Guide for Effective Video Capturing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-perfect-your-crafting-skills-using-these-7-sounds-tracks/"><u>[New] Perfect Your Crafting Skills Using These 7 Sounds Tracks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unlock-your-social-media-superpowers-top-9-instagram-techniques-to-skyrocket-popularity/"><u>[New] Unlock Your Social Media Superpowers Top 9 Instagram Techniques to Skyrocket Popularity</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-diving-into-the-world-of-instagrams-reels-and-stories-for-2024/"><u>[Updated] Diving Into the World of Instagram's Reels & Stories for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-pioneering-methods-to-develop-a-memorable-youtube-introduction/"><u>[Updated] Pioneering Methods to Develop a Memorable YouTube Introduction</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/best-video-repair-utilities-a-guide-to-top-software-options-for-windows-and-mac/"><u>Best Video Repair Utilities: A Guide to Top Software Options for Windows and Mac</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/cosmic-visual-hub-star-quality-vids-and-praise/"><u>Cosmic Visual Hub: Star-Quality Vids & Praise</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-k11-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo K11 5G</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/macs-data-saving-heroes-ranking-8-recovery-solutions/"><u>Mac's Data Saving Heroes: Ranking 8 Recovery Solutions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rectified-instagram-reel-bug/"><u>Rectified: Instagram Reel Bug</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/seamless-conversion-of-legacy-email-data-migrating-from-edb-to-a-new-exchange-server-platform/"><u>Seamless Conversion of Legacy Email Data - Migrating From EDB to a New Exchange Server Platform</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/updating-systems-to-handle-obsolete-compression/"><u>Updating Systems to Handle Obsolete Compression</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-peeling-back-sharex-critical-analysis-and-alternatives/"><u>[New] In 2024, Peeling Back ShareX Critical Analysis & Alternatives</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-inverted-playback-the-hidden-technique-for-a-reversed-youtube-list/"><u>[Updated] 2024 Approved Inverted Playback The Hidden Technique for a Reversed YouTube List</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-mov-to-mpeg-4-conversion-on-win-11/"><u>[Updated] 2024 Approved Mastering MOV to MPEG-4 Conversion on Win 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-80-pro-straight-screen-edition-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor 80 Pro Straight Screen Edition Device</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/innovative-diy-strategies-and-software-know-how-featured-in-stellar-collection/"><u>Innovative DIY Strategies & Software Know-How Featured in Stellar Collection</u></a></li>
+<li><a href="https://win-dash.techidaily.com/keep-your-rtx-groove-smooth-update-graphics-card-drivers-for-windows-10-and-11/"><u>Keep Your RTX Groove Smooth: Update Graphics Card Drivers for Windows 10 and 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/methods-to-resolve-lagging-media/"><u>Methods to Resolve Lagging Media</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-exchange-revival-repair-and-insights/"><u>Ultimate Exchange Revival: Repair & Insights</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-the-secrets-to-stellar-data-recovery-techniques-with-vishakha/"><u>Unlocking the Secrets to Stellar Data Recovery Techniques with Vishakha</u></a></li>
 </ul></div>
 

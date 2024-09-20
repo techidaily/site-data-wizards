@@ -1,7 +1,7 @@
 ---
 title: Overcoming Challenges with Rare Encoding Methods
-date: 2024-09-12T04:05:14.160Z
-updated: 2024-09-14T18:46:16.973Z
+date: 2024-09-14T03:48:56.289Z
+updated: 2024-09-20T07:24:35.241Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Challenges with Rare Encoding Methods
@@ -85,6 +85,13 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -97,19 +104,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -121,10 +115,10 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
@@ -148,13 +142,6 @@ _Figure: VLC message when new version is available._
 
  The open source VLC Media Player can also convert video files to different format.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -169,6 +156,13 @@ _Figure: Video profile options in VLC Player_
 
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Convert video file to fix unsupported codec error on Android**
 
@@ -204,10 +198,10 @@ _Figure: Preview video after repair_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Wrapping up**
@@ -245,14 +239,15 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-efficient-overwatch-recording-techniques-exposed/"><u>[New] 2024 Approved Efficient Overwatch Recording Techniques Exposed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-dissecting-illusions-how-to-detect-fake-likes-and-followers/"><u>[Updated] Dissecting Illusions How to Detect Fake Likes and Followers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-expertise-in-iphones-macro-photography-secrets-revealed/"><u>2024 Approved Expertise in iPhone's Macro Photography Secrets Revealed</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-how-to-peek-behind-the-curtain-of-hidden-youtube-videos/"><u>2024 Approved How to Peek Behind the Curtain of Hidden YouTube Videos</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/accedez-a-la-perfection-visuelle-films-en-4k-ultra-hd-telechargements-faciles-et-maitrises/"><u>Accédez À La Perfection Visuelle : Films en 4K Ultra HD, Téléchargements Faciles Et Maîtrisés</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-extensive-review-gecata-recording-device-analysis/"><u>In 2024, Extensive Review Gecata Recording Device Analysis</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quick-and-easy-setup-guide-for-stellar-systems/"><u>Quick & Easy Setup Guide for Stellar Systems</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720668865688-repair-discrepancies-in-selected-video-files/"><u>Repair Discrepancies in Selected Video Files.</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-restoration-techniques-for-amateurs/"><u>Video Restoration Techniques for Amateurs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-googleplus-photo-frame-settings/"><u>[Updated] 2024 Approved Google+ Photo Frame Settings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-pixelmaster-elite-os-xwin-edition-for-2024/"><u>[Updated] PixelMaster Elite OS X/Win Edition for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-job-interviews-with-confidence-and-competence/"><u>2024 Approved Navigating Job Interviews with Confidence and Competence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-for-excessive-network-traffic-caused-by-svchostexe-netsvcs/"><u>Comprehensive Solutions for Excessive Network Traffic Caused by svchost.exe (Netsvcs)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-h264-file-defects/"><u>Correcting H.264 File Defects</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/crisis-management-saving-your-mac-from-a-kernel-freeze/"><u>Crisis Management: Saving Your Mac From a Kernel Freeze</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/digital-detour-finding-lost-cameras-pics/"><u>Digital Detour: Finding Lost Cameras' Pics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo Find X7 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-12-mini-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 12 mini online without SIM Card?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-start-updating-your-lenovo-t420-with-new-drivers-on-windows-systems/"><u>Quick Start: Updating Your Lenovo T420 with New Drivers on Windows Systems</u></a></li>
 </ul></div>
 

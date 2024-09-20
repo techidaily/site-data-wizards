@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obsolete Video Codecs
-date: 2024-09-09T21:24:52.797Z
-updated: 2024-09-15T00:55:13.420Z
+date: 2024-09-15T17:36:59.888Z
+updated: 2024-09-19T22:26:17.650Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Obsolete Video Codecs
@@ -85,6 +85,13 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -97,6 +104,13 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -106,13 +120,6 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -135,13 +142,6 @@ _Figure: VLC message when new version is available._
 
  The open source VLC Media Player can also convert video files to different format.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -158,10 +158,10 @@ _Figure: Video profile options in VLC Player_
 * Once done, click **Start** to convert the video file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Convert video file to fix unsupported codec error on Android**
@@ -197,19 +197,6 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -217,6 +204,13 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -245,19 +239,20 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-complete-guide-for-seamlessly-linking-content-into-your-tiktok-profile/"><u>[New] 2024 Approved Complete Guide for Seamlessly Linking Content Into Your TikTok Profile</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-happy-haven-20-top-prison-jail-gifs-and-photos-for-an-optimistic-social-media-experience/"><u>[New] 2024 Approved Happy Haven 20 Top Prison Jail GIFs & Photos for an Optimistic Social Media Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-jokegenius-get-the-best-meme-app/"><u>[New] JokeGenius - Get the Best Meme App</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-chromatics-a-practical-approach/"><u>2024 Approved Mastering Chromatics A Practical Approach</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ethernet-over-power-with-the-tp-link-av200-2017-review-great-speed-lacks-in-aesthetics/"><u>Ethernet Over Power with the TP-Link AV200 2017 Review: Great Speed, Lacks in Aesthetics</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/from-recovered-to-ready-migrating-e-mail-to-live-exchange/"><u>From Recovered to Ready: Migrating E-Mail to Live Exchange</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-a1x-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo A1x 5G</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/leading-android-cloud-space-keepers-2024/"><u>Leading Android Cloud Space Keepers 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mend-broken-pngg-tiffs-and-riffs/"><u>Mend Broken PNGG TIFFs and RIFFs</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/navigating-the-labyrinth-of-data-loss-totan-banerjees-guide/"><u>Navigating the Labyrinth of Data Loss - Totan Banerjee's Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rectifying-illegitimate-video-codings/"><u>Rectifying Illegitimate Video Codings</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/superior-stream-service-online-quality-revamp/"><u>Superior Stream Service: Online Quality Revamp</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unlock-your-macs-lost-data-top-free-and-paid-recovery-tools/"><u>Unlock Your Mac's Lost Data: Top Free & Paid Recovery Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-split-wmv-videos-for-free-top-5-software-recommendations-for-2024/"><u>Updated Split WMV Videos for Free Top 5 Software Recommendations for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-craft-engaging-narratives-for-facebook-reels/"><u>[New] How to Craft Engaging Narratives for Facebook Reels</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ultimate-guide-to-quality-captures/"><u>[New] In 2024, Ultimate Guide to Quality Captures</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outubes-elite-annual-showcases-post-vidcon/"><u>[New] YouTube's Elite Annual Showcases (Post-VidCon)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-hot-40-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/best-practices-for-consistent-and-seamless-digital-media/"><u>Best Practices for Consistent and Seamless Digital Media</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-oppo-a79-5g-phone-by-drfone-android/"><u>How to Reset a Locked Oppo A79 5G Phone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-lunapic-enhancement-playbook/"><u>In 2024, The Ultimate LunaPic Enhancement Playbook</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-fitbit-charge-6-tracker-performance/"><u>In-Depth Analysis: Fitbit Charge 6 Tracker Performance</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rapid-response-to-frozen-vlc-media-playback/"><u>Rapid Response to Frozen VLC Media Playback</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-disrupted-mp4-streams-on-phones/"><u>Repairing Disrupted MP4 Streams on Phones</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-blueprints-for-db-reset/"><u>Stellar Blueprints for DB Reset</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamlined-techniques-in-converting-expansive-edb-databases-edb-to-pst-without-compromising-integrity-or-performance/"><u>Streamlined Techniques in Converting Expansive .edb Databases (EDB) to PST without Compromising Integrity or Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-google-event-news-rumors-and-announcements/"><u>The Next Google Event: News, Rumors, and Announcements</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-totan-banerjee-method-for-stellar-file-recovery/"><u>The Totan Banerjee Method for Stellar File Recovery</u></a></li>
 </ul></div>
 
