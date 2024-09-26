@@ -1,7 +1,7 @@
 ---
 title: Overcome macOS Error 36 & Trash Issues
-date: 2024-08-08T00:40:17.381Z
-updated: 2024-08-09T00:40:17.381Z
+date: 2024-09-22T19:38:34.151Z
+updated: 2024-09-26T01:00:33.244Z
 categories:
   - repair-tools
 description: This Article Describes Overcome macOS Error 36 & Trash Issues
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff4
 # Fix error code 36 on Mac | Unable to Empty trash on macOS
 
 ##### 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/youtube-icon small.png)
 
 ![](https://www.stellarinfo.com/images/youtube/clock-icon.png)
@@ -28,16 +25,10 @@ thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff4
 
 ###### 3,001 Views
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/calander-icon.png)
 
 ###### Oct 03, 2019
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Subscribe](https://www.stellarinfo.com/images/youtube/shareIcon.png) Share ](javascript:void%280%29) [Subscribe ![](https://www.stellarinfo.com/images/youtube/link-icon.png) ](https://www.youtube.com/@stellardatarecovery)
 
 3,001 views Oct 03, 2019
@@ -56,16 +47,10 @@ thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff4
 
 ###### 3,001 Views
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/calander-icon.png)
 
 ###### Oct 03, 2019
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 [Subscribe](https://www.stellarinfo.com/images/youtube/shareIcon.png) Share ](javascript:void%280%29) [Subscribe ![](https://www.stellarinfo.com/images/youtube/link-icon.png) ](https://www.youtube.com/@stellardatarecovery)
 
 3,001 views Oct 03, 2019
@@ -97,9 +82,6 @@ Awards Received
 
 * [TUV SUD ISO 27001](https://www.stellarinfo.com/images/v7/tuv1.png) ](https://www.stellarinfo.com/images/v7/ISO-27001-2013-Certificate.pdf)
 * [TUV SUD ISO 9001](https://www.stellarinfo.com/images/v7/tuv2.png) ](https://www.stellarinfo.com/images/v7/ISO-9001-2008Certificate.pdf)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![NIST](https://www.stellarinfo.com/images/v7/nist.png)
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
@@ -112,9 +94,6 @@ Awards Received
 
  ALSO AVAILABLE AT
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
 
  About
@@ -164,9 +143,6 @@ Awards Received
 
 Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.facebook.com/stellardata) [Twitter](https://www.stellarinfo.com/Images/tw.png) ](https://twitter.com/stellarinfo) [Linkedin](https://www.stellarinfo.com/Images/in.png) ](https://www.linkedin.com/company/stellardatarecovery/) [Youtube](https://www.stellarinfo.com/newblacktheme/images/yt.png) ](https://www.youtube.com/c/stellardatarecovery)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![Notron](https://www.stellarinfo.com/images/v7/notron.png)
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
 
@@ -176,8 +152,6 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +159,27 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-ace-2-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your OnePlus Ace 2 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-v-purse-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor V Purse without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-successfully-migrate-edb-mailboxes-to-a-running-exchange-environment/"><u>How to Successfully Migrate EDB Mailboxes to a Running Exchange Environment</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-s17t-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo S17t</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/iphones-secret-to-quick-cost-free-red-eye-removal-revealed-for-2024/"><u>IPhone's Secret to Quick, Cost-Free Red-Eye Removal Revealed for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-video-production-tackling-top-20-errors-head-on/"><u>Master Video Production: Tackling Top 20 Errors Head-On</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/picture-resurgence-deleted-images-redemption/"><u>Picture Resurgence: Deleted Images Redemption</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-mp4-bitrate-anomalies/"><u>Repairing MP4 Bitrate Anomalies</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-hp-speaker-issues-with-beats-audio-on-windows-10-8-and-7/"><u>Resolving HP Speaker Issues with Beats Audio on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-audio-technica-speaker-drivers/"><u>Step-by-Step Guide: Updating Your Audio-Technica Speaker Drivers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/why-stellar-repair-for-video-doesnt-work-properly-on-some-of-my-files/"><u>Why Stellar Repair for Video Doesn’t Work Properly on Some of My Files?</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

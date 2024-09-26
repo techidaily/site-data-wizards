@@ -1,7 +1,7 @@
 ---
 title: Nip Video Lag in the Bud with VLC
-date: 2024-09-10T21:58:31.466Z
-updated: 2024-09-14T21:29:39.654Z
+date: 2024-09-19T17:30:13.627Z
+updated: 2024-09-25T19:33:45.407Z
 categories:
   - repair-tools
 description: This Article Describes Nip Video Lag in the Bud with VLC
@@ -58,6 +58,13 @@ _Figure: Audio delay message in VLC_
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
  The answer is ‘Yes’. You can apply the settings for once for all the videos you play in VLC. For this, use the **‘Audio desynchronization compensation’** feature. It would permanently fix the audio-video sync in VLC Player. Unlike the Audio track synchronization value, which you must reset every time, you must set the ‘Audio desynchronization compensation’ value just once. The settings get saved for all the videos until you change it again.
@@ -72,6 +79,13 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -112,6 +126,19 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -123,13 +150,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  **Note:**  Not all video repair software is advanced enough to fix audio problems in videos. So, before choosing one, make sure it is capable of fixing sound issues in a video file.
 
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **How to fix audio sync issue with repair software**
 
@@ -144,6 +164,13 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  You don’t need to do any resetting or learn to use the software. It’s easy to use and has advanced algorithms that work without you making any effort.
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -160,13 +187,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -193,5 +213,23 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-downloading-dynamism-techniques-for-preserving-online-lives/"><u>[New] Downloading Dynamism Techniques for Preserving Online Lives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-complete-overview-screenflow-v4-for-macos/"><u>[Updated] In 2024, Complete Overview ScreenFlow v4 for macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/first-day-with-windows-11-heres-what-not-to-do-top-7-mistakes/"><u>First Day with Windows 11? Here's What Not to Do! - Top 7 Mistakes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-defective-mp4-streams-in-android-gadgets/"><u>Fixing Defective MP4 Streams in Android Gadgets</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-mastering-twitter-promotions-essential-tips/"><u>In 2024, Mastering Twitter Promotions Essential Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/maximizing-tv-viewing-watching-fb-videos-directly/"><u>Maximizing TV Viewing Watching FB Videos Directly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-broken-video-formats-expertise-for-macos/"><u>Mending Broken Video Formats - Expertise for macOS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimized-guide-on-converting-hefty-databases-edb-into-more-flexible-csv-files-easily-and-efficiently/"><u>Optimized Guide on Converting Hefty Databases (EDB) Into More Flexible CSV Files Easily and Efficiently</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-critical-email-outage-stellar-repair-for-exchange-case-study-worktrainers-ltd/"><u>Resolving Critical Email Outage: Stellar Repair for Exchange Case Study | Worktrainers Ltd</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-your-laptops-sound-functionality-with-these-easy-fixes/"><u>Restore Your Laptop's Sound Functionality with These Easy Fixes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/saving-past-emails-to-active-exchange-platform-via-video-guide/"><u>Saving Past Emails to Active Exchange Platform via Video Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-essentials-of-transferring-youtube-media-to-social-networks/"><u>The Essentials of Transferring YouTube Media to Social Networks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-x90s-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo X90S</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-poor-video-repair-outcomes/"><u>Troubleshooting Poor Video Repair Outcomes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unseen-symbols-revealed-how-to-fix-flashing-folders/"><u>Unseen Symbols Revealed: How to Fix Flashing Folders</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-tecno-spark-20c-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Tecno Spark 20C Phone Network-Ready</u></a></li>
+</ul></div>
 

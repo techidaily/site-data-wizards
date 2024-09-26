@@ -1,7 +1,7 @@
 ---
 title: Halt Video Lag with a Simple Fix (VLC)
-date: 2024-08-08T00:40:55.147Z
-updated: 2024-08-09T00:40:55.147Z
+date: 2024-09-22T20:34:39.314Z
+updated: 2024-09-26T06:13:07.869Z
 categories:
   - repair-tools
 description: This Article Describes Halt Video Lag with a Simple Fix (VLC)
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-625c9ec/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
  Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on31 May, 2024
 * Min Reading 6  Min
@@ -42,20 +39,37 @@ Table of Content
 
  Here are the six best solutions to fix Video Stuck or Frozen in VLC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solutions to fix video stuck, stuttering, buffering or lagging in VLC Media Player
 
  Although there isn’t a set solution, changing the VLC media player’s settings can work. You may have to try various methods shared here to fix the video freeze or lag issues in VLC Media Player.
 
  You can apply the solutions here to play high-quality HD/ UHD/ HDR, 8k, or H.265 videos of any size and file format.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 1: Update VLC Media Player to the latest version**
 
  If your videos freeze, stutter, or are not playing in VLC Media Player, first update the player to the latest version. The updates improve support for new HD codecs, advanced formats, HDR, H.265/HEVC, 4K & 8K playback, 360-degree videos, VP9 (HD videos at lower bitrates), and others for decoding and encoding. It also fixes streaming issues and bugs, if any.
 
 **Also read:** [How to open HEIC, HEVC files on Windows 10](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 2: Increase cache values in VLC Player**
 
@@ -94,9 +108,6 @@ _Figure: Input/Codecs pane in VLC_
 * Under**FFmpeg audio/video decoder** , scroll down to**Hardware decoding** and set it to**Disable** .
 * Click **Save** . Restart VLC Payer to enable the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### **Method 4: Change FFmpeg settings in VLC Player**
 
  Making changes in the FFmpeg video codec in VLC Player has worked for some. You can also try to resolve video stuttering and freezing with this technique.
@@ -113,9 +124,6 @@ _Figure: Input/Codecs pane in VLC_
 
 * Click**Save** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 5: Switch video output to DirectX DirectDraw in VLC**
 
  Try switching between output video stream settings in the VLC media player. For example, you can set the output video module to Direct 3D video output, DirectX DirectDraw, or Open GL video output.
@@ -147,8 +155,12 @@ _Figure: Video output modules in VLC_
 * Check if VLC Player can play your videos without freeze or interruption.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 6: Repair your video using Stellar Repair for Video**
 
  The video file may be corrupt if the above methods using VLC Media Player don’t fix video freeze, lag, or stuttering issues. To confirm corruption, see if your video freezes while playing in another media player.
@@ -171,6 +183,13 @@ _Figure: Video output modules in VLC_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
  Here we have recommended changing the settings of VLC Media Player to fix video freezing or lag using the below methods:
@@ -185,9 +204,6 @@ _Figure: Video output modules in VLC_
 
  I hope you found this helpful. Do share with our readers which method helped you fix Video Stuck or Freeze in the VLC player issue in the comment box below.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 1
@@ -206,8 +222,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +229,23 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-prime-video-cameras-that-will-elevate-your-twitch-channel/"><u>[New] In 2024, Prime Video Cameras That Will Elevate Your Twitch Channel</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-transform-your-presence-on-facebook-through-live-broadcasting/"><u>[New] Transform Your Presence on Facebook Through Live Broadcasting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-building-a-strong-online-presence-with-attractive-video-thumbnails/"><u>[Updated] Building a Strong Online Presence with Attractive Video Thumbnails</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-methods-for-documenting-overwatch-games-for-2024/"><u>Essential Methods for Documenting Overwatch Games for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-flawed-nikon-videos-a-comprehensive-guide/"><u>Fixing Flawed Nikon Videos: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-conversion-transforming-your-mp3-files-into-high-quality-m4v-format-with-ease/"><u>Free Online Conversion: Transforming Your MP3 Files Into High-Quality M4V Format with Ease</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hard-disk-heroes-customer-testimonials-showcasing-stellars-expertise/"><u>Hard Disk Heroes: Customer Testimonials Showcasing Stellar's Expertise</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-s23-tactical-edition-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy S23 Tactical Edition For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-track-to-superior-srt-upgrades/"><u>In 2024, Inside Track to Superior SRT Upgrades</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/master-class-bots-for-chat-engagement/"><u>Master-Class Bots for Chat Engagement</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/renewed-glitch-free-reels-on-instagram/"><u>Renewed: Glitch-Free Reels on Instagram</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/robust-phoenix-innovation-fixes-broken-pdfs/"><u>Robust Phoenix Innovation Fixes Broken PDFs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-leads-in-hdd-restoration-decrypting-the-impossible/"><u>Stellar Leads in HDD Restoration: Decrypting the Impossible</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/step-by-step-tutorial-on-fixing-broken-movie-files-in-mp4mov-format-via-vlc/"><u>Step-by-Step Tutorial on Fixing Broken Movie Files in MP4/MOV Format via VLC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-a54-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy A54 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/totan-banerjees-secrets-to-unlocking-lost-data-at-stellar-inc/"><u>Totan Banerjee’s Secrets to Unlocking Lost Data at Stellar Inc.</u></a></li>
+</ul></div>
 

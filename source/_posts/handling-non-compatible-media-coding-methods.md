@@ -1,7 +1,7 @@
 ---
 title: Handling Non-Compatible Media Coding Methods
-date: 2024-09-08T01:30:11.656Z
-updated: 2024-09-14T21:31:39.204Z
+date: 2024-09-21T01:54:30.466Z
+updated: 2024-09-26T04:07:57.622Z
 categories:
   - repair-tools
 description: This Article Describes Handling Non-Compatible Media Coding Methods
@@ -97,6 +97,13 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -129,10 +136,10 @@ _Figure: VLC message when new version is available._
  The open source VLC Media Player can also convert video files to different format.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
@@ -150,20 +157,27 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -190,13 +204,6 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -204,13 +211,6 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -237,5 +237,18 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-crack-the-code-of-content-discovery-on-facebook/"><u>[Updated] Crack the Code of Content Discovery on Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-comprehensive-analysis-the-power-of-sj-cam-s6/"><u>[Updated] In 2024, Comprehensive Analysis The Power of SJ-CAM S6</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-perfecting-the-art-of-capturing-spoken-words-digitally/"><u>[Updated] In 2024, Perfecting the Art of Capturing Spoken Words Digitally</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unlock-device-agnostic-techniques-for-professional-filming/"><u>[Updated] In 2024, Unlock Device-Agnostic Techniques for Professional Filming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-zoom-performance-on-chrome-devices/"><u>2024 Approved Boosting Zoom Performance on Chrome Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/astral-tips-for-rebooting-ms-sql-databases/"><u>Astral Tips for Rebooting MS SQL Databases</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cosmic-archives-restoration-manual/"><u>Cosmic Archives Restoration Manual</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/critical-outage-intervention-exchange-solution-review/"><u>Critical Outage Intervention: Exchange Solution Review</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhancing-non-standard-video-accessibility/"><u>Enhancing Non-Standard Video Accessibility</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-guide-to-repairing-damaged-mpeg-videos-without-hacking-your-system/"><u>Expert Guide to Repairing Damaged MPEG Videos Without Hacking Your System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-google-hangouts-microphone-problems/"><u>Step-by-Step Guide to Repairing Google Hangouts Microphone Problems</u></a></li>
+</ul></div>
 

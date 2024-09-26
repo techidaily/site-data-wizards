@@ -1,7 +1,7 @@
 ---
 title: Tips to Revise Unsupported Media
-date: 2024-09-15T09:36:13.305Z
-updated: 2024-09-20T00:10:52.710Z
+date: 2024-09-23T08:46:02.779Z
+updated: 2024-09-25T23:55:49.147Z
 categories:
   - repair-tools
 description: This Article Describes Tips to Revise Unsupported Media
@@ -85,6 +85,13 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -98,10 +105,10 @@ _Figure: Mac suggests installed apps to open video_
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Steps to fix video codec not supported in Windows Media Player:**
@@ -114,13 +121,6 @@ _Figure: Mac suggests installed apps to open video_
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -131,13 +131,6 @@ _Figure: Check for Updates in VLC_
 _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
 
@@ -168,9 +161,23 @@ _Figure: Video profile options in VLC Player_
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -205,13 +212,6 @@ _Figure: Preview video after repair_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Was this article helpful?
 
 YES 0
@@ -237,5 +237,18 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boost-your-content-access-free-vocal-sfx/"><u>[New] In 2024, Boost Your Content Access Free Vocal SFX</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-discover-the-most-effective-5-screen-capturing-tools-for-chromebook/"><u>[Updated] 2024 Approved Discover the Most Effective 5 Screen Capturing Tools for Chromebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-your-niche-top-8-courses-for-aspiring-creators-for-2024/"><u>[Updated] Crafting Your Niche Top 8 Courses for Aspiring Creators for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-premium-list-top-8-android-calls-with-multiple-users/"><u>[Updated] Premium List Top 8 Android Calls with Multiple Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-can-i-install-sandisk-solid-state-drive-drivers-a-step-by-step-solution/"><u>How Can I Install SanDisk Solid State Drive Drivers? A Step-by-Step Solution.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Passcode Screen?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/non-functioning-files-after-salvage/"><u>Non-Functioning Files After Salvage</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-video-corruption-through-techniques/"><u>Overcoming Video Corruption Through Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-vivo-g2-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Vivo G2.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/starry-shelves-top-rated-videos-plus-heartfelt-endorsements/"><u>Starry Shelves: Top-Rated Videos + Heartfelt Endorsements</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tech-product-warranty-note/"><u>Tech Product Warranty Note</u></a></li>
+</ul></div>
 

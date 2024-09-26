@@ -1,7 +1,7 @@
 ---
 title: Resolving Power Supply Issues to GPU
-date: 2024-09-16T19:12:48.602Z
-updated: 2024-09-20T07:05:13.944Z
+date: 2024-09-20T11:15:31.592Z
+updated: 2024-09-25T16:11:24.207Z
 categories:
   - repair-tools
 description: This Article Describes Resolving Power Supply Issues to GPU
@@ -80,6 +80,13 @@ Table of Content
 
  Visual issues can be caused due to a loose connection between the computer and the graphics card. Ensure that the video cable is fine and plugged in properly. Replace the faulty cable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Swap graphics card slot:**
 
  The problem might be due to a faulty PCI card slot. Insert your external graphics card in a different slot and see if this resolves the problem.
@@ -89,25 +96,32 @@ Table of Content
  Video display problems could be monitor-related issues instead of the graphics card. Replacing the monitor may fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **4\. Test another graphics card:**
 
  If you use a dedicated NVidia GeForce or AMD card, replace it with another card of similar specifications. If the display problem gets fixed, your old graphics card needs repair or replacement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **5\. Check your Sound Drivers:**
 
  Is the computer crashing only while playing games? It may be due to the sound hardware. To check this possibility, disable the sound hardware temporarily via**Device Manager** on your PC. If your computer doesn’t crash now, it’s a sound system issue. Download sound card drivers from the manufacturer’s website.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **6\. Check the ‘Device Status’ of your graphic card:**
@@ -121,6 +135,13 @@ Table of Content
  If your videos are not playing and the**Device Status** of your graphic card reads –_‘The device is working properly,’_ the video might be corrupt.**In this case, you would need software like** Stellar Repair for Video, which can repair visual and sound corruption in damaged videos. The software fixes video glitches, stuttering, missing sound, video lag, and other problems.
 
 ![Device Status of Graphic card showing ‘device working’](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/ww.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Figure: Device Status of Graphic card showing ‘device working’
 
@@ -175,10 +196,10 @@ To disable video card drives, follow the below steps:
 * Go to the**Driver** tab and click the**Enable** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **3.** **Uninstall and reinstall the drivers**
@@ -232,13 +253,6 @@ To uninstall the driver, follow the below steps:
 
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
 
 About The Author
@@ -246,10 +260,10 @@ About The Author
 ![](https://secure.gravatar.com/avatar/574139bee03ec4bdb0cd6e869a4670da?s=85&d=mm&r=g)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
@@ -269,5 +283,26 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-affordable-choices-best-laptops-for-gamers-on-a-dime-for-2024/"><u>[New] Affordable Choices Best Laptops for Gamers on a Dime for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-to-implementing-lut-effects-in-premiere-pro/"><u>[Updated] A Step-by-Step Guide to Implementing LUT Effects in Premiere Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-autofocus-on-iphone-cameras-efficiently/"><u>[Updated] Mastering Autofocus on iPhone Cameras Efficiently</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/embrace-change-on-the-move-with-flexible-tripod-12/"><u>Embrace Change on the Move with Flexible Tripod 12</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-seamless-photo-recovery-with-windowwizards-editing-tool-order-today/"><u>Experience Seamless Photo Recovery with WindowWizards Editing Tool - Order Today</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixed-instagram-reel-quirk/"><u>Fixed: Instagram Reel Quirk</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixer-phoenix-unveils-pdf-rehabilitation-tool/"><u>Fixer Phoenix Unveils PDF Rehabilitation Tool</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-apple-iphone-support-software-installed-on-your-new-windows-11-device/"><u>Get the Latest Apple iPhone Support Software Installed on Your New Windows 11 Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-students-can-enjoy-a-home-theater-vibe-in-their-dorms-via-wireless-technology/"><u>How Students Can Enjoy a Home Theater Vibe in Their Dorms via Wireless Technology</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-fix-videos-playing-in-slow-motion/"><u>How to Fix Videos Playing in Slow Motion?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-lava-yuva-2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Lava Yuva 2 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-the-basics-eliminate-blue-screen-in-win-10/"><u>Master the Basics: Eliminate Blue Screen in Win 10</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/pioneering-image-restoration-stellars-new-frontier/"><u>Pioneering Image Restoration: Stellar's New Frontier</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repair-broken-mxf-and-nab-formats/"><u>Repair Broken MXF and NAB Formats</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/screensnap-win10-top-quality-recorder/"><u>ScreenSnap Win10 - Top Quality Recorder</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-12-data-restore-easy-ui-steps/"><u>Stellar 12 Data Restore - Easy UI Steps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshoot-issues-with-mobile-youtube-subtitles-on-iphones/"><u>Troubleshoot Issues with Mobile YouTube Subtitles on iPhones</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-fix-for-video-glitch-0xc10100be/"><u>Unlocking Fix for Video Glitch 0XC10100be</u></a></li>
+</ul></div>
 

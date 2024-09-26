@@ -1,7 +1,7 @@
 ---
 title: Supernova Software Data Rescue
-date: 2024-08-08T00:40:09.736Z
-updated: 2024-08-09T00:40:09.736Z
+date: 2024-09-24T01:13:23.929Z
+updated: 2024-09-25T22:09:42.520Z
 categories:
   - repair-tools
 description: This Article Describes Supernova Software Data Rescue
@@ -20,21 +20,19 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 ### SKB31
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [What QuickBooks® error messages can be effectively resolved using the software?  At many times, while creating a new QuickBooks® Company file or opening/using an existing one, the file gets corrupted, with error messages on the screen. For any such QuickBooks® corruptions, you can use Stellar Repair for QuickBooks Software to repair the corrupt QBW file and recover your data back. Below are some of the commonly encountered QuickBooks® errors, which can be efficiently dealt.. calendar_icon Date Published 05 Sep 2011 eye_icon Total Views 13437  Read Moreleft_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/calendar.png) Date Published 05 Sep 2011 ![eye_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/eye.png) Total Views 13437  Read More ![left_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/left-arrow.png) ](https://www.stellarinfo.com/support/kb/index.php/article/what-quickbooks-error-messages-can-be-effectively-resol)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### SKB227
 
 [If I repair corrupt company file with Stellar Repair for QuickBooks Software, will the recovered file have the same properties as my company file or I have to assign them manually?  A primary requisite for repairing a QuickBooks® company file using Stellar Repair for QuickBooks Software is a new blank company file created in the same version of QuickBooks® as that of your corrupt QuickBooks® database. All the data recovered from your database will be saved in this newly created company file. You only need to provide a few details about your company when making a .. calendar_icon Date Published 04 Apr 2013 eye_icon Total Views 22488  Read Moreleft_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/calendar.png) Date Published 04 Apr 2013 ![eye_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/eye.png) Total Views 22488  Read More ![left_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/left-arrow.png) ](https://www.stellarinfo.com/support/kb/index.php/article/repair-corrupt-quickbooks-database-file)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### SKB228
 
 [Does the software supports QuickBooks® UK version? If yes, what are the steps to be followed to repair a corrupt QuickBooks® database?  Yes, Stellar Repair for QuickBooks® Software supports the UK version of QuickBooks® software. In order to repair your corrupt company file created in QuickBooks® UK version, follow the steps given below. But Before We Begin Make sure that the following prerequisites are met: Create a blank target company file (QBW) that will be used to store all the recovered d.. calendar_icon Date Published 04 Apr 2013 eye_icon Total Views 23895  Read Moreleft_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/calendar.png) Date Published 04 Apr 2013 ![eye_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/eye.png) Total Views 23895  Read More ![left_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/left-arrow.png) ](https://www.stellarinfo.com/support/kb/index.php/article/software-supports-quickbooks-uk-version)
@@ -43,36 +41,75 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 [Which information I can recover from the corrupt QuickBooks Company file using Stellar Repair for QuickBooks Software?  Stellar Repair for QuickBooks® Software can repair and recover data from all QBW File Components such as Company, Customers, Vendors and Employees Information. Here's a breakdown of all the information that be recovered- Company Information Contact Information Company Name Address Country Phone Fax E-mail Web Site Legal Information Legal Name Leg.. calendar_icon Date Published 13 Jan 2017 eye_icon Total Views 18758  Read Moreleft_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/calendar.png) Date Published 13 Jan 2017 ![eye_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/eye.png) Total Views 18758  Read More ![left_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/left-arrow.png) ](https://www.stellarinfo.com/support/kb/index.php/article/which-information-i-can-recover-from-the-corrupt-quickb)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### SKB489
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [How Can I Use the Advance Option to Restore Missing QBW File Data from QBB File?  Using Stellar Repair for QuickBooks® Software, you can easily scan a corrupt QBW file and save the recoverable file data in a few simple steps. However, if you are not satisfied with the results, i.e. some data is missing while previewing the repaired QBW file, you can use the ‘Advance Option’ to restore the data. This option uses the QuickBooks® backup file (QBB) file to provi.. calendar_icon Date Published 08 Jun 2017 eye_icon Total Views 14399  Read Moreleft_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/calendar.png) Date Published 08 Jun 2017 ![eye_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/eye.png) Total Views 14399  Read More ![left_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/left-arrow.png) ](https://www.stellarinfo.com/support/kb/index.php/article/use-advanced-recovery-to-restore-missing-data-qbw-file)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### SKB510
 
 [How can I save the repaired QuickBooks Company file?  Stellar Repair for QuickBooks® Software can repair severely corrupt Company file (QBW) of any size. Once the file is repaired, you can save the repaired file by following these steps: Step 1: From the software’s main interface window, click Browse to select the corrupt QBW file. Note: If you do not know the QuickBooks Desktop Company file location, click Find to search and select the f.. calendar_icon Date Published 20 Jul 2017 eye_icon Total Views 11193  Read Moreleft_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/calendar.png) Date Published 20 Jul 2017 ![eye_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/eye.png) Total Views 11193  Read More ![left_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/left-arrow.png) ](https://www.stellarinfo.com/support/kb/index.php/article/save-repaired-quickbooks-company-file)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### SKB532
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 [How can I save the log report of QuickBooks file repair process?  Stellar Repair for QuickBooks® Software allows saving the log report of QuickBooks® file scan process. This report contains scan details, including: Time at which the scan process started and completed Number of ‘present’ and ‘deleted’ data of Company (Charts of Accounts & Items and Services), Customers, Vendors, and Employees. Follow these steps to save t.. calendar_icon Date Published 08 Sep 2017 eye_icon Total Views 4300  Read Moreleft_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/calendar.png) Date Published 08 Sep 2017 ![eye_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/eye.png) Total Views 4300  Read More ![left_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/left-arrow.png) ](https://www.stellarinfo.com/support/kb/index.php/article/save-log-report-of-quickbooks-file-repair-process)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### SKB757
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 [How to create blank QuickBooks file to save the repaired data  As it is necessary to create blank QuickBooks (QBW) file to save recovered data using Stellar Repair for QuickBooks Software, here know the steps to create new and empty QBW file in 'QuickBooks®' accounting software. The steps are as follows: Open 'QuickBooks®' application installed on your system Click 'File' menu and select ‘New Company' in QuickBook.. calendar_icon Date Published 17 Aug 2018 eye_icon Total Views 4583  Read Moreleft_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/calendar.png) Date Published 17 Aug 2018 ![eye_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/eye.png) Total Views 4583  Read More ![left_icon](https://www.stellarinfo.com/support/kb/asset/frontend/images/left-arrow.png) ](https://www.stellarinfo.com/support/kb/index.php/article/create-blank-quickbooks-file)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### SKB758
 
@@ -86,9 +123,6 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 * [TUV SUD ISO 27001](https://www.stellarinfo.com/images/v7/tuv1.png) ](/images/v7/ISO-27001-2013-Certificate.pdf)
 * [TUV SUD ISO 9001](https://www.stellarinfo.com/images/v7/tuv2.png) ](/images/v7/ISO-9001-2008Certificate.pdf)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![NIST](https://www.stellarinfo.com/images/v7/nist.png)
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
@@ -101,10 +135,14 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
  ALSO AVAILABLE AT
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  About
 
@@ -153,13 +191,7 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.facebook.com/stellardata) [Twitter](https://www.stellarinfo.com/Images/tw.png) ](https://twitter.com/stellarinfo) [Linkedin](https://www.stellarinfo.com/Images/in.png) ](https://www.linkedin.com/company/stellardatarecovery/) [Youtube](https://www.stellarinfo.com/newblacktheme/images/yt.png) ](https://www.youtube.com/c/stellardatarecovery)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 * ![Notron](https://www.stellarinfo.com/images/v7/notron.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
 
 <ins class="adsbygoogle"
@@ -168,8 +200,6 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +207,24 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/utro-optimization-making-lasting-impacts/"><u>[New] Outro Optimization Making Lasting Impacts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-driving-insights-perfect-polling-techniques-for-instagram-stories/"><u>[Updated] 2024 Approved Driving Insights Perfect Polling Techniques for Instagram Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-efficient-movie-recording-strategies-across-desktops-and-handhents/"><u>[Updated] 2024 Approved Efficient Movie Recording Strategies Across Desktops and Handhents</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-blueprint-for-smooth-obs-to-fb-live-transitions-for-2024/"><u>[Updated] The Blueprint for Smooth OBS-to-FB Live Transitions for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/felicia-day-explores-the-world-of-additive-manufacturing-a-special-offer-on-her-custom-3d-models-for-enthusiasts/"><u>Felicia Day Explores the World of Additive Manufacturing: A Special Offer on Her Custom 3D Models for Enthusiasts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-compromised-file-formats-for-mac-users/"><u>Fixing Compromised File Formats for Mac Users</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-x-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone X to SIM? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-next-gen-cloud-infrastructures-for-skills-development-and-robust-security-in-modern-applications/"><u>Leveraging Next-Gen Cloud Infrastructures for Skills Development and Robust Security in Modern Applications</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-fix-for-compromised-digital-content/"><u>Quick Fix for Compromised Digital Content</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restored-video-playback-failure-mystery/"><u>Restored Video: Playback Failure Mystery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-nonfunctional-movie-files-in-quality-time-player/"><u>Reviving Nonfunctional Movie Files in Quality Time Player</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/software-buyers-bond/"><u>Software Buyer's Bond</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/sql-expertise-damians-repair-journey/"><u>SQL Expertise: Damian’s Repair Journey</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/strategies-for-smoother-media-transitions-and-playbacks/"><u>Strategies for Smoother Media Transitions and Playbacks</u></a></li>
+<li><a href="https://techidaily.com/tecno-messages-recovery-recover-deleted-messages-from-tecno-by-fonelab-android-recover-messages/"><u>Tecno Messages Recovery - Recover Deleted Messages from Tecno</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v30-lite-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Lite 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/voice-of-victory-hard-drive-recovery/"><u>Voice of Victory: Hard Drive Recovery</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obsolete Video Codecs
-date: 2024-09-15T17:36:59.888Z
-updated: 2024-09-19T22:26:17.650Z
+date: 2024-09-21T18:43:03.558Z
+updated: 2024-09-25T23:35:27.798Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Obsolete Video Codecs
@@ -67,6 +67,13 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -85,13 +92,6 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -104,13 +104,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -120,6 +113,13 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -142,6 +142,13 @@ _Figure: VLC message when new version is available._
 
  The open source VLC Media Player can also convert video files to different format.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -156,13 +163,6 @@ _Figure: Video profile options in VLC Player_
 
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Convert video file to fix unsupported codec error on Android**
 
@@ -206,10 +206,16 @@ _Figure: Preview video after repair_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -237,5 +243,24 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unveiling-the-past-essential-historical-yt-creators-for-students/"><u>[New] In 2024, Unveiling the Past Essential Historical YT Creators for Students</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-your-chances-for-regular-youtube-payments/"><u>[New] Understanding Your Chances for Regular YouTube Payments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transition-tactics-your-youtube-videos-on-instagram/"><u>[Updated] Transition Tactics Your YouTube Videos on Instagram</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-platforms-virtual-media-restoration/"><u>Advanced Platforms: Virtual Media Restoration</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-nubia-red-magic-9-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cleaning-corrupt-vids-mac-solutions-to-look-forward-to/"><u>Cleaning Corrupt Vids: Mac Solutions to Look Forward To</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/clear-your-path-eradicate-windows-bsod-errors/"><u>Clear Your Path: Eradicate Windows BSOD Errors</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-new-era-of-reading-comfort-with-the-2019-kindle-oasis-review/"><u>Discover the New Era of Reading Comfort with The 2019 Kindle Oasis Review</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diy-video-repair-guide-to-fix-corrupted-video-files/"><u>DIY Video Repair Guide to Fix Corrupted Video Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-overcoming-issues-when-vcompdll-is-missing-or-undetected/"><u>Guide: Overcoming Issues When vcomp.dll Is Missing or Undetected</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-camon-30-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Camon 30 Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-6s-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 6s?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/instant-stellar-setup-guide/"><u>Instant Stellar Setup Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720670536365-mpeg-file-recovery-and-fixer-say-goodbye-to-corrupted-media-once-and-for-all/"><u>MPEG File Recovery & Fixer: Say Goodbye to Corrupted Media Once and For All</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-innovates-supercharge-your-mac-efficiency/"><u>Stellar Innovates: Supercharge Your Mac Efficiency</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tech-tips-deciphering-and-correcting-panic-on-mac/"><u>Tech Tips: Deciphering and Correcting Panic on Mac</u></a></li>
+</ul></div>
 
