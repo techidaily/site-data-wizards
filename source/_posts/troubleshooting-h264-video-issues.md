@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting H.264 Video Issues
-date: 2024-08-08T00:34:59.676Z
-updated: 2024-08-09T00:34:59.676Z
+date: 2024-09-29T02:24:10.342Z
+updated: 2024-10-01T05:41:15.747Z
 categories:
   - repair-tools
 description: This Article Describes Troubleshooting H.264 Video Issues
@@ -16,15 +16,8 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
 
 # How to repair H.264 MOV files
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 * ![Written By](https://secure.gravatar.com/avatar/574139bee03ec4bdb0cd6e869a4670da?s=50&d=mm&r=g)  
  Written By [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 * ![Date](https://www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on26 Apr, 2024
 * ![Time](https://www.stellarinfo.com/public/frontEnd/images/author/clock.jpg)  
@@ -51,8 +44,18 @@ Table of Content
  The corrupt video often shows errors, stops after playing for some time, throws black screen, loses sound, flickers, gets choppy, broken, or may not play at all.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **How to repair corrupt H.264 MOV videos**
 
  A video repair tool is the only solution to repair corruption in H.264 video files. An efficient repair software can fix choppy, jerky, grainy, broken, and truncated videos.
@@ -64,30 +67,22 @@ Table of Content
 ## **Workarounds to play your H.264 MOV files**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **1\. Play the video in another media player**
 
  If H.264 MOV video is not playing properly in one player, try another supporting one like VLC Media Player, 5KPlayer, PotPlayer, QuickTime etc.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **2\. Download the MOV supporting codec**
 
  The MOV video won’t play if the required codecs are not installed on your computer. You can install a codec pack online or configure Windows Media Player to download codecs automatically.
 
  To get MOV supporting codec in Windows Media Player, go to**Tools >** **Options** \> **Player.** Check in**Download codecs automatically** and click **OK** . Now, try to play the file. If you are prompted to install the codec, click **Install** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### **3\. Convert the video file to another format**
 
  Apart from online video converter tools, VLC Player can also convert H.264 videos to MP4 or AVI etc.
@@ -96,16 +91,17 @@ Table of Content
 
 * Open VLC and click **Media >** **Convert/Save**
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steps to convert H.264 MOV videos to MP4 in VLC Media Player](https://www.stellarinfo.com/blog/wp-content/uploads/2019/05/1-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * In the Open Media window, click on **Add** to select the MOV videos you want to convert
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Media window, click on Addto select the MOV videos](https://www.stellarinfo.com/blog/wp-content/uploads/2019/05/2-1.png)
 
 * Click on **Convert/Save** at the bottom
@@ -113,16 +109,27 @@ Table of Content
 * Under **Profile** , select the file format you want to convert to
 * Click **Start** to convert
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **4\. Update your PC video drivers**
 
  Updates fix issues related to video drivers. Windows driver updates are automatically downloaded with Windows Update. Go to**Settings > Update & Security > Windows Update** \> **Check for updates.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **5.** **Try Reducing the Screen Resolution**
 
  By reducing the screen resolution, you can understand whether it’s a faulty graphics driver or there is a problem with the video itself.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **6\. Turn Off hardware acceleration**
 
@@ -134,6 +141,13 @@ To disable hardware acceleration in Google Chrome, follow these steps:
 2. Under System, toggle-off the Use hardware acceleration when available option
 
  If your H.264 videos don’t play properly, after the above workarounds, they are corrupt. Use a H.264 video repair application to fix the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Methods to repair corrupt H.264 MOV video files**
 
@@ -151,15 +165,19 @@ To disable hardware acceleration in Google Chrome, follow these steps:
 * Click on**Tools**
 * Go to**Preference**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![repair H.264 MOV video files - Go to preferences](https://www.stellarinfo.com/blog/wp-content/uploads/2019/05/3.png)
 
 * Click on**Input & Codecs**
 * Go to**Damaged or incomplete AVI file**
 
 ![Click on Input & Codecs](https://www.stellarinfo.com/blog/wp-content/uploads/2019/05/4-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Select**Always fix** in the dropdown
 * Click**Save**
@@ -200,6 +218,19 @@ To disable hardware acceleration in Google Chrome, follow these steps:
 
 ![Preview added video files that need to repair](https://www.stellarinfo.com/screenshots/video-repair/win/2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Software displays the list of added videos
 
 The repair process begins.
@@ -210,16 +241,10 @@ The repair process begins.
 
 **Step 4:** A ‘Repair process completed’ message appears. Click**Preview.** Click**Save Repaired File**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Preview and save the repaired grainy videos](https://www.stellarinfo.com/blog/wp-content/uploads/2019/05/9.png)
 
  Preview and save the repaired grainy videos
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### **Wrapping Up**
 
  Although, VLC Player repairs corrupt H.264 MOV files but it is not sufficiently equipped to fix all types of video corruption.
@@ -236,16 +261,10 @@ The repair process begins.
 
 For queries, reach us by giving comments in the box below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Was this article helpful?
 
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
 
 About The Author
@@ -262,8 +281,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -271,4 +288,24 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-epicentertainment-eyeview/"><u>[New] In 2024, EpicEntertainment EyeView</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-clickthrough-rates-with-attention-grabbing-youtube-thumbnails-for-2024/"><u>[Updated] Boosting Clickthrough Rates with Attention-Grabbing YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-motion-smear-for-realism-in-adobe/"><u>2024 Approved Photo Motion Smear for Realism in Adobe</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dai-a-tua-musica-un-nuovo-futuro-nel-2024-la-guida-definitiva-per-convertire-i-tuoi-cd-in-mp3/"><u>Dai a Tua Musica Un Nuovo Futuro Nel 2024: La Guida Definitiva per Convertire I Tuoi CD in MP3</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elevated-data-retrieval-with-stellars-latest-mac-edition/"><u>Elevated Data Retrieval with Stellar's Latest Mac Edition</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhanced-video-repair-solutions-from-grau-gmbh-all-in-one-hardware-and-software-system/"><u>Enhanced Video Repair Solutions From Grau GmbH: All-in-One Hardware & Software System</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-end-vector-sites-ranked-1-to-10-for-2024/"><u>High-End Vector Sites Ranked 1 to 10 for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-fix-samsung-all-in-one-printer-drivers-in-windows-systems/"><u>How to Fix Samsung All-in-One Printer Drivers in Windows Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ordered-guide-how-to-sequence-your-dragon-ball-viewing-experience/"><u>Ordered Guide: How to Sequence Your Dragon Ball Viewing Experience</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-rises-stellar-fixes-anywhere-db-crisis/"><u>Phoenix Rises: Stellar Fixes Anywhere DB Crisis</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/photography-reborn-stellars-innovative-recovery-software/"><u>Photography Reborn: Stellar’s Innovative Recovery Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recover-corrupted-video-files-mastering-mp4-and-mov-restoration-in-vlc-player/"><u>Recover Corrupted Video Files: Mastering MP4 and MOV Restoration in VLC Player</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-glitchy-vids-naturally/"><u>Resolving Glitchy Vids Naturally</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-notch-photo-recovery-program/"><u>Top-Notch Photo Recovery Program</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vidrescuetool-simple-solution-to-damaged-footage/"><u>VidRescueTool: Simple Solution to Damaged Footage</u></a></li>
+</ul></div>
 

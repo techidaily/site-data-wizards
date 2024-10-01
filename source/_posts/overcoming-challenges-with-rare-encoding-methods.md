@@ -1,7 +1,7 @@
 ---
 title: Overcoming Challenges with Rare Encoding Methods
-date: 2024-09-24T05:12:24.485Z
-updated: 2024-09-25T22:35:17.059Z
+date: 2024-09-26T09:39:28.893Z
+updated: 2024-10-01T03:05:29.703Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Challenges with Rare Encoding Methods
@@ -59,13 +59,6 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -73,6 +66,13 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -125,13 +125,6 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -141,6 +134,13 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -157,22 +157,16 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
@@ -203,13 +197,6 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -217,6 +204,13 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -245,22 +239,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-critical-review-of-samsungs-digital-photography-advancements/"><u>[New] 2024 Approved Critical Review of Samsung's Digital Photography Advancements</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-achieve-professional-quality-on-yt-with-simple-blurring/"><u>[Updated] 2024 Approved Achieve Professional Quality on YT with Simple Blurring</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-expert-asmrists-praised-by-insomniacs/"><u>2024 Approved Expert ASMRists Praised by Insomniacs</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/digital-devices-guarantee/"><u>Digital Devices Guarantee</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/diving-into-the-future-with-stellars-12v-mac-software-update/"><u>Diving Into the Future with Stellar's 12v Mac Software Update</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhancing-video-clarity-h264-tips/"><u>Enhancing Video Clarity: H.264 Tips</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/error-36-and-trash-emptying-a-quick-solution-for-macos-users/"><u>Error 36 & Trash Emptying: A Quick Solution for macOS Users</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/failed-video-fix-time-to-reassess-strategy/"><u>Failed Video Fix? Time to Reassess Strategy</u></a></li>
-<li><a href="https://windows11.techidaily.com/five-keys-to-unlock-frozen-windows-hibernate/"><u>Five Keys to Unlock Frozen Windows Hibernate</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-started-with-iphone-driver-software-on-windows-10-machines/"><u>Getting Started with iPhone Driver Software on Windows 10 Machines</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/intergalactic-db-refresh-tactics/"><u>Intergalactic DB Refresh Tactics</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/navigating-the-labyrinth-of-lost-files-a-guide-to-recovery-by-singh/"><u>Navigating the Labyrinth of Lost Files: A Guide to Recovery, by Singh</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/optimize-your-business-operations-with-fast-effective-methods-of-converting-extensive-databases-from-edb-format-into-csv-expert-advice-tech-blog-post/"><u>Optimize Your Business Operations with Fast, Effective Methods of Converting Extensive Databases From EDB Format Into CSV – Expert Advice | Tech Blog Post</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/securing-your-data-step-by-step-guide-to-encrypting-a-usb-on-windows-11/"><u>Securing Your Data: Step-by-Step Guide to Encrypting a USB on Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-and-restore-your-airdrop-functionality-using-these-essential-16-steps/"><u>Troubleshoot and Restore Your AirDrop Functionality Using These Essential 16 Steps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-zooming-in-on-clarity-an-essential-guide-to-professional-quality-audio-recordings/"><u>[New] Zooming In On Clarity An Essential Guide to Professional-Quality Audio Recordings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-expert-techniques-for-removing-audio-disturbances/"><u>[Updated] 2024 Approved Expert Techniques for Removing Audio Disturbances</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-secure-your-animated-gifs-with-these-winning-recording-software-on-pc/"><u>[Updated] 2024 Approved Secure Your Animated GIFs with These Winning Recording Software on PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-entering-a-new-era-with-htcs-immersive-vr-gaming/"><u>[Updated] Entering a New Era with HTC's Immersive VR Gaming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-way-to-update-old-photos-and-videos-with-ig-filters/"><u>[Updated] The Ultimate Way to Update Old Photos and Videos with IG Filters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-elite-seven-portals-for-watching-movie-trailers-online/"><u>Discover the Elite Seven Portals for Watching Movie Trailers Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-pioneer-bdr-xs06-blu-ray-disc-burner-a-comprehensive-look-at-its-mobility-and-efficiency/"><u>Exploring the Pioneer BDR-XS06 Blu-Ray Disc Burner: A Comprehensive Look at Its Mobility & Efficiency</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/free-download-video-repair-tool-to-repair-damaged-videos/"><u>Free Download Video Repair Tool to Repair Damaged Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-views-not-video-length-expert-guide-to-yt-desc-templates/"><u>In 2024, Elevate Views, Not Video Length Expert Guide to YT Desc Templates</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/navigating-through-deteriorated-h265-media-problems/"><u>Navigating Through Deteriorated H.265 Media Problems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimization-articles/"><u>Optimization Articles</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-buffering-problems-for-youtube-on-ios/"><u>Overcoming Buffering Problems for YouTube on iOS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-and-exporting-lost-emails-with-live-server/"><u>Reviving and Exporting Lost Emails with Live Server</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/speedy-transaction-interstellar-imagery-update/"><u>Speedy Transaction: Interstellar Imagery Update</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-notch-video-restoration-testimonials-worth-it/"><u>Top-Notch Video Restoration, Testimonials Worth It</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-customer-testimonial/"><u>Video - Customer Testimonial</u></a></li>
 </ul></div>
 

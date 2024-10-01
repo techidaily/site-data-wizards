@@ -1,7 +1,7 @@
 ---
 title: "Stellar Exchange Restoration: Case Study Success"
-date: 2024-08-08T00:33:41.094Z
-updated: 2024-08-09T00:33:41.094Z
+date: 2024-09-27T06:31:42.406Z
+updated: 2024-10-01T13:09:54.325Z
 categories:
   - repair-tools
 description: "This Article Describes Stellar Exchange Restoration: Case Study Success"
@@ -18,37 +18,46 @@ CASE STUDY
 
  Minimizing Downtime: Stellar Repair for Exchange Resolves Critical Email Outage for Worktrainers Ltd
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![casestudy_banner](https://www.stellarinfo.com/casestudy/casestudy/images/casestudy_banner.png)
 
 ### Introduction
 
  Worktrainers Ltd., a not-for-profit company providing traffic control and hire services while assisting students with their employment and career paths, experienced a catastrophic email outage when their Exchange Server 2013 started dropping mailboxes. This outage affected approximately 50 users and brought their business operations to a halt. This case study explores the issues faced by Worktrainers Ltd., the attempted solutions, and how Stellar Repair for Exchange software resolved the critical email outage, minimizing the impact on the company.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Background
 
  The Exchange Server 2013 Standard, which hosted the main database for Worktrainers Ltd., began encountering problems with dropping mailboxes. Users were unable to access their mailboxes, send, or receive emails. After a few hours, the database completely dismounted, leaving the entire company without email access.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Impact on the Business
 
  Emails are vital for business operations, and even a short outage can result in significant issues and lost opportunities. Worktrainers Ltd. issued a statement highlighting the impact of the email outage on their business: "We missed out on work with some of our customers as they tried to send out urgent emails while we were offline. This has caused us thousands of dollars in lost work and time recovering the old emails and server."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Attempted Solutions
 
 * As the sole IT administrator in the company, resolving the email outage was a pressing matter. The administrator attempted to repair the database using the built-in ESEUTIL command on the Exchange Server, employing both smooth and hard recovery methods. However, after six hours, the repair process failed, and the database still did not mount.
 * Another option was to restore from the backup software in use. However, a complication arose during the merge operation of the VHDX files with the auto VHDX file created after the restore. Despite investing additional time and resources, the virtual drives were eventually merged, and the Exchange Server was booted. However, the server reported numerous health errors with the core services.
 * Administrator decided to make an emergency migration to Exchange Online on Microsoft 365\. The process involved creating a tenant, verifying the domain, creating mailboxes and groups, and changing the MX record to Microsoft 365\. After conducting quick tests using Outlook Web Access (OWA), emails were sent and received. User accounts were secured with Multi-Factor Authentication (MFA), and credentials were distributed. Gradually, normal operations resumed. However, the challenge remained of migrating data from the non-operational and corrupted Exchange Server databases.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution and Benefits
 
@@ -94,9 +103,6 @@ Worktrainers Ltd
 
  Resolved the email outage, recovered data, enhanced security, and using user-friendly software for mailbox recovery.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Read More Case Studies
 
 [](https://www.stellarinfo.com/casestudy/casestudy/images/gabler-container.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
@@ -152,9 +158,6 @@ Awards Received
 
 * [TUV SUD ISO 27001](https://www.stellarinfo.com/images/v7/tuv1.png) ](/images/v7/ISO-27001-2013-Certificate.pdf)
 * [TUV SUD ISO 9001](https://www.stellarinfo.com/images/v7/tuv2.png) ](/images/v7//ISO-9001-2008Certificate.pdf)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 * ![NIST](https://www.stellarinfo.com/images/v7/nist.png)
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
@@ -167,10 +170,14 @@ Awards Received
 
  ALSO AVAILABLE AT
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  About
 
@@ -228,8 +235,6 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +242,22 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insights-into-instagram-follower-exits/"><u>[Updated] 2024 Approved Insights Into Instagram Follower Exits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-streamlining-your-archive-converting-snapchats-ephemeral-snaps/"><u>2024 Approved Streamlining Your Archive Converting Snapchat's Ephemeral Snaps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-youtubers-overture-orchestrating-video-triumphs/"><u>2024 Approved The YouTuber’s Overture Orchestrating Video Triumphs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/4-solutions-for-a-quirked-folder-icon-on-macbooks/"><u>4 Solutions for a Quirked Folder Icon on MacBooks</u></a></li>
+<li><a href="https://facebook.techidaily.com/ai-mimics-style-through-image-based-text-recognition/"><u>AI Mimics Style Through Image-Based Text Recognition</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-recovery-stellar-services-for-data-hubs/"><u>Celestial Recovery: Stellar Services for Data Hubs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comprehensive-video-walkthrough-for-moving-restored-edb-databases-to-your-operational-exchange-platform/"><u>Comprehensive Video Walkthrough for Moving Restored EDB Databases to Your Operational Exchange Platform</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/conquering-complex-codes-stellar-hits-major-milestone-in-data-retrieval/"><u>Conquering Complex Codes: Stellar Hits Major Milestone in Data Retrieval</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/exchange-crisis-averted-proven-techniques/"><u>Exchange Crisis Averted: Proven Techniques</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/exporting-edb-files-to-active-exchange-servers-a-comprehensive-video-tutorial/"><u>Exporting EDB Files to Active Exchange Servers - A Comprehensive Video Tutorial</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/honorable-5-quicktime-frame-recorder-for-2024/"><u>Honorable 5 Quicktime Frame Recorder for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-fb-video-shape-study-overview/"><u>In 2024, FB Video Shape Study Overview</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/installing-the-newest-logiteam-g403-controller-software-on-pc-systems/"><u>Installing the Newest Logiteam G403 Controller Software on PC Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/next-level-productivity-a-complete-review-of-the-powerful-and-versatile-dell-xps-nt-13-convertible-model/"><u>Next-Level Productivity: A Complete Review of the Powerful and Versatile Dell XPS N't 13 Convertible Model</u></a></li>
+</ul></div>
 

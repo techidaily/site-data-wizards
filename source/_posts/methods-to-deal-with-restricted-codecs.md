@@ -1,7 +1,7 @@
 ---
 title: Methods to Deal with Restricted Codecs
-date: 2024-09-23T22:28:10.299Z
-updated: 2024-09-26T11:38:11.733Z
+date: 2024-09-25T04:28:30.411Z
+updated: 2024-09-30T18:40:36.406Z
 categories:
   - repair-tools
 description: This Article Describes Methods to Deal with Restricted Codecs
@@ -59,6 +59,13 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -66,6 +73,13 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -84,6 +98,13 @@ _An error occurred. Unsupported file format.’_
  If video file gives unsupported codec error on Mac, right-click on the file. Click on**‘Open With’** option. Mac may suggest all the installed apps that can play the video.
 
 _Figure: Mac suggests installed apps to open video_
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Download the missing video codecs
 
@@ -118,19 +139,6 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -140,13 +148,6 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -163,6 +164,13 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
@@ -170,13 +178,6 @@ _Figure: Video profile options in VLC Player_
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -202,13 +203,6 @@ _Figure: Repair button in software_
 _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Wrapping up**
 
@@ -245,22 +239,20 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-teen-riches-skyrocket-with-viral-video-empire/"><u>[New] 2024 Approved Teen Riches Skyrocket with Viral Video Empire</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-a-comprehensive-list-of-prime-tablets-for-photo-editing-lovers-for-2024/"><u>[New] A Comprehensive List of Prime Tablets for Photo Editing Lovers for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-complete-ios-manual-for-instagram-savings/"><u>[Updated] In 2024, The Complete iOS Manual for Instagram Savings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-must-watch-10-unique-igtv-content-formats-for-brands/"><u>[Updated] Must-Watch 10 Unique IGTV Content Formats for Brands</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-communication-to-enhance-interview-success/"><u>2024 Approved Leveraging Communication to Enhance Interview Success</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/advanced-video-dilemma-whats-the-solution/"><u>Advanced Video Dilemma: What's the Solution?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/cosmic-canvas-highlighted-achievements-plus-satisfaction-sagas/"><u>Cosmic Canvas: Highlighted Achievements + Satisfaction Sagas</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhancing-stream-quality-a-guide-to-effortless-viewing/"><u>Enhancing Stream Quality: A Guide to Effortless Viewing</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/flashback-fixer-photo-file-revival/"><u>Flashback Fixer: Photo File Revival</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hands-on-effortless-driver-update-process-for-the-logitech-g502-performance-mouse/"><u>Hands-On: Effortless Driver Update Process for the Logitech G502 Performance Mouse</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-achieve-visual-dominance-with-facebooks-full-screen-capability/"><u>In 2024, Achieve Visual Dominance with Facebook's Full-Screen Capability</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-transforming-tech-talks-the-ezvide-screen-recording-guide/"><u>In 2024, Transforming Tech Talks The Ezvide Screen Recording Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/indulge-in-these-15-influencer-led-tiktok-recipes-that-are-a-hit-online/"><u>Indulge in These 15 Influencer-Led TikTok Recipes That Are a Hit Online</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/override-playback-halt-on-cx0d36c4-error/"><u>Override Playback Halt on Cx0d36c4 Error</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/troubleshoot-and-mend-damaged-videos-mp4-mov-fixes-using-vlc-player-methods/"><u>Troubleshoot & Mend Damaged Videos: MP4, MOV Fixes Using VLC Player Methods</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ultimate-guide-restoring-damaged-mp4mov-videos-with-vlc-media-player/"><u>Ultimate Guide: Restoring Damaged MP4/MOV Videos with VLC Media Player</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/universe-financial-file-rescue/"><u>Universe Financial File Rescue</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-disableremove-youtube-shorts-permanently2/"><u>[New] 2024 Approved How to Disable/Remove YouTube Shorts Permanently?2</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-single-platform-focus-disabling-cross-play-for-personal-zen-for-2024/"><u>[New] Single-Platform Focus Disabling Cross-Play for Personal Zen for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-recording-wonders-the-best-screenshot-tools/"><u>[Updated] 2024 Approved Recording Wonders The Best Screenshot Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streaming-smarts-engaging-viewers-on-multiple-networks/"><u>[Updated] Streaming Smarts Engaging Viewers on Multiple Networks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-repair-mp4-video-files/"><u>How to Repair MP4 Video Files</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-ease-and-speed-effective-methods-for-comment-removal/"><u>In 2024, Ease and Speed Effective Methods for Comment Removal</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/maximizing-online-reach-coordinating-campaigns-on-facebook-linkedin-and-youtube/"><u>Maximizing Online Reach: Coordinating Campaigns on Facebook, LinkedIn & YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009584521-pc-troubles-with-battlefront-ii-heres-how-to-fix-it/"><u>PC Troubles with Battlefront II? Here's How to Fix It</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-the-lost-images-with-stellars-cutting-edge-solution/"><u>Revive the Lost Images with Stellar's Cutting-Edge Solution</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-screen-reflection-syncing-your-computer-with-apple-tv-effortlessly/"><u>Seamless Screen Reflection: Syncing Your Computer with Apple TV Effortlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-cod-bo-wwii-freeze-glitch-a-step-by-step-guide/"><u>Solving the COD BO WWII Freeze Glitch - A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/steps-to-secure-video-integrity/"><u>Steps to Secure Video Integrity</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-20-frequent-video-glitches-solutions-unveiled/"><u>Top 20 Frequent Video Glitches: Solutions Unveiled</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unravel-av-mismatches-with-smart-vlc-tweaks/"><u>Unravel AV Mismatches with Smart VLC Tweaks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-notch-gadgets-and-components-wisdom-from-toms-hardware/"><u>Unveiling Top-Notch Gadgets and Components - Wisdom From Tom's Hardware</u></a></li>
 </ul></div>
 

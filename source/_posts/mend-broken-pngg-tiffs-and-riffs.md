@@ -1,7 +1,7 @@
 ---
 title: Mend Broken PNGG TIFFs and RIFFs
-date: 2024-09-18T22:36:42.222Z
-updated: 2024-09-26T01:11:40.712Z
+date: 2024-09-29T00:59:46.988Z
+updated: 2024-10-01T06:00:30.335Z
 categories:
   - repair-tools
 description: This Article Describes Mend Broken PNGG TIFFs and RIFFs
@@ -69,13 +69,6 @@ STELLAR REPAIR FOR VIDEO
 
 ![Canon Camera](https://www.stellarinfo.com/public/image/catalog/v6/video/canon.png) ![GoPro Camera](https://www.stellarinfo.com/public/image/catalog/v6/video/gopro.png) ![Nikon Camera](https://www.stellarinfo.com/public/image/catalog/v6/video/nikon.png) ![Olympus Camera](https://www.stellarinfo.com/public/image/catalog/v6/video/olympus.png) ![Sony Camera](https://www.stellarinfo.com/public/image/catalog/v6/video/sony.png) ![Video Repair app](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Video Repair software](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Video Repair tool](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Repair Videos on macOS from Any Device
 
 * Supports all memory cards and storage devices
@@ -85,10 +78,10 @@ STELLAR REPAIR FOR VIDEO
 ![3GP Format](https://www.stellarinfo.com/public/image/catalog/v6/video/3gp.png) ![Avi Format](https://www.stellarinfo.com/public/image/catalog/v6/video/avi.png) ![MKV Format](https://www.stellarinfo.com/public/image/catalog/v6/video/mkv.png) ![MOV Format](https://www.stellarinfo.com/public/image/catalog/v6/video/mov.png) ![MP4 Format](https://www.stellarinfo.com/public/image/catalog/v6/video/mp4.png) ![Video Repair app](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Video Repair tool](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Video Repair software](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Repair Popular Video File Formats
@@ -105,18 +98,18 @@ STELLAR REPAIR FOR VIDEO
 
 ![Windows OS](https://www.stellarinfo.com/image/icw.png) **[Also available for Windows](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Powerful Video Repair Tool to Fix Corrupted Videos on Mac
 
 ### More Awesome Features
 
 ![Repair Corrupt Video Files on Mac](https://www.stellarinfo.com/image/catalog/feature-icon/video/mac/complete-video-repair-solution-for-windows-mac-users.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Repair Corrupt Video Files on Mac
 
@@ -124,18 +117,18 @@ STELLAR REPAIR FOR VIDEO
 
 ![Fix Choppy or Jerky Videos on macOS](https://www.stellarinfo.com/image/catalog/feature-icon/video/mac/fixes-various-video-corruption-issues.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Fix Choppy or Jerky Videos on macOS
 
  Stellar Repair for Video effortlessly works with macOS to fix QuickTime errors, video lag, stuttering, jerky, truncated, flickering, black screen, and other video issues. The video repair software also fixes video errors like 'video not playing', ‘videos have no sound’, ‘frozen or choppy video playback, etc.
 
 ![Repair Broken Video Shot from iPhone & DSLR](https://www.stellarinfo.com/image/catalog/feature-icon/video/mac/Repair-videos-shot-from-phones,-dones,-DSLR-&-CCTV.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Repair Broken Video Shot from iPhone & DSLR
 
@@ -149,19 +142,6 @@ STELLAR REPAIR FOR VIDEO
 
 More Features
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### More is Always Better
 
 ![Previews Repaired Videos before Saving](https://www.stellarinfo.com/image/catalog/feature-icon/video/mac/previews-repaired-videos.png)
@@ -171,6 +151,13 @@ More Features
  The Preview option in Stellar Repair for Video helps you ensure that the file is fully repaired before saving. You can select and preview the video files once the repair process is completed. Once satisfied with the repair result, save the files at your desired location on macOS.
 
 ![Advance Repair to Severely Corrupted Videos](https://www.stellarinfo.com/image/catalog/feature-icon/video/mac/repairs-severely-corrupt-videos.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Advance Repair to Severely Corrupted Videos
 
@@ -189,13 +176,6 @@ More Features
  The Mac video repair software repairs unlimited video files of the same or different formats in one go. The batch repair of video files makes it convenient to repair multiple unplayable videos. You just need to browse the system location to add corrupt files, then click the ‘Repair’ button.
 
 ![Support for all Digital Media Players](https://www.stellarinfo.com/image/catalog/feature-icon/video/mac/supports-all-digital-media-players.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Support for all Digital Media Players
 
@@ -221,6 +201,13 @@ More Features
 
 Software Walkthrough
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Screenshots & Video
 
 **Step 3** : Select Save Repaired Files
@@ -232,6 +219,13 @@ Software Walkthrough
 **Step 1** : Click Add File
 
 ![Click Add File](https://www.stellarinfo.com/public/image/catalog/screenshot/video-repair/stellar-repair-for-video-mac-preview.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Add Video(s) that you want to repair.
 
@@ -245,18 +239,18 @@ Software Walkthrough
 
 ![Select Save Repaired Files](https://www.stellarinfo.com/public/image/catalog/screenshot/video-repair/stellar-repair-for-video-mac-save.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Preview the repaired video and save them at desired location on Mac.
 
 **Step 1** : Click Add File
 
 ![Click Add File](https://www.stellarinfo.com/public/image/catalog/screenshot/video-repair/stellar-repair-for-video-mac-preview.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Add Video(s) that you want to repair.
 
@@ -360,13 +354,6 @@ MacWorld
 
 DATA SHEET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Technical Specifications
 
 ![About Product](https://www.stellarinfo.com/public/image/catalog/v6/video-recovery-icon.svg)
@@ -437,6 +424,19 @@ How to fix ‘MP4 not playing on Mac’
 [_Learn More_](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 FIND YOUR ANSWERS
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### FAQ
 
@@ -574,22 +574,19 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-premier-selection-of-economical-video-collaboration-tools-businesseducation-edition/"><u>[Updated] The Premier Selection of Economical Video Collaboration Tools Business/Education Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-transform-engagement-crafted-queries-for-personalized-ig-stories/"><u>[Updated] Transform Engagement Crafted Queries for Personalized IG Stories</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/achieve-social-media-excellence-with-ios-and-androids-best-planners-for-2024/"><u>Achieve Social Media Excellence with iOS & Android's Best Planners for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-lava-yuva-2-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Lava Yuva 2 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/customer-experience-hard-drive-revival/"><u>Customer Experience: Hard Drive Revival</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fashion-meets-functionality-a-comprehensive-review-of-the-swagtron-swagger-e-scooter/"><u>Fashion Meets Functionality: A Comprehensive Review of the Swagtron Swagger E-Scooter</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-broken-mpeg-videos-ultimate-guide-to-restoring-corrupted-files/"><u>Fixing Broken MPEG Videos: Ultimate Guide to Restoring Corrupted Files</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-g2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo G2 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-perfect-path-from-instagram-to-tiktok/"><u>In 2024, The Perfect Path From Instagram to TikTok</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mastering-software-development-with-stellars-essential-article-compendium-and-do-it-yourself-hacks/"><u>Mastering Software Development with Stellar's Essential Article Compendium and Do-It-Yourself Hacks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-launch-errors-in-baldurs-gate-iii-adventure-game/"><u>Overcoming Launch Errors in Baldur's Gate III Adventure Game</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/politeness-profiles-the-art-of-saying-thanks-across-cultures-154/"><u>Politeness Profiles: The Art of Saying Thanks Across Cultures (154)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/renewing-exchdbs-effective-stellarrepair-methods/"><u>Renewing Exchdbs: Effective StellarRepair Methods</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/repairing-flickering-footage-home-solutions/"><u>Repairing Flickering Footage: Home Solutions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solve-movie-stuttering-and-jitter-with-these-effective-do-it-yourself-techniques-a-step-by-step-guide-including-subtitles/"><u>Solve Movie Stuttering and Jitter with These Effective Do-It-Yourself Techniques - A Step by Step Guide (Including Subtitles)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/swift-av-handling-upgrade-your-vlc-experience/"><u>Swift AV Handling: Upgrade Your VLC Experience</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-ultimate-guide-to-fluid-video-streaming-experience/"><u>The Ultimate Guide to Fluid Video Streaming Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/udio-purging-techniques-for-streaming-success/"><u>[New] Audio Purging Techniques for Streaming Success</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-beginners-guide-to-pro-youtube-tech/"><u>[New] Beginner's Guide to Pro YouTube Tech</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-add-a-pop-of-japanese-style-with-snapchats-anime-filter/"><u>[New] In 2024, How to Add a Pop of Japanese Style with Snapchat's Anime Filter</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-insiders-look-at-vlc-functionality-on-macbooks/"><u>[New] Insider's Look at VLC Functionality on MacBooks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-maximizing-channel-visibility-banner-size-and-art-dimensions-explained/"><u>2024 Approved Maximizing Channel Visibility Banner Size and Art Dimensions Explained</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/8-best-video-conferencing-software-for-small-business-safe-and-stable/"><u>8 Best Video Conferencing Software for Small Business (Safe and Stable)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/amplify-your-storytelling-music-for-instagram-stories-and-videos/"><u>Amplify Your Storytelling Music for Instagram Stories & Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/best-of-breed-macs-data-recovery-solutions-top-8-rankings/"><u>Best of Breed - Mac's Data Recovery Solutions, Top 8 Rankings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-overcome-missing-msstdfmtdll-on-your-computer/"><u>Comprehensive Guide to Overcome 'Missing' msstdfmt.dll on Your Computer</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-the-process-of-moving-recovered-email-archives-from-edb-files-to-active-exchange-platforms/"><u>Mastering the Process of Moving Recovered Email Archives From .EDB Files to Active Exchange Platforms</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/nebula-accounting-data-salvation/"><u>Nebula Accounting Data Salvation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reinstating-broken-video-streams-in-apple-devices/"><u>Reinstating Broken Video Streams in Apple Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solving-freeze-during-3d-rendering/"><u>Solving Freeze During 3D Rendering</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-toolkit-essential-software-tips-and-do-it-yourself-techniques/"><u>Stellar's Toolkit: Essential Software Tips and Do-It-Yourself Techniques</u></a></li>
 </ul></div>
 

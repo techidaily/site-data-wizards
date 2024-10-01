@@ -1,7 +1,7 @@
 ---
 title: Fix Unsuccessful Empty Trash on macOS
-date: 2024-08-08T00:38:36.436Z
-updated: 2024-08-09T00:38:36.436Z
+date: 2024-09-23T20:40:20.268Z
+updated: 2024-10-01T01:26:47.010Z
 categories:
   - repair-tools
 description: This Article Describes Fix Unsuccessful Empty Trash on macOS
@@ -15,21 +15,12 @@ thumbnail: https://thmb.techidaily.com/84164da8d50de5c78ef7a37eabfb52e8bc2ce824a
 # Fix error code 36 on Mac | Unable to Empty trash on macOS
 
 ##### 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/youtube-icon small.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/clock-icon.png)
 
 ###### 1:59
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/eye-icon.png)
 
 ###### 3,001 Views
@@ -52,16 +43,10 @@ thumbnail: https://thmb.techidaily.com/84164da8d50de5c78ef7a37eabfb52e8bc2ce824a
 
 ###### 1:59
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/eye-icon.png)
 
 ###### 3,001 Views
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/calander-icon.png)
 
 ###### Oct 03, 2019
@@ -109,9 +94,6 @@ Awards Received
 
  ALSO AVAILABLE AT
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
 
  About
@@ -161,13 +143,7 @@ Awards Received
 
 Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.facebook.com/stellardata) [Twitter](https://www.stellarinfo.com/Images/tw.png) ](https://twitter.com/stellarinfo) [Linkedin](https://www.stellarinfo.com/Images/in.png) ](https://www.linkedin.com/company/stellardatarecovery/) [Youtube](https://www.stellarinfo.com/newblacktheme/images/yt.png) ](https://www.youtube.com/c/stellardatarecovery)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![Notron](https://www.stellarinfo.com/images/v7/notron.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
 
 <ins class="adsbygoogle"
@@ -176,8 +152,6 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +159,33 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-a-journey-to-viral-tiktok-filmora-edition-of-reaction-mastery/"><u>[Updated] A Journey to Viral TikTok Filmora Edition of Reaction Mastery</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-strategies-for-efficiently-configuring-facebooks-instream-ads/"><u>[Updated] In 2024, Strategies for Efficiently Configuring Facebook's Instream Ads</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-joining-jpeg-worlds-with-ease-and-skill/"><u>2024 Approved Joining JPEG Worlds with Ease and Skill</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722868036158-all-you-need-to-know-about-the-upcoming-samsung-galaxy-s25-price-forecasts-launch-timeline-and-tech-specs/"><u>All You Need to Know About the Upcoming Samsung Galaxy S25 - Price Forecasts, Launch Timeline & Tech Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-scoop-on-the-most-effective-key-retrieval-devices/"><u>Exclusive Scoop on the Most Effective Key Retrieval Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-ark-crashes-effective-methods-for-a-smoother-user-experience/"><u>Fixing ARK Crashes: Effective Methods for a Smoother User Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-xs-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone XS Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mac-satisfaction-user-filmed-reviews/"><u>Mac Satisfaction: User-Filmed Reviews</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/navigating-video-issues-correcting-error-0xc10100be/"><u>Navigating Video Issues: Correcting Error 0XC10100be</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/new-dawn-for-anywhere-servers-stellars-commitment/"><u>New Dawn for Anywhere Servers: Stellar's Commitment</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rejuvenating-compromised-h264-videos/"><u>Rejuvenating Compromised H.264 Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/strengthen-your-video-experience-bandwidth-boosters/"><u>Strengthen Your Video Experience: Bandwidth Boosters</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/technical-triumph-narratives/"><u>Technical Triumph Narratives</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-voice-of-mac-personalized-video-testimonials/"><u>The Voice of Mac: Personalized Video Testimonials</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-fix-strategies-for-error-0xc10100be-in-videos/"><u>Unlocking Fix Strategies for Error 0XC10100be in Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unraveling-the-enigma-of-in-folder-symbols/"><u>Unraveling the Enigma of '?' In Folder Symbols</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/visual-synergy-how-to-integrate-chatgpts-image-analysis-into-your-workflow/"><u>Visual Synergy: How to Integrate ChatGPT's Image Analysis Into Your Workflow</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
