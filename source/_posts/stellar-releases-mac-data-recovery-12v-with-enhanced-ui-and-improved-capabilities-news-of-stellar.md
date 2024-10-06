@@ -1,7 +1,7 @@
 ---
 title: Stellar® Releases Mac Data Recovery 12v with Enhanced UI & Improved Capabilities - News of Stellar
-date: 2024-08-08T00:31:29.613Z
-updated: 2024-08-09T00:31:29.613Z
+date: 2024-10-05T19:16:35.328Z
+updated: 2024-10-06T18:06:06.143Z
 categories:
   - repair-tools
 description: This Article Describes Stellar® Releases Mac Data Recovery 12v with Enhanced UI & Improved Capabilities - News of Stellar
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
 
  _The latest power-packed version focuses on simplified data retrieval with the help of improved features. It introduces a completely new UI for smooth and efficient data recovery._
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/image/boxshot/Stellar-Data-Recovery-Professional-for-Windows.png) **Houston** **,** **Texas** **, March 6, 2024:** Stellar®, a global data care leader, announced the launch of the 12th version of its flagship [Mac Data Recovery software](https://tools.techidaily.com/stellardata-recovery/buy-now/) . The new release boasts of improved features to enable faster and smoother data recovery. The highlight of the present version is an all-new, modern and flexible user interface supporting personalized themes for mac users.
 
  The new version brings improved data recovery results for files, folders, documents, e-mails, photos, music & other important data across diverse data loss scenarios including accidental deletion, drive formatting, system crash, unrecognized volume etc. It can quickly recover data from FileVault encrypted storage devices, emptied 'Trash,' encrypted APFS partitions along with support for 4k drive.
@@ -55,8 +52,6 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,4 +59,33 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-the-workings-of-drones-an-introduction-for-beginners/"><u>[New] The Workings of Drones An Introduction for Beginners</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-micro-moments-of-fame-do-youtubes-shorts-or-tiktoks-get-the-edge/"><u>[Updated] Micro-Moments of Fame Do YouTubes Shorts or TikToks Get the Edge?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-perfecting-proportions-understanding-youtube-video-sizes/"><u>[Updated] Perfecting Proportions Understanding YouTube Video Sizes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-execute-a-budget-friendly-youtube-seminar/"><u>2024 Approved How to Execute a Budget-Friendly Youtube Seminar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/bypass-delays-boost-vlc-audiovideo-integration/"><u>Bypass Delays, Boost VLC Audio/Video Integration</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cant-access-recovered-photo-files/"><u>Can't Access Recovered Photo Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/crafting-video-resurrection-with-backup-samples/"><u>Crafting Video Resurrection: With Backup Samples</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-c525-hd-webcam-software-compatible-with-windows/"><u>Download Logitech C525 HD Webcam Software Compatible with Windows</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/effortless-anime-downloading-guide-convert-and-save-kissanime-episodes-as-mp4-files/"><u>Effortless Anime Downloading Guide: Convert & Save Kissanime Episodes as MP4 Files</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-does-social-media-platform-like-facebook-justify-permitting-multiplicity-in-user-identity/"><u>How Does Social Media Platform Like Facebook Justify Permitting Multiplicity in User Identity?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-nine-powerful-microphone-capture-options-decoded/"><u>In 2024, Nine Powerful Microphone Capture Options Decoded</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-your-videos-with-grau-gmbh-leading-innovations-in-tech-repair-tools/"><u>Revive Your Videos with Grau GmbH – Leading Innovations in Tech Repair Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/totans-odyssey-in-digital-salvation-mastering-stellar-data-rescue/"><u>Totan's Odyssey in Digital Salvation - Mastering Stellar Data Rescue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-dictation-problem-with-these-5-quick-fixes/"><u>Troubleshoot Your iPhone's Dictation Problem with These 5 Quick Fixes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unfiltered-support-clients-film-voices/"><u>Unfiltered Support: Clients' Film Voices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-secrets-of-impressive-hdr-portraits-for-2024/"><u>Unlocking the Secrets of Impressive HDR Portraits for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unplayable-video-decoded-error-224003/"><u>Unplayable Video Decoded: Error 224003</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unveiling-solutions-overcoming-macs-system-halt/"><u>Unveiling Solutions: Overcoming Mac's System Halt</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/videography-virtuoso-glowing-reviews-cited/"><u>Videography Virtuoso - Glowing Reviews Cited</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

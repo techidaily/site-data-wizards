@@ -1,7 +1,7 @@
 ---
 title: Revive Non-Playing Android Media
-date: 2024-08-08T00:28:18.984Z
-updated: 2024-08-09T00:28:18.984Z
+date: 2024-10-02T18:12:36.629Z
+updated: 2024-10-06T17:03:14.579Z
 categories:
   - repair-tools
 description: This Article Describes Revive Non-Playing Android Media
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
 # How to Fix Videos Not Playing on Android Phone
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.1e1df7d66b301003bec30db63ac73954)  
  Written By [Sumona Chatterjee](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/sumona-chatterjee-38984450/)
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
@@ -67,9 +64,29 @@ Now, go back to the Gallery to play the videos.
 
  Trojans are a menace for your Android phones too. If you have downloaded any app or software from an**untrusted** source, remove it. There are chances that it disrupts your mobile Device’s smooth functioning, including not letting you play your mobile videos or making your videos corrupt.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **4\. Install VLC player/MX Player on Android phone**
 
  It might be possible that the media player on your Android phone does not support the video codec you are trying to play. Install a**compatible** video player like a VLC player, BS Player, or MX Player from the Google Play store.
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **5\. Update your Android OS**
 
@@ -90,16 +107,16 @@ Now, go back to the Gallery to play the videos.
  Once the installation completes, your mobile phone automatically reboots.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **6\. Uninstall Dubious Software**
 
  It may sometimes happen that you may not be able to play video on your Android device since you have installed some unsecured app from somewhere else besides the official app store. Such an unsecured app can block the video playback on your Android device; It is always advised to uninstall it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### **7\. Get Stellar Repair for Video**
 
  If you can play some video files on your Android phone, the problem is not with the Device or media player. Instead, your video files may have gone corrupt.
@@ -130,9 +147,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  You may also refer to [How to Fix ‘No sound on Android video’ Error](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **8\. Reset your app preferences**
 
  Resetting your app preferences lets you choose which video player you want to use for playing videos.
@@ -144,27 +158,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 Now try to play your videos on the Android phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **9\. Factory Reset your smartphone**
 
  If none of the above methods can play your Android phone videos, the last resort is Factory Reset.
 
  Factory Reset wipes out all data and renders your smartphone as new. Thus, before doing it, ensure you have taken all your contacts, photos, videos, and other smartphone data into a backup.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Cannot play Facebook, YouTube, or other web videos on your Android phone? Try the below fixes:**
 
 * Check your Wi-Fi network
@@ -174,6 +173,13 @@ Now try to play your videos on the Android phone.
 * Update your YouTube or Facebook app
 * Uninstall recently downloaded apps
 * Update your Android OS
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **To Sum up**
 
@@ -187,9 +193,6 @@ Now try to play your videos on the Android phone.
 
 **[Solved: iPhone Videos not playing on Windows](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 0
@@ -208,8 +211,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +218,19 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-user-engagement-through-strategic-tags-for-2024/"><u>[Updated] Unlocking User Engagement Through Strategic Tags for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-resilient-build-and-capabilities-of-the-asus-tuf-gaming-a14-laptop/"><u>Exploring the Resilient Build & Capabilities of the Asus TUF Gaming A14 Laptop</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/image-incident-camera-data-recovery/"><u>Image Incident: Camera Data Recovery</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-meizu-21-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Meizu 21 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-a14-4g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy A14 4G Without PUK Codes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-framerate-advanced-strategies-for-resolving-valorants-input-lag-on-pcs/"><u>Mastering Framerate: Advanced Strategies for Resolving Valorant's Input Lag on PCs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mediaguardian-protect-and-restore-video/"><u>MediaGuardian: Protect and Restore Video</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-smooth-sailing-the-ultimate-guide-to-free-online-video-stabilizers-for-2024/"><u>New Smooth Sailing The Ultimate Guide to Free Online Video Stabilizers for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/sql-expertise-damians-repair-journey/"><u>SQL Expertise: Damian’s Repair Journey</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-10-ways-to-procure-quality-photo-and-video-backgrounds-for-2024/"><u>Top 10 Ways to Procure Quality Photo & Video Backgrounds for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/visual-storytelling-of-pc-playtime-top-6-screenshot-secrets/"><u>Visual Storytelling of PC Playtime - Top 6 Screenshot Secrets</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/voice-of-victory-hard-drive-recovery/"><u>Voice of Victory: Hard Drive Recovery</u></a></li>
+</ul></div>
 

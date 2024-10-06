@@ -1,7 +1,7 @@
 ---
 title: Solve Trash and Error Code 36 Conundrum on Mac
-date: 2024-08-08T00:30:26.510Z
-updated: 2024-08-09T00:30:26.510Z
+date: 2024-10-05T19:38:54.394Z
+updated: 2024-10-06T19:55:40.728Z
 categories:
   - repair-tools
 description: This Article Describes Solve Trash and Error Code 36 Conundrum on Mac
@@ -15,18 +15,12 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 # Fix error code 36 on Mac | Unable to Empty trash on macOS
 
 ##### 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/youtube-icon small.png)
 
 ![](https://www.stellarinfo.com/images/youtube/clock-icon.png)
 
 ###### 1:59
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/eye-icon.png)
 
 ###### 3,001 Views
@@ -35,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
 ###### Oct 03, 2019
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 [Subscribe](https://www.stellarinfo.com/images/youtube/shareIcon.png) Share ](javascript:void%280%29) [Subscribe ![](https://www.stellarinfo.com/images/youtube/link-icon.png) ](https://www.youtube.com/@stellardatarecovery)
 
 3,001 views Oct 03, 2019
@@ -52,16 +43,10 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
 ###### 1:59
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/eye-icon.png)
 
 ###### 3,001 Views
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/calander-icon.png)
 
 ###### Oct 03, 2019
@@ -97,9 +82,6 @@ Awards Received
 
 * [TUV SUD ISO 27001](https://www.stellarinfo.com/images/v7/tuv1.png) ](https://www.stellarinfo.com/images/v7/ISO-27001-2013-Certificate.pdf)
 * [TUV SUD ISO 9001](https://www.stellarinfo.com/images/v7/tuv2.png) ](https://www.stellarinfo.com/images/v7/ISO-9001-2008Certificate.pdf)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 * ![NIST](https://www.stellarinfo.com/images/v7/nist.png)
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
@@ -161,13 +143,7 @@ Awards Received
 
 Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.facebook.com/stellardata) [Twitter](https://www.stellarinfo.com/Images/tw.png) ](https://twitter.com/stellarinfo) [Linkedin](https://www.stellarinfo.com/Images/in.png) ](https://www.linkedin.com/company/stellardatarecovery/) [Youtube](https://www.stellarinfo.com/newblacktheme/images/yt.png) ](https://www.youtube.com/c/stellardatarecovery)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![Notron](https://www.stellarinfo.com/images/v7/notron.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
 
 <ins class="adsbygoogle"
@@ -176,8 +152,6 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +159,31 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-first-look-at-organizing-zoom-session-rooms/"><u>[New] First Look at Organizing Zoom Session Rooms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimize-your-gaming-with-kinemaster-usage-tips-and-comparisons-with-best-online-games/"><u>[New] Optimize Your Gaming with KineMaster Usage Tips & Comparisons with Best Online Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ersonalized-video-setups-a-beginners-guide-to-selfies-on-youtube-for-2024/"><u>[New] Personalized Video Setups A Beginner's Guide to Selfies on YouTube for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-best-of-breed-top-screen-capture-software-reviews/"><u>[Updated] 2024 Approved The Best of Breed Top Screen Capture Software Reviews</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-personalize-perfect-and-play-the-ultimate-guide-for-android-sound-choices/"><u>[Updated] Personalize, Perfect, and Play The Ultimate Guide for Android Sound Choices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/accessible-tech-stellar-enhances-data-recovery-simplicity/"><u>Accessible Tech: Stellar Enhances Data Recovery Simplicity</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/achieving-fluid-videos-overcoming-jerky-display-issues/"><u>Achieving Fluid Videos: Overcoming Jerky Display Issues</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-cloud-utility-for-broadcast-fixes/"><u>Advanced Cloud Utility for Broadcast Fixes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eight-essential-steps-to-locate-missing-external-drives-in-macs/"><u>Eight Essential Steps to Locate Missing External Drives in Macs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eliminate-stellar-media-freeze-0xc00d36c4/"><u>Eliminate Stellar Media Freeze: 0XC00D36C4</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/exchange-mishap-resolved-detailed-analysis/"><u>Exchange Mishap Resolved: Detailed Analysis</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-clips-repair-glowing-client-reviews/"><u>Expert Clips Repair - Glowing Client Reviews</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-mp4-data-restoration-techniques-overcoming-corrupted-media-challenges/"><u>Expert MP4 Data Restoration Techniques: Overcoming Corrupted Media Challenges</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/keep-your-shorts-viewer-friendly-fixing-image-absence-for-2024/"><u>Keep Your Shorts Viewer-Friendly Fixing Image Absence for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-youtube-video-sharing-preferences-for-2024/"><u>Tailoring YouTube Video Sharing Preferences for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Stellar Data Recovery 12 Mac en Getting Familiar with User Interface
-date: 2024-08-08T00:31:13.379Z
-updated: 2024-08-09T00:31:13.379Z
+date: 2024-09-29T20:25:41.752Z
+updated: 2024-10-06T16:55:05.922Z
 categories:
   - repair-tools
 description: This Article Describes Stellar Data Recovery 12 Mac en Getting Familiar with User Interface
@@ -64,13 +64,6 @@ Stellar Data Recovery
 * [6. Frequently Asked Questions (FAQs)](https://www.stellarinfo.com/help/stellar-data-recovery-12-mac-en-frequently-asked-questions-faqs.html)
 * [7. About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
 [Stellar Data Recovery](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[3. Getting Started](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**3.3\. Getting Familiar with User Interface**
@@ -79,9 +72,6 @@ No advertising on the website.
 
 **Stellar Data Recovery** has an easy to use graphical user interface. It contains all the features required to perform complete data recovery. Upon launching the software,**What To Recover** screen is displayed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-data-recovery-12-mac-en/images/main%20screen.png)
 
 **"What To Recover"** Screen provides you with the following options to recover your data:
@@ -106,9 +96,6 @@ No advertising on the website.
 
 **2\. Help** :
   
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-data-recovery-12-mac-en/images/help-topic.png)
 
 * **Help Topics:** Use this option to view the **Stellar Data Recovery**  help manual .
@@ -120,16 +107,10 @@ No advertising on the website.
 
 **3\. More tools:**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-data-recovery-12-mac-fr/images/4edit.png)
 
  Click the three vertical dots at the upper right corner of the main interface to use additional tools of **Stellar Data Recovery**  . The screen looks like this:
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-data-recovery-12-mac-en/images/more%20tools%20EN.png)
 
 * **Drive Monitor:** A tool to monitor various disk parameters, such as temperature, performance and hard drive status, as well as scan, clone and view partition details of the selected hard drive.
@@ -158,8 +139,6 @@ _**Note:**  Video Repair is available in the **Premium** and **Technician**  edi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +146,31 @@ _**Note:**  Video Repair is available in the **Premium** and **Technician**  edi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-boosting-engagement-editing-for-perfect-video-titles-and-descriptions-for-2024/"><u>[New] Boosting Engagement Editing for Perfect Video Titles & Descriptions for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-professionalizing-your-youtube-income-with-universal-tech-tips/"><u>[New] Professionalizing Your YouTube Income with Universal Tech Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-accelerated-video-maker-time-lapse-edition/"><u>[Updated] 2024 Approved Accelerated Video Maker Time-Lapse Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-y78plus-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo Y78+ Activity | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/augmenting-your-database-mysql-enhancements-by-admin-augusto/"><u>Augmenting Your Database: MySQL Enhancements by Admin Augusto</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dont-miss-out-all-you-need-to-know-about-the-anticipated-samsung-unpacked-event-2025-schedule-announcements-and-hidden-gems/"><u>Don't Miss Out: All You Need to Know About the Anticipated Samsung Unpacked Event 2025 – Schedule, Announcements & Hidden Gems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-htcwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on HTCwith/without a PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-mastering-the-art-of-using-cc-copyrights-wisely/"><u>In 2024, Mastering the Art of Using CC Copyrights Wisely</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/integrated-content-marketing-tips-for-enhanced-engagement-on-facebook-linkedin-and-youtube/"><u>Integrated Content Marketing Tips for Enhanced Engagement on Facebook, LinkedIn and YouTube</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-blurry-output-in-the-post-upgrade-window/"><u>Overcoming Blurry Output in the Post-Upgrade Window</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-fix-new-jpeg-tool-by-stellar-on-macos/"><u>Phoenix Fix: New JPEG Tool by Stellar on macOS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviveclipbot-restore-videos-in-seconds/"><u>ReviveClipBot: Restore Videos in Seconds</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-data-recovery-techniques-demystified-by-singh/"><u>Stellar Data Recovery Techniques Demystified by Singh</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-process-for-clipping-movies-at-15-second-markers-the-ultimate-tutorial/"><u>Step-by-Step Process for Clipping Movies at 15-Second Markers: The Ultimate Tutorial</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamlining-your-workflow-solving-20-common-videography-errors/"><u>Streamlining Your Workflow: Solving 20 Common Videography Errors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-get-started-with-videoleap-on-your-macbook-today/"><u>Updated 2024 Approved Get Started with Videoleap on Your MacBook Today</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/workarounds-for-inaccessible-video-codings/"><u>Workarounds for Inaccessible Video Codings</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

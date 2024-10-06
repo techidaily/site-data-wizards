@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Unfreeze VLC Media Player"
-date: 2024-08-08T00:31:25.785Z
-updated: 2024-08-09T00:31:25.785Z
+date: 2024-10-02T16:19:40.731Z
+updated: 2024-10-06T20:24:03.439Z
 categories:
   - repair-tools
 description: "This Article Describes Quick Fix: Unfreeze VLC Media Player"
@@ -16,14 +16,8 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
 # How to Fix Video Stuck or Freeze in VLC
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-625c9ec/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
  Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on31 May, 2024
 * Min Reading 6  Min
@@ -51,6 +45,13 @@ Table of Content
 
  You can apply the solutions here to play high-quality HD/ UHD/ HDR, 8k, or H.265 videos of any size and file format.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 1: Update VLC Media Player to the latest version**
 
  If your videos freeze, stutter, or are not playing in VLC Media Player, first update the player to the latest version. The updates improve support for new HD codecs, advanced formats, HDR, H.265/HEVC, 4K & 8K playback, 360-degree videos, VP9 (HD videos at lower bitrates), and others for decoding and encoding. It also fixes streaming issues and bugs, if any.
@@ -58,8 +59,12 @@ Table of Content
 **Also read:** [How to open HEIC, HEVC files on Windows 10](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 2: Increase cache values in VLC Player**
 
  VLC Player preloads video cache files in the computer’s RAM to properly access and plays the video. You can try to fix the video buffering issue by increasing the cache value. However, this would increase the number of seconds videos are cached to play in VLC Player.
@@ -80,9 +85,6 @@ _Figure: Input/Codecs pane in VLC_
 * In the**Advanced** section, across**File caching (ms),** change the value to 1000 or above.
 * Click**Save.** Next, restart VLC Player and check if the videos are playing properly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### **Method 3: Disable Hardware Decoding in VLC Player**
 
  VLC Media Player can use the GPU of a computer to accelerate video decoding in high-quality videos. However, your PC’s drivers may behave abruptly, resulting in video playback or streaming issues. You can try disabling hardware decoding to fix Video Stuck or Freeze in the VLC player.
@@ -100,6 +102,13 @@ _Figure: Input/Codecs pane in VLC_
 * Under**FFmpeg audio/video decoder** , scroll down to**Hardware decoding** and set it to**Disable** .
 * Click **Save** . Restart VLC Payer to enable the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 4: Change FFmpeg settings in VLC Player**
 
  Making changes in the FFmpeg video codec in VLC Player has worked for some. You can also try to resolve video stuttering and freezing with this technique.
@@ -116,10 +125,6 @@ _Figure: Input/Codecs pane in VLC_
 
 * Click**Save** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### **Method 5: Switch video output to DirectX DirectDraw in VLC**
 
  Try switching between output video stream settings in the VLC media player. For example, you can set the output video module to Direct 3D video output, DirectX DirectDraw, or Open GL video output.
@@ -151,8 +156,12 @@ _Figure: Video output modules in VLC_
 * Check if VLC Player can play your videos without freeze or interruption.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 6: Repair your video using Stellar Repair for Video**
 
  The video file may be corrupt if the above methods using VLC Media Player don’t fix video freeze, lag, or stuttering issues. To confirm corruption, see if your video freezes while playing in another media player.
@@ -207,8 +216,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +223,24 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/deal-audio-solution-for-iphone-find-the-best-6-free-apps-for-youtube-to-mp3/"><u>[New] Ideal Audio Solution for iPhone Find the Best 6 Free Apps for YouTube-to-MP3</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-truth-recovery-your-image-on-fb-confirmed/"><u>[Updated] 2024 Approved Truth Recovery Your Image on FB Confirmed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-de-vibratory-techniques-for-drone-video-clarity/"><u>[Updated] De-Vibratory Techniques for Drone Video Clarity</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/a-photos-second-chance-testimonial-to-recovering-lost-images/"><u>A Photo's Second Chance: Testimonial to Recovering Lost Images</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ace-your-visual-media-repairs-with-grau-gmbhs-innovative-toolset-complete-pro-system/"><u>Ace Your Visual Media Repairs with Grau GmbH’s Innovative Toolset – Complete Pro System</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/enhance-image-frames-leading-platforms-and-applications-2023-edition-for-2024/"><u>Enhance Image Frames Leading Platforms & Applications, 2023 Edition for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/google-images-and-you-fast-collages-created-in-seconds-for-2024/"><u>Google Images & You Fast Collages Created in Seconds for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-vivo-g2-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo G2 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/it-support-insight-fabios-exchange-success-video/"><u>IT Support Insight - Fabio’s Exchange Success Video</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/r-quick-youtube-video-rendering-and-efficient-uploading/"><u>Master Quick YouTube Video Rendering & Efficient Uploading</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pixio-px277-oled-monitor-revealed-surpassing-gaming-expectations-in-a-revolutionary-display/"><u>Pixio PX277 OLED Monitor Revealed - Surpassing Gaming Expectations in a Revolutionary Display</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reclaiming-dormant-digital-films/"><u>Reclaiming Dormant Digital Films</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/renewing-exchdbs-effective-stellarrepair-methods/"><u>Renewing Exchdbs: Effective StellarRepair Methods</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solve-movie-stuttering-and-jitter-with-these-effective-do-it-yourself-techniques-a-step-by-step-guide-including-subtitles/"><u>Solve Movie Stuttering and Jitter with These Effective Do-It-Yourself Techniques - A Step by Step Guide (Including Subtitles)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/trash-full-overcome-code-36-on-mac-os/"><u>Trash Full? Overcome Code 36 on Mac OS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-slow-motion-mastery-the-top-10-video-players-you-need/"><u>Updated In 2024, Slow Motion Mastery The Top 10 Video Players You Need</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vid-health-tips-to-avoid-glitches/"><u>Vid Health Tips to Avoid Glitches</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obsolete Video Codecs
-date: 2024-09-29T00:19:24.399Z
-updated: 2024-10-01T12:31:21.664Z
+date: 2024-10-05T17:12:14.908Z
+updated: 2024-10-06T16:58:26.431Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Obsolete Video Codecs
@@ -97,6 +97,13 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -106,13 +113,6 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -125,13 +125,6 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -141,13 +134,6 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -168,9 +154,23 @@ _Figure: Video profile options in VLC Player_
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -197,13 +197,6 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -211,6 +204,13 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -239,20 +239,24 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-instant-transmission-tweets-as-vids-on-whatsapp/"><u>[Updated] 2024 Approved Instant Transmission Tweets as Vids on WhatsApp</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-compensated-analysis-the-vlog-perspective-on-goods/"><u>[Updated] Compensated Analysis The Vlog Perspective on Goods?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-hook-it-game-winning-podcast-beginnings/"><u>[Updated] The Hook-It Game Winning Podcast Beginnings</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-a25-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/direct-video-tweet-sharing-content-without-including-others-tweets-for-2024/"><u>Direct Video Tweet Sharing Content Without Including Others' Tweets for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-motorola-razr-40-ultra-is-unlocked-by-drfone-android/"><u>How To Check if Your Motorola Razr 40 Ultra Is Unlocked</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mp4-and-mov-troubleshooting-repair-corrupted-videos-easily-via-vlc-media-player/"><u>MP4 & MOV Troubleshooting: Repair Corrupted Videos Easily via VLC Media Player</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/perfecting-visual-output-on-newer-windows-11/"><u>Perfecting Visual Output on Newer Windows 11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restore-corrupted-video-formats-in-mp4-and-mov-using-the-power-of-vlc/"><u>Restore Corrupted Video Formats in MP4 and MOV Using the Power of VLC</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-archived-e-mails-with-live-server-export/"><u>Reviving Archived E-Mails with Live Server Export</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/securing-the-future-with-totan-banerjee-on-data-preservation/"><u>Securing the Future with Totan Banerjee on Data Preservation</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stop-video-break-at-error-code-cx0d36c4/"><u>Stop Video Break at Error Code Cx0d36c4</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tactics-for-the-application-has-unexpectedly-stopped-on-cod-mw3-mobile-game/"><u>Troubleshooting Tactics for 'The Application Has Unexpectedly Stopped' On COD MW3 Mobile Game</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unblocking-your-videos-playback-potential/"><u>Unblocking Your Video's Playback Potential</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-hitting-your-targets-with-these-8-social-media-planners/"><u>[New] 2024 Approved Hitting Your Targets with These 8 Social Media Planners</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-blue-enigma-whats-behind-the-symbol-on-facebook-messenger/"><u>[New] 2024 Approved The Blue Enigma What's Behind the Symbol on Facebook Messenger?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-exploring-vr-landscapes-perks-pitfalls-and-pivots/"><u>[New] Exploring VR Landscapes Perks, Pitfalls and Pivots</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-individual-tracks-to-albums-building-a-personalized-soundtrack-on-web-and-mobile-for-2024/"><u>[Updated] From Individual Tracks to Albums Building a Personalized Soundtrack on Web & Mobile for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-record-screen-and-upload-to-youtube-pc-mac-online/"><u>[Updated] Record Screen and Upload to YouTube [PC, Mac, Online]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-restoring-smooth-youtube-visual-experience/"><u>2024 Approved Restoring Smooth YouTube Visual Experience</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-platforms-virtual-media-restoration/"><u>Advanced Platforms: Virtual Media Restoration</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bangla-unlocked-10-minute-daily-learning-sessions/"><u>Bangla Unlocked: 10-Minute Daily Learning Sessions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cleaning-corrupt-vids-mac-solutions-to-look-forward-to/"><u>Cleaning Corrupt Vids: Mac Solutions to Look Forward To</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/clear-your-path-eradicate-windows-bsod-errors/"><u>Clear Your Path: Eradicate Windows BSOD Errors</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diy-video-repair-guide-to-fix-corrupted-video-files/"><u>DIY Video Repair Guide to Fix Corrupted Video Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-recover-and-repair-scratched-mp4-and-mov-video-files-via-vlc-player-solutions/"><u>How to Recover and Repair Scratched MP4 and MOV Video Files via VLC Player Solutions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-g2-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo G2</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/instant-stellar-setup-guide/"><u>Instant Stellar Setup Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mp4mover-redeem-troubled-videos/"><u>MP4Mover: Redeem Troubled Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720670536365-mpeg-file-recovery-and-fixer-say-goodbye-to-corrupted-media-once-and-for-all/"><u>MPEG File Recovery & Fixer: Say Goodbye to Corrupted Media Once and For All</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-frequent-new-world-pc-crashes-a-step-by-step-guide/"><u>Overcoming Frequent 'New World' PC Crashes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/pro-max-or-plus-a-comprehensive-review-of-the-new-iphone-15-series-from-apple/"><u>Pro Max or Plus? A Comprehensive Review of the New iPhone 15 Series From Apple</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tech-tips-deciphering-and-correcting-panic-on-mac/"><u>Tech Tips: Deciphering and Correcting Panic on Mac</u></a></li>
 </ul></div>
 

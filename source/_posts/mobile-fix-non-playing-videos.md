@@ -1,7 +1,7 @@
 ---
 title: "Mobile Fix: Non-Playing Videos"
-date: 2024-08-08T00:27:14.300Z
-updated: 2024-08-09T00:27:14.300Z
+date: 2024-10-02T21:10:22.234Z
+updated: 2024-10-06T21:14:47.807Z
 categories:
   - repair-tools
 description: "This Article Describes Mobile Fix: Non-Playing Videos"
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 # How to Fix Videos Not Playing on Android Phone
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.1e1df7d66b301003bec30db63ac73954)  
  Written By [Sumona Chatterjee](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/sumona-chatterjee-38984450/)
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
@@ -51,9 +48,6 @@ Table of Content
 
  Try the below methods to play videos on your Android phone. You can apply these methods to fix the ‘videos not playing’ issue in any Android phone,**such as Samsung, Oneplus, Xiaomi, Motorola, HTC, etc.**
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **1\. Restart/Reboot your device**
 
  Restarting your smartphone is the most simple troubleshooting way which may help to play your videos. First, close all the applications on your mobile. Restart/Reboot the phone. Next, go to Gallery and check if your videos are playing.
@@ -92,12 +86,16 @@ Now, go back to the Gallery to play the videos.
 
  Once the installation completes, your mobile phone automatically reboots.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### **6\. Uninstall Dubious Software**
 
  It may sometimes happen that you may not be able to play video on your Android device since you have installed some unsecured app from somewhere else besides the official app store. Such an unsecured app can block the video playback on your Android device; It is always advised to uninstall it.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **7\. Get Stellar Repair for Video**
 
@@ -129,9 +127,6 @@ Now, go back to the Gallery to play the videos.
 
  You may also refer to [How to Fix ‘No sound on Android video’ Error](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **8\. Reset your app preferences**
 
  Resetting your app preferences lets you choose which video player you want to use for playing videos.
@@ -143,14 +138,18 @@ Now, go back to the Gallery to play the videos.
 
 Now try to play your videos on the Android phone.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **9\. Factory Reset your smartphone**
 
  If none of the above methods can play your Android phone videos, the last resort is Factory Reset.
 
  Factory Reset wipes out all data and renders your smartphone as new. Thus, before doing it, ensure you have taken all your contacts, photos, videos, and other smartphone data into a backup.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Cannot play Facebook, YouTube, or other web videos on your Android phone? Try the below fixes:**
 
@@ -163,8 +162,12 @@ Now try to play your videos on the Android phone.
 * Update your Android OS
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **To Sum up**
 
  Mostly, the’ video not playing’ on Android issue is resolved by clearing the cache or restarting your smartphone. However, if the mobile video file is corrupt, it is recommended to use Stellar Repair for Video. This software is an efficient video repair utility that fixes all sorts of corruption. In addition, you can repair multiple corrupt videos simultaneously, saving a lot of your time.
@@ -178,8 +181,18 @@ Now try to play your videos on the Android phone.
 **[Solved: iPhone Videos not playing on Windows](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -198,8 +211,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +218,19 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/treamlining-monetization-strategies-on-youtube/"><u>[New] Streamlining Monetization Strategies on YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevating-engagement-the-pillars-of-youtube-rankings/"><u>[Updated] Elevating Engagement The Pillars of YouTube Rankings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-canvas-magic-how-to-banish-the-unwanted-backdrop/"><u>2024 Approved Canva's Magic How to Banish the Unwanted Backdrop</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a23-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-broken-mpeg-videos-with-our-advanced-video-restoration-solution/"><u>Fix Broken MPEG Videos with Our Advanced Video Restoration Solution</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-spark-20c-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Tecno Spark 20C Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-gopro-4k-editing-basics/"><u>In 2024, Step-by-Step GoPro 4K Editing Basics</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quickbooks-data-rescue-stellars-innovative-correction-tool-revealed/"><u>QuickBooks Data Rescue - Stellar's Innovative Correction Tool Revealed</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rebuildvidhelper-free-tool-for-vids-in-need/"><u>RebuildVidHelper: Free Tool for Vids in Need</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-converter-for-edb-convert-large-edb-file-to-pst/"><u>Stellar Converter for EDB Convert Large EDB File to PST</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-ultimate-guide-to-amplifying-your-online-reach-link-up-facebook-linkedin-and-xing-with-youtube-success-strategies/"><u>The Ultimate Guide to Amplifying Your Online Reach – Link Up Facebook, LinkedIn & XING with YouTube Success Strategies</u></a></li>
+</ul></div>
 
