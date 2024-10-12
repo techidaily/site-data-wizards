@@ -1,7 +1,7 @@
 ---
 title: Tighten Timing in Video Playback on VLC
-date: 2024-10-01T20:24:26.057Z
-updated: 2024-10-06T18:23:17.069Z
+date: 2024-10-07T08:51:44.796Z
+updated: 2024-10-12T01:21:09.859Z
 categories:
   - repair-tools
 description: This Article Describes Tighten Timing in Video Playback on VLC
@@ -58,6 +58,13 @@ _Figure: Audio delay message in VLC_
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
  The answer is ‘Yes’. You can apply the settings for once for all the videos you play in VLC. For this, use the **‘Audio desynchronization compensation’** feature. It would permanently fix the audio-video sync in VLC Player. Unlike the Audio track synchronization value, which you must reset every time, you must set the ‘Audio desynchronization compensation’ value just once. The settings get saved for all the videos until you change it again.
@@ -72,6 +79,13 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -94,6 +108,13 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 
  The video or movie should now play without any audio sync issue in the VLC Player.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -112,13 +133,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -130,19 +144,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  **Note:**  Not all video repair software is advanced enough to fix audio problems in videos. So, before choosing one, make sure it is capable of fixing sound issues in a video file.
 
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **How to fix audio sync issue with repair software**
 
@@ -159,10 +160,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -180,13 +181,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -215,20 +209,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-asus-mg28uq-a-gateway-to-unprecedented-4k-gaming-and-more/"><u>[New] 2024 Approved ASUS MG28UQ - A Gateway to Unprecedented 4K Gaming and More</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-intellectual-property-on-instagram-for-2024/"><u>[Updated] Navigating Intellectual Property on Instagram for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-public-domain-calm-vibes-tracks/"><u>2024 Approved Public Domain Calm Vibes Tracks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-crafting-a-youtube-video-with-100kplus-reach/"><u>2024 Approved The Art of Crafting a YouTube Video with 100K+ Reach</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-spark-20-proplus-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/cleancast-shining-light-on-flawed-files/"><u>CleanCast: Shining Light on Flawed Files</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/comparative-analysis-of-plex-and-kodi-determining-the-ultimate-home-theater-software/"><u>Comparative Analysis of Plex and Kodi: Determining the Ultimate Home Theater Software.</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/error-224003-solution-fix-playback-issue/"><u>Error 224003 Solution: Fix Playback Issue</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mastering-the-flow-how-to-stop-buffering/"><u>Mastering the Flow: How to Stop Buffering</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/migrate-messages-with-precision-exporting-edb-files-to-live-exchange-environment/"><u>Migrate Messages with Precision: Exporting EDB Files to Live Exchange Environment</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/patched-reel-error-on-instagram/"><u>Patched: Reel Error on Instagram</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/portable-balance-enhancer-for-shooting-blurs-for-2024/"><u>Portable Balance Enhancer for Shooting Blurs for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/starfield-solutions-sql-database-reset/"><u>Starfield Solutions: SQL Database Reset</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-zenith-of-leisure-top-12-pc-gamez-for-2024/"><u>[New] Zenith of Leisure Top 12 PC Gamez for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-progopro-session-series-evolution/"><u>[Updated] ProGoPro Session Series Evolution</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-securing-viewer-return-with-these-effective-strategies-for-higher-retention-rates/"><u>[Updated] Securing Viewer Return with These Effective Strategies for Higher Retention Rates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fuse-rhythms-into-powerpoint-layouts/"><u>2024 Approved Fuse Rhythms Into PowerPoint Layouts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-seamless-transitions-the-art-of-canon-time-lapses/"><u>Crafting Seamless Transitions The Art of Canon Time-Lapses</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/digital-devices-guarantee/"><u>Digital Devices Guarantee</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-jumbled-vids-to-smooth-screens-a-guide/"><u>From Jumbled Vids to Smooth Screens: A Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-investors-handbook-for-monetized-youtubers/"><u>In 2024, The Investor's Handbook for Monetized Youtubers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/innovative-8-cameras-transforming-online-broadcasting-for-2024/"><u>Innovative 8 Cameras Transforming Online Broadcasting for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-talking-photo-wondershare-virbo-for-2024/"><u>New Talking Photo | Wondershare Virbo for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-top-10-free-video-stabilization-tools-for-smooth-footage/"><u>New Top 10 Free Video Stabilization Tools for Smooth Footage</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/productivity-boosting/"><u>Productivity Boosting</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/salvaging-scratched-vids-apples-best-approach/"><u>Salvaging Scratched Vids - Apple's Best Approach</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/swifter-video-playback-strategies/"><u>Swifter Video Playback Strategies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/systematic-enhancement/"><u>Systematic Enhancement</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlock-the-power-of-coding-with-stellar-toolkit-essential-tricks-and-insider-knowledge-for-developers/"><u>Unlock the Power of Coding with Stellar Toolkit - Essential Tricks and Insider Knowledge for Developers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-repair-guide-fix-corrupted-video-files-by-diy-methods/"><u>Video Repair Guide - Fix Corrupted Video Files by DIY Methods</u></a></li>
 </ul></div>
 

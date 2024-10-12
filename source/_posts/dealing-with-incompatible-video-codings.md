@@ -1,7 +1,7 @@
 ---
 title: Dealing with Incompatible Video Codings
-date: 2024-07-29T00:09:31.278Z
-updated: 2024-07-30T00:09:31.278Z
+date: 2024-10-05T00:23:11.490Z
+updated: 2024-10-12T08:58:24.011Z
 categories:
   - repair-tools
 description: This Article Describes Dealing with Incompatible Video Codings
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
 # How do I Fix an Unsupported Video Codec?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
  Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
@@ -52,9 +49,6 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -65,9 +59,6 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -94,9 +85,6 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -109,9 +97,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -121,6 +106,19 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -134,8 +132,12 @@ _Figure: VLC message when new version is available._
 * Click**Yes.** This will automatically download the new codecs also.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -145,6 +147,13 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -161,9 +170,6 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
@@ -171,6 +177,13 @@ _Figure: Video profile options in VLC Player_
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -205,9 +218,6 @@ _Figure: Preview video after repair_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 0
@@ -226,8 +236,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +243,22 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-essential-media-makers-software-linux-edition/"><u>[Updated] 2024 Approved Essential Media Makers' Software Linux Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-tricks-to-perfect-time-lapses-using-samsung-cameras/"><u>[Updated] 2024 Approved Tricks to Perfect Time-Lapses Using Samsung Cameras</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-expert-tips-for-efficiently-logging-google-online-gatherings/"><u>[Updated] In 2024, Expert Tips for Efficiently Logging GooGle Online Gatherings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-quintuple-quandary-in-cybercriminal-exploitation/"><u>AI's Quintuple Quandary in Cybercriminal Exploitation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/filefixer-combat-corrupted-videos/"><u>FileFixer: Combat Corrupted Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/flawless-film-formats-forever/"><u>Flawless Film Formats Forever</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-direct-from-mobile-how-to-upload-videos-on-twit/"><u>In 2024, Direct From Mobile How to Upload Videos on Twit</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mpeg-video-recovery-solutions-how-to-repair-damaged-film-files-easily/"><u>MPEG Video Recovery Solutions: How to Repair Damaged Film Files Easily</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-guide-4-tricks-for-resolving-symbol-on-mac-folders/"><u>Quick Guide: 4 Tricks for Resolving ?-Symbol on Mac Folders</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-lost-visual-stories-in-videos/"><u>Reviving Lost Visual Stories in Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-instructions-to-rectify-dells-sound-driver-complications-in-windows-7-environments/"><u>Step-by-Step Instructions to Rectify Dell's Sound Driver Complications in Windows 7 Environments</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-8-best-data-recovery-software-for-mac-free-and-paid/"><u>Top 8 Best Data Recovery Software for Mac - Free and Paid</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlock-your-past-get-stellar-today/"><u>Unlock Your Past, Get Stellar Today!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-poco-m6-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Poco M6 5G Device</u></a></li>
+</ul></div>
 

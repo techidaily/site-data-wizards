@@ -1,7 +1,7 @@
 ---
 title: Addressing Lag in VLC Media Player
-date: 2024-07-29T00:07:42.039Z
-updated: 2024-07-30T00:07:42.039Z
+date: 2024-10-11T13:28:46.282Z
+updated: 2024-10-11T23:18:49.299Z
 categories:
   - repair-tools
 description: This Article Describes Addressing Lag in VLC Media Player
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
 
 # How to Fix Audio Video Delay in VLC Media Player
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
  Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
@@ -49,9 +46,6 @@ Table of Content
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
 _Figure: Audio delay message in VLC_
@@ -80,8 +74,12 @@ _Figure: Audio track synchronization in VLC_
 * Next, click**Close** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
  Often, users ask if every time they play a video in VLC, they have to manually adjust Audio track synchronization to get the audio in sync with the video. So, is it possible for this setting to be saved permanently?
@@ -104,8 +102,12 @@ _Figure: Set Audio desynchronization compensation value in VLC_
  The video or movie should now play without any audio sync issue in the VLC Player.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -136,9 +138,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **How to fix audio sync issue with repair software**
 
  Simply download it on your Mac or Windows PC and follow the onscreen instructions. The video repair process is completed in 3 steps –
@@ -152,6 +151,13 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  You don’t need to do any resetting or learn to use the software. It’s easy to use and has advanced algorithms that work without you making any effort.
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -170,8 +176,12 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -190,8 +200,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +207,23 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-imagecheck-reviews-station/"><u>[New] In 2024, ImageCheck Reviews Station</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-essential-tips-for-attending-tiktok-live-events-for-2024/"><u>[Updated] Essential Tips for Attending TikTok Live Events for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-look-at-tomtom-bandit-camera-series/"><u>[Updated] In-Depth Look at TomTom Bandit Camera Series</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-tailored-for-tech-savvy-audiences-unveil-the-youtuber-who-resonates-with-you-through-six-quizzes-for-2024/"><u>[Updated] Tailored for Tech-Savvy Audiences Unveil the YouTuber Who Resonates with You Through Six Quizzes for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/adobe-premiere-tips-youtube-video-uploads/"><u>Adobe Premiere Tips YouTube Video Uploads</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/boosting-laptop-performance-with-ram-expansion/"><u>Boosting Laptop Performance with RAM Expansion</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi</u></a></li>
+<li><a href="https://facebook.techidaily.com/google-facebook-twitter-face-presidential-censorship-suit/"><u>Google, Facebook, Twitter Face Presidential Censorship Suit</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-audacity-on-mac-a-beginners-guide-to-recording-audio/"><u>In 2024, Audacity on Mac A Beginner's Guide to Recording Audio</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/meteoric-quickbooks-data-retrieval/"><u>Meteoric QuickBooks Data Retrieval</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-cutting-out-digital-clutter-a-guide-for-silencing-unwanted-audio/"><u>New In 2024, Cutting Out Digital Clutter A Guide for Silencing Unwanted Audio</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-tips-for-eradicating-w10-blue-screens/"><u>Quick Tips for Eradicating W10 Blue Screens</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reclaim-hd-media-pixel-perfect-remedy/"><u>Reclaim HD Media: Pixel Perfect Remedy</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tech-savior-narrative-client-reviews/"><u>Tech Savior Narrative: Client Reviews</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-science-and-art-of-retrieving-lost-information-as-per-vishakha/"><u>The Science and Art of Retrieving Lost Information, as per Vishakha</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-ultimate-solution-to-malfunctioned-m4v-files-on-tech-platforms/"><u>The Ultimate Solution to Malfunctioned M4V Files on Tech Platforms</u></a></li>
+</ul></div>
 

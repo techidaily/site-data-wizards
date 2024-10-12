@@ -1,7 +1,7 @@
 ---
 title: "Swift Remedy: Eradicate Frozen Media in VLC"
-date: 2024-08-08T00:26:34.965Z
-updated: 2024-08-09T00:26:34.965Z
+date: 2024-10-06T23:43:45.078Z
+updated: 2024-10-12T14:01:46.991Z
 categories:
   - repair-tools
 description: "This Article Describes Swift Remedy: Eradicate Frozen Media in VLC"
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
 # How to Fix Video Stuck or Freeze in VLC
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-625c9ec/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
  Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
@@ -42,9 +39,6 @@ Table of Content
 
  Here are the six best solutions to fix Video Stuck or Frozen in VLC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Solutions to fix video stuck, stuttering, buffering or lagging in VLC Media Player
 
  Although there isn’t a set solution, changing the VLC media player’s settings can work. You may have to try various methods shared here to fix the video freeze or lag issues in VLC Media Player.
@@ -56,6 +50,13 @@ Table of Content
  If your videos freeze, stutter, or are not playing in VLC Media Player, first update the player to the latest version. The updates improve support for new HD codecs, advanced formats, HDR, H.265/HEVC, 4K & 8K playback, 360-degree videos, VP9 (HD videos at lower bitrates), and others for decoding and encoding. It also fixes streaming issues and bugs, if any.
 
 **Also read:** [How to open HEIC, HEVC files on Windows 10](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 2: Increase cache values in VLC Player**
 
@@ -77,6 +78,13 @@ _Figure: Input/Codecs pane in VLC_
 * In the**Advanced** section, across**File caching (ms),** change the value to 1000 or above.
 * Click**Save.** Next, restart VLC Player and check if the videos are playing properly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 3: Disable Hardware Decoding in VLC Player**
 
  VLC Media Player can use the GPU of a computer to accelerate video decoding in high-quality videos. However, your PC’s drivers may behave abruptly, resulting in video playback or streaming issues. You can try disabling hardware decoding to fix Video Stuck or Freeze in the VLC player.
@@ -94,9 +102,6 @@ _Figure: Input/Codecs pane in VLC_
 * Under**FFmpeg audio/video decoder** , scroll down to**Hardware decoding** and set it to**Disable** .
 * Click **Save** . Restart VLC Payer to enable the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### **Method 4: Change FFmpeg settings in VLC Player**
 
  Making changes in the FFmpeg video codec in VLC Player has worked for some. You can also try to resolve video stuttering and freezing with this technique.
@@ -114,8 +119,12 @@ _Figure: Input/Codecs pane in VLC_
 * Click**Save** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 5: Switch video output to DirectX DirectDraw in VLC**
 
  Try switching between output video stream settings in the VLC media player. For example, you can set the output video module to Direct 3D video output, DirectX DirectDraw, or Open GL video output.
@@ -146,6 +155,13 @@ _Figure: Video output modules in VLC_
 * Click on**Save** at the bottom**.**
 * Check if VLC Player can play your videos without freeze or interruption.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 6: Repair your video using Stellar Repair for Video**
 
  The video file may be corrupt if the above methods using VLC Media Player don’t fix video freeze, lag, or stuttering issues. To confirm corruption, see if your video freezes while playing in another media player.
@@ -168,9 +184,6 @@ _Figure: Video output modules in VLC_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Conclusion**
 
  Here we have recommended changing the settings of VLC Media Player to fix video freezing or lag using the below methods:
@@ -185,9 +198,6 @@ _Figure: Video output modules in VLC_
 
  I hope you found this helpful. Do share with our readers which method helped you fix Video Stuck or Freeze in the VLC player issue in the comment box below.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 1
@@ -206,8 +216,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +223,26 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-prime-picks-best-storytelling-channels-fans/"><u>[New] In 2024, The Prime Picks Best Storytelling Channels Fans</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-streamlining-in-stream-ads-on-facebook-your-step-by-step-playbook-for-2024/"><u>[New] Streamlining In-Stream Ads on Facebook Your Step-by-Step Playbook for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-zero-dollar-mp3-recorders-skype-call-edition/"><u>[Updated] In 2024, Zero Dollar MP3 Recorders Skype Call Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/construct-memetic-mirth-for-2024/"><u>Construct Memetic Mirth for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ecovideohealer-quick-restoration-of-footage/"><u>EcoVideoHealer: Quick Restoration of Footage</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixed-mp4-issues-for-android-playback/"><u>Fixed MP4 Issues for Android Playback</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mobile-tool-trust-clause/"><u>Mobile Tool Trust Clause</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/remedy-inconsistent-volume-control-in-mobile-youtube/"><u>Remedy Inconsistent Volume Control in Mobile YouTube</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resurrect-your-files-on-mac-top-8-freepaid-recovery-options/"><u>Resurrect Your Files on Mac: Top 8 Free/Paid Recovery Options</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-blueprints-for-db-reset/"><u>Stellar Blueprints for DB Reset</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720671010778-stellar-recovery-for-exchange-testimonial-by-fabio-goncalves-it/"><u>Stellar Recovery for Exchange Testimonial by Fabio Goncalves (IT ...</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/step-into-reflection-editing-your-facebook-past-videos/"><u>Step Into Reflection Editing Your Facebook Past Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-10-video-fixing-programs-compatible-with-windows-and-macos/"><u>Top 10 Video Fixing Programs Compatible with Windows & macOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-8-recommendations-tripods-for-sharp-4k-images/"><u>Top 8 Recommendations Tripods for Sharp 4K Images</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-the-immovable-stellar-pioneers-in-hdd-recovery/"><u>Unlocking the Immovable: Stellar Pioneers in HDD Recovery</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/what-is-the-best-free-stop-motion-animation-software-check-this-article-if-you-are-curious-about-the-answer-we-will-recommend-8-editors-for-windows-and-mac-/"><u>What Is the Best Free Stop Motion Animation Software? Check This Article if You Are Curious About the Answer. We Will Recommend 8 Editors for Windows and Mac for 2024</u></a></li>
+</ul></div>
 

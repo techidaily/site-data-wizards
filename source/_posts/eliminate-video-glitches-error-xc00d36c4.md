@@ -1,7 +1,7 @@
 ---
 title: Eliminate Video Glitches - Error XC00D36C4
-date: 2024-07-29T00:10:19.920Z
-updated: 2024-07-30T00:10:19.920Z
+date: 2024-10-06T05:34:45.227Z
+updated: 2024-10-12T05:15:31.564Z
 categories:
   - repair-tools
 description: This Article Describes Eliminate Video Glitches - Error XC00D36C4
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-625c9ec/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.574139bee03ec4bdb0cd6e869a4670da)  
  Written By [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on3 Jun, 2024
 * Min Reading 8  Min
@@ -46,15 +42,6 @@ Table of Content
 
  _Figure: Error 0xc00d36c4 message in Windows_
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## **What is error 0xc00d36c4 in videos?**
 
  The message: _This file isn’t playable. That might be because the file type is unsupported, the file extension is incorrect, or the file is corrupt. 0xc00d36c4.’_ is a Windows error that can occur due to the following reasons:
@@ -67,17 +54,18 @@ Table of Content
 * Windows Media Player has a copy-protected feature enabled (in case of DVD/CD videos)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **How to fix error 0xc00d36c4 in videos** **?**
 
  The error usually occurs due to an incompatible file format or codec. Thus, workarounds involve either converting the video file format or installing the supporting codec. In case, the video doesn’t play even after converting the video or installing the codec, troubleshoot the system drivers.
 
  If none of these methods work and you still receive_‘this file isn’t playable 0xc00d36c4 error’_ , then the video file has turned corrupt and needs to be fixed with the help of video repair software.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **8 Methods to fix Video error 0xc00d36c4**
 
  1\. Play the video in another compatible media player like a VLC player  
@@ -89,28 +77,18 @@ Table of Content
  7\. Repair with a Stellar Repair for Video software  
  8\. Try AVI repair in VLC Media Player to fix error 0xc00d36c4
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### **Method 1: Play video in another media player**
 
  The error code 0xc00d36c4 mostly occurs due to unsupported file format or codec. Playing the problematic video in another media player often fixes this issue. The most preferred player in such cases is VLC Media Player. It is configured to play most of the video file formats.
 
  Other than VLC, you can use Winamp, QuickTime, Windows Media Player, KMPlayer, or Windows Media Center, etc.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 2: Download the missing codecs**
 
@@ -128,9 +106,6 @@ Key features:
 
 [Read More](http://www.microsoft.com/windows/windowsmedia/player/faq/codec.mspx)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 3: Convert the video file format**
 
  Converting the problematic video to another file format can play your video. Use a secure video file converter tool that’s free from malware. There are both online converters and desktop converters like [Stellar Converter for Audio Video](https://tools.techidaily.com/stellardata-recovery/buy-now/) and VLC Media Player.
@@ -178,6 +153,13 @@ Key features:
  Now when you play your music from DVD/ CD or external device, error code 0xc00d36c4 won’t appear.
 
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 5: Remove and reinstall all USB controllers**
 
@@ -267,8 +249,12 @@ Now, check if the video error is resolved.
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **To Sum Up**
 
  Error code 0xc00d36c4 while playing videos is either due to unsupported video format or codec or corruption in the video file. It could also occur because of computer conflict with USB devices. Troubleshooting the error should begin by installing the supporting codec or converting the video file format to another. If these methods do not help, reinstall or update the drivers using the above methods.
@@ -297,8 +283,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -306,4 +290,26 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-secret-behind-the-blue-status-update-sticker/"><u>[New] In 2024, The Secret Behind the Blue Status Update Sticker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-computing-desktops-await-you/"><u>2024 Approved Superior Computing Desktops Await You</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cinema-quality-revived-client-endorsements/"><u>Cinema Quality Revived: Client Endorsements</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/data-disaster-free-stellar-to-the-rescue/"><u>Data Disaster? Free Stellar to the Rescue!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/digital-restoration-pro-hd-corruption-cure/"><u>Digital Restoration Pro: HD Corruption Cure</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/discovering-advanced-features-in-stellars-12v-mac-data-tool/"><u>Discovering Advanced Features in Stellar's 12v Mac Data Tool</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-infinix-zero-5g-2023-turbo-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Infinix Zero 5G 2023 Turbo FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effective-utilization/"><u>Effective Utilization</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/error-message-resolution-224003-fix/"><u>Error Message Resolution: 224003 Fix</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-picture-correction-kit/"><u>Expert Picture Correction Kit</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-updates-for-your-epson-xp-420-printer-software/"><u>Get the Newest Updates for Your Epson XP-420 Printer Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/guide-to-consolidating-your-youtube-video-collection/"><u>Guide to Consolidating Your YouTube Video Collection</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720667681153-hdd-hide-and-seek-in-macs-here-are-8-ways-out/"><u>HDD Hide-and-Seek in Macs? Here Are 8 Ways Out</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-query-troubleshooting-the-missing-vanguard-setup-in-valorant/"><u>Solved Query: Troubleshooting the Missing Vanguard Setup in Valorant</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-ranked-intelligent-audio-devices/"><u>Top-Ranked Intelligent Audio Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720672582068-underlying-issues-with-video-editing-tool-performance/"><u>Underlying Issues with Video Editing Tool Performance</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-online-video-editing-tools-for-vertical-content/"><u>Updated 2024 Approved Top Online Video Editing Tools for Vertical Content</u></a></li>
+</ul></div>
 

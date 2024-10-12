@@ -1,7 +1,7 @@
 ---
 title: Easy Solution to Fix Video Stuck or Freezing in VLC Player - Stellar
-date: 2024-07-29T00:10:19.067Z
-updated: 2024-07-30T00:10:19.067Z
+date: 2024-10-08T16:51:40.602Z
+updated: 2024-10-12T13:46:52.130Z
 categories:
   - repair-tools
 description: This Article Describes Easy Solution to Fix Video Stuck or Freezing in VLC Player - Stellar
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
 # How to Fix Video Stuck or Freeze in VLC
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-625c9ec/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
  Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
@@ -48,9 +45,6 @@ Table of Content
 
  You can apply the solutions here to play high-quality HD/ UHD/ HDR, 8k, or H.265 videos of any size and file format.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 1: Update VLC Media Player to the latest version**
 
  If your videos freeze, stutter, or are not playing in VLC Media Player, first update the player to the latest version. The updates improve support for new HD codecs, advanced formats, HDR, H.265/HEVC, 4K & 8K playback, 360-degree videos, VP9 (HD videos at lower bitrates), and others for decoding and encoding. It also fixes streaming issues and bugs, if any.
@@ -78,8 +72,12 @@ _Figure: Input/Codecs pane in VLC_
 * Click**Save.** Next, restart VLC Player and check if the videos are playing properly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 3: Disable Hardware Decoding in VLC Player**
 
  VLC Media Player can use the GPU of a computer to accelerate video decoding in high-quality videos. However, your PC’s drivers may behave abruptly, resulting in video playback or streaming issues. You can try disabling hardware decoding to fix Video Stuck or Freeze in the VLC player.
@@ -114,8 +112,12 @@ _Figure: Input/Codecs pane in VLC_
 * Click**Save** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 5: Switch video output to DirectX DirectDraw in VLC**
 
  Try switching between output video stream settings in the VLC media player. For example, you can set the output video module to Direct 3D video output, DirectX DirectDraw, or Open GL video output.
@@ -146,9 +148,6 @@ _Figure: Video output modules in VLC_
 * Click on**Save** at the bottom**.**
 * Check if VLC Player can play your videos without freeze or interruption.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 6: Repair your video using Stellar Repair for Video**
 
  The video file may be corrupt if the above methods using VLC Media Player don’t fix video freeze, lag, or stuttering issues. To confirm corruption, see if your video freezes while playing in another media player.
@@ -171,6 +170,13 @@ _Figure: Video output modules in VLC_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
  Here we have recommended changing the settings of VLC Media Player to fix video freezing or lag using the below methods:
@@ -186,8 +192,18 @@ _Figure: Video output modules in VLC_
  I hope you found this helpful. Do share with our readers which method helped you fix Video Stuck or Freeze in the VLC player issue in the comment box below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 1
@@ -206,8 +222,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +229,23 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-transforming-footage-your-guide-to-ken-burns-in-camtasa-9/"><u>[New] 2024 Approved Transforming Footage Your Guide to Ken Burns in Camtasa 9</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-seamless-srt-to-sub-a-comprehensive-guide/"><u>[New] Seamless SRT to SUB A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-strategic-insights-into-aesthetic-success-for-audio-brands/"><u>[New] Strategic Insights Into Aesthetic Success for Audio Brands</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieving-muted-audibility-with-effortless-fading-in-lumafusion/"><u>[Updated] Achieving Muted Audibility with Effortless Fading in Lumafusion</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/addressing-video-playback-constraints/"><u>Addressing Video Playback Constraints</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/bypassing-file-error-for-smooth-video-playback/"><u>Bypassing File Error for Smooth Video Playback</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/clear-buffering-issues-on-vlc-at-once/"><u>Clear Buffering Issues on VLC at Once</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-the-path-for-team-success-resolving-80080300-errors-on-w11/"><u>Clearing the Path for Team Success: Resolving 80080300 Errors on W11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effortless-software-upgrade-install-stellar-now/"><u>Effortless Software Upgrade - Install Stellar Now</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elevate-your-brand-across-platforms-with-seamless-integration-of-facebook-linkedin-and-youtube/"><u>Elevate Your Brand Across Platforms with Seamless Integration of Facebook, LinkedIn & YouTube</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhanced-edit-suite-virtual-repair-tools/"><u>Enhanced Edit Suite: Virtual Repair Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/external-hard-drive-8-fixes-for-the-missing-mac-mystery/"><u>External Hard Drive: 8 Fixes for the Missing Mac Mystery</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-logitech-wheel-drivers-supports-windows-7-to-10-systems/"><u>Get the Newest Logitech Wheel Drivers - Supports Windows 7 to 10 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-make-slow-motion-videos-on-instagram-reels-step-by-step-for-2024/"><u>How to Make Slow Motion Videos on Instagram Reels [Step by Step] for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-compatible-drivers-for-arduino-mega-2560/"><u>Quick Download: Compatible Drivers for Arduino Mega 2560</u></a></li>
+</ul></div>
 

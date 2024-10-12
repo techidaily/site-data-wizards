@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Stellar Media Freeze: 0XC00D36C4"
-date: 2024-07-29T00:06:59.754Z
-updated: 2024-07-30T00:06:59.754Z
+date: 2024-10-09T17:29:09.939Z
+updated: 2024-10-12T12:13:07.609Z
 categories:
   - repair-tools
 description: "This Article Describes Eliminate Stellar Media Freeze: 0XC00D36C4"
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-625c9ec/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.574139bee03ec4bdb0cd6e869a4670da)  
  Written By [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on3 Jun, 2024
 * Min Reading 8  Min
@@ -62,9 +59,6 @@ Table of Content
 
  If none of these methods work and you still receive_‘this file isn’t playable 0xc00d36c4 error’_ , then the video file has turned corrupt and needs to be fixed with the help of video repair software.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **8 Methods to fix Video error 0xc00d36c4**
 
  1\. Play the video in another compatible media player like a VLC player  
@@ -76,11 +70,25 @@ Table of Content
  7\. Repair with a Stellar Repair for Video software  
  8\. Try AVI repair in VLC Media Player to fix error 0xc00d36c4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 1: Play video in another media player**
 
  The error code 0xc00d36c4 mostly occurs due to unsupported file format or codec. Playing the problematic video in another media player often fixes this issue. The most preferred player in such cases is VLC Media Player. It is configured to play most of the video file formats.
 
  Other than VLC, you can use Winamp, QuickTime, Windows Media Player, KMPlayer, or Windows Media Center, etc.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 2: Download the missing codecs**
 
@@ -121,9 +129,6 @@ Table of Content
 * Add profile or click **Edit Selected Profile** – the wrench icon to change or add particular profile settings.
 * Next, click**Start.** Your converted video file will be saved at the specified location.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 4: Disable Copy Protection in Windows Media Player**
 
  Does the error 0xc00d36c4 pops up every time you try to play CD/DVD or a mobile phone music on your PC?
@@ -149,9 +154,6 @@ Table of Content
 
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 5: Remove and reinstall all USB controllers**
 
  ‘This file isn’t playable 0xc00d36c4 error’ can also be due to system conflict between the connected external media (SD card, USB pen drive, etc.) and your computer.
@@ -177,8 +179,12 @@ Table of Content
  Now, connect your USB device to a computer, and check if the video 0xc00d36c4 error is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 6: Update the Display Adapter Driver**
 
  As the error code may occur due to hardware conflict, you can also try once updating the display drivers. This may fix the video error.
@@ -217,8 +223,12 @@ Tip – If the current driver is up-to-date, just to be on the safer side, unins
 **Step 3:** Preview the repaired videos and click**Save Repaired File.**
 
 <!-- affiliate ads begin -->
-
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 8: Try AVI repair in VLC Media Player to fix error 0xc00d36c4**
 
  Free VLC Media Player has an AVI repair feature. Try the function to fix the video error 0xc00d36c4 in AVI files. If your video file is other than AVI, you can rename it to AVI and then fix it using the media player.
@@ -245,10 +255,6 @@ Now, check if the video error is resolved.
 | **Copy and Paste Hack you may try to fix code 0xc00d36c4**  Does the error code 0xc00d36c4 occur while trying to open the video saved on DVD/CD, USB drive, etc.?  Simply copy your video file from the external storage to the computer drive and then play. This hack has actually worked for many! |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## **To Sum Up**
 
  Error code 0xc00d36c4 while playing videos is either due to unsupported video format or codec or corruption in the video file. It could also occur because of computer conflict with USB devices. Troubleshooting the error should begin by installing the supporting codec or converting the video file format to another. If these methods do not help, reinstall or update the drivers using the above methods.
@@ -277,8 +283,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -286,4 +290,26 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-learn-to-record-mac-display-like-a-pro-for-2024/"><u>[New] Learn to Record MAC Display Like a Pro for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-navigate-with-ease-a-guide-to-effective-screen-casting-in-meet/"><u>[New] Navigate with Ease A Guide to Effective Screen Casting in Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-optimize-your-virtual-space-with-zoom-setup-for-2024/"><u>[New] Optimize Your Virtual Space with Zoom Setup for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-art-of-bio-storytelling-on-social-media-platforms/"><u>[Updated] 2024 Approved The Art of Bio Storytelling on Social Media Platforms</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-enhancing-facial-realism-applying-motion-blur-effects-via-picsart-for-2024/"><u>[Updated] Enhancing Facial Realism Applying Motion Blur Effects via Picsart for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oneplus-11r-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for OnePlus 11R Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-tech-giants-for-computers-the-complete-review-list/"><u>Best Tech Giants for Computers : The Complete Review List</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effectiveness-amplification/"><u>Effectiveness Amplification</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expertly-choose-your-video-recovery-software-top-10-selections-for-windows-and-macos/"><u>Expertly Choose Your Video Recovery Software: Top 10 Selections for Windows and macOS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/getting-started-the-basics-of-stellars-mac-ux/"><u>Getting Started: The Basics of Stellar's Mac UX</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolve-android-video-issues/"><u>Resolve Android Video Issues</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-recoverable-videos-at-home/"><u>Reviving Recoverable Videos at Home</u></a></li>
+<li><a href="https://blog-min.techidaily.com/solved-troubleshooting-issues-with-uploading-photos-to-icloud-photo-library/"><u>Solved: Troubleshooting Issues with Uploading Photos to iCloud Photo Library</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-streamlines-mac-tasks-speedier-results-await/"><u>Stellar Streamlines Mac Tasks - Speedier Results Await</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-transforming-video-object-vob-to-mp4-on-pcs-with-windows-11-and-mac-computers/"><u>Step-by-Step Tutorial for Transforming Video Object (VOB) to MP4 on PCs with Windows 11 & Mac Computers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-to-maintain-high-video-standards-post-export/"><u>Techniques to Maintain High Video Standards Post-Export</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-premier-guide-to-outstanding-smartwatches/"><u>The Premier Guide to Outstanding Smartwatches</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-stellar-guide-to-salvaging-silent-files-totan-banerjee-edition/"><u>The Stellar Guide to Salvaging Silent Files - Totan Banerjee Edition</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/totan-banerjee-author-at-stellar-data-recovery-article-en/"><u>Totan Banerjee, Author at Stellar Data Recovery Article - En</u></a></li>
+</ul></div>
 

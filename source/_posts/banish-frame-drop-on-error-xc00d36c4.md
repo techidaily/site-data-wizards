@@ -1,7 +1,7 @@
 ---
 title: Banish Frame Drop on Error XC00D36C4
-date: 2024-07-29T00:07:23.730Z
-updated: 2024-07-30T00:07:23.730Z
+date: 2024-10-10T23:46:28.240Z
+updated: 2024-10-11T17:17:29.838Z
 categories:
   - repair-tools
 description: This Article Describes Banish Frame Drop on Error XC00D36C4
@@ -53,9 +53,6 @@ Table of Content
 * System drivers are outdated
 * Windows Media Player has a copy-protected feature enabled (in case of DVD/CD videos)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## **How to fix error 0xc00d36c4 in videos** **?**
 
  The error usually occurs due to an incompatible file format or codec. Thus, workarounds involve either converting the video file format or installing the supporting codec. In case, the video doesn’t play even after converting the video or installing the codec, troubleshoot the system drivers.
@@ -63,8 +60,12 @@ Table of Content
  If none of these methods work and you still receive_‘this file isn’t playable 0xc00d36c4 error’_ , then the video file has turned corrupt and needs to be fixed with the help of video repair software.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **8 Methods to fix Video error 0xc00d36c4**
 
  1\. Play the video in another compatible media player like a VLC player  
@@ -83,8 +84,12 @@ Table of Content
  Other than VLC, you can use Winamp, QuickTime, Windows Media Player, KMPlayer, or Windows Media Center, etc.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 2: Download the missing codecs**
 
  The video error could be because one or more supporting codecs are not installed on your computer. So download compatible codec(s) for that particular video file format.
@@ -101,9 +106,6 @@ Table of Content
 
 [Read More](http://www.microsoft.com/windows/windowsmedia/player/faq/codec.mspx)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### **Method 3: Convert the video file format**
 
  Converting the problematic video to another file format can play your video. Use a secure video file converter tool that’s free from malware. There are both online converters and desktop converters like [Stellar Converter for Audio Video](https://tools.techidaily.com/stellardata-recovery/buy-now/) and VLC Media Player.
@@ -152,18 +154,6 @@ Table of Content
 
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 5: Remove and reinstall all USB controllers**
 
  ‘This file isn’t playable 0xc00d36c4 error’ can also be due to system conflict between the connected external media (SD card, USB pen drive, etc.) and your computer.
@@ -188,9 +178,6 @@ Table of Content
 
  Now, connect your USB device to a computer, and check if the video 0xc00d36c4 error is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 6: Update the Display Adapter Driver**
 
  As the error code may occur due to hardware conflict, you can also try once updating the display drivers. This may fix the video error.
@@ -227,6 +214,13 @@ Tip – If the current driver is up-to-date, just to be on the safer side, unins
 **Step 2:** Click**Repair.**
 
 **Step 3:** Preview the repaired videos and click**Save Repaired File.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 8: Try AVI repair in VLC Media Player to fix error 0xc00d36c4**
 
@@ -265,8 +259,12 @@ Now, check if the video error is resolved.
 **For any query reach us through comments in the box below.**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -285,8 +283,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +290,26 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-google-chromes-pip-potential-on-all-platforms/"><u>[New] Unlocking Google Chrome's PIP Potential on All Platforms</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-best-music-player-software-for-android/"><u>[Updated] In 2024, Best Music Player Software for Android</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-virtual-frontiers-the-ultimate-guide-to-metavision-in-science-fiction-cinema/"><u>[Updated] In 2024, Virtual Frontiers The Ultimate Guide to Metavision in Science Fiction Cinema</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-revolutionizing-video-viewing-master-fast-forward-on-tiktok/"><u>2024 Approved Revolutionizing Video Viewing Master Fast-Forward on TikTok</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comparing-the-two-worlds-series-2-apple-watch-vs-swiss-timepieces-an-in-depth-analysis/"><u>Comparing the Two Worlds: Series 2 Apple Watch vs Swiss Timepieces – An In-Depth Analysis</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/entice-eccentrics-in-umbria-learn-more-than-20-expressions/"><u>Entice Eccentrics in Umbria: Learn More Than 20 Expressions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-turning-off-and-restarting-iphone-15-propro-max-devices-for-optimal-performance/"><u>Guide to Turning Off & Restarting iPhone 15 Pro/Pro Max Devices for Optimal Performance</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-seamlessly-export-repaired-edb-archives-into-current-exchange-server-infrastructure-video-guide/"><u>How To Seamlessly Export Repaired EDB Archives Into Current Exchange Server Infrastructure - Video Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-behind-the-scenes-music-insights-for-ig/"><u>In 2024, Behind the Scenes Music Insights for IG</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/instant-upgrade-celebrity-film-restoration/"><u>Instant Upgrade: Celebrity Film Restoration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-ios-update-setup-insiders-secrets-to-a-smooth-transition/"><u>Mastering iOS Update Setup: Insider's Secrets to a Smooth Transition</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/navigating-through-videography-error-code-0xc10100be/"><u>Navigating Through Videography Error Code 0XC10100be</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/orbital-databases-a-new-dawn-in-ms-sql/"><u>Orbital Databases: A New Dawn in MS SQL</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-obsolete-video-codecs/"><u>Overcoming Obsolete Video Codecs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-past-visual-data-effortlessly/"><u>Repairing Past Visual Data Effortlessly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-screen-refresh-problems/"><u>Repairing Screen Refresh Problems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resurrect-your-broken-videos-mastering-vlc-for-mp4mov-repairs/"><u>Resurrect Your Broken Videos: Mastering VLC for MP4/MOV Repairs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-unlocks-silent-hdd-secrets-for-clients/"><u>Stellar Unlocks Silent HDD Secrets for Clients</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/troubleshooting-steps-for-unrecognizable-usb-drives-in-windows-11-environments/"><u>Troubleshooting Steps for Unrecognizable USB Drives in Windows 11 Environments</u></a></li>
+</ul></div>
 

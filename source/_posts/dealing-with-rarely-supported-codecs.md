@@ -1,7 +1,7 @@
 ---
 title: Dealing with Rarely Supported Codecs
-date: 2024-07-29T00:10:26.770Z
-updated: 2024-07-30T00:10:26.770Z
+date: 2024-10-10T21:27:16.715Z
+updated: 2024-10-12T00:52:50.784Z
 categories:
   - repair-tools
 description: This Article Describes Dealing with Rarely Supported Codecs
@@ -49,9 +49,6 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -63,8 +60,12 @@ _An error occurred. Unsupported file format.’_
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -73,11 +74,6 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -96,9 +92,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 _Figure: Mac suggests installed apps to open video_
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -110,6 +103,13 @@ _Figure: Mac suggests installed apps to open video_
  However, be aware that there may be malicious ads for codec downloads. This can put your computer at risk. Make sure you download codecs from a trusted source, preferably from the manufacturer’s site.
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
@@ -132,9 +132,6 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -161,8 +158,12 @@ _Figure: Video profile options in VLC Player_
 * Once done, click **Start** to convert the video file.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
@@ -171,9 +172,6 @@ _Figure: Video profile options in VLC Player_
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
  When converting or getting the compatible codecs don’t solve the problem, chances are your video file is giving error due to corruption.
@@ -199,6 +197,19 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -207,9 +218,6 @@ _Figure: Preview video after repair_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 0
@@ -228,8 +236,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +243,20 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-a-step-by-step-approach-to-generating-income-with-trailers/"><u>[New] 2024 Approved A Step-by-Step Approach to Generating Income with Trailers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-secret-sonic-snatchers-6-in-the-shadows-voice-recording-apps/"><u>[Updated] 2024 Approved Secret Sonic Snatchers 6 In-the-Shadows Voice Recording Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-websites-revealed-acquiring-personalized-youtube-ringtones/"><u>2024 Approved Premier Websites Revealed Acquiring Personalized YouTube Ringtones</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/combat-video-errors-home-remedies-for-flawless-viewing-experience/"><u>Combat Video Errors – Home Remedies For Flawless Viewing Experience</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comprehensive-cross-platform-engagement-with-facebook-linkedin-youtube-elevate-your-digital-footprint/"><u>Comprehensive Cross-Platform Engagement with Facebook, LinkedIn, YouTube - Elevate Your Digital Footprint</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discovering-joy-and-adventure-within-pokemon-shining-pearl-edition/"><u>Discovering Joy and Adventure Within Pokémon: Shining Pearl Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easily-install-and-run-android-applications-on-windows-11/"><u>Easily Install and Run Android Applications on Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eliminating-visual-wrongs-after-win11-transition/"><u>Eliminating Visual Wrongs After Win11 Transition</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-hardware-software-fixes-by-grau-gmbh-transform-your-video-projects/"><u>Expert Hardware Software Fixes by Grau GmbH - Transform Your Video Projects</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-enhancing-visual-storytelling-with-windows-11s-video-capabilities/"><u>In 2024, Enhancing Visual Storytelling with Windows 11'S Video Capabilities</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-mastering-graphic-design-career-pathways-unveiled/"><u>In 2024, Mastering Graphic Design Career Pathways Unveiled</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-realme-v30-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Realme V30? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-spotify-playlist-converters-for-creating-youtube-content/"><u>Top 5 Spotify Playlist Converters for Creating YouTube Content</u></a></li>
+</ul></div>
 

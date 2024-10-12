@@ -1,7 +1,7 @@
 ---
 title: Android Media Troubleshooting Steps
-date: 2024-07-29T00:10:20.806Z
-updated: 2024-07-30T00:10:20.806Z
+date: 2024-10-08T22:44:25.651Z
+updated: 2024-10-12T14:18:08.347Z
 categories:
   - repair-tools
 description: This Article Describes Android Media Troubleshooting Steps
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.1e1df7d66b301003bec30db63ac73954)  
  Written By [Sumona Chatterjee](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/sumona-chatterjee-38984450/)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on1 Feb, 2024
 * Min Reading 6  Min
@@ -51,16 +48,10 @@ Table of Content
 
  Try the below methods to play videos on your Android phone. You can apply these methods to fix the ‘videos not playing’ issue in any Android phone,**such as Samsung, Oneplus, Xiaomi, Motorola, HTC, etc.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **1\. Restart/Reboot your device**
 
  Restarting your smartphone is the most simple troubleshooting way which may help to play your videos. First, close all the applications on your mobile. Restart/Reboot the phone. Next, go to Gallery and check if your videos are playing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **2\. Clear cache on your Android phone**
 
  Cached data is required to reduce loading time but clearing the cache is also essential for troubleshooting to address several issues that may arise due to corrupted cache data.
@@ -68,6 +59,13 @@ Table of Content
  To clear data on your smartphone go to **Settings > Storage/ Application Manager > Clear Cache.**
 
 Now, go back to the Gallery to play the videos.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **3\. Uninstall insecure apps on your mobile**
 
@@ -96,11 +94,22 @@ Now, go back to the Gallery to play the videos.
  Once the installation completes, your mobile phone automatically reboots.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **6\. Uninstall Dubious Software**
 
  It may sometimes happen that you may not be able to play video on your Android device since you have installed some unsecured app from somewhere else besides the official app store. Such an unsecured app can block the video playback on your Android device; It is always advised to uninstall it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **7\. Get Stellar Repair for Video**
 
@@ -132,18 +141,6 @@ Now, go back to the Gallery to play the videos.
 
  You may also refer to [How to Fix ‘No sound on Android video’ Error](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **8\. Reset your app preferences**
 
  Resetting your app preferences lets you choose which video player you want to use for playing videos.
@@ -161,9 +158,6 @@ Now try to play your videos on the Android phone.
 
  Factory Reset wipes out all data and renders your smartphone as new. Thus, before doing it, ensure you have taken all your contacts, photos, videos, and other smartphone data into a backup.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Cannot play Facebook, YouTube, or other web videos on your Android phone? Try the below fixes:**
 
 * Check your Wi-Fi network
@@ -175,8 +169,12 @@ Now try to play your videos on the Android phone.
 * Update your Android OS
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **To Sum up**
 
  Mostly, the’ video not playing’ on Android issue is resolved by clearing the cache or restarting your smartphone. However, if the mobile video file is corrupt, it is recommended to use Stellar Repair for Video. This software is an efficient video repair utility that fixes all sorts of corruption. In addition, you can repair multiple corrupt videos simultaneously, saving a lot of your time.
@@ -207,8 +205,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +212,26 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-use-creative-commons-copyright-licenses/"><u>[New] 2024 Approved How to Use Creative Commons Copyright Licenses?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-essential-hash-monitors-for-facebook-twitter-instagram/"><u>[Updated] Essential Hash Monitors for Facebook, Twitter, Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates-for-2024/"><u>[Updated] How Much Money Can You Make via YouTube Ad Revenue and CPM Rates for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-quick-start-with-screencastify-video-recording/"><u>[Updated] In 2024, Quick Start with Screencastify Video Recording</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mobile-access-to-all-you-love-best-download-tools-for-android-and-ios-for-2024/"><u>[Updated] Mobile Access to All You Love Best Download Tools for Android and iOS for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/adobe-premiere-pro-crash-woes-resolved-for-windows-11-users/"><u>Adobe Premiere Pro Crash Woes Resolved for Windows 11 Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cloud-service-assurance/"><u>Cloud Service Assurance</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-error-messages-in-card-drivers/"><u>Correcting Error Messages in Card Drivers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cross-platform-collaboration-on-facebook-linkedin-and-youtube/"><u>Cross-Platform Collaboration on Facebook, LinkedIn and YouTube</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720673210006-customer-testimonial-recovered-thousands-of-photos-from/"><u>Customer Testimonial: Recovered Thousands of Photos From ...</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/discover-the-top-5-excellent-video-repair-applications-compatible-with-your-os/"><u>Discover the Top 5 Excellent Video Repair Applications Compatible with Your OS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/efficient-strategies-for-mending-h265-files/"><u>Efficient Strategies for Mending H.265 Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effortless-repair-of-corrupt-or-busted-mpeg-videos-with-leading-tools/"><u>Effortless Repair of Corrupt or Busted MPEG Videos with Leading Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eight-simple-steps-to-discover-lost-hard-drives-on-macs/"><u>Eight Simple Steps to Discover Lost Hard Drives on Macs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60-pro-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Realme Narzo 60 Pro 5G Phone Without Password?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lullaby-labyrinths-best-vocalists-for-sleep-aid/"><u>In 2024, Lullaby Labyrinths Best Vocalists For Sleep Aid</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/schritt-fur-schritt-anleitung-automatisierte-datensicherung-auf-google-drive/"><u>Schritt-Für-Schritt Anleitung: Automatisierte Datensicherung Auf Google Drive</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720673249416-video-customer-testimonial-data-recovered-from-a-non-responding-hard-drive-with-stellar/"><u>Video - Customer Testimonial: Data Recovered From a Non Responding Hard Drive with Stellar!</u></a></li>
+</ul></div>
 

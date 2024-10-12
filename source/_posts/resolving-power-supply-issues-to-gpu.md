@@ -1,7 +1,7 @@
 ---
 title: Resolving Power Supply Issues to GPU
-date: 2024-10-02T17:28:06.125Z
-updated: 2024-10-06T20:22:16.589Z
+date: 2024-10-04T21:25:16.681Z
+updated: 2024-10-12T00:01:28.989Z
 categories:
   - repair-tools
 description: This Article Describes Resolving Power Supply Issues to GPU
@@ -81,21 +81,28 @@ Table of Content
  Visual issues can be caused due to a loose connection between the computer and the graphics card. Ensure that the video cable is fine and plugged in properly. Replace the faulty cable.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\. Swap graphics card slot:**
 
  The problem might be due to a faulty PCI card slot. Insert your external graphics card in a different slot and see if this resolves the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **3\. Check the PC monitor:**
 
@@ -116,10 +123,16 @@ Table of Content
 ![Device Status of Graphics card showing Code 43](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/vv.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Figure: Device Status of Graphics card showing Code 43
@@ -128,25 +141,11 @@ Table of Content
 
 ![Device Status of Graphic card showing ‘device working’](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/ww.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Figure: Device Status of Graphic card showing ‘device working’
 
 Try the free version of the software:
 
 [Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How to fix video card problems**
 
@@ -157,13 +156,6 @@ Try the free version of the software:
 3. [**Uninstall and reinstall the drivers**](#3)
 4. [**Cool and clean video card**](#4)
 5. [**Replace your video card**](#5)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **1\. Upgrade video card drivers**
 
@@ -178,6 +170,13 @@ Try the free version of the software:
 **Visit the below link for steps to update Windows drivers:**
 
 **_ [Read More](https://support.microsoft.com/en-us/help/4028443/windows-10-update-drivers) _**
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2\. Disable/Enable the graphics card**
 
@@ -200,6 +199,13 @@ To disable video card drives, follow the below steps:
 * Double-click on your graphic card
 * Click on properties.
 * Go to the**Driver** tab and click the**Enable** button.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **3.** **Uninstall and reinstall the drivers**
 
@@ -228,19 +234,6 @@ To uninstall the driver, follow the below steps:
 
  If the motherboard or the dedicated graphic card is damaged due to overheating, you would need to replace them.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **5\. Replace your video card**
 
  Buying a new video card is the only option when the existing card is damaged due to overheating or overclocking or has become outdated. If you are using an integrated video card, replace the whole motherboard.
@@ -266,13 +259,26 @@ To uninstall the driver, follow the below steps:
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 About The Author
 
@@ -297,19 +303,19 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ptimize-youtube-for-superior-image-quality-using-av1/"><u>[New] Optimize YouTube for Superior Image Quality Using AV1</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-transform-your-live-broadcasting-skills-using-dslr-on-personal-computers/"><u>[New] Transform Your Live Broadcasting Skills Using DSLR on Personal Computers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-guide-perfect-your-youtube-video-looping-game/"><u>[Updated] 2024 Approved How-To Guide Perfect Your YouTube Video Looping Game</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/galaxy-archive-top-productions-and-glowing-reviews/"><u>Galaxy Archive: Top Productions & Glowing Reviews</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/hacking-perfect-streaming-with-simple-fixes/"><u>Hacking Perfect Streaming with Simple Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g14-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Moto G14 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-seamless-audio-transfer-best-iphone-tools-for-youtube-to-mp3/"><u>In 2024, Seamless Audio Transfer Best iPhone Tools for YouTube-to-MP3</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/key-steps-in-restoring-flawed-movie-files/"><u>Key Steps in Restoring Flawed Movie Files</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/nba-2k19-dive-into-professional-level-basketball-gaming-like-never-before/"><u>NBA 2K19: Dive Into Professional-Level Basketball Gaming Like Never Before</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/quick-hacks-how-to-flip-your-snapchat-videos/"><u>Quick Hacks How to Flip Your Snapchat Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reliable-mpeg-video-restoration-software-fix-and-recover-damaged-mp4-videos-easily/"><u>Reliable MPEG Video Restoration Software – Fix and Recover Damaged MP4 Videos Easily</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-reinvents-its-data-recovery-software-for-consumers-ease-of-use-news-of-stellar/"><u>Stellar Reinvents Its Data Recovery Software for Consumers' Ease of Use - News of Stellar</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-global-leaders-in-digital-education-beyond-udemy-for-2024/"><u>[Updated] Global Leaders in Digital Education Beyond Udemy for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-leading-voice-modifying-apps-magical-calls-and-more/"><u>[Updated] Leading Voice-Modifying Apps Magical Calls & More</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-minecraft-branding-resources-for-youtubers-for-2024/"><u>[Updated] Minecraft Branding Resources for YouTubers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-thrilling-twists-and-turns-short-track-22/"><u>2024 Approved Thrilling Twists & Turns - Short Track '22</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diagnosing-video-load-failures/"><u>Diagnosing Video Load Failures</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/efficient-installation-of-updated-intel-iris-540-graphics-drivers-speedy-and-straightforward-methods/"><u>Efficient Installation of Updated Intel Iris 540 Graphics Drivers - Speedy & Straightforward Methods</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/galaxy-of-tech-sql-database-restoration/"><u>Galaxy of Tech: SQL Database Restoration</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hd-video-repair-utility-repairs-corrupt-hd-video-files/"><u>HD Video Repair Utility: Repairs Corrupt HD Video Files</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-beyond-reality-the-future-of-virtual-experiences/"><u>In 2024, Beyond Reality The Future of Virtual Experiences</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720669553067-quick-and-effective-mac-hd-configuration-learn-from-us/"><u>Quick & Effective Mac HD Configuration – Learn From Us</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-remedies-when-you-cant-access-palworld-fixed-now/"><u>Quick Remedies When You Can't Access Palworld – Fixed Now!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rebuilding-damaged-avchd-recordings/"><u>Rebuilding Damaged AVCHD Recordings</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-handy-guide-toolkits-tips-and-techniques-for-savvy-software-creation/"><u>Stellar's Handy Guide: Toolkits, Tips & Techniques for Savvy Software Creation</u></a></li>
 </ul></div>
 

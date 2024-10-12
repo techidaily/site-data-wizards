@@ -1,7 +1,7 @@
 ---
 title: Android Media Playback Assistance
-date: 2024-07-29T00:09:41.728Z
-updated: 2024-07-30T00:09:41.728Z
+date: 2024-10-08T21:23:27.338Z
+updated: 2024-10-12T14:09:19.177Z
 categories:
   - repair-tools
 description: This Article Describes Android Media Playback Assistance
@@ -16,14 +16,8 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
 # How to Fix Videos Not Playing on Android Phone
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.1e1df7d66b301003bec30db63ac73954)  
  Written By [Sumona Chatterjee](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/sumona-chatterjee-38984450/)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on1 Feb, 2024
 * Min Reading 6  Min
@@ -50,12 +44,16 @@ Table of Content
 * Your mobile SD card is corrupt
 * You downloaded an untrusted software/app
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **How to Fix Videos Not Playing On Android phone**
 
  Try the below methods to play videos on your Android phone. You can apply these methods to fix the ‘videos not playing’ issue in any Android phone,**such as Samsung, Oneplus, Xiaomi, Motorola, HTC, etc.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **1\. Restart/Reboot your device**
 
@@ -73,13 +71,16 @@ Now, go back to the Gallery to play the videos.
 
  Trojans are a menace for your Android phones too. If you have downloaded any app or software from an**untrusted** source, remove it. There are chances that it disrupts your mobile Device’s smooth functioning, including not letting you play your mobile videos or making your videos corrupt.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### **4\. Install VLC player/MX Player on Android phone**
 
  It might be possible that the media player on your Android phone does not support the video codec you are trying to play. Install a**compatible** video player like a VLC player, BS Player, or MX Player from the Google Play store.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **5\. Update your Android OS**
 
@@ -103,9 +104,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  It may sometimes happen that you may not be able to play video on your Android device since you have installed some unsecured app from somewhere else besides the official app store. Such an unsecured app can block the video playback on your Android device; It is always advised to uninstall it.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **7\. Get Stellar Repair for Video**
 
  If you can play some video files on your Android phone, the problem is not with the Device or media player. Instead, your video files may have gone corrupt.
@@ -148,8 +146,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 Now try to play your videos on the Android phone.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **9\. Factory Reset your smartphone**
 
  If none of the above methods can play your Android phone videos, the last resort is Factory Reset.
@@ -157,8 +159,12 @@ Now try to play your videos on the Android phone.
  Factory Reset wipes out all data and renders your smartphone as new. Thus, before doing it, ensure you have taken all your contacts, photos, videos, and other smartphone data into a backup.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Cannot play Facebook, YouTube, or other web videos on your Android phone? Try the below fixes:**
 
 * Check your Wi-Fi network
@@ -199,8 +205,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +212,18 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-downloading-and-altering-whatsapp-ringtone-files/"><u>[New] How-To Downloading and Altering WhatsApp Ringtone Files</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-channel-branding-101-brainstorm-techniques-for-2024/"><u>[Updated] Channel Branding 101 Brainstorm Techniques for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/hashtagging-strategic-use-for-social-media-growth-on-facebook/"><u>HashTagging: Strategic Use for Social Media Growth on Facebook</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-14-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 14 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/it-support-excellence-fabios-exchange-recovery-video/"><u>IT Support Excellence - Fabio’s Exchange Recovery Video</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/luminous-media-hub-star-dusted-success-stories/"><u>Luminous Media Hub: Star-Dusted Success Stories</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/saved-by-science-the-successful-salvage-of-millions-of-memories/"><u>Saved by Science: The Successful Salvage of Millions of Memories</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-10-leading-video-repair-solutions-best-software-for-windows-and-mac-users/"><u>The 10 Leading Video Repair Solutions: Best Software for Windows and Mac Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/win11-blue-screen-handling-a-step-by-step-fixer-written-tutorial/"><u>Win11 Blue Screen Handling: A Step-by-Step Fixer' Written Tutorial</u></a></li>
+</ul></div>
 

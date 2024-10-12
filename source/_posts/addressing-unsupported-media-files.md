@@ -1,7 +1,7 @@
 ---
 title: Addressing Unsupported Media Files
-date: 2024-07-29T00:09:44.207Z
-updated: 2024-07-30T00:09:44.207Z
+date: 2024-10-09T19:29:15.718Z
+updated: 2024-10-12T07:28:08.095Z
 categories:
   - repair-tools
 description: This Article Describes Addressing Unsupported Media Files
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
  Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on12 Jun, 2024
 * Min Reading 6  Min
@@ -34,9 +31,6 @@ Table of Content
 
 [Free Download Windows  Free Download100% secure](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/windows.svg)  Free Download100% secure ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Free Download Mac  Free Download100% secure](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/source/rev-636f8fd/www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/mac-os.svg)  Free Download100% secure ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Missing codec error](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/blog/wp-content/uploads/2020/07/missing-codec-video-not-playing-1.png)
 
 _Figure: Missing codec error in Films & TV app_
@@ -55,9 +49,6 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -69,8 +60,12 @@ _An error occurred. Unsupported file format.’_
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -78,6 +73,13 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -98,9 +100,12 @@ _An error occurred. Unsupported file format.’_
 _Figure: Mac suggests installed apps to open video_
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -123,9 +128,6 @@ _Figure: Mac suggests installed apps to open video_
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -147,9 +149,6 @@ _Figure: VLC message when new version is available._
 
  The open source VLC Media Player can also convert video files to different format.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -207,8 +206,12 @@ _Figure: Preview video after repair_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -227,8 +230,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +237,19 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-anonymous-sharing-simplified-blurring-techniques-for-videos/"><u>[New] 2024 Approved Anonymous Sharing Simplified Blurring Techniques for Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebooks-prime-video-hits-the-best-of-five-for-2024/"><u>[New] Facebook's Prime Video Hits - The Best of Five for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quintessential-quiet-gaming-on-the-go/"><u>[New] Quintessential Quiet Gaming on the Go</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-steps-for-filming-using-logitech-webcam/"><u>Essential Steps for Filming Using Logitech Webcam</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fulfilling-dreams-with-exceptional-customer-service-at-a-score-of-245/"><u>Fulfilling Dreams with Exceptional Customer Service, At a Score of 245</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-guide-how-to-download-windows-movie-maker-6/"><u>In 2024, Quick Guide How to Download Windows Movie Maker 6</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimized-guide-on-converting-hefty-databases-edb-into-more-flexible-csv-files-easily-and-efficiently/"><u>Optimized Guide on Converting Hefty Databases (EDB) Into More Flexible CSV Files Easily and Efficiently</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pcdvd3/"><u>PC上でのDVD情報保存:効果的な3つのテクニック</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-broken-movie-files-how-to-use-vlc-player-for-mp4-and-mov-repair/"><u>Reviving Broken Movie Files: How to Use VLC Player for MP4 & MOV Repair</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revolutionize-your-mac-opt-for-stellar-speedups/"><u>Revolutionize Your Mac – Opt for Stellar Speedups</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/saving-past-emails-to-active-exchange-platform-via-video-guide/"><u>Saving Past Emails to Active Exchange Platform via Video Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcome-the-xerox-update-failure-error-code-0x800f020b-in-windows/"><u>Step-by-Step Guide to Overcome the Xerox Update Failure (Error Code 0X800F020B) in Windows</u></a></li>
+</ul></div>
 

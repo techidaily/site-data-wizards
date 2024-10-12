@@ -1,7 +1,7 @@
 ---
 title: Correct Frame Loss - XC00D36C4 Issue
-date: 2024-07-29T00:08:49.777Z
-updated: 2024-07-30T00:08:49.777Z
+date: 2024-10-05T12:56:13.817Z
+updated: 2024-10-12T12:57:10.978Z
 categories:
   - repair-tools
 description: This Article Describes Correct Frame Loss - XC00D36C4 Issue
@@ -42,9 +42,6 @@ Table of Content
 
  _Figure: Error 0xc00d36c4 message in Windows_
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## **What is error 0xc00d36c4 in videos?**
 
  The message: _This file isn’t playable. That might be because the file type is unsupported, the file extension is incorrect, or the file is corrupt. 0xc00d36c4.’_ is a Windows error that can occur due to the following reasons:
@@ -56,15 +53,19 @@ Table of Content
 * System drivers are outdated
 * Windows Media Player has a copy-protected feature enabled (in case of DVD/CD videos)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **How to fix error 0xc00d36c4 in videos** **?**
 
  The error usually occurs due to an incompatible file format or codec. Thus, workarounds involve either converting the video file format or installing the supporting codec. In case, the video doesn’t play even after converting the video or installing the codec, troubleshoot the system drivers.
 
  If none of these methods work and you still receive_‘this file isn’t playable 0xc00d36c4 error’_ , then the video file has turned corrupt and needs to be fixed with the help of video repair software.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## **8 Methods to fix Video error 0xc00d36c4**
 
  1\. Play the video in another compatible media player like a VLC player  
@@ -77,17 +78,18 @@ Table of Content
  8\. Try AVI repair in VLC Media Player to fix error 0xc00d36c4
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 1: Play video in another media player**
 
  The error code 0xc00d36c4 mostly occurs due to unsupported file format or codec. Playing the problematic video in another media player often fixes this issue. The most preferred player in such cases is VLC Media Player. It is configured to play most of the video file formats.
 
  Other than VLC, you can use Winamp, QuickTime, Windows Media Player, KMPlayer, or Windows Media Center, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 2: Download the missing codecs**
 
  The video error could be because one or more supporting codecs are not installed on your computer. So download compatible codec(s) for that particular video file format.
@@ -127,9 +129,6 @@ Table of Content
 * Add profile or click **Edit Selected Profile** – the wrench icon to change or add particular profile settings.
 * Next, click**Start.** Your converted video file will be saved at the specified location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### **Method 4: Disable Copy Protection in Windows Media Player**
 
  Does the error 0xc00d36c4 pops up every time you try to play CD/DVD or a mobile phone music on your PC?
@@ -155,9 +154,6 @@ Table of Content
 
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 5: Remove and reinstall all USB controllers**
 
  ‘This file isn’t playable 0xc00d36c4 error’ can also be due to system conflict between the connected external media (SD card, USB pen drive, etc.) and your computer.
@@ -196,6 +192,13 @@ Table of Content
  _Figure: Update driver option in Device Manager_
 
 Tip – If the current driver is up-to-date, just to be on the safer side, uninstall the driver first and then reinstall it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 7: Repair with a Stellar Repair for Video software**
 
@@ -245,9 +248,6 @@ Now, check if the video error is resolved.
 | **Copy and Paste Hack you may try to fix code 0xc00d36c4**  Does the error code 0xc00d36c4 occur while trying to open the video saved on DVD/CD, USB drive, etc.?  Simply copy your video file from the external storage to the computer drive and then play. This hack has actually worked for many! |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **To Sum Up**
 
  Error code 0xc00d36c4 while playing videos is either due to unsupported video format or codec or corruption in the video file. It could also occur because of computer conflict with USB devices. Troubleshooting the error should begin by installing the supporting codec or converting the video file format to another. If these methods do not help, reinstall or update the drivers using the above methods.
@@ -257,6 +257,13 @@ Now, check if the video error is resolved.
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 **For any query reach us through comments in the box below.**
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -276,8 +283,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,4 +290,24 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-comparing-iphones-best-video-editors-cameo-and-filmorago/"><u>[New] In 2024, Comparing iPhone's Best Video Editors Cameo & FilmoraGo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-power-play-essential-10-motivational-films/"><u>[New] Power Play Essential 10 Motivational Films</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-select-the-best-free-mobile-video-platforms-of-2023/"><u>[Updated] 2024 Approved Select the Best Free Mobile Video Platforms of 2023</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-apple-iphone-se-2020-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the Apple iPhone SE (2020) iCloud Lock</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/anticipating-virtual-realities-top-5-new-playstation-vr-games-for-2024/"><u>Anticipating Virtual Realities Top 5 New PlayStation VR Games for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixitflow-video-file-repair-tool/"><u>FixItFlow: Video File Repair Tool</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/flawless-fixes-for-apples-qtp-player-courtesy-of-stellar/"><u>Flawless Fixes for Apple’s QTP Player, Courtesy of Stellar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/from-obsolete-to-essential-the-transformation-and-importance-of-usb-composite-devices-nowad-resolved/"><u>From Obsolete to Essential: The Transformation and Importance of USB Composite Devices Nowad [RESOLVED]</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-fix-apple-videos-not-playing/"><u>How to Fix Apple Videos Not Playing?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-tecno-spark-20-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Tecno Spark 20 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-the-art-of-exchange-testimonials-it-expertise-with-fabio/"><u>Mastering the Art of Exchange Testimonials - IT Expertise with Fabio</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/natural-remedies-for-unstable-video/"><u>Natural Remedies for Unstable Video</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/navigating-through-the-notorious-bsod-on-windows-11/"><u>Navigating Through the Notorious BSOD on Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-online-video-reversal-software-for-2024/"><u>New The Ultimate List of Online Video Reversal Software for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rehabilitating-distorted-and-damaged-hevc-imagesvideos/"><u>Rehabilitating Distorted and Damaged HEVC Images/Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tainttrack-tracing-and-correcting-vids/"><u>TaintTrack: Tracing and Correcting Vids</u></a></li>
+</ul></div>
 

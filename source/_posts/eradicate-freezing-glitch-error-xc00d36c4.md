@@ -1,7 +1,7 @@
 ---
 title: Eradicate Freezing Glitch - Error XC00D36C4
-date: 2024-07-29T00:07:47.879Z
-updated: 2024-07-30T00:07:47.879Z
+date: 2024-10-06T09:05:59.125Z
+updated: 2024-10-12T12:06:50.231Z
 categories:
   - repair-tools
 description: This Article Describes Eradicate Freezing Glitch - Error XC00D36C4
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/1b197dac261b78f768deb74da8ea7cc5a8aab4e5f
 
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-625c9ec/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.574139bee03ec4bdb0cd6e869a4670da)  
  Written By [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on3 Jun, 2024
 * Min Reading 8  Min
@@ -45,9 +42,6 @@ Table of Content
 
  _Figure: Error 0xc00d36c4 message in Windows_
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **What is error 0xc00d36c4 in videos?**
 
  The message: _This file isn’t playable. That might be because the file type is unsupported, the file extension is incorrect, or the file is corrupt. 0xc00d36c4.’_ is a Windows error that can occur due to the following reasons:
@@ -65,6 +59,13 @@ Table of Content
 
  If none of these methods work and you still receive_‘this file isn’t playable 0xc00d36c4 error’_ , then the video file has turned corrupt and needs to be fixed with the help of video repair software.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **8 Methods to fix Video error 0xc00d36c4**
 
  1\. Play the video in another compatible media player like a VLC player  
@@ -76,9 +77,6 @@ Table of Content
  7\. Repair with a Stellar Repair for Video software  
  8\. Try AVI repair in VLC Media Player to fix error 0xc00d36c4
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 1: Play video in another media player**
 
  The error code 0xc00d36c4 mostly occurs due to unsupported file format or codec. Playing the problematic video in another media player often fixes this issue. The most preferred player in such cases is VLC Media Player. It is configured to play most of the video file formats.
@@ -101,18 +99,6 @@ Table of Content
 
 [Read More](http://www.microsoft.com/windows/windowsmedia/player/faq/codec.mspx)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 3: Convert the video file format**
 
  Converting the problematic video to another file format can play your video. Use a secure video file converter tool that’s free from malware. There are both online converters and desktop converters like [Stellar Converter for Audio Video](https://tools.techidaily.com/stellardata-recovery/buy-now/) and VLC Media Player.
@@ -135,6 +121,19 @@ Table of Content
 
 * Add profile or click **Edit Selected Profile** – the wrench icon to change or add particular profile settings.
 * Next, click**Start.** Your converted video file will be saved at the specified location.
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 4: Disable Copy Protection in Windows Media Player**
 
@@ -161,6 +160,13 @@ Table of Content
 
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 5: Remove and reinstall all USB controllers**
 
  ‘This file isn’t playable 0xc00d36c4 error’ can also be due to system conflict between the connected external media (SD card, USB pen drive, etc.) and your computer.
@@ -185,6 +191,19 @@ Table of Content
 
  Now, connect your USB device to a computer, and check if the video 0xc00d36c4 error is fixed.
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 6: Update the Display Adapter Driver**
 
  As the error code may occur due to hardware conflict, you can also try once updating the display drivers. This may fix the video error.
@@ -200,9 +219,6 @@ Table of Content
 
 Tip – If the current driver is up-to-date, just to be on the safer side, uninstall the driver first and then reinstall it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 7: Repair with a Stellar Repair for Video software**
 
  If the error code 0xc00d36c4 issue is not resolved with the above methods, your video is probably corrupt. The only way to fix is by using advanced video repair software such as [**Stellar Repair for Video**](https://tools.techidaily.com/stellardata-recovery/buy-now/) **.**
@@ -225,9 +241,6 @@ Tip – If the current driver is up-to-date, just to be on the safer side, unins
 
 **Step 3:** Preview the repaired videos and click**Save Repaired File.**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 8: Try AVI repair in VLC Media Player to fix error 0xc00d36c4**
 
  Free VLC Media Player has an AVI repair feature. Try the function to fix the video error 0xc00d36c4 in AVI files. If your video file is other than AVI, you can rename it to AVI and then fix it using the media player.
@@ -254,9 +267,6 @@ Now, check if the video error is resolved.
 | **Copy and Paste Hack you may try to fix code 0xc00d36c4**  Does the error code 0xc00d36c4 occur while trying to open the video saved on DVD/CD, USB drive, etc.?  Simply copy your video file from the external storage to the computer drive and then play. This hack has actually worked for many! |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## **To Sum Up**
 
  Error code 0xc00d36c4 while playing videos is either due to unsupported video format or codec or corruption in the video file. It could also occur because of computer conflict with USB devices. Troubleshooting the error should begin by installing the supporting codec or converting the video file format to another. If these methods do not help, reinstall or update the drivers using the above methods.
@@ -285,8 +295,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +302,21 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-essential-guidelines-for-implementing-music-emojis-in-instagram/"><u>[New] In 2024, Essential Guidelines for Implementing Music Emojis in Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-video-conferencing-zoom-and-xbox-playground/"><u>[New] Seamless Video Conferencing Zoom & Xbox Playground</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-new-era-of-racing-vr-bike-selection-guide/"><u>[Updated] 2024 Approved New Era of Racing VR Bike Selection Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits/"><u>[Updated] 2024 Approved Photography Tutorial_ How to Shoot and Create Impressive HDR Portraits</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-charting-the-undisclosed-territories-of-youtube-videos/"><u>2024 Approved Charting the Undisclosed Territories of YouTube Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-hot-30i-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Infinix Hot 30i Device</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mend-broken-pngg-tiffs-and-riffs/"><u>Mend Broken PNGG TIFFs and RIFFs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/navigating-the-labyrinth-of-data-loss-totan-banerjees-guide/"><u>Navigating the Labyrinth of Data Loss - Totan Banerjee's Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-top-5-virtual-reality-drones-for-2024/"><u>Prime Top 5 Virtual Reality Drones for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-s17-pro-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after S17 Pro has been deleted</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rectifying-illegitimate-video-codings/"><u>Rectifying Illegitimate Video Codings</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolve-network-latency-problems-when-watching-youtube/"><u>Resolve Network Latency Problems When Watching YouTube</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-guide-fixing-damaged-mp4mov-videos-with-vlc-media-player/"><u>Ultimate Guide: Fixing Damaged MP4/MOV Videos with VLC Media Player</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-video-rotation-made-easy-top-free-solutions-for-windows-mac-android-and-iphone/"><u>Updated 2024 Approved Video Rotation Made Easy Top Free Solutions for Windows, Mac, Android, and iPhone</u></a></li>
+</ul></div>
 

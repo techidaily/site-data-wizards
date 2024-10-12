@@ -1,7 +1,7 @@
 ---
 title: Clear Buffering Issues on VLC at Once
-date: 2024-07-29T00:10:18.145Z
-updated: 2024-07-30T00:10:18.145Z
+date: 2024-10-08T22:33:19.990Z
+updated: 2024-10-12T12:51:33.138Z
 categories:
   - repair-tools
 description: This Article Describes Clear Buffering Issues on VLC at Once
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 
 # How to Fix Video Stuck or Freeze in VLC
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-625c9ec/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
  Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
@@ -55,8 +52,12 @@ Table of Content
 **Also read:** [How to open HEIC, HEVC files on Windows 10](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 2: Increase cache values in VLC Player**
 
  VLC Player preloads video cache files in the computer’s RAM to properly access and plays the video. You can try to fix the video buffering issue by increasing the cache value. However, this would increase the number of seconds videos are cached to play in VLC Player.
@@ -78,8 +79,12 @@ _Figure: Input/Codecs pane in VLC_
 * Click**Save.** Next, restart VLC Player and check if the videos are playing properly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 3: Disable Hardware Decoding in VLC Player**
 
  VLC Media Player can use the GPU of a computer to accelerate video decoding in high-quality videos. However, your PC’s drivers may behave abruptly, resulting in video playback or streaming issues. You can try disabling hardware decoding to fix Video Stuck or Freeze in the VLC player.
@@ -97,9 +102,6 @@ _Figure: Input/Codecs pane in VLC_
 * Under**FFmpeg audio/video decoder** , scroll down to**Hardware decoding** and set it to**Disable** .
 * Click **Save** . Restart VLC Payer to enable the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 4: Change FFmpeg settings in VLC Player**
 
  Making changes in the FFmpeg video codec in VLC Player has worked for some. You can also try to resolve video stuttering and freezing with this technique.
@@ -146,9 +148,6 @@ _Figure: Video output modules in VLC_
 * Click on**Save** at the bottom**.**
 * Check if VLC Player can play your videos without freeze or interruption.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 6: Repair your video using Stellar Repair for Video**
 
  The video file may be corrupt if the above methods using VLC Media Player don’t fix video freeze, lag, or stuttering issues. To confirm corruption, see if your video freezes while playing in another media player.
@@ -172,8 +171,12 @@ _Figure: Video output modules in VLC_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Conclusion**
 
  Here we have recommended changing the settings of VLC Media Player to fix video freezing or lag using the below methods:
@@ -187,6 +190,13 @@ _Figure: Video output modules in VLC_
  If changing the VLC settings doesn’t work, your file may be corrupt. Repair it using an advanced video repair software — Stellar Repair for Video that fixes corrupt header, data, frames, slider movement, etc., in videos.
 
  I hope you found this helpful. Do share with our readers which method helped you fix Video Stuck or Freeze in the VLC player issue in the comment box below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -206,8 +216,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +223,17 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-what-everyone-should-learn-about-subscribing-to-youtube-tv/"><u>[Updated] What Everyone Should Learn About Subscribing to YouTube TV</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/android-media-troubleshooting-steps/"><u>Android Media Troubleshooting Steps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/charting-a-course-for-successful-digital-restoration-vishakhas-perspective/"><u>Charting a Course for Successful Digital Restoration: Vishakha's Perspective</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/easy-solution-to-fix-video-stuck-or-freezing-in-vlc-player-stellar/"><u>Easy Solution to Fix Video Stuck or Freezing in VLC Player - Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eliminate-video-glitches-error-xc00d36c4/"><u>Eliminate Video Glitches - Error XC00D36C4</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-a34-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy A34 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-phantom-v-fold-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Phantom V Fold Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-s18e-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo S18e to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-secrets-of-efficient-audio-recordings/"><u>Unveiling the Secrets of Efficient Audio Recordings</u></a></li>
+</ul></div>
 

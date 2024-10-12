@@ -1,7 +1,7 @@
 ---
 title: Optimizing Playback Seamlessness in VLC
-date: 2024-09-29T19:44:34.226Z
-updated: 2024-10-06T17:29:24.011Z
+date: 2024-10-06T02:58:43.706Z
+updated: 2024-10-12T14:20:25.350Z
 categories:
   - repair-tools
 description: This Article Describes Optimizing Playback Seamlessness in VLC
@@ -46,13 +46,6 @@ Table of Content
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
 _Figure: Audio delay message in VLC_
@@ -80,13 +73,6 @@ _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
  Often, users ask if every time they play a video in VLC, they have to manually adjust Audio track synchronization to get the audio in sync with the video. So, is it possible for this setting to be saved permanently?
@@ -108,6 +94,13 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 
  The video or movie should now play without any audio sync issue in the VLC Player.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -126,13 +119,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -146,16 +132,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **How to fix audio sync issue with repair software**
@@ -172,6 +152,13 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
  It’s annoying when your favourite VLC Player suddenly starts playing videos out of sync. But the best thing about VLC is that it can fix its glitches. You can use various features in VLC to fix video-audio sync problems.
@@ -187,6 +174,13 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -215,22 +209,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-master-essential-zoom-techniques-for-iphone-users/"><u>[New] Master Essential Zoom Techniques for iPhone Users</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-dissecting-mr-beasts-fortune-portfolio-for-2024/"><u>[Updated] Dissecting Mr. Beast's Fortune Portfolio for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flip-the-script-ios-method-to-reverse-vids/"><u>2024 Approved Flip the Script IOS Method to Reverse Vids</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-strategic-use-of-instagrams-music-emojis-on-posts/"><u>2024 Approved Strategic Use of Instagram’s Music Emojis on Posts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-race-for-screen-capture-excellence-whos-leading-obs-or-fraps/"><u>2024 Approved The Race for Screen Capture Excellence Who's Leading? – OBS or Fraps</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/advanced-technology-fails-steps-for-success/"><u>Advanced Technology Fails: Steps for Success?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhancing-quality-of-cctv-recordings/"><u>Enhancing Quality of CCTV Recordings</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/getting-acquainted-with-stellar-12-mac-interface/"><u>Getting Acquainted with Stellar 12 Mac Interface</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a54-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy A54 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/image-influx-the-jpeg-salvage-specialist/"><u>Image Influx: The JPEG Salvage Specialist</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/league-of-legends-speech-problems-heres-how-you-can-solve-them/"><u>League of Legends Speech Problems? Here's How You Can Solve Them</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-graphics-fixes-in-anno-1800-tackling-the-notorious-directx-glitches/"><u>Mastering Graphics Fixes in Anno 1800 - Tackling the Notorious DirectX Glitches</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reconstructing-ripped-realities-using-backups/"><u>Reconstructing Ripped Realities: Using Backups</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-data-retrieval-a-mac-interface-primer/"><u>Stellar Data Retrieval: A Mac Interface Primer</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-launches-worlds-first-photo-recovery-and-repair-software/"><u>Stellar Launches World's First Photo Recovery & Repair Software</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unlocking-the-past-stellar-recovery-turns-thousands-of-lost-photos-into-gold/"><u>Unlocking the Past: Stellar Recovery Turns Thousands of Lost Photos Into Gold</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/when-worlds-collapse-premium-zombie-video-game-guide/"><u>When Worlds Collapse Premium Zombie Video Game Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-decoding-the-capabilities-of-samsung-photo-studio/"><u>[New] 2024 Approved Decoding the Capabilities of Samsung Photo Studio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterpiece-makers-discovering-these-6-unmatched-nft-tools/"><u>[New] Masterpiece Makers Discovering These 6 Unmatched NFT Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-honor-magic-v2-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor Magic V2 FRP Bypass Instantly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/barricade-website-from-robotic-data-collectors/"><u>Barricade Website From Robotic Data Collectors</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-mpeg-video-repair-guide-how-to-salvage-damaged-movie-files-easily/"><u>Expert MPEG Video Repair Guide - How to Salvage Damaged Movie Files Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725289925749-fps/"><u>FPS（フレームレート）が画像品質に及ぼす影響：概要と最適設定手法</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-15-plus-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-yearly-viewer-ranking-twitters-hottest-topics/"><u>In 2024, Yearly Viewer Ranking Twitters' Hottest Topics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reclaiming-vanished-iphone-note-content-with-simple-tricks/"><u>Reclaiming Vanished iPhone Note Content with Simple Tricks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-pristine-video-conditions-after-corruption/"><u>Restoring Pristine Video Conditions After Corruption</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-elevates-mac-12v-a-leap-forward-for-data-recovery-users/"><u>Stellar Elevates Mac 12V: A Leap Forward for Data Recovery Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720670554986-stellar-releases-mac-data-recovery-12v-with-enhanced-ui/"><u>Stellar® Releases Mac Data Recovery 12v with Enhanced UI</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-complete-remedy-for-broken-h265-formats/"><u>The Complete Remedy for Broken H.265 Formats</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/totans-odyssey-in-data-salvation-navigating-through-stellar-realms/"><u>Totan's Odyssey in Data Salvation - Navigating Through Stellar Realms</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/undo-damaged-matroska-and-quicktime-clips/"><u>Undo Damaged Matroska & QuickTime Clips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/zero-complaints-witness-the-magnificence-of-a-245-satisfaction-level/"><u>Zero Complaints: Witness the Magnificence of a 245 Satisfaction Level</u></a></li>
 </ul></div>
 
