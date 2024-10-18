@@ -1,7 +1,7 @@
 ---
 title: Solving H.264 Compression Issues
-date: 2024-08-08T00:22:25.494Z
-updated: 2024-08-09T00:22:25.494Z
+date: 2024-10-16T00:26:17.962Z
+updated: 2024-10-18T02:38:00.371Z
 categories:
   - repair-tools
 description: This Article Describes Solving H.264 Compression Issues
@@ -16,22 +16,12 @@ thumbnail: https://thmb.techidaily.com/b3d61cb315de3688d633dcaa1de969d34c57d2ef4
 
 # How to repair H.264 MOV files
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 * ![Written By](https://secure.gravatar.com/avatar/574139bee03ec4bdb0cd6e869a4670da?s=50&d=mm&r=g)  
  Written By [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 * ![Date](https://www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on26 Apr, 2024
 * ![Time](https://www.stellarinfo.com/public/frontEnd/images/author/clock.jpg)  
  Min Reading 5  Min
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 * Share ![Share](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/share.png)
 
 ---
@@ -47,18 +37,12 @@ Table of Content
 
 [Free Download Windows  Free Download100% secure](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/windows.svg)  Free Download100% secure ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Free Download Mac  Free Download100% secure](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/mac-os.svg)  Free Download100% secure ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Why your H.264 MOV files turn corrupt?**
 
  H.264 is a popular video compression format used by DSLRs, digital cameras, drones and many surveillance cameras. These high-quality video files stored in computer, SD card, pen drive, external hard drive etc., may get corrupt due to various reasons like virus infection, corruption in the storage drive, interruption while downloading/ transfer etc.
 
  The corrupt video often shows errors, stops after playing for some time, throws black screen, loses sound, flickers, gets choppy, broken, or may not play at all.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **How to repair corrupt H.264 MOV videos**
 
  A video repair tool is the only solution to repair corruption in H.264 video files. An efficient repair software can fix choppy, jerky, grainy, broken, and truncated videos.
@@ -67,11 +51,22 @@ Table of Content
 
  The H.264 video issues may also arise due to incompatible codecs, unsupported media player or outdated PC drivers. To rule out these factors, begin with few workarounds that may play your H.264 MOV files smoothly again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Workarounds to play your H.264 MOV files**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **1\. Play the video in another media player**
 
  If H.264 MOV video is not playing properly in one player, try another supporting one like VLC Media Player, 5KPlayer, PotPlayer, QuickTime etc.
@@ -82,9 +77,6 @@ Table of Content
 
  To get MOV supporting codec in Windows Media Player, go to**Tools >** **Options** \> **Player.** Check in**Download codecs automatically** and click **OK** . Now, try to play the file. If you are prompted to install the codec, click **Install** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **3\. Convert the video file to another format**
 
  Apart from online video converter tools, VLC Player can also convert H.264 videos to MP4 or AVI etc.
@@ -94,6 +86,13 @@ Table of Content
 * Open VLC and click **Media >** **Convert/Save**
 
 ![Steps to convert H.264 MOV videos to MP4 in VLC Media Player](https://www.stellarinfo.com/blog/wp-content/uploads/2019/05/1-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * In the Open Media window, click on **Add** to select the MOV videos you want to convert
 
@@ -112,9 +111,6 @@ Table of Content
 
  By reducing the screen resolution, you can understand whether it’s a faulty graphics driver or there is a problem with the video itself.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### **6\. Turn Off hardware acceleration**
 
  Sometimes the problems could be due to hardware acceleration. When enabled, hardware acceleration passes graphical intensive tasks within the browser to make it perform better.
@@ -148,6 +144,13 @@ To disable hardware acceleration in Google Chrome, follow these steps:
 * Go to**Damaged or incomplete AVI file**
 
 ![Click on Input & Codecs](https://www.stellarinfo.com/blog/wp-content/uploads/2019/05/4-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Select**Always fix** in the dropdown
 * Click**Save**
@@ -186,18 +189,19 @@ To disable hardware acceleration in Google Chrome, follow these steps:
 
 **Step 3:** List of video files that you added and need repair appears on the next screen. Click**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Preview added video files that need to repair](https://www.stellarinfo.com/screenshots/video-repair/win/2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Software displays the list of added videos
 
 The repair process begins.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Progress repairing process](https://www.stellarinfo.com/screenshots/video-repair/win/3.jpg)
 
  Progress bar indicating the repairing process
@@ -208,9 +212,6 @@ The repair process begins.
 
  Preview and save the repaired grainy videos
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### **Wrapping Up**
 
  Although, VLC Player repairs corrupt H.264 MOV files but it is not sufficiently equipped to fix all types of video corruption.
@@ -228,24 +229,35 @@ The repair process begins.
 For queries, reach us by giving comments in the box below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
 
 About The Author
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://secure.gravatar.com/avatar/574139bee03ec4bdb0cd6e869a4670da?s=85&d=mm&r=g)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
@@ -257,8 +269,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -266,6 +276,20 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dispatching-dreadful-green-screen-distortion-on-mac-editing-sessions/"><u>[New] In 2024, Dispatching Dreadful Green Screen Distortion on Mac-Editing Sessions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-elevate-your-farm-the-top-7-stardew-modifications/"><u>[New] In 2024, Elevate Your Farm The Top 7 Stardew Modifications</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-sparkle-sounds-standout-background-scores-for-yt-shorts/"><u>[Updated] Sparkle Sounds Standout Background Scores For YT Shorts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/audience-filmed-endorsements-for-mac-users/"><u>Audience-Filmed Endorsements for Mac Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cosmic-databases-reviving-your-sql/"><u>Cosmic Databases: Reviving Your SQL</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/decode-corrupted-vids-recovery-tips-for-mac-and-windows-users/"><u>Decode Corrupted Vids: Recovery Tips for Mac & Windows Users</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/gratuite-convertisseur-de-fichiers-mp4-en-avi-sur-internet-avec-movavi/"><u>Gratuité: Convertisseur De Fichiers MP4 en AVI Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/grau-gmbh-hardware-and-software-the-ultimate-toolkit-for-professional-quality-video-repairs/"><u>Grau GmbH Hardware & Software: The Ultimate Toolkit for Professional-Quality Video Repairs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harness-the-potential-of-gratuitous-timer-tools/"><u>Harness the Potential of Gratuitous Timer Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/improving-audiovideo-sync-with-apple-media/"><u>Improving Audio/Video Sync with Apple Media</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-fixed-obs-audio-capture-issue/"><u>In 2024, Fixed OBS Audio Capture Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-your-music-stream-keeping-spotify-running-smoothly-when-you-lock-iphone/"><u>Stop Your Music Stream: Keeping Spotify Running Smoothly When You Lock iPhone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720669939084-video-customer-testimonial-recovered-thousands-of-photos-from-memory-card-with-stellar-photo-recovery/"><u>Video - Customer Testimonial: Recovered Thousands of Photos From Memory Card with Stellar Photo Recovery.</u></a></li>
+</ul></div>
 

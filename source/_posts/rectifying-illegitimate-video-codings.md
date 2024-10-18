@@ -1,7 +1,7 @@
 ---
 title: Rectifying Illegitimate Video Codings
-date: 2024-10-07T01:10:47.450Z
-updated: 2024-10-11T18:30:23.528Z
+date: 2024-10-16T07:14:57.909Z
+updated: 2024-10-18T03:31:31.467Z
 categories:
   - repair-tools
 description: This Article Describes Rectifying Illegitimate Video Codings
@@ -59,6 +59,19 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -66,6 +79,13 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -85,13 +105,6 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -104,19 +117,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -126,6 +126,13 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -137,13 +144,6 @@ _Figure: Check for Updates in VLC_
 _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
 
@@ -173,6 +173,13 @@ _Figure: Video profile options in VLC Player_
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
@@ -211,13 +218,6 @@ _Figure: Preview video after repair_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Was this article helpful?
 
 YES 0
@@ -245,20 +245,17 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-step-by-step-procedures-swapping-out-your-facebook-backdrop/"><u>[New] In 2024, Step-by-Step Procedures Swapping Out Your Facebook Backdrop</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-flawless-inshot-edit-transitions/"><u>2024 Approved The Art of Flawless Inshot Edit Transitions</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/addressing-instagram-reel-oversight/"><u>Addressing: Instagram Reel Oversight</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/comet-crashbook-recovery-steps/"><u>Comet Crashbook Recovery Steps</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/crisis-averted-handling-macos-kernel-panic/"><u>Crisis Averted: Handling MacOS Kernel Panic</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/diagnosing-vram-failures/"><u>Diagnosing VRAM Failures</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/easy-tips-to-prevent-video-corruption/"><u>Easy Tips to Prevent Video Corruption</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/eliminate-video-issues-fast-fix-the-top-20-problems/"><u>Eliminate Video Issues Fast: Fix the Top 20 Problems</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-tips-for-live-exchange-migration-of-recovered-edb-files-educational-video-series/"><u>Expert Tips for Live Exchange Migration of Recovered EDB Files - Educational Video Series</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-an-impartial-appraisal-the-power-of-recordcast/"><u>In 2024, An Impartial Appraisal The Power of RecordCast</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/is-it-necessary-to-revise-your-bios-settings-for-windows-11-compatibility/"><u>Is It Necessary to Revise Your BIOS Settings for Windows 11 Compatibility?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/asters-ideal-dj-videos-to-download-for-2024/"><u>Mix Masters Ideal DJ Videos to Download for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/uav-technology-unveiled-the-yuneec-4k-journey/"><u>UAV Technology Unveiled The Yuneec 4K Journey</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-echoing-quietness-a-guide-to-purifying-your-podcasts-from-high-frequency-humming/"><u>Updated In 2024, Echoing Quietness A Guide to Purifying Your Podcasts From High-Frequency Humming</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-embark-on-an-odyssey-constructing-photo-collage-masterpieces/"><u>[New] 2024 Approved Embark on an Odyssey Constructing Photo Collage Masterpieces</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-capturing-impactful-voice-top-tips-for-podcasting-interviews-on-idevices/"><u>[Updated] Capturing Impactful Voice Top Tips for Podcasting Interviews on iDevices</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-8-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/intuitive-data-protection-stellar-updates-recovery-software/"><u>Intuitive Data Protection: Stellar Updates Recovery Software</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/mastering-the-art-of-simplified-live-streaming-for-2024/"><u>Mastering the Art of Simplified LIVE Streaming for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mvp-stellar-repair-mssql-demystified/"><u>MVP Stellar Repair: MSSQL Demystified</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revamping-virtual-communication-top-strategies-for-zoom-format-conversion/"><u>Revamping Virtual Communication Top Strategies for Zoom Format Conversion</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-memories-one-image-at-a-time-with-stellar/"><u>Reviving Memories, One Image at a Time with Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-the-secret-behind-symbol-in-folders/"><u>Unlocking the Secret Behind '?' Symbol in Folders</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unresolved-advanced-tech-repair-moving-forward/"><u>Unresolved Advanced Tech Repair: Moving Forward?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208775208-usb-composite-device-cant-work-properly-with-usb-30-solved/"><u>USB Composite Device Can't Work Properly with USB 3.0 [SOLVED]</u></a></li>
 </ul></div>
 

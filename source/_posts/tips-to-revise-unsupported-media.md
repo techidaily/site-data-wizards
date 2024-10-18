@@ -1,7 +1,7 @@
 ---
 title: Tips to Revise Unsupported Media
-date: 2024-10-05T20:40:23.996Z
-updated: 2024-10-12T03:35:25.409Z
+date: 2024-10-16T13:40:48.475Z
+updated: 2024-10-18T08:54:18.543Z
 categories:
   - repair-tools
 description: This Article Describes Tips to Revise Unsupported Media
@@ -59,13 +59,6 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -75,10 +68,10 @@ _An error occurred. Unsupported file format.’_
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
@@ -112,10 +105,10 @@ _Figure: Mac suggests installed apps to open video_
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Steps to fix video codec not supported in Windows Media Player:**
@@ -128,13 +121,6 @@ _Figure: Mac suggests installed apps to open video_
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -145,6 +131,13 @@ _Figure: Check for Updates in VLC_
 _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
 
@@ -178,6 +171,13 @@ _Figure: Video profile options in VLC Player_
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -239,18 +239,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-maximizing-twitter-budget-efficiency-in-ad-spends/"><u>[Updated] 2024 Approved Maximizing Twitter Budget Efficiency in Ad Spends</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-boost-your-igtv-views-top-5-tactics-for-increased-engagement/"><u>2024 Approved Boost Your IGTV Views Top 5 Tactics for Increased Engagement</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/astral-archive-top-performers-and-enthusi-written-by-user/"><u>Astral Archive: Top Performers & Enthusi Written by User</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/audiovisual-rhythm-optimal-dj-content-for-gatherings-for-2024/"><u>Audiovisual Rhythm Optimal DJ Content for Gatherings for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/banish-frame-drop-on-error-xc00d36c4/"><u>Banish Frame Drop on Error XC00D36C4</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-script-artisans-domain/"><u>Best Script Artisan's Domain</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/celestial-backup-and-retrieval-portal/"><u>Celestial Backup & Retrieval Portal</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/eliminating-video-lags-on-vlc/"><u>Eliminating Video Lags on VLC</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-picks-the-best-10-software-solutions-to-repair-your-videos-on-any-device/"><u>Expert Picks: The Best 10 Software Solutions to Repair Your Videos on Any Device</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-online-marketing-success/"><u>Harnessing the Power of Cookiebot for Enhanced Online Marketing Success</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-6-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 6 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-fade-out-techniques-in-audacity/"><u>In 2024, Perfecting Fade-Out Techniques in Audacity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fundamentals-of-copywriting-for-engaging-fb-campaigns/"><u>[Updated] Fundamentals of Copywriting for Engaging FB Campaigns</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nokia-105-classic-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nokia 105 Classic Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/continuous-streams-perfect-loops-of-youtube-videos-for-tvs/"><u>Continuous Streams Perfect Loops of YouTube Videos for TVs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-tips-to-overcome-driver-conflicts-for-the-ralink-rt3290-in-windows-1087-systems/"><u>Expert Tips to Overcome Driver Conflicts for the Ralink RT3290 in Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-boundaries-adequate-ban-of-trump-with-time-limit/"><u>Facebook's Boundaries: Adequate Ban of Trump with Time Limit</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-poco-c65-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Poco C65 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macbook-mysteries-solved-4-tactics-for-question-marks/"><u>Macbook Mysteries Solved: 4 Tactics for Question Marks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/milky-way-mastery-prime-productions-plus-starry-stories/"><u>Milky Way Mastery: Prime Productions + Starry Stories</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimizing-the-process-of-transforming-colossal-excel-databases-edb-into-pst-files-efficiently-with-minimal-data-loss-and-integrity/"><u>Optimizing the Process of Transforming Colossal Excel Databases (EDB) Into PST Files Efficiently with Minimal Data Loss and Integrity</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/organizing-your-macs-storage-step-by-step-tutorial/"><u>Organizing Your Mac's Storage: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reconstructing-faulty-avchd-files/"><u>Reconstructing Faulty AVCHD Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-itunes-video-stream-issues/"><u>Repairing iTunes Video Stream Issues</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-mov-glitches-on-apple-devices/"><u>Resolving MOV Glitches on Apple Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/social-synergy-optimizing-your-facebook-linkedin-and-youtube-strategy/"><u>Social Synergy: Optimizing Your Facebook, LinkedIn, and YouTube Strategy</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/ssd-data-recovery-provenle-strategieen-om-voorkomende-deegels-van-je-zelf-terug-te-trekken-in-vuur-soepel/"><u>SSD Data Recovery: Provenle Strategieën Om Voorkomende Deegels Van Je Zelf Terug Te Trekken In Vuur Soepel</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-finding-and-installing-the-newest-drivers-for-your-epson-et-3760-on-windows-systems/"><u>Ultimate Guide: Finding and Installing the Newest Drivers for Your Epson ET-3760 on Windows Systems</u></a></li>
 </ul></div>
 

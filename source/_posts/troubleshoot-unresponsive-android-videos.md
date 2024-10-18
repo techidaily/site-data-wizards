@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Unresponsive Android Videos
-date: 2024-08-08T00:22:21.545Z
-updated: 2024-08-09T00:22:21.545Z
+date: 2024-10-12T11:03:59.334Z
+updated: 2024-10-18T10:36:00.783Z
 categories:
   - repair-tools
 description: This Article Describes Troubleshoot Unresponsive Android Videos
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 
 # How to Fix Videos Not Playing on Android Phone
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.1e1df7d66b301003bec30db63ac73954)  
  Written By [Sumona Chatterjee](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/sumona-chatterjee-38984450/)
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
@@ -52,13 +48,23 @@ Table of Content
 
  Try the below methods to play videos on your Android phone. You can apply these methods to fix the ‘videos not playing’ issue in any Android phone,**such as Samsung, Oneplus, Xiaomi, Motorola, HTC, etc.**
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Restart/Reboot your device**
 
  Restarting your smartphone is the most simple troubleshooting way which may help to play your videos. First, close all the applications on your mobile. Restart/Reboot the phone. Next, go to Gallery and check if your videos are playing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **2\. Clear cache on your Android phone**
 
  Cached data is required to reduce loading time but clearing the cache is also essential for troubleshooting to address several issues that may arise due to corrupted cache data.
@@ -72,15 +78,16 @@ Now, go back to the Gallery to play the videos.
  Trojans are a menace for your Android phones too. If you have downloaded any app or software from an**untrusted** source, remove it. There are chances that it disrupts your mobile Device’s smooth functioning, including not letting you play your mobile videos or making your videos corrupt.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **4\. Install VLC player/MX Player on Android phone**
 
  It might be possible that the media player on your Android phone does not support the video codec you are trying to play. Install a**compatible** video player like a VLC player, BS Player, or MX Player from the Google Play store.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **5\. Update your Android OS**
 
  Update your Android OS to fix the videos not playing problem. Before updating the Android OS, it is always recommended to back up your mobile data like contacts, photos, videos, etc.
@@ -99,13 +106,17 @@ Now, go back to the Gallery to play the videos.
 
  Once the installation completes, your mobile phone automatically reboots.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **6\. Uninstall Dubious Software**
 
  It may sometimes happen that you may not be able to play video on your Android device since you have installed some unsecured app from somewhere else besides the official app store. Such an unsecured app can block the video playback on your Android device; It is always advised to uninstall it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **7\. Get Stellar Repair for Video**
 
  If you can play some video files on your Android phone, the problem is not with the Device or media player. Instead, your video files may have gone corrupt.
@@ -136,9 +147,6 @@ Now, go back to the Gallery to play the videos.
 
  You may also refer to [How to Fix ‘No sound on Android video’ Error](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **8\. Reset your app preferences**
 
  Resetting your app preferences lets you choose which video player you want to use for playing videos.
@@ -166,14 +174,6 @@ Now try to play your videos on the Android phone.
 * Uninstall recently downloaded apps
 * Update your Android OS
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## **To Sum up**
 
  Mostly, the’ video not playing’ on Android issue is resolved by clearing the cache or restarting your smartphone. However, if the mobile video file is corrupt, it is recommended to use Stellar Repair for Video. This software is an efficient video repair utility that fixes all sorts of corruption. In addition, you can repair multiple corrupt videos simultaneously, saving a lot of your time.
@@ -185,6 +185,13 @@ Now try to play your videos on the Android phone.
 **[How to fix Video Playback Errors and Issues?](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
 **[Solved: iPhone Videos not playing on Windows](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -204,8 +211,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,6 +218,19 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-the-no-1-top-12-tycoon-games-a-gamers-quest-to-conquer-commerce/"><u>[Updated] The No. 1 Top 12 Tycoon Games - A Gamer's Quest to Conquer Commerce</u></a></li>
+<li><a href="https://win-unique.techidaily.com/comment-synchroniser-efficacement-des-fichiers-et-des-dossiers-locaux-avec-le-cloud/"><u>Comment Synchroniser Efficacement Des Fichiers Et Des Dossiers Locaux Avec Le Cloud</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/dvd-decrypter-overcome-writing-interruption-errors-and-solve-the-unable-to-burn-issue/"><u>DVD Decrypter: Overcome Writing Interruption Errors & Solve the Unable to Burn Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0xc00jnz1-comprehensive-solutions-to-correct-this-windows-glitch/"><u>Error 0xC00jnz1: Comprehensive Solutions to Correct This Windows Glitch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-change-mkv-files-into-m4v-format-with-ease/"><u>Free Online Conversion: Change MKV Files Into M4V Format with Ease</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-repair-cctv-camera-video-footage/"><u>How to Repair CCTV Camera Video Footage</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-8-plus-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 8 Plus? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reclaim-space-fix-error-36-in-macos-trash/"><u>Reclaim Space: Fix Error 36 in macOS Trash</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reclaimcontent-repairing-video-files/"><u>ReclaimContent: Repairing Video Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/salvaging-previously-inaccessible-movies/"><u>Salvaging Previously Inaccessible Movies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-converting-high-definition-4k-videos-downscaled-to-1080p-resolution/"><u>Step-by-Step Guide: Converting High-Definition 4K Videos Downscaled to 1080P Resolution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-im-choosing-apples-new-mini-iphone-16-pro-over-the-max-model-exclusive-insights-and-reasons/"><u>Why I'm Choosing Apple's New Mini-iPhone 16 Pro Over the Max Model : Exclusive Insights and Reasons</u></a></li>
+</ul></div>
 

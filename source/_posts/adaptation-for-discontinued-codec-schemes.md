@@ -1,7 +1,7 @@
 ---
 title: Adaptation for Discontinued Codec Schemes
-date: 2024-08-08T00:23:45.737Z
-updated: 2024-08-09T00:23:45.737Z
+date: 2024-10-10T20:18:20.710Z
+updated: 2024-10-17T19:29:49.505Z
 categories:
   - repair-tools
 description: This Article Describes Adaptation for Discontinued Codec Schemes
@@ -16,14 +16,8 @@ thumbnail: https://thmb.techidaily.com/8f0f7ad73a0fa3da9b0369f5be30ef87f2772c066
 
 # How do I Fix an Unsupported Video Codec?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.e5852926d79de076a92e11afdcfd065c)  
  Written By [Nishat Paiker](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/nishat-paiker-81a31313/)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
  Updated on12 Jun, 2024
 * Min Reading 6  Min
@@ -55,9 +49,6 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -77,8 +68,12 @@ _An error occurred. Unsupported file format.’_
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -120,14 +115,18 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -149,9 +148,6 @@ _Figure: VLC message when new version is available._
 
  The open source VLC Media Player can also convert video files to different format.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -168,8 +164,12 @@ _Figure: Video profile options in VLC Player_
 * Once done, click **Start** to convert the video file.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
@@ -179,8 +179,12 @@ _Figure: Video profile options in VLC Player_
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
  When converting or getting the compatible codecs don’t solve the problem, chances are your video file is giving error due to corruption.
@@ -232,8 +236,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,6 +243,26 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-chromebooks-finest-free-video-capturers/"><u>[New] Chromebooks' Finest Free Video Capturers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-obs-streamers-toolkit-for-captivating-sessions/"><u>[Updated] 2024 Approved OBS Streamer’s Toolkit for Captivating Sessions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-stabilize-your-lens-no-trips-only-tricks/"><u>[Updated] 2024 Approved Stabilize Your Lens No Trips, Only Tricks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-rapid-transition-from-srt-to-subc-with-simple-steps-for-2024/"><u>[Updated] Rapid Transition From SRT to SUBC with Simple Steps for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/a-step-bystep-approach-for-transforming-hefty-excel-datasets-edb-to-pst-without-data-degradation-or-downtime/"><u>A Step-Bystep Approach for Transforming Hefty Excel Datasets (EDB) to PST without Data Degradation or Downtime</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-at-wwdc-2022-a-new-era-of-authentication-begins-tech-news/"><u>Apple Unveils Revolutionary Passkey at WWDC 2022 - A New Era of Authentication Begins | Tech News</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/astronomical-archive-salvage-site/"><u>Astronomical Archive Salvage Site</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-tecno-pop-7-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Pop 7 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/critical-communication-restored-exchange-analysis/"><u>Critical Communication Restored: Exchange Analysis</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/excellent-image-reconstructor-program/"><u>Excellent Image Reconstructor Program</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-film-fractures-on-mac-unveil-the-power-of-stellar-phoenix/"><u>Fix Film Fractures on Mac - Unveil the Power of Stellar Phoenix</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-g310-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia G310 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/learn-nft-creation-with-minimal-fuss-for-2024/"><u>Learn NFT Creation with Minimal Fuss for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-the-art-of-fixing-damaged-m4v-playback-problems/"><u>Master the Art of Fixing Damaged M4V Playback Problems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-and-refresh-jpeg-files-effortlessly/"><u>Revive and Refresh JPEG Files Effortlessly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tackling-windows-blue-screen-with-expertise/"><u>Tackling Windows Blue Screen with Expertise</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-list-of-10-video-restoration-apps-for-windows-and-macos/"><u>Ultimate List of 10 Video Restoration Apps for Windows & macOS</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-is-this-a-pigeon-meme-generator/"><u>Updated In 2024, Is This a Pigeon Meme Generator</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-7-best-video-merging-tools-with-no-watermark-limitations/"><u>Updated The 7 Best Video Merging Tools with No Watermark Limitations</u></a></li>
+</ul></div>
 

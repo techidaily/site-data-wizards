@@ -1,7 +1,7 @@
 ---
 title: Fixing Black Screen for Playing Apple Movies
-date: 2024-08-08T00:22:33.053Z
-updated: 2024-08-09T00:22:33.053Z
+date: 2024-10-13T09:21:35.785Z
+updated: 2024-10-18T12:48:34.895Z
 categories:
   - repair-tools
 description: This Article Describes Fixing Black Screen for Playing Apple Movies
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 
 # Apple Videos not Playing \[Solved\]
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-636f8fd/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.c9bb62a8b6933fa154b7ace0a9e6f6f9)  
  Written By [Vishakha Singh](https://tools.techidaily.com/stellardata-recovery/buy-now/) [linkdin](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/linkdin.jpg) ](https://www.linkedin.com/in/vishakha-singh-717931aa)
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-636f8fd/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
@@ -40,9 +37,6 @@ Table of Content
 
  Fortunately, you can fix the**‘Apple videos not playing’** issue with the methods mentioned in this blog.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## **Why Apple Videos are not playing – Possible reasons**
 
  There can be many reasons for Apple videos not playing on your smartphone or Windows/Mac. Some common causes are:
@@ -62,13 +56,30 @@ Table of Content
  Below are a few workarounds you can try to fix: ‘Apple videos not playing’ on iPhone, Android device, Windows, or Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Restart your Device & Media Player**
 
  If your Apple video is not playing on iPhone/Android or Mac/Windows, close all applications and restart your device.
 
  You can even try to close the media player and then launch it again to see if the video is working. If this doesn’t work, move to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Use another Media Player**
 
@@ -80,9 +91,6 @@ Table of Content
 
  An outdated media player might be the reason why your Apple videos are not playing on Windows/Mac. Update the existing media player on your system to fix this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Download the required codecs**
 
  If a necessary codec is missing or incompatible with your media player, your video may not play on your Windows or Mac.
@@ -90,13 +98,24 @@ Table of Content
  So, download the missing codec pack from its authorized website and check if your Apple video plays.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Close all other applications**
 
  If multiple apps are running in the background, they eat up your phone’s CPU, slowing down the processor and draining the phone’s battery fast.
 
  So, you must close all open applications after using them. Moreover, avoid opening multiple applications at a time. Play your Apple videos after closing all the background applications on your iPhone or Android device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Clear Cache Files**
 
@@ -115,9 +134,6 @@ Table of Content
 
  To fix Apple videos not playing on Android or iPhone, turn off the power saving mode in the**Battery** option of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Convert Video File Format**
 
  Often, changing the file extension of the video can help fix the Apple videos not playing error on Mac/Windows or iPhone/Android. You can use VLC Media Player or any other online converter tool, such as CloudConvert, Zamzar, Veed.io, etc., to convert the file extension of your video file.
@@ -151,27 +167,12 @@ To see how the software works, download the free version from here.
 
 Now, check whether your Apple video is playing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Conclusion**
 
  Try the above methods to fix the ‘Apple videos not running on Mac/ Windows or iPhone/Android devices. Play videos in different media players, download the codec, or change the file format to see if your videos are playable.
 
  However, if your Apple video is still not playing, it may be corrupt. Use a professional video repair tool, such as Stellar Repair for Video to fix the corruption issue. This tool can fix corruption in video frames, headers, or indexes caused by incomplete transfer, sudden system shutdown, etc.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **FAQ**
 
 #### **1\. ‘I cannot play the Dash Cam video on the computer.’ Why?**
@@ -185,6 +186,13 @@ Now, check whether your Apple video is playing.
 #### **3\. How do I know my video file is corrupt?**
 
  Your video file is corrupt if it shows playback errors or won’t open. Often, your video may have no sound, be out-of-sync, choppy, jerky, or truncated. Use professional video repair software to make your corrupted video files playable again in such a situation.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -204,8 +212,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,6 +219,22 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-investment-requirements-for-video-promotion/"><u>[New] 2024 Approved Investment Requirements for Video Promotion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-securing-a-spot-in-the-future-with-windows-11/"><u>[Updated] Securing a Spot in the Future with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-dealing-with-a-malfunctioning-mic-on-your-arctis-7-by-steelseries/"><u>Effective Solutions for Dealing with a Malfunctioning Mic on Your Arctis 7 by SteelSeries</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/error-36-remedy-for-mac-trash-failure/"><u>Error 36 Remedy for Mac Trash Failure</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exploring-the-updated-windows-11-interface/"><u>Exploring the Updated Windows 11 Interface</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-obscurity-to-clarity-stellar-recovery-insights-by-totan/"><u>From Obscurity to Clarity: Stellar Recovery Insights by Totan</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-a-step-by-step-tutorial-for-capturing-excellent-igtv-footage/"><u>In 2024, A Step-by-Step Tutorial for Capturing Excellent IGTV Footage</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macs-comeback-heroes-unveiling-8-data-recovery-applications/"><u>Mac's Comeback Heroes: Unveiling 8 Data Recovery Applications</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/actics-to-increase-youtube-traffic-and-views-for-2024/"><u>SEO Tactics to Increase YouTube Traffic and Views for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-process-for-acquiring-moviemaker-6-on-pcs-for-2024/"><u>Step-by-Step Process for Acquiring Moviemaker 6 on PCs for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/steps-to-resume-video-playback/"><u>Steps to Resume Video Playback</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamlining-exclusive-video-content/"><u>Streamlining Exclusive Video Content</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/swiftly-sync-av-with-vlc-media-player/"><u>Swiftly Sync AV with VLC Media Player</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-ultimate-list-of-free-animation-software-for-windows-and-macos/"><u>Updated In 2024, The Ultimate List of Free Animation Software for Windows and macOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-horizons-top-picks-for-vr-enthusiasts/"><u>Virtual Horizons Top Picks for VR Enthusiasts</u></a></li>
+</ul></div>
 

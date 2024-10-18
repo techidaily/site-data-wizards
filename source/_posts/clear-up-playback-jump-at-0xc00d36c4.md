@@ -1,7 +1,7 @@
 ---
 title: Clear Up Playback Jump at 0XC00D36C4
-date: 2024-07-29T00:04:10.268Z
-updated: 2024-07-30T00:04:10.268Z
+date: 2024-10-17T13:08:58.923Z
+updated: 2024-10-18T02:44:06.812Z
 categories:
   - repair-tools
 description: This Article Describes Clear Up Playback Jump at 0XC00D36C4
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/1925602951b4d52698ec670857ef818988d6fc983
 
 # Fix Error Code 0xc00d36c4 While Playing Videos
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 * ![Written By](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/desktop/optimized/rev-625c9ec/secure.gravatar.com/avatar/51230a434c190250f4ff6504ca157fb6.574139bee03ec4bdb0cd6e869a4670da)  
  Written By [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 * ![Date](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-625c9ec/www.stellarinfo.com/public/frontEnd/images/author/clender.jpg)  
@@ -45,9 +42,6 @@ Table of Content
 
  _Figure: Error 0xc00d36c4 message in Windows_
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **What is error 0xc00d36c4 in videos?**
 
  The message: _This file isn’t playable. That might be because the file type is unsupported, the file extension is incorrect, or the file is corrupt. 0xc00d36c4.’_ is a Windows error that can occur due to the following reasons:
@@ -65,9 +59,6 @@ Table of Content
 
  If none of these methods work and you still receive_‘this file isn’t playable 0xc00d36c4 error’_ , then the video file has turned corrupt and needs to be fixed with the help of video repair software.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## **8 Methods to fix Video error 0xc00d36c4**
 
  1\. Play the video in another compatible media player like a VLC player  
@@ -125,8 +116,12 @@ Table of Content
 * Next, click**Start.** Your converted video file will be saved at the specified location.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 4: Disable Copy Protection in Windows Media Player**
 
  Does the error 0xc00d36c4 pops up every time you try to play CD/DVD or a mobile phone music on your PC?
@@ -153,8 +148,18 @@ Table of Content
  **Also read:[How to fix Error: ‘Windows Media Player Encountered a Problem While Playing the File’](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 5: Remove and reinstall all USB controllers**
 
  ‘This file isn’t playable 0xc00d36c4 error’ can also be due to system conflict between the connected external media (SD card, USB pen drive, etc.) and your computer.
@@ -194,9 +199,6 @@ Table of Content
 
 Tip – If the current driver is up-to-date, just to be on the safer side, uninstall the driver first and then reinstall it.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### **Method 7: Repair with a Stellar Repair for Video software**
 
  If the error code 0xc00d36c4 issue is not resolved with the above methods, your video is probably corrupt. The only way to fix is by using advanced video repair software such as [**Stellar Repair for Video**](https://tools.techidaily.com/stellardata-recovery/buy-now/) **.**
@@ -220,9 +222,12 @@ Tip – If the current driver is up-to-date, just to be on the safer side, unins
 **Step 3:** Preview the repaired videos and click**Save Repaired File.**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 8: Try AVI repair in VLC Media Player to fix error 0xc00d36c4**
 
  Free VLC Media Player has an AVI repair feature. Try the function to fix the video error 0xc00d36c4 in AVI files. If your video file is other than AVI, you can rename it to AVI and then fix it using the media player.
@@ -259,6 +264,13 @@ Now, check if the video error is resolved.
 
 **For any query reach us through comments in the box below.**
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -277,8 +289,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -286,4 +296,24 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-best-4k-gaming-laptops-unleash-game-potential/"><u>[New] Best 4K Gaming Laptops - Unleash Game Potential</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-lifes-journey-videos-creating-authentic-online-experiences/"><u>[Updated] 2024 Approved Life's Journey Videos Creating Authentic Online Experiences</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-exploring-the-top-rated-ios-video-capture-apps/"><u>[Updated] In 2024, Exploring the Top-Rated iOS Video Capture Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-engagement-with-integrated-youtube-playlist-features/"><u>2024 Approved Maximize Engagement with Integrated YouTube Playlist Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clearing-up-the-confusion-a-guide-to-reactivating-icloud-settings-on-apples-mobile-gadgets/"><u>Clearing Up the Confusion: A Guide to Reactivating iCloud Settings on Apple's Mobile Gadgets</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hd-file-reviver-data-disaster-fixer/"><u>HD File Reviver: Data Disaster Fixer</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-fix-choppy-or-jerky-videos-playback-smoothly/"><u>How to Fix Choppy or Jerky Videos Playback Smoothly?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-repair-h264-mov-files/"><u>How to Repair H.264 MOV Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-undo-video-errors-in-m4v-format-for-pc-and-mac/"><u>How to Undo Video Errors in M4V Format for PC & Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-get-the-best-free-pc-sound-logger-download-x-recorder/"><u>In 2024, Get the Best Free PC Sound Logger – Download X-Recorder</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-professional-correspondence-leveraging-chatgpt-for-crafting-complex-workplace-emails/"><u>Mastering Professional Correspondence: Leveraging ChatGPT for Crafting Complex Workplace Emails</u></a></li>
+<li><a href="https://techtrends.techidaily.com/price-release-date-and-more-unveiling-the-juiciest-gossip-about-apples-latest-innovation/"><u>Price, Release Date & More: Unveiling the Juiciest Gossip About Apple's Latest Innovation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairtool-reclaim-your-distorted-videos-at-no-cost/"><u>RepairTool: Reclaim Your Distorted Videos at No Cost</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/simple-solutions-for-flawless-video-playback/"><u>Simple Solutions for Flawless Video Playback</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solidify-your-visual-content-with-grau-gmbhs-all-in-one-video-repair-kit/"><u>Solidify Your Visual Content with Grau GmbH's All-in-One Video Repair Kit</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/upload-and-share-like-a-pro-quick-and-easy-gif-tutorial-for-instagram-users/"><u>Upload and Share Like a Pro Quick & Easy GIF Tutorial for Instagram Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vishakhas-specialty-masterful-data-revival-methods/"><u>Vishakha's Specialty: Masterful Data Revival Methods</u></a></li>
+</ul></div>
 

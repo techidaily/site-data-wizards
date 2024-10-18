@@ -1,7 +1,7 @@
 ---
 title: Resolving Power Supply Issues to GPU
-date: 2024-10-04T21:25:16.681Z
-updated: 2024-10-12T00:01:28.989Z
+date: 2024-10-16T08:09:04.680Z
+updated: 2024-10-18T11:06:31.151Z
 categories:
   - repair-tools
 description: This Article Describes Resolving Power Supply Issues to GPU
@@ -81,16 +81,10 @@ Table of Content
  Visual issues can be caused due to a loose connection between the computer and the graphics card. Ensure that the video cable is fine and plugged in properly. Replace the faulty cable.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\. Swap graphics card slot:**
@@ -98,10 +92,10 @@ Table of Content
  The problem might be due to a faulty PCI card slot. Insert your external graphics card in a different slot and see if this resolves the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **3\. Check the PC monitor:**
@@ -123,16 +117,10 @@ Table of Content
 ![Device Status of Graphics card showing Code 43](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/vv.png)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Figure: Device Status of Graphics card showing Code 43
@@ -171,13 +159,6 @@ Try the free version of the software:
 
 **_ [Read More](https://support.microsoft.com/en-us/help/4028443/windows-10-update-drivers) _**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2\. Disable/Enable the graphics card**
 
  To repair the graphics card ‘no display’ problem, disable/enable the card driver. This method can fix integrated video cards and dedicated (external) graphics cards.
@@ -193,19 +174,19 @@ To disable video card drives, follow the below steps:
 
 ![enable the graphics card](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/Screenshot-61.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, enable the graphics card again by visiting the**Device Manager** on your PC or laptop and following these steps:
 
 * Click**Display Adapters**
 * Double-click on your graphic card
 * Click on properties.
 * Go to the**Driver** tab and click the**Enable** button.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **3.** **Uninstall and reinstall the drivers**
 
@@ -234,6 +215,13 @@ To uninstall the driver, follow the below steps:
 
  If the motherboard or the dedicated graphic card is damaged due to overheating, you would need to replace them.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **5\. Replace your video card**
 
  Buying a new video card is the only option when the existing card is damaged due to overheating or overclocking or has become outdated. If you are using an integrated video card, replace the whole motherboard.
@@ -254,35 +242,35 @@ To uninstall the driver, follow the below steps:
 
 [Video Repair](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Video Repair Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 About The Author
 
 ![](https://secure.gravatar.com/avatar/574139bee03ec4bdb0cd6e869a4670da?s=85&d=mm&r=g)
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
@@ -303,19 +291,15 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-global-leaders-in-digital-education-beyond-udemy-for-2024/"><u>[Updated] Global Leaders in Digital Education Beyond Udemy for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-leading-voice-modifying-apps-magical-calls-and-more/"><u>[Updated] Leading Voice-Modifying Apps Magical Calls & More</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-minecraft-branding-resources-for-youtubers-for-2024/"><u>[Updated] Minecraft Branding Resources for YouTubers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-thrilling-twists-and-turns-short-track-22/"><u>2024 Approved Thrilling Twists & Turns - Short Track '22</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/diagnosing-video-load-failures/"><u>Diagnosing Video Load Failures</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/efficient-installation-of-updated-intel-iris-540-graphics-drivers-speedy-and-straightforward-methods/"><u>Efficient Installation of Updated Intel Iris 540 Graphics Drivers - Speedy & Straightforward Methods</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/galaxy-of-tech-sql-database-restoration/"><u>Galaxy of Tech: SQL Database Restoration</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/hd-video-repair-utility-repairs-corrupt-hd-video-files/"><u>HD Video Repair Utility: Repairs Corrupt HD Video Files</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-beyond-reality-the-future-of-virtual-experiences/"><u>In 2024, Beyond Reality The Future of Virtual Experiences</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720669553067-quick-and-effective-mac-hd-configuration-learn-from-us/"><u>Quick & Effective Mac HD Configuration – Learn From Us</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-remedies-when-you-cant-access-palworld-fixed-now/"><u>Quick Remedies When You Can't Access Palworld – Fixed Now!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rebuilding-damaged-avchd-recordings/"><u>Rebuilding Damaged AVCHD Recordings</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-handy-guide-toolkits-tips-and-techniques-for-savvy-software-creation/"><u>Stellar's Handy Guide: Toolkits, Tips & Techniques for Savvy Software Creation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-first-flight-fun-best-easy-to-use-drones/"><u>2024 Approved First Flight Fun Best Easy-to-Use Drones</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/accessible-tech-stellar-enhances-data-recovery-simplicity/"><u>Accessible Tech: Stellar Enhances Data Recovery Simplicity</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-steps-to-update-and-get-the-best-performance-from-your-wireless-adaptors-software/"><u>Easy Steps to Update and Get the Best Performance From Your Wireless Adaptor's Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eight-essential-steps-to-locate-missing-external-drives-in-macs/"><u>Eight Essential Steps to Locate Missing External Drives in Macs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eliminate-stellar-media-freeze-0xc00d36c4/"><u>Eliminate Stellar Media Freeze: 0XC00D36C4</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-sandbox-titles-everyone-should-own-for-2024/"><u>Essential Sandbox Titles Everyone Should Own for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/exchange-mishap-resolved-detailed-analysis/"><u>Exchange Mishap Resolved: Detailed Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-omzetten-van-wma-naar-mpeg-online-movavi/"><u>Gratis Omzetten Van WMA Naar MPEG Online - Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-apex-legends-loading-issues-expert-tips/"><u>Troubleshooting Apex Legends Loading Issues - Expert Tips</u></a></li>
 </ul></div>
 

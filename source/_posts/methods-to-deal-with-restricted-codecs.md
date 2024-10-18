@@ -1,7 +1,7 @@
 ---
 title: Methods to Deal with Restricted Codecs
-date: 2024-10-05T08:58:32.676Z
-updated: 2024-10-12T11:09:14.197Z
+date: 2024-10-16T22:51:12.144Z
+updated: 2024-10-18T00:48:14.347Z
 categories:
   - repair-tools
 description: This Article Describes Methods to Deal with Restricted Codecs
@@ -59,6 +59,19 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -66,13 +79,6 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -91,13 +97,6 @@ _An error occurred. Unsupported file format.’_
  If video file gives unsupported codec error on Mac, right-click on the file. Click on**‘Open With’** option. Mac may suggest all the installed apps that can play the video.
 
 _Figure: Mac suggests installed apps to open video_
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Download the missing video codecs
 
@@ -121,6 +120,13 @@ _Figure: Mac suggests installed apps to open video_
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -143,10 +149,10 @@ _Figure: VLC message when new version is available._
  The open source VLC Media Player can also convert video files to different format.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
@@ -167,6 +173,13 @@ _Figure: Video profile options in VLC Player_
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
@@ -196,13 +209,6 @@ _Figure: Repair button in software_
 _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Wrapping up**
 
@@ -239,22 +245,16 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-diy-dynamics-unlock-creative-animation-potential/"><u>[New] In 2024, DIY Dynamics Unlock Creative Animation Potential</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-your-iphones-audio-library-with-top-podcast-strategies/"><u>[Updated] Unlocking Your iPhone's Audio Library with Top Podcast Strategies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-jest-engineer-online/"><u>2024 Approved Jest Engineer Online</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/corrupted-file-conversion-basics/"><u>Corrupted File Conversion Basics</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/digital-welding-uniting-severed-videotapes/"><u>Digital Welding: Uniting Severed Videotapes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhancing-broken-h264-videos/"><u>Enhancing Broken H.264 Videos</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-14-plus-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 14 Plus iCloud Bypass</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Xiaomi Redmi K70? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-reno-8t-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Reno 8T to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/jpeg-revival-on-macos-introducing-stellars-phoenix-application/"><u>JPEG Revival on macOS: Introducing Stellar's Phoenix Application</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/resolved-instagram-reel-bug/"><u>Resolved: Instagram Reel Bug</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoremediasuite-efficiently-heal-vids/"><u>RestoreMediaSuite: Efficiently Heal Vids</u></a></li>
-<li><a href="https://program-issues.techidaily.com/roblox-not-working-heres-how-to-repair-it-fast-a-2024-troubleshooting-guide/"><u>Roblox Not Working? Here's How to Repair It Fast: A 2024 Troubleshooting Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/seamless-capture-and-share-iphone-to-snapchat-backup-guide-for-2024/"><u>Seamless Capture & Share IPhone to Snapchat Backup Guide for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/software-service-contract/"><u>Software Service Contract</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720671545458-some-files-untouched-by-video-repair-software/"><u>Some Files Untouched by Video Repair Software</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-a78-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo A78 FRP Bypass</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ubiquitous-display-dynamics-choosing-a-media-company/"><u>[New] Ubiquitous Display Dynamics Choosing a Media Company</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-learn-the-insider-tricks-of-screening-instagram-stories/"><u>[Updated] In 2024, Learn the Insider Tricks of Screening Instagram Stories</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-online-solution-for-broadcast-cleanup/"><u>Advanced Online Solution for Broadcast Cleanup</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/boosting-brand-visibility-on-major-networks-facebook-to-xing-and-youtube-integration-tactics/"><u>Boosting Brand Visibility on Major Networks: Facebook to XING and YouTube Integration Tactics</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-repair-crew-restoring-anywhere-db/"><u>Celestial Repair Crew: Restoring Anywhere DB</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-h264-file-defects/"><u>Correcting H.264 File Defects</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/decoding-the-user-interface-of-stellar-data-recovery-for-mac/"><u>Decoding the User Interface of Stellar Data Recovery for Mac</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigate-the-market-of-superior-usb-sticks-for-ultimate-tech-savvy/"><u>Navigate the Market of Superior USB Sticks for Ultimate Tech Savvy</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-tips-how-to-successfully-swap-out-an-old-graphics-card/"><u>Tech Tips: How To Successfully Swap Out an Old Graphics Card</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-redmi-12-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Redmi 12 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 
