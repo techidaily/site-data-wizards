@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unsupported Video Technologies
-date: 2024-08-15T04:56:34.164Z
-updated: 2024-08-16T04:56:34.164Z
+date: 2024-10-16T19:53:49.065Z
+updated: 2024-10-23T20:26:47.715Z
 categories:
   - repair-tools
 description: This Article Describes Solutions for Unsupported Video Technologies
@@ -59,9 +59,6 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -70,10 +67,6 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -115,8 +108,12 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -128,10 +125,6 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -142,9 +135,6 @@ _Figure: VLC message when new version is available._
 
  The open source VLC Media Player can also convert video files to different format.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -161,11 +151,22 @@ _Figure: Video profile options in VLC Player_
 * Once done, click **Start** to convert the video file.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
@@ -204,6 +205,13 @@ _Figure: Preview video after repair_
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -222,8 +230,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,6 +237,23 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-guide-to-crafting-twitter-video-inspired-animated-gifs/"><u>[New] 2024 Approved Guide to Crafting Twitter Video-Inspired Animated GIFs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-how-to-remove-jello-effect-from-an-aerial-video/"><u>[New] How to Remove Jello Effect From an Aerial Video</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-sweep-through-your-contacts-with-speed-and-skill-for-2024/"><u>[New] Sweep Through Your Contacts with Speed and Skill for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conversational-couture-tailoring-pick-up-lines-in-spanish/"><u>Conversational Couture: Tailoring Pick-Up Lines in Spanish</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/effortlessly-broadcasting-tiktok-videos-to-facebook/"><u>Effortlessly Broadcasting TikTok Videos to Facebook</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/free-solutions-how-to-restore-lost-information-from-an-ssd-in-windows/"><u>Free Solutions: How To Restore Lost Information From an SSD in Windows</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/favorites-to-featured-the-journey-to-a-unique-youtube-list-for-2024/"><u>From Favorites to Featured The Journey to a Unique YouTube List for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hidden-hd-woes-solving-external-drives-on-apple-devices/"><u>Hidden HD Woes: Solving External Drives on Apple Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/iphone-unrecognized-by-itunes-on-your-windows-10-machine-how-to-resolve-it/"><u>IPhone Unrecognized by iTunes on Your Windows 10 Machine - How to Resolve It</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-corrupted-video-data-on-phones/"><u>Mending Corrupted Video Data on Phones</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mpeg-file-restoration-guide-how-to-fix-damaged-video-clips-easily/"><u>MPEG File Restoration Guide: How to Fix Damaged Video Clips Easily</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recover-lost-footage-from-compromised-nikon-movies/"><u>Recover Lost Footage From Compromised Nikon Movies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/strategies-to-avoid-noise-in-video-after-output/"><u>Strategies to Avoid Noise In Video After Output</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamlining-past-data-video-guide-for-mailbox-to-live-exchange/"><u>Streamlining Past Data: Video Guide for Mailbox to Live Exchange</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/swift-email-restoration-exchanging-success-stories/"><u>Swift Email Restoration: Exchanging Success Stories</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-lenovo-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Lenovo Fingerprint Not Working Solutions</u></a></li>
+</ul></div>
 

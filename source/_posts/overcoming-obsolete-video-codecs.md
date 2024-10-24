@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obsolete Video Codecs
-date: 2024-10-11T08:10:15.721Z
-updated: 2024-10-18T09:18:48.140Z
+date: 2024-10-16T20:04:19.676Z
+updated: 2024-10-23T16:34:15.862Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Obsolete Video Codecs
@@ -59,13 +59,6 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -75,10 +68,10 @@ _An error occurred. Unsupported file format.’_
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
@@ -98,6 +91,13 @@ _An error occurred. Unsupported file format.’_
  If video file gives unsupported codec error on Mac, right-click on the file. Click on**‘Open With’** option. Mac may suggest all the installed apps that can play the video.
 
 _Figure: Mac suggests installed apps to open video_
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Download the missing video codecs
 
@@ -132,6 +132,13 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -141,13 +148,6 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -163,6 +163,13 @@ _Figure: Video profile options in VLC Player_
 
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Convert video file to fix unsupported codec error on Android**
 
@@ -196,13 +203,6 @@ _Figure: Repair button in software_
 _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Wrapping up**
 
@@ -239,19 +239,14 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-convert-youtube-music-seamlessly-for-mac-users-2023-edition/"><u>[New] 2024 Approved Convert YouTube Music Seamlessly for Mac Users, 2023 Edition</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-list-of-top-tier-facebook-profile-picture-designers/"><u>[New] In 2024, The Ultimate List of Top-Tier Facebook Profile Picture Designers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-favorite-spotlight-equipment-17/"><u>[New] YouTube's Favorite Spotlight Equipment #17</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-non-negotiables-of-beginning-a-youtube-channel/"><u>[Updated] The Non-Negotiables of Beginning a YouTube Channel</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/10-best-offline-android-games-to-pass-time-filmora-for-2024/"><u>10 Best Offline Android Games to Pass Time - Filmora for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-a-comprehensive-list-of-top-video-making-software-iphone-android/"><u>2024 Approved A Comprehensive List of Top Video-Making Software (iPhone, Android)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/amplifying-action-in-animation/"><u>Amplifying Action in Animation</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/easy-fixes-to-resolve-your-issue-with-cs-go-not-starting/"><u>Easy Fixes to Resolve Your Issue with CS: GO Not Starting</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/error-code-224003-unraveled-for-videos/"><u>Error Code 224003 Unraveled for Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/find-your-perfect-video-fixer-the-7-leading-restoration-applications-for-desktop-users/"><u>Find Your Perfect Video Fixer: The 7 Leading Restoration Applications for Desktop Users</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/galactic-gallery-top-videos-plus-glowing-endorsements/"><u>Galactic Gallery: Top Videos + Glowing Endorsements</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-se-2022-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone SE (2022) Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/optimized-video-restoration-solutions-by-hardware-and-software-specialists-at-grau-gmbh/"><u>Optimized Video Restoration Solutions by Hardware & Software Specialists at Grau GmbH</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-damaged-footage-with-advanced-solutions/"><u>Restoring Damaged Footage with Advanced Solutions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-framing-for-instagram-techniques-for-vertical-footage-in-fcpx/"><u>[Updated] 2024 Approved Framing for Instagram Techniques for Vertical Footage in FCPX</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-obs-setup-guide-for-macos-downloading-and-setting-up/"><u>[Updated] OBS Setup Guide for macOS Downloading & Setting Up</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pathways-to-identifying-outstanding-video-artists/"><u>2024 Approved Pathways to Identifying Outstanding Video Artists</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cosmic-corner-prime-video-showcases-plus-praise/"><u>Cosmic Corner: Prime Video Showcases + Praise</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/dive-into-full-rotation-cinematography-9-critical-tips/"><u>Dive Into Full Rotation Cinematography 9 Critical Tips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/easy-steps-to-smooth-out-videos/"><u>Easy Steps to Smooth Out Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensuring-accurate-dell-webcam-driver-updates-a-complete-guide/"><u>Ensuring Accurate Dell Webcam Driver Updates: A Complete Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-toolkit-digital-stream-reconstructor/"><u>Expert Toolkit: Digital Stream Reconstructor</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expertise-on-display-system-administrator-augusto-restores-mysql/"><u>Expertise on Display: System Administrator Augusto Restores MySql</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tips to Revise Unsupported Media
-date: 2024-10-16T13:40:48.475Z
-updated: 2024-10-18T08:54:18.543Z
+date: 2024-10-23T03:45:36.709Z
+updated: 2024-10-24T00:51:06.506Z
 categories:
   - repair-tools
 description: This Article Describes Tips to Revise Unsupported Media
@@ -67,13 +67,6 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -104,13 +97,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -133,10 +119,10 @@ _Figure: VLC message when new version is available._
 * Click**Yes.** This will automatically download the new codecs also.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
@@ -148,6 +134,13 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -168,16 +161,16 @@ _Figure: Video profile options in VLC Player_
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -203,6 +196,13 @@ _Figure: Repair button in software_
 _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Wrapping up**
 
@@ -239,22 +239,14 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-fundamentals-of-copywriting-for-engaging-fb-campaigns/"><u>[Updated] Fundamentals of Copywriting for Engaging FB Campaigns</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nokia-105-classic-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nokia 105 Classic Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/continuous-streams-perfect-loops-of-youtube-videos-for-tvs/"><u>Continuous Streams Perfect Loops of YouTube Videos for TVs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/expert-tips-to-overcome-driver-conflicts-for-the-ralink-rt3290-in-windows-1087-systems/"><u>Expert Tips to Overcome Driver Conflicts for the Ralink RT3290 in Windows 10/8/7 Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-boundaries-adequate-ban-of-trump-with-time-limit/"><u>Facebook's Boundaries: Adequate Ban of Trump with Time Limit</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-poco-c65-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Poco C65 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/macbook-mysteries-solved-4-tactics-for-question-marks/"><u>Macbook Mysteries Solved: 4 Tactics for Question Marks</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/milky-way-mastery-prime-productions-plus-starry-stories/"><u>Milky Way Mastery: Prime Productions + Starry Stories</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/optimizing-the-process-of-transforming-colossal-excel-databases-edb-into-pst-files-efficiently-with-minimal-data-loss-and-integrity/"><u>Optimizing the Process of Transforming Colossal Excel Databases (EDB) Into PST Files Efficiently with Minimal Data Loss and Integrity</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/organizing-your-macs-storage-step-by-step-tutorial/"><u>Organizing Your Mac's Storage: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reconstructing-faulty-avchd-files/"><u>Reconstructing Faulty AVCHD Files</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/repairing-itunes-video-stream-issues/"><u>Repairing iTunes Video Stream Issues</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/resolving-mov-glitches-on-apple-devices/"><u>Resolving MOV Glitches on Apple Devices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/social-synergy-optimizing-your-facebook-linkedin-and-youtube-strategy/"><u>Social Synergy: Optimizing Your Facebook, LinkedIn, and YouTube Strategy</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/ssd-data-recovery-provenle-strategieen-om-voorkomende-deegels-van-je-zelf-terug-te-trekken-in-vuur-soepel/"><u>SSD Data Recovery: Provenle Strategieën Om Voorkomende Deegels Van Je Zelf Terug Te Trekken In Vuur Soepel</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-guide-finding-and-installing-the-newest-drivers-for-your-epson-et-3760-on-windows-systems/"><u>Ultimate Guide: Finding and Installing the Newest Drivers for Your Epson ET-3760 on Windows Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-vital-social-spaces-maximizing-business-outreach-and-impact/"><u>[New] 2024 Approved Vital Social Spaces Maximizing Business Outreach and Impact</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-lut-techniques-for-enhanced-ae-visuals/"><u>2024 Approved LUT Techniques for Enhanced AE Visuals</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-a-stellar-game-channels-look-a-step-by-step-approach/"><u>Creating a Stellar Game Channels Look A Step-By-Step Approach</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-to-freshly-installed-canon-mp560-driver-version/"><u>Fast Track to Freshly Installed Canon MP560 Driver Version</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/first-to-successfully-unlock-encrypted-hard-drives-stellars-milestone/"><u>First to Successfully Unlock Encrypted Hard Drives - Stellar's Milestone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/interstellar-showcase-prime-productions-plus-stars-praise/"><u>Interstellar Showcase: Prime Productions + Stars' Praise</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-essential-toolkit-insightful-guides-and-handy-diy-tips/"><u>Stellar's Essential Toolkit: Insightful Guides and Handy DIY Tips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-pixel-perfectionizer/"><u>Ultimate Pixel Perfectionizer</u></a></li>
 </ul></div>
 

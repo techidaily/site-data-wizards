@@ -1,7 +1,7 @@
 ---
 title: Rectifying Illegitimate Video Codings
-date: 2024-10-16T07:14:57.909Z
-updated: 2024-10-18T03:31:31.467Z
+date: 2024-10-20T16:08:38.376Z
+updated: 2024-10-23T20:55:41.046Z
 categories:
   - repair-tools
 description: This Article Describes Rectifying Illegitimate Video Codings
@@ -59,19 +59,6 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -81,10 +68,10 @@ _An error occurred. Unsupported file format.’_
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
@@ -127,13 +114,6 @@ _Figure: Mac suggests installed apps to open video_
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -175,10 +155,10 @@ _Figure: Video profile options in VLC Player_
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
@@ -210,6 +190,19 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -217,6 +210,13 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -245,17 +245,14 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-embark-on-an-odyssey-constructing-photo-collage-masterpieces/"><u>[New] 2024 Approved Embark on an Odyssey Constructing Photo Collage Masterpieces</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-capturing-impactful-voice-top-tips-for-podcasting-interviews-on-idevices/"><u>[Updated] Capturing Impactful Voice Top Tips for Podcasting Interviews on iDevices</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-8-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/intuitive-data-protection-stellar-updates-recovery-software/"><u>Intuitive Data Protection: Stellar Updates Recovery Software</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/mastering-the-art-of-simplified-live-streaming-for-2024/"><u>Mastering the Art of Simplified LIVE Streaming for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mvp-stellar-repair-mssql-demystified/"><u>MVP Stellar Repair: MSSQL Demystified</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revamping-virtual-communication-top-strategies-for-zoom-format-conversion/"><u>Revamping Virtual Communication Top Strategies for Zoom Format Conversion</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-memories-one-image-at-a-time-with-stellar/"><u>Reviving Memories, One Image at a Time with Stellar</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unlocking-the-secret-behind-symbol-in-folders/"><u>Unlocking the Secret Behind '?' Symbol in Folders</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unresolved-advanced-tech-repair-moving-forward/"><u>Unresolved Advanced Tech Repair: Moving Forward?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208775208-usb-composite-device-cant-work-properly-with-usb-30-solved/"><u>USB Composite Device Can't Work Properly with USB 3.0 [SOLVED]</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-15-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 15 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-xs-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone XS in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-the-art-of-bulk-data-transfer-converting-large-databases-edb-into-accessible-pst-files-comprehensive-guide-and-industry-best-practices/"><u>Mastering the Art of Bulk Data Transfer: Converting Large Databases (EDB) Into Accessible PST Files – Comprehensive Guide and Industry Best Practices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mp4mov-fixer-cure-video-file-issues/"><u>MP4/MOV Fixer: Cure Video File Issues</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-files-phoenix-creates-pdf-savior/"><u>Reviving Files, Phoenix Creates PDF Savior</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-best-free-audio-editors-for-m4a-files/"><u>S Best Free Audio Editors for M4A Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-format-reconciliation-a-solution-manual/"><u>Video Format Reconciliation: A Solution Manual</u></a></li>
 </ul></div>
 

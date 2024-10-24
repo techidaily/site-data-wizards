@@ -1,7 +1,7 @@
 ---
 title: Resolving Power Supply Issues to GPU
-date: 2024-10-16T08:09:04.680Z
-updated: 2024-10-18T11:06:31.151Z
+date: 2024-10-16T22:45:36.354Z
+updated: 2024-10-23T21:22:43.345Z
 categories:
   - repair-tools
 description: This Article Describes Resolving Power Supply Issues to GPU
@@ -72,6 +72,19 @@ Table of Content
 
 [How to fix ‘Video not playing’ issues](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Physical checks before troubleshooting video card problems**
 
  A graphics card is not always the cause of video problems; sometimes, the problems are caused due to other hardware-related aspects, as follows:
@@ -80,23 +93,9 @@ Table of Content
 
  Visual issues can be caused due to a loose connection between the computer and the graphics card. Ensure that the video cable is fine and plugged in properly. Replace the faulty cable.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2\. Swap graphics card slot:**
 
  The problem might be due to a faulty PCI card slot. Insert your external graphics card in a different slot and see if this resolves the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **3\. Check the PC monitor:**
 
@@ -106,22 +105,29 @@ Table of Content
 
  If you use a dedicated NVidia GeForce or AMD card, replace it with another card of similar specifications. If the display problem gets fixed, your old graphics card needs repair or replacement.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **5\. Check your Sound Drivers:**
 
  Is the computer crashing only while playing games? It may be due to the sound hardware. To check this possibility, disable the sound hardware temporarily via**Device Manager** on your PC. If your computer doesn’t crash now, it’s a sound system issue. Download sound card drivers from the manufacturer’s website.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **6\. Check the ‘Device Status’ of your graphic card:**
 
  Go to**Device Manager> Display adapters** . Right-click on your graphic card and click**Properties** . See the**Device Status** If it shows a video card error like Code 43 or Code 12, it indicates a video card problem. Follow the given troubleshooting methods to fix the video card error.
 
 ![Device Status of Graphics card showing Code 43](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/vv.png)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Figure: Device Status of Graphics card showing Code 43
 
@@ -159,6 +165,13 @@ Try the free version of the software:
 
 **_ [Read More](https://support.microsoft.com/en-us/help/4028443/windows-10-update-drivers) _**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Disable/Enable the graphics card**
 
  To repair the graphics card ‘no display’ problem, disable/enable the card driver. This method can fix integrated video cards and dedicated (external) graphics cards.
@@ -174,19 +187,25 @@ To disable video card drives, follow the below steps:
 
 ![enable the graphics card](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/Screenshot-61.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, enable the graphics card again by visiting the**Device Manager** on your PC or laptop and following these steps:
 
 * Click**Display Adapters**
 * Double-click on your graphic card
 * Click on properties.
 * Go to the**Driver** tab and click the**Enable** button.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **3.** **Uninstall and reinstall the drivers**
 
@@ -215,18 +234,18 @@ To uninstall the driver, follow the below steps:
 
  If the motherboard or the dedicated graphic card is damaged due to overheating, you would need to replace them.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **5\. Replace your video card**
 
  Buying a new video card is the only option when the existing card is damaged due to overheating or overclocking or has become outdated. If you are using an integrated video card, replace the whole motherboard.
 
  Before buying, consider the specific use of graphics cards. Gamers or video editing professionals need a more powerful GPU to process intense graphics.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **To Sum Up**
 
@@ -243,10 +262,10 @@ To uninstall the driver, follow the below steps:
 [Video Repair](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Video Repair Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -258,19 +277,6 @@ To uninstall the driver, follow the below steps:
 About The Author
 
 ![](https://secure.gravatar.com/avatar/574139bee03ec4bdb0cd6e869a4670da?s=85&d=mm&r=g)
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
@@ -291,15 +297,24 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-first-flight-fun-best-easy-to-use-drones/"><u>2024 Approved First Flight Fun Best Easy-to-Use Drones</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/accessible-tech-stellar-enhances-data-recovery-simplicity/"><u>Accessible Tech: Stellar Enhances Data Recovery Simplicity</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-to-update-and-get-the-best-performance-from-your-wireless-adaptors-software/"><u>Easy Steps to Update and Get the Best Performance From Your Wireless Adaptor's Software</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/eight-essential-steps-to-locate-missing-external-drives-in-macs/"><u>Eight Essential Steps to Locate Missing External Drives in Macs</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/eliminate-stellar-media-freeze-0xc00d36c4/"><u>Eliminate Stellar Media Freeze: 0XC00D36C4</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-sandbox-titles-everyone-should-own-for-2024/"><u>Essential Sandbox Titles Everyone Should Own for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/exchange-mishap-resolved-detailed-analysis/"><u>Exchange Mishap Resolved: Detailed Analysis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-omzetten-van-wma-naar-mpeg-online-movavi/"><u>Gratis Omzetten Van WMA Naar MPEG Online - Movavi</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-apex-legends-loading-issues-expert-tips/"><u>Troubleshooting Apex Legends Loading Issues - Expert Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-banish-silent-tweets-add-volume-to-videos/"><u>[New] 2024 Approved Banish Silent Tweets Add Volume to Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-power-of-perception-iconic-podcast-design-tips/"><u>[New] The Power of Perception Iconic Podcast Design Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-score-selection-service-enhancing-media-pieces/"><u>[Updated] 2024 Approved Score Selection Service Enhancing Media Pieces</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-effortless-snapchat-setup-for-mac-enthusiasts-for-2024/"><u>[Updated] Effortless Snapchat Setup for Mac Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-fires-sound-alteration-tactics/"><u>2024 Approved Free Fire's Sound Alteration Tactics</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-game-bugs-how-to-stop-diablo-4-from-halting-on-playstation-and-windows-systems/"><u>Eliminate Game Bugs: How to Stop Diablo 4 From Halting on PlayStation and Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macos-clear-trash-and-error-36-solution/"><u>MacOS: Clear Trash & Error 36 Solution</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/maximum-mac-potential-enter-stellars-speedups/"><u>Maximum Mac Potential: Enter Stellar's Speedups</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-broken-mov-files-for-mac-users/"><u>Mending Broken MOV Files for Mac Users</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/modify-youtube-video-visibility-with-ease-for-2024/"><u>Modify YouTube Video Visibility with Ease for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-2023-guide-to-integrating-creative-audio-elements-into-your-film-projects/"><u>New The 2023 Guide to Integrating Creative Audio Elements Into Your Film Projects</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-vn-video-editor-pc-edition-a-fast-and-furious-review-for-2024/"><u>New VN Video Editor PC Edition A Fast and Furious Review for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-blurriness-after-video-conversion/"><u>Overcoming Blurriness After Video Conversion</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-rises-the-new-era-of-jpeg-repair-with-stellar-app/"><u>Phoenix Rises: The New Era of JPEG Repair with Stellar App</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-fix-unfreeze-vlc-media-player/"><u>Quick Fix: Unfreeze VLC Media Player</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolve-ios-playback-issues-in-youtube-videos/"><u>Resolve iOS Playback Issues in YouTube Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-releases-mac-data-recovery-12v-with-enhanced-ui-and-improved-capabilities-news-of-stellar/"><u>Stellar® Releases Mac Data Recovery 12v with Enhanced UI & Improved Capabilities - News of Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unblocking-graphic-driver-cache-errors/"><u>Unblocking Graphic Driver Cache Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Precision Timing for VLC Viewers
-date: 2024-08-08T00:24:35.846Z
-updated: 2024-08-09T00:24:35.846Z
+date: 2024-10-19T22:43:54.694Z
+updated: 2024-10-24T01:09:34.841Z
 categories:
   - repair-tools
 description: This Article Describes Precision Timing for VLC Viewers
@@ -46,9 +46,6 @@ Table of Content
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
 _Figure: Audio delay message in VLC_
@@ -62,8 +59,12 @@ _Figure: Audio delay message in VLC_
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
  The answer is ‘Yes’. You can apply the settings for once for all the videos you play in VLC. For this, use the **‘Audio desynchronization compensation’** feature. It would permanently fix the audio-video sync in VLC Player. Unlike the Audio track synchronization value, which you must reset every time, you must set the ‘Audio desynchronization compensation’ value just once. The settings get saved for all the videos until you change it again.
@@ -100,9 +101,6 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 
  The video or movie should now play without any audio sync issue in the VLC Player.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -122,8 +120,12 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -151,8 +153,12 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Conclusion**
 
  It’s annoying when your favourite VLC Player suddenly starts playing videos out of sync. But the best thing about VLC is that it can fix its glitches. You can use various features in VLC to fix video-audio sync problems.
@@ -170,9 +176,12 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -191,8 +200,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,6 +207,22 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-downloading-content-from-apods-with-confidence/"><u>[New] 2024 Approved Downloading Content From APods with Confidence</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-expert-advice-incorporating-voiceovers-for-visual-impact/"><u>[New] 2024 Approved Expert Advice Incorporating Voiceovers for Visual Impact</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-spark-creativity-with-costless-auditory-extras-for-2024/"><u>[Updated] Spark Creativity with Costless Auditory Extras for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/all-inclusive-review-of-dji-phantom-4-technology/"><u>All-Inclusive Review of DJI Phantom 4 Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-iphone-15-pro-max-and-samsung-z-fold6-unveiling-key-distinctions/"><u>Comparing iPhone 15 Pro Max & Samsung Z Fold6: Unveiling Key Distinctions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-mp4-stream-errors/"><u>Fixing MP4 Stream Errors</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/galactic-disk-retrieval-guide/"><u>Galactic Disk Retrieval Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-a-malfunctioning-content-warning-on-your-voice-chat-platform/"><u>How to Fix a Malfunctioning Content Warning on Your Voice Chat Platform</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-nokia-105-classic-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Nokia 105 Classic for Streaming | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-3d-printing-filaments-review-whats-trending/"><u>Leading 3D Printing Filaments Review: What's Trending ?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/professional-video-restoration-services-by-grau-gmbh-reliable-repair-tools-and-innovative-techniques/"><u>Professional Video Restoration Services by Grau GmbH - Reliable Repair Tools & Innovative Techniques</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reconnect-lost-hds-to-apple-computers-easily/"><u>Reconnect Lost HDs to Apple Computers Easily</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolve-playback-issue-error-xc00d36c4/"><u>Resolve Playback Issue - Error XC00D36C4</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-memories-with-stellar-data-recovery-techniques-by-totan/"><u>Reviving Memories with Stellar Data Recovery Techniques by Totan</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/smooth-playback-solutions-for-frustrating-video-hiccups/"><u>Smooth Playback Solutions for Frustrating Video Hiccups</u></a></li>
+</ul></div>
 

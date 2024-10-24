@@ -1,7 +1,7 @@
 ---
 title: "Seamless Playback: Tackling Timing Inconsistencies in VLC"
-date: 2024-09-24T05:16:46.946Z
-updated: 2024-09-26T03:54:00.679Z
+date: 2024-10-20T21:16:39.079Z
+updated: 2024-10-23T22:39:20.850Z
 categories:
   - repair-tools
 description: "This Article Describes Seamless Playback: Tackling Timing Inconsistencies in VLC"
@@ -46,13 +46,6 @@ Table of Content
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
 _Figure: Audio delay message in VLC_
@@ -64,13 +57,6 @@ _Figure: Audio delay message in VLC_
  If you are a Mac user, press the ‘G’ key to slow down the audio and the ‘F’ key to increase the audio speed.
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
@@ -86,6 +72,13 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -109,10 +102,10 @@ _Figure: Set Audio desynchronization compensation value in VLC_
  The video or movie should now play without any audio sync issue in the VLC Player.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
@@ -132,6 +125,19 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 * Click on the + or – button to increase or decrease the audio speed in your video. The + button will delay the sound by 50 milliseconds, whereas the – button will hasten the sound. Press the + and – buttons until the audio gets synced with the video.
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
@@ -159,6 +165,13 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
  It’s annoying when your favourite VLC Player suddenly starts playing videos out of sync. But the best thing about VLC is that it can fix its glitches. You can use various features in VLC to fix video-audio sync problems.
@@ -174,13 +187,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -209,24 +215,21 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-streamlining-your-avatar-on-google-meet-devices/"><u>[New] 2024 Approved Streamlining Your Avatar on Google Meet Devices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/20-most-common-video-errors-and-how-to-fix-them/"><u>20 Most Common Video Errors & How To Fix Them</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-flexibility-perfecting-image-reshaping/"><u>2024 Approved Photo Flexibility Perfecting Image Reshaping</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/a-pinnacle-moment-reaching-a-celebrated-customer-approval-of-245/"><u>A Pinnacle Moment - Reaching a Celebrated Customer Approval of 245%</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/amend-wrecked-ogg-gif-video-files/"><u>Amend Wrecked Ogg, GIF Video Files</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/best-ways-to-fix-all-video-streaming-issues/"><u>Best Ways to Fix All Video Streaming Issues.</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/boost-your-online-presence-facebook-linkedin-and-youtube-strategies/"><u>Boost Your Online Presence: Facebook, LinkedIn & YouTube Strategies</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720668571795-data-phoenix-rises-download-stellar-now/"><u>Data Phoenix Rises – Download Stellar Now!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/exchange-testimonial-mastery-fabios-video-guide/"><u>Exchange Testimonial Mastery - Fabio's Video Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expeditious-trade-cosmic-video-enhancement/"><u>Expeditious Trade: Cosmic Video Enhancement</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-video-restoration-program-by-grau-gmbh-seamless-integration-of-hardware-and-software-solutions/"><u>Expert Video Restoration Program by Grau GmbH – Seamless Integration of Hardware & Software Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-c50-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco C50 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-phones-for-video-stability-optimal-image-stabilization-included/"><u>In 2024, Best Phones for Video Stability Optimal Image Stabilization Included</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-7-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 7 without Security Questions?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/portable-wireless-hotspot-compact-and-convenient-tp-links-tl-wr9amo/"><u>Portable Wireless Hotspot: Compact and Convenient - TP-Link's TL-WR9amo</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/prioritizing-features-for-an-ideal-smart-tv/"><u>Prioritizing Features for an Ideal Smart TV</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/program-termination-requested/"><u>Program Termination Requested</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-bringing-people-together-in-real-time-using-whatsapp-desktop-for-laptops/"><u>[New] In 2024, Bringing People Together in Real Time Using WhatsApp Desktop for Laptops</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-image-savers-optimizing-video-graphics/"><u>[Updated] 2024 Approved FREE Image Savers Optimizing Video Graphics</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/8-ways-to-fix-external-hard-drive-not-showing-up-problem-in-mac/"><u>8 Ways to Fix External Hard Drive Not Showing Up Problem in Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-revolution-critical-innovations-in-the-latest-gpt-update/"><u>AI Revolution: Critical Innovations in the Latest GPT Update</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-edge-techniques-for-incorporating-soundtracks-in-youtube-creations/"><u>Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-your-best-gpt-plugins-now-top-9/"><u>Discover Your Best GPT Plugins Now! (Top 9)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effortless-recovery-excited-consumers-with-stellars-new-tools/"><u>Effortless Recovery, Excited Consumers with Stellar’s New Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-vlc-can-resurrect-your-broken-mp4mov-videos-a-comprehensive-guide/"><u>How VLC Can Resurrect Your Broken MP4/MOV Videos: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-prime-hdr-cameras-a-comprehensive-guide/"><u>In 2024, Unveiling Prime HDR Cameras A Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/magix-photographic-mastery-an-in-depth-review-for-2024/"><u>MAGIX Photographic Mastery An In-Depth Review for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-corrupted-video-files-in-android-devices/"><u>Mending Corrupted Video Files in Android Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-flawed-video-content-in-os-x-environments/"><u>Mending Flawed Video Content in OS X Environments</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-functionality-a-guide-for-defective-m4v-media/"><u>Restoring Functionality: A Guide for Defective M4V Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snappy-segments-10-snippets-to-enhance-your-edits-for-2024/"><u>Snappy Segments 10 Snippets to Enhance Your Edits for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-phoenix-launches-repair-for-sql-anywhere-server/"><u>Stellar Phoenix Launches Repair for SQL Anywhere Server</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-artisans-path-empowering-writers-with-chatgpt/"><u>The Artisan’s Path: Empowering Writers with ChatGPT</u></a></li>
 </ul></div>
 

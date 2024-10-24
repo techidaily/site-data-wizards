@@ -1,7 +1,7 @@
 ---
 title: Android Video Troubleshooting Guide
-date: 2024-08-15T04:56:48.539Z
-updated: 2024-08-16T04:56:48.539Z
+date: 2024-10-20T02:24:47.235Z
+updated: 2024-10-24T04:27:16.931Z
 categories:
   - repair-tools
 description: This Article Describes Android Video Troubleshooting Guide
@@ -48,12 +48,22 @@ Table of Content
 
  Try the below methods to play videos on your Android phone. You can apply these methods to fix the ‘videos not playing’ issue in any Android phone,**such as Samsung, Oneplus, Xiaomi, Motorola, HTC, etc.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **1\. Restart/Reboot your device**
 
  Restarting your smartphone is the most simple troubleshooting way which may help to play your videos. First, close all the applications on your mobile. Restart/Reboot the phone. Next, go to Gallery and check if your videos are playing.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2\. Clear cache on your Android phone**
 
@@ -68,8 +78,12 @@ Now, go back to the Gallery to play the videos.
  Trojans are a menace for your Android phones too. If you have downloaded any app or software from an**untrusted** source, remove it. There are chances that it disrupts your mobile Device’s smooth functioning, including not letting you play your mobile videos or making your videos corrupt.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **4\. Install VLC player/MX Player on Android phone**
 
  It might be possible that the media player on your Android phone does not support the video codec you are trying to play. Install a**compatible** video player like a VLC player, BS Player, or MX Player from the Google Play store.
@@ -92,13 +106,23 @@ Now, go back to the Gallery to play the videos.
 
  Once the installation completes, your mobile phone automatically reboots.
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **6\. Uninstall Dubious Software**
 
  It may sometimes happen that you may not be able to play video on your Android device since you have installed some unsecured app from somewhere else besides the official app store. Such an unsecured app can block the video playback on your Android device; It is always advised to uninstall it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **7\. Get Stellar Repair for Video**
 
  If you can play some video files on your Android phone, the problem is not with the Device or media player. Instead, your video files may have gone corrupt.
@@ -130,8 +154,18 @@ Now, go back to the Gallery to play the videos.
  You may also refer to [How to Fix ‘No sound on Android video’ Error](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **8\. Reset your app preferences**
 
  Resetting your app preferences lets you choose which video player you want to use for playing videos.
@@ -149,9 +183,6 @@ Now try to play your videos on the Android phone.
 
  Factory Reset wipes out all data and renders your smartphone as new. Thus, before doing it, ensure you have taken all your contacts, photos, videos, and other smartphone data into a backup.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Cannot play Facebook, YouTube, or other web videos on your Android phone? Try the below fixes:**
 
 * Check your Wi-Fi network
@@ -162,9 +193,6 @@ Now try to play your videos on the Android phone.
 * Uninstall recently downloaded apps
 * Update your Android OS
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **To Sum up**
 
  Mostly, the’ video not playing’ on Android issue is resolved by clearing the cache or restarting your smartphone. However, if the mobile video file is corrupt, it is recommended to use Stellar Repair for Video. This software is an efficient video repair utility that fixes all sorts of corruption. In addition, you can repair multiple corrupt videos simultaneously, saving a lot of your time.
@@ -195,8 +223,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,6 +230,22 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-prime-image-editing-techniques/"><u>[New] Prime Image Editing Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-six-simple-ways-to-ease-vr-headset-nausea/"><u>[Updated] 2024 Approved Six Simple Ways to Ease VR Headset Nausea</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-swift-sonic-speed-changer-tools-index/"><u>2024 Approved Swift Sonic Speed Changer Tools Index</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/adjusting-screen-resolution-after-upgrading-to-win10/"><u>Adjusting Screen Resolution After Upgrading to Win10</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/customer-experience-hard-drive-revival/"><u>Customer Experience: Hard Drive Revival</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-broken-mpeg-videos-ultimate-guide-to-restoring-corrupted-files/"><u>Fixing Broken MPEG Videos: Ultimate Guide to Restoring Corrupted Files</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-80-pro-straight-screen-edition-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor 80 Pro Straight Screen Edition Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagrams-latest-update-whatsapp-for-2fa-code-transmission/"><u>Instagram’s Latest Update: WhatsApp for 2FA Code Transmission</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pivot-past-moments-an-android-video-reversal-tutorial-for-2024/"><u>Pivot Past Moments An Android Video Reversal Tutorial for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-fix-for-plodding-video-playbacks/"><u>Quick Fix for Plodding Video Playbacks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reclaiming-ravaged-recordings-a-sample-method/"><u>Reclaiming Ravaged Recordings: A Sample Method</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-ingenious-insights-a-comprehensive-diy-guide-to-using-your-software-toolkit-wisely/"><u>Stellar's Ingenious Insights: A Comprehensive DIY Guide to Using Your Software Toolkit Wisely</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-ultimate-guide-to-fluid-video-streaming-experience/"><u>The Ultimate Guide to Fluid Video Streaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-full-potential-the-2-year-oled-monitor-life/"><u>Unlocking Full Potential: The 2-Year OLED Monitor Life!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-s-hottest-iphone-apps-unbiased-reviews-and-rankings/"><u>Updated 2024 Approved S Hottest iPhone Apps Unbiased Reviews and Rankings</u></a></li>
+</ul></div>
 

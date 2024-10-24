@@ -1,7 +1,7 @@
 ---
 title: How to Fix This Video File Cannot Be Played Error?
-date: 2024-08-15T04:55:26.905Z
-updated: 2024-08-16T04:55:26.905Z
+date: 2024-10-18T20:42:03.357Z
+updated: 2024-10-23T19:59:46.584Z
 categories:
   - repair-tools
 description: This Article Describes How to Fix This Video File Cannot Be Played Error?
@@ -59,6 +59,13 @@ Table of Content
 
  Using a VPN is the best way to access video files unavailable in your region. Such software eliminates the barrier created by your IP address and allows you to view videos that aren’t accessible in your area. It shields your device’s IP address while assigning you a new one from another country.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Disable Hardware Acceleration Settings**
 
  Most machines have Hardware Acceleration functions that use a Graphics Processing Unit (GPU) to render videos on your device. It lowers the percentage of Central Processing Unit (CPU) used by your browser. Although it is generally useful, it may create issues such as the “video cannot be played”. Turning this function off might be a good way to eliminate the error.
@@ -88,9 +95,12 @@ Image 2 – Disable the hardware acceleration option
  Image 4 – Select the appropriate options and click on the Clear Data button
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **5\. Change the video quality**
 
  In some circumstances, changing the selected video quality may result in the “this video cannot be played in Chrome” error. For example, if your internet speed isn’t good enough for a high-definition (HD) movie or your hardware isn’t compatible, you won’t be able to play the video file. Thus, changing the video quality to a lower resolution is recommended.
@@ -104,8 +114,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 Image 5 – Change the video quality
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **6\. Disable web browser extensions to improve performance**
 
  Often, users install web browser extensions to augment their web surfing experience. For instance, you might use extensions to check word count, internet speed, emoticons, etc. While most extensions work fine, sometimes, a couple of them may cause errors while trying to stream videos online.
@@ -135,9 +149,6 @@ Image 7 – Remove unwanted extensions
 
 Image 8 – Reset browser default settings
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 8\. Check that your Media Player supports the Video File Type
 
  The media player you are using should support the file types. If the default media player does not support the file format, your files won’t play, and you will get an “Incompatible Video Codec Error’.
@@ -147,8 +158,12 @@ Image 8 – Reset browser default settings
  You can also try downloading a video copy to your computer and watching it using a media player.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What to do if none of these fixes work?
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
@@ -167,18 +182,12 @@ Image 9 – Add files to be repaired
 
 Image 10 – Save repaired files to the desired location
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Conclusion**
 
  The error “This video file cannot be played” may occur when watching geographically restricted content online or trying to access videos that haven’t been uploaded correctly. By implementing the methods outlined above, you can easily solve such errors.
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 0
@@ -197,8 +206,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,6 +213,20 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-innovating-content-approaches-to-stand-out-in-shorts-arenas/"><u>[New] 2024 Approved Innovating Content Approaches to Stand Out in Shorts Arenas</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-top-15-snapchat-sharing-tactics-for-maximum-impact/"><u>[New] 2024 Approved Top 15 Snapchat Sharing Tactics for Maximum Impact</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-hand-to-hand-heroes-the-definitive-switch-fighting-game-countdown-for-2024/"><u>[Updated] Hand-to-Hand Heroes The Definitive Switch Fighting Game Countdown for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unlocking-your-phones-potential-with-custom-android-audio-alerts/"><u>2024 Approved Unlocking Your Phone's Potential with Custom Android Audio Alerts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-beginners-journey-into-gameplay-capturing-with-obs/"><u>A Beginner's Journey Into Gameplay Capturing with OBS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-database-recovery-methods/"><u>Celestial Database Recovery Methods</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/decoding-and-fixing-video-error-0xc10100be/"><u>Decoding and Fixing Video Error: 0XC10100be</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/handling-complex-excel-database-conversions-in-real-time-without-data-loss-expert-advice-on-converting-massive-edb-datasets-with-ease-and-efficiency/"><u>Handling Complex Excel Database Conversions in Real Time without Data Loss – Expert Advice on Converting Massive EDB Datasets with Ease and Efficiency</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-narzo-n53-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme Narzo N53 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tech-talk-m06-audio-pairing-perfectly-executed/"><u>Tech Talk: M06 Audio Pairing Perfectly Executed</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-ultimate-fix-for-damaged-films-correcting-mp4mov-issues-with-vlc-player-techniques/"><u>The Ultimate Fix for Damaged Films: Correcting MP4/MOV Issues with VLC Player Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-stunning-pixel-perfect-combinations-for-2024/"><u>The Ultimate Guide to Stunning Pixel-Perfect Combinations for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-not-playing-overcome-code-224003/"><u>Video Not Playing: Overcome Code 224003</u></a></li>
+</ul></div>
 
