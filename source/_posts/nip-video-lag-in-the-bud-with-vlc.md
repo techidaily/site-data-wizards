@@ -1,7 +1,7 @@
 ---
 title: Nip Video Lag in the Bud with VLC
-date: 2024-10-22T05:22:16.046Z
-updated: 2024-10-23T18:29:33.779Z
+date: 2024-10-25T17:37:27.564Z
+updated: 2024-10-29T23:11:25.933Z
 categories:
   - repair-tools
 description: This Article Describes Nip Video Lag in the Bud with VLC
@@ -59,10 +59,10 @@ _Figure: Audio delay message in VLC_
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
@@ -79,19 +79,6 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -115,10 +102,10 @@ _Figure: Set Audio desynchronization compensation value in VLC_
  The video or movie should now play without any audio sync issue in the VLC Player.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
@@ -138,6 +125,19 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 * Click on the + or – button to increase or decrease the audio speed in your video. The + button will delay the sound by 50 milliseconds, whereas the – button will hasten the sound. Press the + and – buttons until the audio gets synced with the video.
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
@@ -165,6 +165,13 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
  It’s annoying when your favourite VLC Player suddenly starts playing videos out of sync. But the best thing about VLC is that it can fix its glitches. You can use various features in VLC to fix video-audio sync problems.
@@ -180,13 +187,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -215,20 +215,20 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-hardware-hurdles-whats-necessary-for-big-sur/"><u>[New] Hardware Hurdles What's Necessary for Big Sur?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-swift-solutions-shifting-ios-media-files/"><u>[Updated] 2024 Approved Swift Solutions Shifting iOS Media Files</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-turning-dull-vids-into-engaging-experienents-with-music/"><u>[Updated] In 2024, Turning Dull Vids Into Engaging Experienents With Music</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/easy-steps-to-restore-broken-movie-files-in-mp4mov-format-via-vlc/"><u>Easy Steps to Restore Broken Movie Files in MP4/MOV Format via VLC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/electric-vehicle-charging-prices-whats-the-average-cost-today/"><u>Electric Vehicle Charging Prices: What's the Average Cost Today?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/error-36-remedy-for-mac-trash-failure/"><u>Error 36 Remedy for Mac Trash Failure</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/from-obscurity-to-clarity-stellar-recovery-insights-by-totan/"><u>From Obscurity to Clarity: Stellar Recovery Insights by Totan</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/macs-comeback-heroes-unveiling-8-data-recovery-applications/"><u>Mac's Comeback Heroes: Unveiling 8 Data Recovery Applications</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/table-content-creation-on-youtube-through-smart-adsense-use-for-2024/"><u>Profitable Content Creation on YouTube Through Smart AdSense Use for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/speedy-transaction-astral-movie-enlightenment/"><u>Speedy Transaction: Astral Movie Enlightenment</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/streamlining-exclusive-video-content/"><u>Streamlining Exclusive Video Content</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/swiftly-sync-av-with-vlc-media-player/"><u>Swiftly Sync AV with VLC Media Player</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-6s-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 6s Making It Possible</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-halt-real-time-audiovideo-capturing-on-apples-platform-for-2024/"><u>[New] Halt Real-Time Audio/Video Capturing on Apple's Platform for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-10-top-inspirational-movies-for-personal-power-boosts/"><u>[Updated] 10 Top Inspirational Movies for Personal Power Boosts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphone-pro-photography-mastery-of-leading-lines/"><u>[Updated] IPhone Pro Photography Mastery of Leading Lines</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-find-x7-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Find X7 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/customer-experience-hard-drive-revival/"><u>Customer Experience: Hard Drive Revival</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-broken-mpeg-videos-ultimate-guide-to-restoring-corrupted-files/"><u>Fixing Broken MPEG Videos: Ultimate Guide to Restoring Corrupted Files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-x50-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor X50? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-peering-into-popularity-twitters-top-videos/"><u>In 2024, Peering Into Popularity Twitter’s Top Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-fix-for-plodding-video-playbacks/"><u>Quick Fix for Plodding Video Playbacks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reclaiming-ravaged-recordings-a-sample-method/"><u>Reclaiming Ravaged Recordings: A Sample Method</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-ingenious-insights-a-comprehensive-diy-guide-to-using-your-software-toolkit-wisely/"><u>Stellar's Ingenious Insights: A Comprehensive DIY Guide to Using Your Software Toolkit Wisely</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tutorial-download-youtube-for-your-idevice-securely-for-2024/"><u>Tech Tutorial Download YouTube for Your iDevice Securely for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-ultimate-guide-to-fluid-video-streaming-experience/"><u>The Ultimate Guide to Fluid Video Streaming Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-potential-top-10-ai-tools-for-podcast-titles-for-2024/"><u>Unleashing Potential Top 10 AI Tools for Podcast Titles for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/visual-visionaries-using-chatgpt-for-innovative-images/"><u>Visual Visionaries: Using ChatGPT for Innovative Images</u></a></li>
 </ul></div>
 

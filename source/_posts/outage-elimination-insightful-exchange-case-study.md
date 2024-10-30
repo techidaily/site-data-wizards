@@ -1,7 +1,7 @@
 ---
 title: "Outage Elimination: Insightful Exchange Case Study"
-date: 2024-08-22T12:25:23.474Z
-updated: 2024-08-23T12:25:23.474Z
+date: 2024-10-26T00:51:35.363Z
+updated: 2024-10-29T17:10:57.344Z
 categories:
   - repair-tools
 description: "This Article Describes Outage Elimination: Insightful Exchange Case Study"
@@ -24,33 +24,37 @@ CASE STUDY
 
  Worktrainers Ltd., a not-for-profit company providing traffic control and hire services while assisting students with their employment and career paths, experienced a catastrophic email outage when their Exchange Server 2013 started dropping mailboxes. This outage affected approximately 50 users and brought their business operations to a halt. This case study explores the issues faced by Worktrainers Ltd., the attempted solutions, and how Stellar Repair for Exchange software resolved the critical email outage, minimizing the impact on the company.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Background
 
  The Exchange Server 2013 Standard, which hosted the main database for Worktrainers Ltd., began encountering problems with dropping mailboxes. Users were unable to access their mailboxes, send, or receive emails. After a few hours, the database completely dismounted, leaving the entire company without email access.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Impact on the Business
 
  Emails are vital for business operations, and even a short outage can result in significant issues and lost opportunities. Worktrainers Ltd. issued a statement highlighting the impact of the email outage on their business: "We missed out on work with some of our customers as they tried to send out urgent emails while we were offline. This has caused us thousands of dollars in lost work and time recovering the old emails and server."
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Attempted Solutions
 
 * As the sole IT administrator in the company, resolving the email outage was a pressing matter. The administrator attempted to repair the database using the built-in ESEUTIL command on the Exchange Server, employing both smooth and hard recovery methods. However, after six hours, the repair process failed, and the database still did not mount.
 * Another option was to restore from the backup software in use. However, a complication arose during the merge operation of the VHDX files with the auto VHDX file created after the restore. Despite investing additional time and resources, the virtual drives were eventually merged, and the Exchange Server was booted. However, the server reported numerous health errors with the core services.
 * Administrator decided to make an emergency migration to Exchange Online on Microsoft 365\. The process involved creating a tenant, verifying the domain, creating mailboxes and groups, and changing the MX record to Microsoft 365\. After conducting quick tests using Outlook Web Access (OWA), emails were sent and received. User accounts were secured with Multi-Factor Authentication (MFA), and credentials were distributed. Gradually, normal operations resumed. However, the challenge remained of migrating data from the non-operational and corrupted Exchange Server databases.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Solution and Benefits
 
  Due to the Exchange Server's unusable state and the corrupted databases, the decision was made to utilize Stellar Repair for Exchange. The software license was purchased, and it was installed on a separate virtual machine. The application was initiated, and after a quick scan of the EDB files, the administrator was able to export all mailboxes to PST files for safekeeping. The software also facilitated the seamless migration of all data to Office 365, leveraging automatic mailbox mapping. As a result, users were finally able to continue their work. The administrator expressed their satisfaction with the software: "After using Stellar Exchange Repair, I realize I would have been better off deciding to migrate to Microsoft 365 earlier to prevent further email loss. Stellar was very easy to use and allowed me to recover mailboxes while we were up and running with Microsoft 365."
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -62,9 +66,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![upward](https://www.stellarinfo.com/casestudy/casestudy/images/upward-assets-logo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ##### Statement from the customer
 
  “After utilizing Stellar Exchange Repair, I now recognize the advantage of opting for earlier migration to Microsoft 365 to avoid additional email loss. Stellar proved to be user-friendly, enabling mailbox recovery while seamlessly operating on Microsoft 365.”
@@ -94,6 +95,13 @@ Worktrainers Ltd
 ##### Benefits
 
  Resolved the email outage, recovered data, enhanced security, and using user-friendly software for mailbox recovery.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Read More Case Studies
 
@@ -131,9 +139,6 @@ Worktrainers Ltd
 
  WHY STELLAR® IS GLOBAL LEADER
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Why Choose Stellar?
 
 * 0  M+  
@@ -156,6 +161,13 @@ Awards Received
 * ![NIST](https://www.stellarinfo.com/images/v7/nist.png)
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Stellar Official Website
 
  Stellar Data Recovery Inc.  
@@ -167,23 +179,6 @@ Awards Received
 
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  About
 
 * [About us](https://tools.techidaily.com/stellardata-recovery/buy-now/)
@@ -240,8 +235,6 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -249,6 +242,19 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-crafting-memes-with-kinemaster/"><u>[Updated] Step-by-Step Crafting Memes with KineMaster</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-first-edition-top-notch-user-centric-game-edit-apps/"><u>2024 Approved First Edition Top-Notch, User-Centric Game Edit Apps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/augmenting-your-database-mysql-enhancements-by-admin-augusto/"><u>Augmenting Your Database: MySQL Enhancements by Admin Augusto</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/harvest-hits-roundup-next-gen-farming-game-picks-for-2024/"><u>Harvest Hits Roundup Next-Gen Farming Game Picks for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-xiaomi-13t-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi 13T? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/reconstitution-de-fichiers-et-de-dossiers-avec-aomei-backupper-guide-complet/"><u>Reconstitution De Fichiers Et De Dossiers Avec AOMEI Backupper – Guide Complet</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-mp4-video-integrity/"><u>Restoring MP4 Video Integrity</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviveclipbot-restore-videos-in-seconds/"><u>ReviveClipBot: Restore Videos in Seconds</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solutions-to-avoid-video-decline-after-exporting/"><u>Solutions to Avoid Video Decline After Exporting</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-data-recovery-techniques-demystified-by-singh/"><u>Stellar Data Recovery Techniques Demystified by Singh</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-incredible-secrets-of-emojis-revealed/"><u>Top 10 Incredible Secrets of Emojis Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-lenovo-yoga-pro-cuarto-de-hora-a-critique-on-its-enduring-keyboard-and-lightweight-structure/"><u>Unveiling the Lenovo Yoga Pro Cuarto De Hora - A Critique on Its Enduring Keyboard and Lightweight Structure</u></a></li>
+</ul></div>
 

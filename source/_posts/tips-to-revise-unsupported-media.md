@@ -1,7 +1,7 @@
 ---
 title: Tips to Revise Unsupported Media
-date: 2024-10-23T03:45:36.709Z
-updated: 2024-10-24T00:51:06.506Z
+date: 2024-10-26T19:26:28.684Z
+updated: 2024-10-30T01:30:33.660Z
 categories:
   - repair-tools
 description: This Article Describes Tips to Revise Unsupported Media
@@ -67,6 +67,13 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -85,6 +92,13 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -96,6 +110,13 @@ _Figure: Mac suggests installed apps to open video_
  However, be aware that there may be malicious ads for codec downloads. This can put your computer at risk. Make sure you download codecs from a trusted source, preferably from the manufacturer’s site.
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
@@ -118,13 +139,6 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -134,13 +148,6 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -160,13 +167,6 @@ _Figure: Video profile options in VLC Player_
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
@@ -198,10 +198,10 @@ _Figure: Preview video after repair_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Wrapping up**
@@ -239,14 +239,16 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-vital-social-spaces-maximizing-business-outreach-and-impact/"><u>[New] 2024 Approved Vital Social Spaces Maximizing Business Outreach and Impact</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-lut-techniques-for-enhanced-ae-visuals/"><u>2024 Approved LUT Techniques for Enhanced AE Visuals</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-a-stellar-game-channels-look-a-step-by-step-approach/"><u>Creating a Stellar Game Channels Look A Step-By-Step Approach</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-track-to-freshly-installed-canon-mp560-driver-version/"><u>Fast Track to Freshly Installed Canon MP560 Driver Version</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/first-to-successfully-unlock-encrypted-hard-drives-stellars-milestone/"><u>First to Successfully Unlock Encrypted Hard Drives - Stellar's Milestone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/interstellar-showcase-prime-productions-plus-stars-praise/"><u>Interstellar Showcase: Prime Productions + Stars' Praise</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-essential-toolkit-insightful-guides-and-handy-diy-tips/"><u>Stellar's Essential Toolkit: Insightful Guides and Handy DIY Tips</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ultimate-pixel-perfectionizer/"><u>Ultimate Pixel Perfectionizer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elite-android-and-pc-mkv-software/"><u>[Updated] 2024 Approved Elite Android & PC MKV Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-enchant-your-e-images-with-electronic-soundtracks/"><u>[Updated] 2024 Approved Enchant Your E-Images with Electronic Soundtracks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-adding-a-flurry-of-images-and-videos-to-your-ig-story-for-2024/"><u>[Updated] Step-by-Step Adding a Flurry of Images & Videos to Your IG Story for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-freesync-review-the-latest-from-lg-27uhd68-monitor/"><u>2024 Approved FreeSync Review The Latest From LG 27UHD68 Monitor</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-video-repair-hiccup-steps-forward/"><u>Advanced Video Repair Hiccup: Steps Forward?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-strategies-to-repair-corrupted-mov-files-with-ease-via-vlc-media-player/"><u>Expert Strategies to Repair Corrupted Mov Files with Ease via VLC Media Player</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/face-off-analysis-zuckerberg-reviews-meta-quest-3-and-apple-vision-pro-expert-take/"><u>Face-Off Analysis: Zuckerberg Reviews Meta Quest 3 and Apple Vision Pro | Expert Take</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-sequential-image-storytelling-on-ig/"><u>In 2024, Sequential Image Storytelling on IG</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoreclipai-intelligent-video-recovery/"><u>RestoreClipAI: Intelligent Video Recovery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-for-smooth-repair-of-quicktime-files/"><u>Stellar for Smooth Repair of QuickTime Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlock-the-mysteries-of-data-loss-with-totan-banerjee-at-stellar-inc/"><u>Unlock the Mysteries of Data Loss with Totan Banerjee at Stellar Inc.</u></a></li>
 </ul></div>
 

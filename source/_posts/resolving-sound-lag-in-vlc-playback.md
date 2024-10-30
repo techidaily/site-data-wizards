@@ -1,7 +1,7 @@
 ---
 title: Resolving Sound Lag in VLC Playback
-date: 2024-10-16T20:12:06.533Z
-updated: 2024-10-24T01:38:40.818Z
+date: 2024-10-29T01:41:44.773Z
+updated: 2024-10-29T22:13:54.755Z
 categories:
   - repair-tools
 description: This Article Describes Resolving Sound Lag in VLC Playback
@@ -46,6 +46,13 @@ Table of Content
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
 _Figure: Audio delay message in VLC_
@@ -73,13 +80,6 @@ _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
  Often, users ask if every time they play a video in VLC, they have to manually adjust Audio track synchronization to get the audio in sync with the video. So, is it possible for this setting to be saved permanently?
@@ -102,10 +102,10 @@ _Figure: Set Audio desynchronization compensation value in VLC_
  The video or movie should now play without any audio sync issue in the VLC Player.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
@@ -125,6 +125,13 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 * Click on the + or – button to increase or decrease the audio speed in your video. The + button will delay the sound by 50 milliseconds, whereas the – button will hasten the sound. Press the + and – buttons until the audio gets synced with the video.
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
@@ -152,13 +159,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
  It’s annoying when your favourite VLC Player suddenly starts playing videos out of sync. But the best thing about VLC is that it can fix its glitches. You can use various features in VLC to fix video-audio sync problems.
@@ -176,10 +176,10 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -209,20 +209,16 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-effortless-webinar-capture-techniques-for-os-xwindows-enthusiasts-for-2024/"><u>[New] Effortless Webinar Capture Techniques for OS X/Windows Enthusiasts for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-premium-free-pubg-thumbnail-collections/"><u>[Updated] Premium Free PUBG Thumbnail Collections</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-discover-engaging-free-slide-shows-with-these-amazing-template-selections/"><u>2024 Approved Discover Engaging, Free Slide Shows with These Amazing Template Selections</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/effectiveness-amplification/"><u>Effectiveness Amplification</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expertly-choose-your-video-recovery-software-top-10-selections-for-windows-and-macos/"><u>Expertly Choose Your Video Recovery Software: Top 10 Selections for Windows and macOS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/foremost-6-networks-fostering-profitable-partnerships/"><u>Foremost 6 Networks Fostering Profitable Partnerships</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/immediate-exchange-outer-space-film-restore/"><u>Immediate Exchange: Outer Space Film Restore</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-innovative-strategies-for-top-10-ig-grid-design-software/"><u>In 2024, Innovative Strategies for Top 10 IG Grid Design Software</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-14-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 14 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-recoverable-videos-at-home/"><u>Reviving Recoverable Videos at Home</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/techniques-to-maintain-high-video-standards-post-export/"><u>Techniques to Maintain High Video Standards Post-Export</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-stellar-guide-to-salvaging-silent-files-totan-banerjee-edition/"><u>The Stellar Guide to Salvaging Silent Files - Totan Banerjee Edition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-13-webcam-software-fur-windows-10-experten-empfehlungen-mit-movavi/"><u>Top 13 Webcam-Software Für Windows 10 - Experten Empfehlungen Mit Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/water-rescue-mission-how-to-recover-and-restore-water-damaged-iphones-and-ipods/"><u>Water Rescue Mission: How to Recover and Restore Water-Damaged iPhones & iPods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ps-color-enhancement-simplified-approaches/"><u>[New] PS Color Enhancement Simplified Approaches</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nveiling-the-secrets-of-youtube-shorts-success-for-2024/"><u>[New] Unveiling the Secrets of YouTube Shorts Success for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-vanguards-choice-of-top-12-high-tech-action-cams-with-locators/"><u>2024 Approved Vanguard's Choice of Top 12 High-Tech Action Cams With Locators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/digital-defenses-failing-an-ai-challenge/"><u>Digital Defenses Failing: An AI Challenge</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eradicate-trash-blockage-with-error-code-36-fix/"><u>Eradicate Trash Blockage with Error Code 36 Fix</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/external-hd-uncovered-8-fixes-for-mac-absence/"><u>External HD Uncovered: 8 Fixes for Mac Absence</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-minecraft-lan-not-responding-easy-steps-for-players/"><u>Fixing 'Minecraft LAN Not Responding' - Easy Steps for Players</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hd-restoration-engine-video-salvation/"><u>HD Restoration Engine: Video Salvation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-razr-40-ultra-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reinstate-dormant-media-content/"><u>Reinstate Dormant Media Content</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubled-by-faulty-advanced-video-fix/"><u>Troubled by Faulty Advanced Video Fix?</u></a></li>
 </ul></div>
 

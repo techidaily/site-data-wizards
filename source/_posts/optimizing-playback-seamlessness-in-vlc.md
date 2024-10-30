@@ -1,7 +1,7 @@
 ---
 title: Optimizing Playback Seamlessness in VLC
-date: 2024-10-17T22:08:07.757Z
-updated: 2024-10-23T23:37:15.006Z
+date: 2024-10-24T21:08:31.650Z
+updated: 2024-10-30T02:06:03.389Z
 categories:
   - repair-tools
 description: This Article Describes Optimizing Playback Seamlessness in VLC
@@ -46,6 +46,13 @@ Table of Content
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
 _Figure: Audio delay message in VLC_
@@ -59,10 +66,16 @@ _Figure: Audio delay message in VLC_
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
@@ -79,13 +92,6 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -109,10 +115,10 @@ _Figure: Set Audio desynchronization compensation value in VLC_
  The video or movie should now play without any audio sync issue in the VLC Player.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
@@ -132,13 +138,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 * Click on the + or – button to increase or decrease the audio speed in your video. The + button will delay the sound by 50 milliseconds, whereas the – button will hasten the sound. Press the + and – buttons until the audio gets synced with the video.
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
@@ -182,6 +181,13 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -209,16 +215,18 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>[Updated] 2024 Approved The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-easycapture-prox-diagnosis-for-2024/"><u>[Updated] EasyCapture ProX Diagnosis for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/celebrating-the-best-top-stop-motion-films-of-all-times-for-2024/"><u>Celebrating the Best Top Stop-Motion Films of All Times for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/clear-buffering-issues-on-vlc-at-once/"><u>Clear Buffering Issues on VLC at Once</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/easy-solution-to-fix-video-stuck-or-freezing-in-vlc-player-stellar/"><u>Easy Solution to Fix Video Stuck or Freezing in VLC Player - Stellar</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/effizientes-ubertragen-von-videos-zwischen-iphone-und-ipad-mithilfe-der-airdrop-funktion-des-ios-systems/"><u>Effizientes Übertragen Von Videos Zwischen iPhone Und iPad Mithilfe Der AirDrop-Funktion Des iOS-Systems</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/effortless-software-upgrade-install-stellar-now/"><u>Effortless Software Upgrade - Install Stellar Now</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/eliminate-video-glitches-error-xc00d36c4/"><u>Eliminate Video Glitches - Error XC00D36C4</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhanced-edit-suite-virtual-repair-tools/"><u>Enhanced Edit Suite: Virtual Repair Tools</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-chargers-and-batteries-ultimate-guide-for-2e24/"><u>Top-Rated MagSafe Chargers & Batteries - Ultimate Guide for 2E24</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-crafting-engaging-youtube-end-credits/"><u>[Updated] In 2024, Crafting Engaging YouTube End Credits</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elevating-your-fun-with-the-affordable-syma-s111g-rc-helicopter-a-thorough-review-of-indoor-adventures/"><u>Elevating Your Fun with the Affordable Syma S111G RC Helicopter: A Thorough Review of Indoor Adventures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-do-live-streaming-with-periscope/"><u>How to Do Live Streaming with Periscope</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-realme-gt-neo-5-se-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Realme GT Neo 5 SE FRP Bypass Instantly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-artistic-ventures-on-ios-the-bestiary-of-the-top-8-drawing-apps/"><u>In 2024, Artistic Ventures on iOS The Bestiary of the Top 8 Drawing Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-charting-a-course-for-influential-insights-within-your-niche/"><u>In 2024, Charting a Course for Influential Insights Within Your Niche</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012864979-league-of-legends-connectivity-fixes-no-more-disconnects/"><u>League of Legends Connectivity Fixes - No More Disconnects!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/process-streamlining/"><u>Process Streamlining</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reimagine-your-cinematography-mastering-these-7-color-techniques/"><u>Reimagine Your Cinematography Mastering These 7 Color Techniques</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-and-restore-exploring-the-top-freepaid-data-rescue-tools/"><u>Revive & Restore: Exploring the Top Free/Paid Data Rescue Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-correct-component-missing-issue/"><u>Steps to Correct Component Missing Issue</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-12-fotos-de-software-livre-e-gratuito-para-criar-mosaicos-no-computador/"><u>Top 12 Fotos De Software Livre E Gratuito Para Criar Mosaicos No Computador</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/win11-blue-error-remedy-practical-tips-and-solutions/"><u>Win11 Blue Error Remedy: Practical Tips & Solutions</u></a></li>
 </ul></div>
 
