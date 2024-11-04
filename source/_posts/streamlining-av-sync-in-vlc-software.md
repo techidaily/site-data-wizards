@@ -1,7 +1,7 @@
 ---
 title: Streamlining AV Sync in VLC Software
-date: 2024-10-27T17:01:12.312Z
-updated: 2024-10-29T21:31:05.540Z
+date: 2024-11-02T18:32:34.549Z
+updated: 2024-11-04T16:06:11.862Z
 categories:
   - repair-tools
 description: This Article Describes Streamlining AV Sync in VLC Software
@@ -46,6 +46,13 @@ Table of Content
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
 _Figure: Audio delay message in VLC_
@@ -57,6 +64,19 @@ _Figure: Audio delay message in VLC_
  If you are a Mac user, press the ‘G’ key to slow down the audio and the ‘F’ key to increase the audio speed.
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
@@ -72,13 +92,6 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -101,13 +114,6 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 
  The video or movie should now play without any audio sync issue in the VLC Player.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -126,13 +132,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -144,6 +143,19 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  **Note:**  Not all video repair software is advanced enough to fix audio problems in videos. So, before choosing one, make sure it is capable of fixing sound issues in a video file.
 
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to fix audio sync issue with repair software**
 
@@ -158,6 +170,13 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  You don’t need to do any resetting or learn to use the software. It’s easy to use and has advanced algorithms that work without you making any effort.
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -174,19 +193,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -215,22 +221,18 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-uncomplicated-tutorial-for-capturing-mac-screenshots/"><u>[New] In 2024, Uncomplicated Tutorial for Capturing Mac Screenshots</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-insights-how-to-use-it-for-beginners-for-2024/"><u>[Updated] Facebook Insights How to Use It for Beginners for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-curbing-motion-induced-discomfort-in-vr/"><u>[Updated] In 2024, Curbing Motion-Induced Discomfort in VR</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-perfect-cuts-on-demand-top-10-apps-for-youtube-short-edits/"><u>[Updated] Perfect Cuts on Demand Top 10 Apps for Youtube Short Edits</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/compatible-formatting-options/"><u>Compatible Formatting Options</u></a></li>
-<li><a href="https://win-blog.techidaily.com/diagnose-and-repair-fallout-76-network-problems-on-pc/"><u>Diagnose and Repair Fallout 76 Network Problems on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-windows-11-display-visibility-quick-fix-guide/"><u>Enhance Windows 11 Display Visibility: Quick Fix Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expertly-repaired-mysql-systems-in-video-featuring-augusto/"><u>Expertly Repaired MySQL Systems in Video Featuring Augusto</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/from-deletion-to-joy-a-testimonial-on-extraordinary-photo-salvage/"><u>From Deletion to Joy: A Testimonial on Extraordinary Photo Salvage</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/hearing-you-loud-and-clear-a-support-score-at-a-dazzling-245/"><u>Hearing You Loud and Clear - A Support Score at a Dazzling 245</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ms-sql-mastery-a-microsoft-mvps-perspective/"><u>MS SQL Mastery: A Microsoft MVP’s Perspective</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/preserving-video-quality-fixes-and-remedies-in-os-x/"><u>Preserving Video Quality: Fixes & Remedies in OS X</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-nokia-g22-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia G22 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/streamlined-movie-mending-with-stellars-hands-on-help/"><u>Streamlined Movie Mending with Stellar's Hands-On Help</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-ultimate-guide-to-uniting-social-media-powerhouses-facebook-linkedin-and-youtube/"><u>The Ultimate Guide to Uniting Social Media Powerhouses - Facebook, LinkedIn & YouTube</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720670323491-videos-in-top-form-no-distortions-allowed/"><u>Videos in Top Form, No Distortions Allowed!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-above-the-clouds-unveiled-best-online-portals-for-hd-skies/"><u>[New] Above the Clouds Unveiled Best Online Portals for HD Skies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ideal-7-video-players-for-apple-devices-for-2024/"><u>[New] Ideal 7 Video Players for Apple Devices for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-maximizing-play-in-apex-legends-without-cross-platform-limitations/"><u>[Updated] Maximizing Play in Apex Legends Without Cross-Platform Limitations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-streamline-your-smartphone-screen-activatedeactivate-pip-for-youtube-for-2024/"><u>[Updated] Streamline Your Smartphone Screen Activate/Deactivate PIP for YouTube for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-repairs-a-new-dawn-for-dbs/"><u>Celestial Repairs: A New Dawn for DBs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/discover-the-new-era-of-ease-with-stellars-mac-data-software/"><u>Discover the New Era of Ease with Stellar's Mac Data Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effective-tactics-in-remedying-visual-errors/"><u>Effective Tactics in Remedying Visual Errors</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/email-disruptions-tackled-case-study-review/"><u>Email Disruptions Tackled: Case Study Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-enhancing-visuals-through-effective-music-addition-techniques-in-premiere-pro/"><u>In 2024, Enhancing Visuals Through Effective Music Addition Techniques in Premiere Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-absent-signal-proc-in-windows-devices/"><u>Solve Absent Signal Proc in Windows Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-nubia-red-magic-8s-pro-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Nubia Red Magic 8S Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstuck-your-watch-dogs-legion-from-endless-loading-complete-fix-guide/"><u>Unstuck Your Watch Dogs: Legion From Endless Loading - Complete Fix Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/unveiling-the-most-powerful-alternatives-to-vimeo-cameo-editor/"><u>Unveiling the Most Powerful Alternatives to Vimeo Cameo Editor</u></a></li>
 </ul></div>
 

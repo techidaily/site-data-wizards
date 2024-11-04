@@ -1,7 +1,7 @@
 ---
 title: "Seamless Playback: Tackling Timing Inconsistencies in VLC"
-date: 2024-10-23T18:32:25.022Z
-updated: 2024-10-29T22:16:53.100Z
+date: 2024-10-30T19:26:51.942Z
+updated: 2024-11-04T16:07:55.982Z
 categories:
   - repair-tools
 description: "This Article Describes Seamless Playback: Tackling Timing Inconsistencies in VLC"
@@ -47,10 +47,16 @@ Table of Content
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
@@ -81,10 +87,10 @@ _Figure: Audio track synchronization in VLC_
 * Next, click**Close** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
@@ -108,6 +114,13 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 
  The video or movie should now play without any audio sync issue in the VLC Player.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -127,10 +140,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
@@ -175,13 +188,6 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Was this article helpful?
 
 YES 0
@@ -209,18 +215,16 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-free-youtube-intro-makers/"><u>[New] 2024 Approved Best Free YouTube Intro Makers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-bridging-communication-gaps-utilizing-zoom-with-gmail-mail-for-2024/"><u>[New] Bridging Communication Gaps Utilizing Zoom with Gmail Mail for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-interactive-escapes-top-10-virtual-accessories-for-2024/"><u>[New] Interactive Escapes Top 10 Virtual Accessories for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-best-photo-boosts-for-perfecting-your-feed/"><u>[Updated] 2024 Approved Best Photo Boosts for Perfecting Your Feed</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-path-to-profit-deciphering-vids-on-dm-and-yo/"><u>[Updated] Path to Profit Deciphering Vids on Dm and Yo</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-first-lessons-in-frame-rate-and-fidelity-for-newbies/"><u>2024 Approved The First Lessons in Frame Rate and Fidelity for Newbies</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720672751491-blue-screen-downfall-turn-it-around-with-these-tips/"><u>Blue Screen Downfall? Turn It Around with These Tips!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mac-owners-meet-phoenix-stellars-latest-jpeg-enhancement/"><u>Mac Owners, Meet Phoenix: Stellar’s Latest JPEG Enhancement</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quickbooks-savior-new-software-repairs-by-stellars-team/"><u>QuickBooks Savior: New Software Repairs by Stellar's Team</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-lost-media-quick-tips/"><u>Restoring Lost Media: Quick Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722993529203-rocket-league-not-opening-heres-how-to-fix-it/"><u>Rocket League Not Opening? Here's How to Fix It!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-repair-for-quickbooks-software/"><u>Stellar Repair for QuickBooks Software</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/win10-upgrade-overcoming-video-quality-decline/"><u>Win10 Upgrade: Overcoming Video Quality Decline</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ideal-methods-for-streaming-and-archiving-sports-events-for-2024/"><u>[New] Ideal Methods for Streaming and Archiving Sports Events for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-tapping-into-trends-your-guide-to-impactful-instagram-tags/"><u>[Updated] Tapping Into Trends Your Guide to Impactful Instagram Tags</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-timing-discrepancies-in-vlc/"><u>Fixing Timing Discrepancies in VLC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-wudfhostexe-from-hiking-cpu-use-on-your-windows-10-pc/"><u>How to Stop wudfhost.exe From Hiking CPU Use on Your Windows 10 PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Is it Possible to Use Miracast with Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mac-dedicated-users-video-testimonials/"><u>Mac Dedicated Users' Video Testimonials</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/securely-transferring-past-email-data-into-live-exchange-server/"><u>Securely Transferring Past Email Data Into LIVE Exchange Server</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-adobe-premiere-pro-crashes-on-windows-11-and-10-solved/"><u>Troubleshooting Adobe Premiere Pro Crashes on Windows 11 and 10 - Solved!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-solutions-for-smooth-video-streams/"><u>Ultimate Solutions for Smooth Video Streams</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-get-radiant-skin-in-fcpx-no-plugins-required/"><u>Updated 2024 Approved Get Radiant Skin in FCPX No Plugins Required</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/videocare-restore-and-revive/"><u>VideoCare: Restore and Revive</u></a></li>
 </ul></div>
 

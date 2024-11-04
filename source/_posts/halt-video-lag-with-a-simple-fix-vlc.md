@@ -1,7 +1,7 @@
 ---
 title: Halt Video Lag with a Simple Fix (VLC)
-date: 2024-10-26T18:37:59.363Z
-updated: 2024-10-29T22:47:56.616Z
+date: 2024-11-01T16:45:57.205Z
+updated: 2024-11-04T17:41:44.682Z
 categories:
   - repair-tools
 description: This Article Describes Halt Video Lag with a Simple Fix (VLC)
@@ -45,24 +45,18 @@ Table of Content
 
  You can apply the solutions here to play high-quality HD/ UHD/ HDR, 8k, or H.265 videos of any size and file format.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 1: Update VLC Media Player to the latest version**
 
  If your videos freeze, stutter, or are not playing in VLC Media Player, first update the player to the latest version. The updates improve support for new HD codecs, advanced formats, HDR, H.265/HEVC, 4K & 8K playback, 360-degree videos, VP9 (HD videos at lower bitrates), and others for decoding and encoding. It also fixes streaming issues and bugs, if any.
 
 **Also read:** [How to open HEIC, HEVC files on Windows 10](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 2: Increase cache values in VLC Player**
 
@@ -85,10 +79,10 @@ _Figure: Input/Codecs pane in VLC_
 * Click**Save.** Next, restart VLC Player and check if the videos are playing properly.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 3: Disable Hardware Decoding in VLC Player**
@@ -124,13 +118,6 @@ _Figure: Input/Codecs pane in VLC_
 
 * Click**Save** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 5: Switch video output to DirectX DirectDraw in VLC**
 
  Try switching between output video stream settings in the VLC media player. For example, you can set the output video module to Direct 3D video output, DirectX DirectDraw, or Open GL video output.
@@ -161,6 +148,13 @@ _Figure: Video output modules in VLC_
 * Click on**Save** at the bottom**.**
 * Check if VLC Player can play your videos without freeze or interruption.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 6: Repair your video using Stellar Repair for Video**
 
  The video file may be corrupt if the above methods using VLC Media Player don’t fix video freeze, lag, or stuttering issues. To confirm corruption, see if your video freezes while playing in another media player.
@@ -183,6 +177,13 @@ _Figure: Video output modules in VLC_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
  Here we have recommended changing the settings of VLC Media Player to fix video freezing or lag using the below methods:
@@ -196,13 +197,6 @@ _Figure: Video output modules in VLC_
  If changing the VLC settings doesn’t work, your file may be corrupt. Repair it using an advanced video repair software — Stellar Repair for Video that fixes corrupt header, data, frames, slider movement, etc., in videos.
 
  I hope you found this helpful. Do share with our readers which method helped you fix Video Stuck or Freeze in the VLC player issue in the comment box below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,21 +225,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-insiders-approach-to-maximizing-youtube-video-revenue/"><u>[New] The Insider's Approach to Maximizing YouTube Video Revenue</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-video-wisdom-strategies-that-score-big/"><u>[Updated] In 2024, Instagram Video Wisdom Strategies That Score Big</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-guide-mastering-final-cut-pro/"><u>2024 Approved Complete Guide Mastering Final Cut Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-maximizing-your-sound-the-best-microphones-for-podcasting/"><u>2024 Approved Maximizing Your Sound The Best Microphones for Podcasting</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/digital-entertainment-preservation-online-tv-show-recording-101/"><u>Digital Entertainment Preservation Online TV Show Recording 101</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-intels-latest-arc-a76na-graphics-card-unleashing-high-performance-aaa-gaming-on-the-go-for-your-vehicle-with-advanced-xe-cores-ample-memory-and-11/"><u>Introducing Intel's Latest Arc A76nA Graphics Card: Unleashing High-Performance 'AAA Gaming on the Go' For Your Vehicle with Advanced Xe-Cores, Ample Memory & Efficient Power Draw</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-popular-digital-landscapes-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating Popular Digital Landscapes: Insights Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/non-functioning-files-after-salvage/"><u>Non-Functioning Files After Salvage</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overcoming-video-corruption-through-techniques/"><u>Overcoming Video Corruption Through Techniques</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-files-the-stellar-12-mac-ui/"><u>Reviving Files: The Stellar 12 Mac UI</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solutions-for-enhancing-cctv-footage-sharpness/"><u>Solutions for Enhancing CCTV Footage Sharpness</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/starry-shelves-top-rated-videos-plus-heartfelt-endorsements/"><u>Starry Shelves: Top-Rated Videos + Heartfelt Endorsements</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tech-product-warranty-note/"><u>Tech Product Warranty Note</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unleash-your-inner-documentarian-comprehensive-guide-for-recording-sims-4-gameplay-triumphantly-for-2024/"><u>Unleash Your Inner Documentarian Comprehensive Guide for Recording Sims 4 Gameplay Triumphantly for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-efficiency-advanced-tips-for-task-juggling-in-windows-11/"><u>Unlock Efficiency: Advanced Tips for Task Juggling in Windows 11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unmatched-video-editing-excellence-macwin-edition/"><u>Unmatched Video Editing Excellence - Mac/Win Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-exclusive-review-top-6-screen-recorders-for-mac/"><u>[New] Exclusive Review Top 6 Screen Recorders for Mac</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-lullabies-on-a-screen-analysis-of-story-tapes-for-sleep/"><u>[New] Lullabies on a Screen Analysis of Story Tapes for Sleep</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/op-8-youtube-imagery-techniques-for-higher-engagement-for-2024/"><u>[New] Top 8 YouTube Imagery Techniques for Higher Engagement for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-getting-started-in-the-world-of-online-product-evaluation-channels/"><u>[Updated] Getting Started in the World of Online Product Evaluation Channels</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-the-power-of-photography-and-videography-a-pixiz-approach/"><u>[Updated] Harnessing the Power of Photography & Videography A Pixiz Approach</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-it-guide-no-more-distorted-screens/"><u>Fix-It Guide: No More Distorted Screens</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-13-pro-max-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 13 Pro Max Device from iCloud</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-14-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 14 Pro Apple ID and Apple Pay</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211373526-9798990783232-liberandote-de-libro-de-ejercicio/"><u>Liberándote de... libro de ejercicio | Free Book</u></a></li>
+<li><a href="https://facebook.techidaily.com/restoring-accessibility-of-your-deactivated-facebook-account/"><u>Restoring Accessibility of Your Deactivated Facebook Account</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-your-tapes-stellar-phoenix-for-flawless-fixes-on-mac/"><u>Revive Your Tapes: 'Stellar Phoenix' For Flawless Fixes on Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/starborne-solutions-sql-anywhere-recovery/"><u>Starborne Solutions: SQL Anywhere Recovery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-archivist-totans-guide-to-lost-data-salvation/"><u>Stellar Archivist: Totan's Guide to Lost Data Salvation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unchain-your-data-with-free-stellar-recovery/"><u>Unchain Your Data with Free Stellar Recovery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unleash-your-macs-potential-stellar-speedup-utility/"><u>Unleash Your Mac's Potential: Stellar Speedup Utility</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/upgraded-backup-for-everyday-users-with-stellars-new-tools/"><u>Upgraded Backup for Everyday Users with Stellar's New Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/voices-for-verification-consumer-reviews-in-motion/"><u>Voices for Verification: Consumer Reviews in Motion</u></a></li>
 </ul></div>
 

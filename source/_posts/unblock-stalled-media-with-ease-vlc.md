@@ -1,7 +1,7 @@
 ---
 title: Unblock Stalled Media with Ease (VLC)
-date: 2024-10-29T00:54:35.196Z
-updated: 2024-10-29T23:21:38.221Z
+date: 2024-11-02T17:17:44.207Z
+updated: 2024-11-04T19:40:15.842Z
 categories:
   - repair-tools
 description: This Article Describes Unblock Stalled Media with Ease (VLC)
@@ -45,18 +45,18 @@ Table of Content
 
  You can apply the solutions here to play high-quality HD/ UHD/ HDR, 8k, or H.265 videos of any size and file format.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 1: Update VLC Media Player to the latest version**
 
  If your videos freeze, stutter, or are not playing in VLC Media Player, first update the player to the latest version. The updates improve support for new HD codecs, advanced formats, HDR, H.265/HEVC, 4K & 8K playback, 360-degree videos, VP9 (HD videos at lower bitrates), and others for decoding and encoding. It also fixes streaming issues and bugs, if any.
 
 **Also read:** [How to open HEIC, HEVC files on Windows 10](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 2: Increase cache values in VLC Player**
 
@@ -78,19 +78,6 @@ _Figure: Input/Codecs pane in VLC_
 * In the**Advanced** section, across**File caching (ms),** change the value to 1000 or above.
 * Click**Save.** Next, restart VLC Player and check if the videos are playing properly.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 3: Disable Hardware Decoding in VLC Player**
 
  VLC Media Player can use the GPU of a computer to accelerate video decoding in high-quality videos. However, your PC’s drivers may behave abruptly, resulting in video playback or streaming issues. You can try disabling hardware decoding to fix Video Stuck or Freeze in the VLC player.
@@ -107,6 +94,13 @@ _Figure: Input/Codecs pane in VLC_
 
 * Under**FFmpeg audio/video decoder** , scroll down to**Hardware decoding** and set it to**Disable** .
 * Click **Save** . Restart VLC Payer to enable the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 4: Change FFmpeg settings in VLC Player**
 
@@ -125,10 +119,10 @@ _Figure: Input/Codecs pane in VLC_
 * Click**Save** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 5: Switch video output to DirectX DirectDraw in VLC**
@@ -161,6 +155,13 @@ _Figure: Video output modules in VLC_
 * Click on**Save** at the bottom**.**
 * Check if VLC Player can play your videos without freeze or interruption.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 6: Repair your video using Stellar Repair for Video**
 
  The video file may be corrupt if the above methods using VLC Media Player don’t fix video freeze, lag, or stuttering issues. To confirm corruption, see if your video freezes while playing in another media player.
@@ -182,13 +183,6 @@ _Figure: Video output modules in VLC_
 **Step 4** : Preview the repaired videos before saving them to your desired location. Select videos and click on**Save Repaired Files.**
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -231,19 +225,20 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-mastering-iphone-creating-and-editing-low-speed-video-clips/"><u>[New] In 2024, Mastering iPhone Creating & Editing Low-Speed Video Clips</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720671634960-enhance-vlc-performance-no-delays-here/"><u>Enhance VLC Performance: No Delays Here</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-and-spotify-collaborate-on-innovative-boombox-venture/"><u>Facebook & Spotify Collaborate on Innovative Boombox Venture</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-google-voice-call-recording-essential-steps-for-2024/"><u>Mastering Google Voice Call Recording Essential Steps for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-y02t-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo Y02T Phone Now with These Tips</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720671176156-problems-with-stellar-video-fix-consistency/"><u>Problems with Stellar Video Fix Consistency.</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/professional-hardware-and-software-fixes-for-video-issues-with-grau-gmbhs-solution/"><u>Professional Hardware and Software Fixes for Video Issues with Grau GmbH's Solution</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reverse-video-decay-step-by-step-guide/"><u>Reverse Video Decay – Step-by-Step Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/shutter-snapback-undo-deleted-images/"><u>Shutter Snapback: Undo Deleted Images</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-upgrade-one-click-to-enjoy-support/"><u>Stellar Upgrade: One Click to Enjoy Support</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-adding-flash-adverts-in-ebooks-using-flipbuilder-tools/"><u>Step-by-Step Guide: Adding Flash Adverts in Ebooks Using FlipBuilder Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-tips-and-tricks-to-resolve-the-dying-light-frame-rate-problem/"><u>Top Tips and Tricks to Resolve the Dying Light Frame Rate Problem 🕹️</u></a></li>
-<li><a href="https://solve-info.techidaily.com/wie-man-kontakte-in-google-drive-vor-dem-verlust-sichert-und-wiederherstellt/"><u>Wie Man Kontakte in Google Drive Vor Dem Verlust Sichert Und Wiederherstellt</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-breakthrough-strategies-for-youtube-short-problem-solving/"><u>[New] 2024 Approved Breakthrough Strategies for YouTube Short Problem-Solving</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1970-two-mules-for-sister-sara-with-eastwood-as-hogan-a-mercenary-who-is-hired-to-protect-a-mexican-nun-from-bandits-and-revolutionaries-in-mexico-during-th133/"><u>1970 - Two Mules for Sister Sara, with Eastwood as Hogan, a Mercenary Who Is Hired to Protect a Mexican Nun From Bandits and Revolutionaries in Mexico During the French Intervention. The Film Was Based on B. Traven's Novel ''A Wave Across Hell''.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-bridging-the-web-with-instagram-a-url-tutorial/"><u>2024 Approved Bridging the Web with Instagram A URL Tutorial</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-spectrum-of-virtuality-from-meta-to-omniverse-explored/"><u>2024 Approved The Spectrum of Virtuality From Meta to Omniverse Explored</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/efficient-data-allocation-for-mac-users-a-video-guide/"><u>Efficient Data Allocation for Mac Users – A Video Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-digital-networking-sites-exploring-facebook-twitter-instagram-and-youtube/"><u>Essential Digital Networking Sites: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/healing-split-screen-media-glitches/"><u>Healing Split-Screen Media Glitches</u></a></li>
+<li><a href="https://fox-info.techidaily.com/iconic-visual-alteration-suite-imagefusion-xtreme/"><u>Iconic Visual Alteration Suite ImageFusion Xtreme</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capturing-the-ultimate-xbox-experience-a-screen-recorders-manual/"><u>In 2024, Capturing the Ultimate Xbox Experience A Screen Recorder's Manual</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-f15-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy F15 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-and-easy-setup-guide-for-stellar-systems/"><u>Quick & Easy Setup Guide for Stellar Systems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quicktime-player-corrections-simplified-by-stellar-aid/"><u>QuickTime Player Corrections Simplified by Stellar Aid</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720668865688-repair-discrepancies-in-selected-video-files/"><u>Repair Discrepancies in Selected Video Files.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-sony-xperia-10-v-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Sony Xperia 10 V.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-restoration-techniques-for-amateurs/"><u>Video Restoration Techniques for Amateurs</u></a></li>
 </ul></div>
 

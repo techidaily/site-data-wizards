@@ -1,7 +1,7 @@
 ---
 title: Overcoming Challenges with Rare Encoding Methods
-date: 2024-10-26T18:55:39.607Z
-updated: 2024-10-29T20:18:20.199Z
+date: 2024-11-01T16:08:23.192Z
+updated: 2024-11-04T16:28:31.595Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Challenges with Rare Encoding Methods
@@ -97,6 +97,19 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -128,13 +141,6 @@ _Figure: VLC message when new version is available._
 
  The open source VLC Media Player can also convert video files to different format.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -150,19 +156,6 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
@@ -172,16 +165,10 @@ _Figure: Video profile options in VLC Player_
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
@@ -209,6 +196,13 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -218,10 +212,10 @@ _Figure: Preview video after repair_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -251,24 +245,21 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-influencing-cultures-through-memetic-expression/"><u>[Updated] Influencing Cultures Through Memetic Expression</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-creative-summit-top-talent-junction-for-2024/"><u>[Updated] The Creative Summit Top Talent Junction for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-christian-melodies-download-and-personalize-guide/"><u>[Updated] Top 10 Christian Melodies Download & Personalize Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elevate-your-win10-experience-updated-amd-radeon-hd-6950-drivers/"><u>Elevate Your Win10 Experience: Updated AMD Radeon HD 6950 Drivers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/health-advocacy-through-strategic-social-media-plays-for-2024/"><u>Health Advocacy Through Strategic Social Media Plays for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Motorola G54 5G? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/leveraging-facebook-linkedin-and-xing-for-enhanced-youtube-growth/"><u>Leveraging Facebook, LinkedIn & XING for Enhanced YouTube Growth</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mpeg-file-rescue-wizard-how-to-fix-and-salvage-corrupted-videos-with-precision/"><u>MPEG File Rescue Wizard: How to Fix and Salvage Corrupted Videos with Precision</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/real-client-experience-data-retrieval/"><u>Real Client Experience: Data Retrieval</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/recovery-ranger-rescue-jpeg-files-from-chaos/"><u>Recovery Ranger: Rescue JPEG Files From Chaos</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-loss-of-critical-dll-reinstating-mfc71u-on-pcs/"><u>Resolving Loss of Critical DLL: Reinstating Mfc71u on PCs</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revving-up-reluctant-recordings/"><u>Revving Up Reluctant Recordings</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/seamless-streaming-in-vlc-player/"><u>Seamless Streaming in VLC Player</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/streamline-your-videos-a-guide-to-igtv-posting-for-2024/"><u>Streamline Your Videos A Guide to IGTV Posting for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-10-video-restoration-tools-compatible-with-windows-and-macos/"><u>Top 10 Video Restoration Tools Compatible with Windows & macOS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-6-straightforward-abodes-blueprints-in-mc-world/"><u>Top 6 Straightforward Abodes Blueprints in MC World</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unseen-video-after-data-revival/"><u>Unseen Video After Data Revival</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/visionary-editing-brilliance-satisfaction-shared/"><u>Visionary Editing Brilliance, Satisfaction Shared</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/winx-dvd-player-tutorial-a-step-by-step-installation-and-usage-manual/"><u>WinX DVD Player Tutorial: A Step-by-Step Installation & Usage Manual</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-memimagic-create-funny-images-on-the-go/"><u>[New] MemiMagic Create Funny Images On-the-Go</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-elevating-your-contents-reach-without-breaching-laws/"><u>[Updated] 2024 Approved Elevating Your Content's Reach Without Breaching Laws</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/pting-youtubes-view-count-calculation-system/"><u>Decrypting YouTube’s View-Count Calculation System</u></a></li>
+<li><a href="https://fox-links.techidaily.com/full-assessment-of-slomo-application-trends-for-2024/"><u>Full Assessment of SloMo Application - Trends for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-netgear-wna3100-driver-software-here-fast-and-simple/"><u>Get the Latest Netgear WNA3100 Driver Software Here, Fast and Simple!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-fix-video-error-code-0xc10100be-stellar/"><u>How to Fix Video Error Code 0Xc10100be? - Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi Note 13 5G?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-tribes-landscape-solutions-to-cataclysm-game-crashes/"><u>Mastering the Tribe's Landscape: Solutions to Cataclysm Game Crashes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rebirth-of-databases-stellars-anywhere-fixes/"><u>Rebirth of Databases: Stellar's Anywhere Fixes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rewind-and-restore-obsolete-videos/"><u>Rewind and Restore Obsolete Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/social-synergy-leveraging-facebook-linkedin-and-youtube-for-maximum-reach/"><u>Social Synergy: Leveraging Facebook, LinkedIn, and YouTube for Maximum Reach</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/strategies-to-unlock-stalled-recordings/"><u>Strategies to Unlock Stalled Recordings</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/sysadmin-augusto-restores-mysql-to-perfection-via-video/"><u>SysAdmin Augusto Restores MySql to Perfection via Video</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-complete-scrutiny-of-camstudio-screencapture-tech/"><u>The Complete Scrutiny of CamStudio ScreenCapture Tech</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-path-to-perfected-hevc-recordings-post-corruption/"><u>The Path to Perfected HEVC Recordings Post-Corruption</u></a></li>
 </ul></div>
 

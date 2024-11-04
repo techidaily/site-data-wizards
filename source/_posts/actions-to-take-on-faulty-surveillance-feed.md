@@ -1,7 +1,7 @@
 ---
 title: Actions to Take on Faulty Surveillance Feed
-date: 2024-08-27T03:24:17.521Z
-updated: 2024-08-28T03:24:17.521Z
+date: 2024-11-02T18:20:12.984Z
+updated: 2024-11-04T19:22:19.841Z
 categories:
   - repair-tools
 description: This Article Describes Actions to Take on Faulty Surveillance Feed
@@ -60,9 +60,12 @@ Table of Content
  CCTV videos not opening or playing can be frustrating when you need to watch a recorded video urgently to retrieve a lost asset or review a past event. Here are some common CCTV videos not working scenarios and how to solve them.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Choppy or Blurry CCTV Videos**
 
  Choppy or blurry CCTV videos are caused by an interruption during video transfer from an SD card to the computer, an outdated media player, a corrupt SD card, or corrupt video footage.
@@ -71,14 +74,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If your SD card is corrupted, reformat it, and then use a professional photo recovery tool to recover lost CCTV videos from the formatted card.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### **Black Screen while playing CCTV Videos**
 
  If you see a black screen error while playing CCTV videos on your PC, it can be due to a missing codec, file corruption, outdated display driver, or incomplete video transfer.
 
  You can update the display driver, transfer the video again, or change the video format to [fix the black screen error](https://tools.techidaily.com/stellardata-recovery/buy-now/) .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Unsupported Video Codec**
 
@@ -86,9 +93,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  In this case, play the video in another media player or download the missing codec. Or, convert the video format of your CCTV footage using an online converter or VLC Player.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **CCTV Video won’t play due to Video Corruption**
 
  If your CCTV video footage still won’t play, there are chances that the video is corrupted. A corrupt CCTV video won’t play on any media player or play improperly. In such case, use [professional video repair software](https://tools.techidaily.com/stellardata-recovery/buy-now/) like Stellar Repair for Video to fix corrupt CCTV footage.
@@ -107,8 +111,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Once the repair process ends, click **Preview** to see the repaired CCTV videos. Then click**Save** **Repaired** **Files** to save them at the desired location.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Tips to Avoid Corruption in CCTV Video Footage**
 
  While the problem of**‘CCTV video footage not playing on Windows/Mac’** is very common, you can prevent this error altogether by following some best practices:
@@ -119,9 +127,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Properly transfer CCTV footage from one SD card to another device.
 * Don’t save a new video on the SD card when it’s running out of space.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **FAQ**
 
 **1** .**How do we recover lost videos from CCTV cameras?**
@@ -138,8 +143,12 @@ To troubleshoot the CCTV camera with no video feed, try the following:
 * Reboot the camera.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -158,8 +167,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +174,20 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-best-5-book-promo-videos-for-authors/"><u>[New] Exploring the Best 5 Book Promo Videos for Authors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-ace-your-gift-shopping-the-ultimate-guide-to-selecting-specialty-stores/"><u>2024 Approved Ace Your Gift Shopping The Ultimate Guide to Selecting Specialty Stores</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-video-breakdown-what-now/"><u>Advanced Video Breakdown: What Now?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-the-halo-bolt-portable-charger-and-jump-starter-for-on-the-go-energy-needs/"><u>Expert Analysis: The Halo Bolt - Portable Charger & Jump Starter for On-the-Go Energy Needs</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/inconsistent-stellar-video-editing-results/"><u>Inconsistent Stellar Video Editing Results</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/low-cost-android-facetime-alternatives-list-for-2024/"><u>Low-Cost Android FaceTime Alternatives List for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macos-fix-trash-empty-failure-case/"><u>MacOS: Fix Trash Empty Failure Case</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rejuvenate-damaged-jpegs-instantly/"><u>Rejuvenate Damaged JPEGs Instantly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-photos-via-iphone-size-adjustment/"><u>Streamline Photos via iPhone Size Adjustment</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-sony-xperia-1-v-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Sony Xperia 1 V Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/veelvoudige-musiekuploaden-vanaf-flashdrive-instructie-windows-and-mac-gratis/"><u>Veelvoudige Musiekuploaden Vanaf Flashdrive | Instructie Windows & Mac | Gratis</u></a></li>
+</ul></div>
 

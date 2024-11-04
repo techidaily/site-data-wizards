@@ -1,7 +1,7 @@
 ---
 title: Addressing Unsupported Codec Lack
-date: 2024-08-27T03:23:27.035Z
-updated: 2024-08-28T03:23:27.035Z
+date: 2024-10-30T17:22:31.661Z
+updated: 2024-11-04T17:50:40.655Z
 categories:
   - repair-tools
 description: This Article Describes Addressing Unsupported Codec Lack
@@ -59,6 +59,13 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -66,6 +73,13 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -85,9 +99,6 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -100,9 +111,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -113,9 +121,6 @@ _Figure: Mac suggests installed apps to open video_
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -152,9 +157,6 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
@@ -189,8 +191,18 @@ _Figure: Preview video after repair_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -200,8 +212,12 @@ _Figure: Preview video after repair_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -220,8 +236,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,6 +243,26 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-techniques-for-smoothing-meetings-backgrounds-in-teams/"><u>[New] Techniques for Smoothing Meetings' Backgrounds in Teams</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-upgrade-your-creativity-easy-steps-for-transforming-video-backgrounds-on-tiktok/"><u>[New] Upgrade Your Creativity Easy Steps for Transforming Video Backgrounds on TikTok</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-8-best-facebook-scheduler-to-improve-efficiency-for-2024/"><u>[Updated] 8 Best Facebook Scheduler to Improve Efficiency for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-cultivate-chuckle-inducing-visuals-on-giphy/"><u>2024 Approved Cultivate Chuckle-Inducing Visuals on Giphy</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nstant-subscription-lead-to-higher-watch-time-for-2024/"><u>Can Instant Subscription Lead to Higher Watch Time for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/compiling-ultimate-list-of-virtual-controls/"><u>Compiling Ultimate List of Virtual Controls</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-jumbled-vids-to-smooth-screens-a-guide/"><u>From Jumbled Vids to Smooth Screens: A Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-collaborate-effectively-with-your-buddy-on-pokemon-go-quests/"><u>How to Collaborate Effectively with Your Buddy on 'Pokémon Go' Quests</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-google-pixel-fold-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/new-release-stellars-streamlined-and-improved-mac-data-solution/"><u>New Release: Stellar's Streamlined & Improved Mac Data Solution</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimal-fixers-internet-based-stream-repair/"><u>Optimal Fixers: Internet Based Stream Repair</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-file-playback-hurdle-224003/"><u>Overcoming File Playback Hurdle: 224003</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reconstructing-digital-footprints-with-innovative-strategies-by-vishakha/"><u>Reconstructing Digital Footprints with Innovative Strategies by Vishakha</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stop-stalled-video-the-easy-vlc-solution/"><u>Stop Stalled Video: The Easy VLC Solution</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/swifter-video-playback-strategies/"><u>Swifter Video Playback Strategies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/systematic-enhancement/"><u>Systematic Enhancement</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unearthing-user-generated-footage-on-facebook-for-2024/"><u>Unearthing User-Generated Footage on Facebook for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720671600114-video-file-issues-after-stellar-repairing/"><u>Video File Issues After Stellar Repairing.</u></a></li>
+</ul></div>
 

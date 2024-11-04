@@ -1,7 +1,7 @@
 ---
 title: Overcome Video Interruption - Error Cx0d36c4
-date: 2024-08-22T12:31:32.155Z
-updated: 2024-08-23T12:31:32.155Z
+date: 2024-11-01T16:46:22.103Z
+updated: 2024-11-04T17:14:13.231Z
 categories:
   - repair-tools
 description: This Article Describes Overcome Video Interruption - Error Cx0d36c4
@@ -53,6 +53,13 @@ Table of Content
 * System drivers are outdated
 * Windows Media Player has a copy-protected feature enabled (in case of DVD/CD videos)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **How to fix error 0xc00d36c4 in videos** **?**
 
  The error usually occurs due to an incompatible file format or codec. Thus, workarounds involve either converting the video file format or installing the supporting codec. In case, the video doesn’t play even after converting the video or installing the codec, troubleshoot the system drivers.
@@ -60,8 +67,12 @@ Table of Content
  If none of these methods work and you still receive_‘this file isn’t playable 0xc00d36c4 error’_ , then the video file has turned corrupt and needs to be fixed with the help of video repair software.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **8 Methods to fix Video error 0xc00d36c4**
 
  1\. Play the video in another compatible media player like a VLC player  
@@ -80,8 +91,12 @@ Table of Content
  Other than VLC, you can use Winamp, QuickTime, Windows Media Player, KMPlayer, or Windows Media Center, etc.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 2: Download the missing codecs**
 
  The video error could be because one or more supporting codecs are not installed on your computer. So download compatible codec(s) for that particular video file format.
@@ -121,9 +136,6 @@ Table of Content
 * Add profile or click **Edit Selected Profile** – the wrench icon to change or add particular profile settings.
 * Next, click**Start.** Your converted video file will be saved at the specified location.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 4: Disable Copy Protection in Windows Media Player**
 
  Does the error 0xc00d36c4 pops up every time you try to play CD/DVD or a mobile phone music on your PC?
@@ -173,6 +185,13 @@ Table of Content
 
  Now, connect your USB device to a computer, and check if the video 0xc00d36c4 error is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 6: Update the Display Adapter Driver**
 
  As the error code may occur due to hardware conflict, you can also try once updating the display drivers. This may fix the video error.
@@ -188,9 +207,6 @@ Table of Content
 
 Tip – If the current driver is up-to-date, just to be on the safer side, uninstall the driver first and then reinstall it.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 7: Repair with a Stellar Repair for Video software**
 
  If the error code 0xc00d36c4 issue is not resolved with the above methods, your video is probably corrupt. The only way to fix is by using advanced video repair software such as [**Stellar Repair for Video**](https://tools.techidaily.com/stellardata-recovery/buy-now/) **.**
@@ -213,9 +229,6 @@ Tip – If the current driver is up-to-date, just to be on the safer side, unins
 
 **Step 3:** Preview the repaired videos and click**Save Repaired File.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### **Method 8: Try AVI repair in VLC Media Player to fix error 0xc00d36c4**
 
  Free VLC Media Player has an AVI repair feature. Try the function to fix the video error 0xc00d36c4 in AVI files. If your video file is other than AVI, you can rename it to AVI and then fix it using the media player.
@@ -252,9 +265,6 @@ Now, check if the video error is resolved.
 
 **For any query reach us through comments in the box below.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 0
@@ -273,8 +283,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -282,6 +290,24 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-top-11-techniques-for-spectacular-color-enhancement-for-2024/"><u>[New] Top 11 Techniques for Spectacular Color Enhancement for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-evade-social-media-shunning-fbs-hidden-dos-and-donts-for-2024/"><u>[Updated] Evade Social Media Shunning FB's Hidden Do's & Don'ts for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-mastering-tiktoks-popularity-with-7-iconic-emojis-and-clandestine-icons/"><u>[Updated] Mastering TikTok's Popularity with #7 Iconic Emojis and Clandestine Icons</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elevating-your-fun-with-the-affordable-syma-s111g-rc-helicopter-a-thorough-review-of-indoor-adventures/"><u>Elevating Your Fun with the Affordable Syma S111G RC Helicopter: A Thorough Review of Indoor Adventures</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-unfollow-facebook-pages-youre-no-longer-interested-in/"><u>How to Unfollow Facebook Pages You’re No Longer Interested In</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-g2-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-perfect-process-iphones-podcast-downloading-technique/"><u>In 2024, Unveiling the Perfect Process IPhone's Podcast Downloading Technique</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/peak-performance-pros-favorite-4k-dslr-shoulder-rigs/"><u>Peak Performance Pro's Favorite 4K DSLR Shoulder Rigs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/process-streamlining/"><u>Process Streamlining</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-pc-users-facing-warzone-cannot-find-matches-error-get-back-to-gaming-now/"><u>Quick Solutions for PC Users Facing 'Warzone Cannot Find Matches' Error - Get Back to Gaming Now!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repair-corrupt-mov-and-mp4-video-files-using-quicktime-player/"><u>Repair Corrupt MOV and MP4 Video Files Using QuickTime Player</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-and-restore-exploring-the-top-freepaid-data-rescue-tools/"><u>Revive & Restore: Exploring the Top Free/Paid Data Rescue Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spark-to-the-future-djis-next-gen-challenge-from-mavic-air-for-2024/"><u>Spark to the Future DJI's Next-Gen Challenge From Mavic Air for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-first-to-tackle-hardware-encrypted-drives-stellar-triumphs/"><u>The First to Tackle Hardware-Encrypted Drives, Stellar Triumphs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-story-of-satisfaction-customer-film-features/"><u>The Story of Satisfaction: Customer Film Features</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-customer-testimonial-recovered-thousands-of-photos-from-memory-card-with-stellar-photo-recovery/"><u>Video - Customer Testimonial: Recovered Thousands of Photos From Memory Card with Stellar Photo Recovery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/win11-blue-error-remedy-practical-tips-and-solutions/"><u>Win11 Blue Error Remedy: Practical Tips & Solutions</u></a></li>
+</ul></div>
 

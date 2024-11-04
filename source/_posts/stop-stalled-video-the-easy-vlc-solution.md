@@ -1,7 +1,7 @@
 ---
 title: "Stop Stalled Video: The Easy VLC Solution"
-date: 2024-08-27T03:22:13.889Z
-updated: 2024-08-28T03:22:13.889Z
+date: 2024-11-01T17:42:51.698Z
+updated: 2024-11-04T17:47:31.527Z
 categories:
   - repair-tools
 description: "This Article Describes Stop Stalled Video: The Easy VLC Solution"
@@ -51,9 +51,6 @@ Table of Content
 
 **Also read:** [How to open HEIC, HEVC files on Windows 10](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### **Method 2: Increase cache values in VLC Player**
 
  VLC Player preloads video cache files in the computer’s RAM to properly access and plays the video. You can try to fix the video buffering issue by increasing the cache value. However, this would increase the number of seconds videos are cached to play in VLC Player.
@@ -75,8 +72,12 @@ _Figure: Input/Codecs pane in VLC_
 * Click**Save.** Next, restart VLC Player and check if the videos are playing properly.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 3: Disable Hardware Decoding in VLC Player**
 
  VLC Media Player can use the GPU of a computer to accelerate video decoding in high-quality videos. However, your PC’s drivers may behave abruptly, resulting in video playback or streaming issues. You can try disabling hardware decoding to fix Video Stuck or Freeze in the VLC player.
@@ -95,8 +96,12 @@ _Figure: Input/Codecs pane in VLC_
 * Click **Save** . Restart VLC Payer to enable the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 4: Change FFmpeg settings in VLC Player**
 
  Making changes in the FFmpeg video codec in VLC Player has worked for some. You can also try to resolve video stuttering and freezing with this technique.
@@ -112,6 +117,13 @@ _Figure: Input/Codecs pane in VLC_
 * Under**FFmpeg audio/video decoder** _,_ scroll down to**Skip the loop filter for H.264 decoding** option. Set it to ‘**All** .’
 
 * Click**Save** .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 5: Switch video output to DirectX DirectDraw in VLC**
 
@@ -143,9 +155,6 @@ _Figure: Video output modules in VLC_
 * Click on**Save** at the bottom**.**
 * Check if VLC Player can play your videos without freeze or interruption.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 6: Repair your video using Stellar Repair for Video**
 
  The video file may be corrupt if the above methods using VLC Media Player don’t fix video freeze, lag, or stuttering issues. To confirm corruption, see if your video freezes while playing in another media player.
@@ -169,8 +178,12 @@ _Figure: Video output modules in VLC_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Conclusion**
 
  Here we have recommended changing the settings of VLC Media Player to fix video freezing or lag using the below methods:
@@ -185,9 +198,6 @@ _Figure: Video output modules in VLC_
 
  I hope you found this helpful. Do share with our readers which method helped you fix Video Stuck or Freeze in the VLC player issue in the comment box below.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 1
@@ -206,8 +216,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,6 +223,24 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-best-video-editor-for-recorded-webcam-videos/"><u>[New] 2024 Approved Best Video Editor for Recorded Webcam Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-safe-sign-in-getting-back-into-facebook/"><u>[Updated] Safe Sign-In Getting Back Into Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-innovation-for-windows-and-mac-photo-to-cartoon-software/"><u>2024 Approved Image Innovation for Windows & Mac Photo-to-Cartoon Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skincare-and-sensational-looks/"><u>2024 Approved Skincare and Sensational Looks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/breath-of-life-to-compromised-videographs/"><u>Breath of Life to Compromised Videographs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-connections-interacting-with-your-viewers/"><u>Building Connections Interacting With Your Viewers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/decoding-the-art-of-data-rescue-with-stellar-expertise-vishakha/"><u>Decoding the Art of Data Rescue with Stellar Expertise, Vishakha</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ideal-photo-correction-software/"><u>Ideal Photo Correction Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-decades-best-anime-opening-songs-compiled/"><u>In 2024, A Decade's Best Anime Opening Songs Compiled</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rejuvenate-forgotten-videos-effortlessly/"><u>Rejuvenate Forgotten Videos Effortlessly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rescuing-forgotten-film-formats/"><u>Rescuing Forgotten Film Formats</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restore-exchange-databases-a-guide-to-stellar-repair/"><u>Restore Exchange Databases: A Guide to Stellar Repair</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-essential-software-strategies-and-do-it-yourself-hacks/"><u>Stellar’s Essential Software Strategies & Do-It-Yourself Hacks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/superior-tech-for-live-stream-correction/"><u>Superior Tech for Live Stream Correction</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-linking-your-pc-with-ps-vr-headset/"><u>Ultimate Guide: Linking Your PC with PS VR Headset</u></a></li>
+</ul></div>
 

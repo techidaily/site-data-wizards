@@ -1,7 +1,7 @@
 ---
 title: Rectifying Illegitimate Video Codings
-date: 2024-10-23T00:37:07.926Z
-updated: 2024-10-30T01:01:00.149Z
+date: 2024-10-28T17:46:25.378Z
+updated: 2024-11-04T17:30:33.143Z
 categories:
   - repair-tools
 description: This Article Describes Rectifying Illegitimate Video Codings
@@ -119,10 +119,10 @@ _Figure: VLC message when new version is available._
 * Click**Yes.** This will automatically download the new codecs also.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
@@ -134,6 +134,13 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -150,22 +157,21 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
@@ -206,10 +212,10 @@ _Figure: Preview video after repair_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -239,22 +245,15 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-frame-rates-for-video-recorders/"><u>[New] 2024 Approved The Ultimate Guide to Frame Rates for Video Recorders</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-comparative-guide-to-the-metaverse-and-multiplemetaverse-platforms-insightful-analysis/"><u>[New] Comparative Guide to the Metaverse & MultipleMetaverse Platforms (Insightful Analysis)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-premier-choices-high-quality-free-screen-recorder-software-for-2024/"><u>[Updated] Premier Choices High-Quality Free Screen Recorder Software for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-save-my-page-moments/"><u>2024 Approved Save My Page Moments</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/access-a-library-of-movies-and-tv-for-free-with-streaming-service-crackle/"><u>Access a Library of Movies & TV for FREE with Streaming Service Crackle</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/advance-repair-for-bad-and-corrupt-video-files/"><u>Advance Repair for Bad and Corrupt Video Files</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/direct-buy-ufo-image-overhaul-kit/"><u>Direct Buy: UFO Image Overhaul Kit</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/epic-retouch-success-trending-customer-stories/"><u>Epic Retouch Success, Trending Customer Stories</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fabios-it-wisdom-mastering-customer-testimonial-exchanges/"><u>Fabio’s IT Wisdom - Mastering Customer Testimonial Exchanges</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fix-disrupted-android-video-viewing/"><u>Fix Disrupted Android Video Viewing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-pocofrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your PocoFRP Lock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-90-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor 90 Pro Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/online-jest-builder-for-2024/"><u>Online Jest Builder for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quick-links-to-stellar-tech-services/"><u>Quick Links to Stellar Tech Services</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/recovering-ruined-recordings-using-example-files/"><u>Recovering Ruined Recordings: Using Example Files</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-storage-saving-skills-shine-in-testimonial/"><u>Stellar's Storage Saving Skills Shine in Testimonial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-restoring-your-lenovo-laptop-to-its-original-settings/"><u>Ultimate Guide: Restoring Your Lenovo Laptop to Its Original Settings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-algorithm-behind-youtubes-post-upload-logic/"><u>[Updated] The Algorithm Behind YouTube's Post-Upload Logic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-simple-tricks-for-aspiring-photoshop-editors/"><u>5 Simple Tricks for Aspiring Photoshop Editors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/eyegigglesengine-jestimageforge/"><u>EyeGigglesEngine JestImageForge</u></a></li>
+<li><a href="https://common-error.techidaily.com/halo-4-ue4-2024-edition-resolving-the-persistent-critical-error-and-eliminating-system-crashes/"><u>Halo 4 UE4 2024 Edition: Resolving the Persistent Critical Error and Eliminating System Crashes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-game-changer-how-to-optimize-your-fb-giveaway-posts/"><u>In 2024, The Game-Changer How to Optimize Your FB Giveaway Posts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/recording-your-games-in-hd-ps4-and-obs-studio-guide-for-2024/"><u>Recording Your Games in HD PS4 & OBS Studio Guide for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-scratched-media-players-in-macos-landscapes/"><u>Reviving Scratched Media Players in macOS Landscapes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/social-media-mastery-enhancing-cross-platform-engagement-on-facebook-linkedin-and-youtube/"><u>Social Media Mastery: Enhancing Cross-Platform Engagement on Facebook, LinkedIn & YouTube</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-mends-movie-files-elevates-apples-qtp/"><u>Stellar Mends Movie Files, Elevates Apple's QTP</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unified-social-strategy-amplifying-your-brand-across-facebook-linkedin-and-youtube/"><u>Unified Social Strategy: Amplifying Your Brand Across Facebook, LinkedIn & YouTube</u></a></li>
 </ul></div>
 

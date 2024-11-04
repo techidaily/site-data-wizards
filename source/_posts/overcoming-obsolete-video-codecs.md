@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obsolete Video Codecs
-date: 2024-10-25T00:58:21.258Z
-updated: 2024-10-29T19:13:27.969Z
+date: 2024-10-29T19:33:50.448Z
+updated: 2024-11-04T19:34:30.114Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Obsolete Video Codecs
@@ -67,6 +67,13 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -86,10 +93,10 @@ _An error occurred. Unsupported file format.’_
 _Figure: Mac suggests installed apps to open video_
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Download the missing video codecs
@@ -115,16 +122,10 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
@@ -137,13 +138,6 @@ _Figure: Check for Updates in VLC_
 _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
 
@@ -175,10 +169,10 @@ _Figure: Video profile options in VLC Player_
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
@@ -245,24 +239,18 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-essential-empowerment-packages-top-trending-products-for-todays-entrepreneur/"><u>[New] In 2024, Essential Empowerment Packages Top Trending Products for Today's Entrepreneur</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-telegram-tactics-for-aspiring-marketers-a-compreeher-guide/"><u>[Updated] 2024 Approved Telegram Tactics for Aspiring Marketers A Compreeher Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-top-8-proven-methods-for-earnings-on-tiktok/"><u>[Updated] 2024 Approved Top 8 Proven Methods for Earnings on TikTok</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-how-to-watch-instagram-live-anonymously/"><u>2024 Approved How to Watch Instagram Live Anonymously</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-realme-11-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Realme 11 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/ein-leerer-ordner-mit-vorhandenen-dateien-losungen-fur-myrecover-fehler/"><u>Ein Leerer Ordner Mit Vorhandenen Dateien: Lösungen Für 'MyRecover' Fehler</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-toms-gadget-insights-your-source-for-pc-part-information-and-comparisons/"><u>Exploring Hardware with Tom's Gadget Insights: Your Source for PC Part Information and Comparisons</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-compromised-file-formats-for-mac-users/"><u>Fixing Compromised File Formats for Mac Users</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-full-spectrum-review-exploring-digital-performances-evolution/"><u>In 2024, Full Spectrum Review Exploring Digital Performance's Evolution</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagram-video-dimension-guide-for-best-video-format-2023-for-2024/"><u>Instagram Video Dimension [Guide for Best Video Format 2023] for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-poco-m6-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Poco M6 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quick-fix-for-compromised-digital-content/"><u>Quick Fix for Compromised Digital Content</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reactivating-vintage-visual-archives/"><u>Reactivating Vintage Visual Archives</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restored-video-playback-failure-mystery/"><u>Restored Video: Playback Failure Mystery</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-nonfunctional-movie-files-in-quality-time-player/"><u>Reviving Nonfunctional Movie Files in Quality Time Player</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/software-buyers-bond/"><u>Software Buyer's Bond</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/strategies-for-smoother-media-transitions-and-playbacks/"><u>Strategies for Smoother Media Transitions and Playbacks</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-ultimate-selection-of-10-video-restoration-tools-for-pc-and-mac-users/"><u>The Ultimate Selection of 10 Video Restoration Tools for PC & Mac Users</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-choice-cloud-based-video-fixer-tools/"><u>Top Choice: Cloud-Based Video Fixer Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-hdr-portraiture-an-ultimate-guide/"><u>[New] 2024 Approved Mastering HDR Portraiture An Ultimate Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mimicking-golden-age-filmmaking-in-contemporary-videos/"><u>[Updated] Mimicking Golden Age Filmmaking in Contemporary Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/breaking-the-chains-of-unplayable-media-files/"><u>Breaking the Chains of Unplayable Media Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/error-code-36-reclaim-space-in-trash/"><u>Error Code 36: Reclaim Space in Trash</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-fix-video-distortion-after-windows-11-upgrade-stellar/"><u>How to Fix Video Distortion After Windows 11 Upgrade? - Stellar</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-mastery-the-ultimate-guide-to-using-manycam-and-virtual-camcorders/"><u>Live Streaming Mastery: The Ultimate Guide to Using ManyCam and Virtual Camcorders</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-7-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 7 Making It Possible</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-to-correct-missing-dsounddll-file-errors/"><u>Troubleshooting Steps to Correct Missing Dsound.dll File Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-sound-issues-with-your-xbox-series-xs-gaming-headset/"><u>Troubleshooting Tips: Solving Sound Issues with Your Xbox Series X/S Gaming Headset</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncover-tech-secrets-the-ultimate-guide-by-toms-hardware/"><u>Uncover Tech Secrets: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-fix-error-code-36-on-mac-unable-to-empty-trash-on-macos/"><u>Video - Fix Error Code 36 on Mac | Unable to Empty Trash on macOS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/virtual-offering-guarantee/"><u>Virtual Offering Guarantee</u></a></li>
 </ul></div>
 

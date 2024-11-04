@@ -1,7 +1,7 @@
 ---
 title: Restoring Unsupported Codec Functionality
-date: 2024-08-22T12:29:03.273Z
-updated: 2024-08-23T12:29:03.273Z
+date: 2024-11-02T17:09:18.451Z
+updated: 2024-11-04T18:21:49.100Z
 categories:
   - repair-tools
 description: This Article Describes Restoring Unsupported Codec Functionality
@@ -59,6 +59,13 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -68,8 +75,12 @@ _An error occurred. Unsupported file format.’_
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -100,9 +111,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -114,9 +122,12 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -153,20 +164,21 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
  When converting or getting the compatible codecs don’t solve the problem, chances are your video file is giving error due to corruption.
@@ -192,9 +204,6 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -221,8 +230,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,6 +237,26 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/24517605-new-2024-approved-buy-subscribers-wisely-watch-your-numbers-soar/"><u>[New] 2024 Approved Buy Subscribers Wisely, Watch Your Numbers Soar</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-foremost-9-digital-mic-recorders-for-high-fidelity-capture/"><u>[New] 2024 Approved The Foremost 9 Digital Mic Recorders for High-Fidelity Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-expert-insights-into-synchronizing-desktops-in-google-meet-for-2024/"><u>[New] Expert Insights Into Synchronizing Desktops in Google Meet for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-diy-youtube-trailer-production-via-filmora-software/"><u>[Updated] DIY YouTube Trailer Production via Filmora Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-keep-your-linkedin-videos-at-the-fingertips-top-6-professional-downloader-apps/"><u>2024 Approved Keep Your LinkedIn Videos at the Fingertips Top 6 Professional Downloader Apps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/grau-gmbhs-video-fixing-software-comprehensive-hardware-and-applications/"><u>Grau GmbH's Video Fixing Software: Comprehensive Hardware and Applications</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-x-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone X Smoothly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-edge-video-editing-on-mac-the-top-software-of/"><u>In 2024, Cutting-Edge Video Editing on Mac The Top Software Of</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-zero-30-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Zero 30 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/leveraging-automation-tools-for-quick-error-free-transformation-of-extensive-database-records-from-edb-to-csv-format-tech-blog-post/"><u>Leveraging Automation Tools for Quick, Error-Free Transformation of Extensive Database Records From .EDB to CSV Format | Tech Blog Post</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/orbital-archive-recovery-journal/"><u>Orbital Archive Recovery Journal</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-rise-software-pdf-fixing/"><u>Phoenix Rise Software - PDF Fixing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/precise-procedures-for-mending-flawed-films/"><u>Precise Procedures for Mending Flawed Films</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/program-license-protection/"><u>Program License Protection</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-mp4-encoding-issues/"><u>Repairing MP4 Encoding Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/securing-sound-output-fixes-for-silent-obs-streams-for-2024/"><u>Securing Sound Output Fixes for Silent OBS Streams for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/synergize-social-platforms-boosting-visibility-across-facebook-linkedin-and-youtube/"><u>Synergize Social Platforms: Boosting Visibility Across Facebook, LinkedIn & YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-itel-p55-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-creative-solutions-expert-software-articles-from-the-stellar-platform/"><u>Unlocking Creative Solutions: Expert Software Articles From the Stellar Platform</u></a></li>
+</ul></div>
 

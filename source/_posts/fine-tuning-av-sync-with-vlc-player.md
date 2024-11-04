@@ -1,7 +1,7 @@
 ---
 title: Fine-Tuning AV Sync with VLC Player
-date: 2024-08-22T12:30:31.314Z
-updated: 2024-08-23T12:30:31.314Z
+date: 2024-11-01T17:54:45.288Z
+updated: 2024-11-04T18:59:03.737Z
 categories:
   - repair-tools
 description: This Article Describes Fine-Tuning AV Sync with VLC Player
@@ -59,9 +59,12 @@ _Figure: Audio delay message in VLC_
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
  The answer is ‘Yes’. You can apply the settings for once for all the videos you play in VLC. For this, use the **‘Audio desynchronization compensation’** feature. It would permanently fix the audio-video sync in VLC Player. Unlike the Audio track synchronization value, which you must reset every time, you must set the ‘Audio desynchronization compensation’ value just once. The settings get saved for all the videos until you change it again.
@@ -78,8 +81,12 @@ _Figure: Audio track synchronization in VLC_
 * Next, click**Close** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
  Often, users ask if every time they play a video in VLC, they have to manually adjust Audio track synchronization to get the audio in sync with the video. So, is it possible for this setting to be saved permanently?
@@ -102,8 +109,12 @@ _Figure: Set Audio desynchronization compensation value in VLC_
  The video or movie should now play without any audio sync issue in the VLC Player.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -122,6 +133,13 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -134,9 +152,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **How to fix audio sync issue with repair software**
 
  Simply download it on your Mac or Windows PC and follow the onscreen instructions. The video repair process is completed in 3 steps –
@@ -151,9 +166,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Conclusion**
 
  It’s annoying when your favourite VLC Player suddenly starts playing videos out of sync. But the best thing about VLC is that it can fix its glitches. You can use various features in VLC to fix video-audio sync problems.
@@ -170,9 +182,6 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 0
@@ -191,8 +200,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,6 +207,24 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-effortless-streaming-to-facebook-audiences-using-zoom-for-2024/"><u>[New] Effortless Streaming to Facebook Audiences Using Zoom for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-download-facebook-stories-with-ease-essential-tips-and-tricks-mobiledesktop/"><u>[Updated] Download Facebook Stories with Ease Essential Tips and Tricks (Mobile/Desktop)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chinas-low-cost-vr-solutions/"><u>In 2024, China's Low-Cost VR Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-asmr-enhances-your-daily-life-learn-here/"><u>In 2024, How ASMR Enhances Your Daily Life – Learn Here</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-sites-unveiled-acquiring-personalized-ringtone-files-from-youtube-for-2024/"><u>Leading Sites Unveiled Acquiring Personalized Ringtone Files From Youtube for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/masterclass-dispatching-macs-kernel-emergency/"><u>Masterclass: Dispatching Mac's Kernel Emergency</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-h265-error-correction-techniques/"><u>Mastering H.265 Error Correction Techniques</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-mac-hard-drive-allocation-via-video/"><u>Mastering Mac Hard Drive Allocation Via Video</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/overcoming-limitation-invisible-video-recommendations-for-2024/"><u>Overcoming Limitation Invisible Video Recommendations for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solving-absentee-mac-storage-drives-8-suggestions/"><u>Solving Absentee Mac Storage Drives – 8 Suggestions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/step-by-step-guide-transferring-mailboxes-from-an-edb-file-to-a-running-exchange-server-via-video-tutorial/"><u>Step-by-Step Guide: Transferring Mailboxes From an EDB File to a Running Exchange Server via Video Tutorial</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-for-smooth-video-replay/"><u>Techniques for Smooth Video Replay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/topsydenkende-instruktiver-om-at-gennemga-konvertering-fra-mxf-til-mp4-under-macwindows/"><u>Topsydenkende Instruktiver: Om At Gennemgå Konvertering Fra MXF Til MP4 Under Mac/Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/trailblazing-through-time-era-images-explore-3-inverse-techniques-on-facebook/"><u>Trailblazing Through Time-Era Images Explore 3 Inverse Techniques on Facebook</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-revival-excellence-endorsed-by-users/"><u>Video Revival Excellence, Endorsed by Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vidfixmaster-quick-repair-made-easy/"><u>VidFixMaster: Quick Repair Made Easy</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unravel AV Mismatches with Smart VLC Tweaks
-date: 2024-10-22T17:32:51.924Z
-updated: 2024-10-29T16:37:53.924Z
+date: 2024-11-01T17:01:05.631Z
+updated: 2024-11-04T16:20:08.302Z
 categories:
   - repair-tools
 description: This Article Describes Unravel AV Mismatches with Smart VLC Tweaks
@@ -46,6 +46,13 @@ Table of Content
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
 _Figure: Audio delay message in VLC_
@@ -57,6 +64,13 @@ _Figure: Audio delay message in VLC_
  If you are a Mac user, press the ‘G’ key to slow down the audio and the ‘F’ key to increase the audio speed.
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
@@ -94,13 +108,6 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 
  The video or movie should now play without any audio sync issue in the VLC Player.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -119,13 +126,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -139,10 +139,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **How to fix audio sync issue with repair software**
@@ -159,13 +159,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
  It’s annoying when your favourite VLC Player suddenly starts playing videos out of sync. But the best thing about VLC is that it can fix its glitches. You can use various features in VLC to fix video-audio sync problems.
@@ -181,6 +174,13 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -209,22 +209,18 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-streamline-screen-scans-your-essential-toolkit-for-vid-saving/"><u>[New] In 2024, Streamline Screen Scans Your Essential Toolkit for Vid Saving</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-crafting-social-stardom-30-ingenious-tiktok-nicknames-to-consider/"><u>[Updated] Crafting Social Stardom 30 Ingenious TikTok Nicknames to Consider</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/245-total-customer-satisfaction-stellar-support-center/"><u>245 Total Customer Satisfaction – Stellar Support Center</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/home-remedy-for-troubled-videos/"><u>Home Remedy for Troubled Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-to-upgrade-windows-11-from-32-to-64-bits/"><u>How To Upgrade Windows 11: From 32 to 64 Bits</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-realme-12-pro-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Realme 12 Pro 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fresh-aesthetics-prime-laptop-wallpapers-online/"><u>In 2024, Fresh Aesthetics Prime Laptop Wallpapers Online</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-obs-essentials-optimizing-your-skype-call-recording-quality/"><u>In 2024, OBS Essentials Optimizing Your Skype Call Recording Quality</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/new-dawn-for-databases-stellars-commitment/"><u>New Dawn for Databases: Stellar's Commitment</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/post-restore-unable-to-view-images/"><u>Post-Restore: Unable to View Images</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/repairing-defective-avchd-media/"><u>Repairing Defective AVCHD Media</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restore-apple-qtp-movies-effortlessly-stellar-methods/"><u>Restore Apple QTP Movies, Effortlessly - Stellar Methods</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/simple-steps-for-repaired-video-files/"><u>Simple Steps for Repaired Video Files</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-10-youtube-to-webm-converter-apps-reviewed-and-ranked-for-2024/"><u>Top 10 YouTube to WebM Converter Apps Reviewed & Ranked for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-a78-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo A78 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unraveling-video-malfunctions-in-corrupted-m4v-formats/"><u>Unraveling Video Malfunctions in Corrupted M4V Formats</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-deciphering-the-art-of-cd-ripping-via-windows-media-player/"><u>[New] 2024 Approved Deciphering the Art of Cd Ripping via Windows Media Player</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-making-youtube-videos-come-alive-your-ultimate-guide-to-animated-gifs/"><u>[New] Making YouTube Videos Come Alive Your Ultimate Guide To Animated GIFs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-8-exceptional-mirrorless-cameras-for-vloggers/"><u>[Updated] Unveiling 8 Exceptional Mirrorless Cameras for Vloggers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-support-desk-to-praise-panel-fabios-expert-exchange-tips/"><u>From Support Desk to Praise Panel - Fabio's Expert Exchange Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-note-13-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/nip-video-lag-in-the-bud-with-vlc/"><u>Nip Video Lag in the Bud with VLC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-the-new-mac-jpeg-enhancement-by-stellar-tech-innovators/"><u>Phoenix: The New Mac JPEG Enhancement by Stellar Tech Innovators</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/renewed-hope-for-databases-stellars-mission/"><u>Renewed Hope for Databases: Stellar’s Mission</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-audio-output-on-microsofts-read-aloud-functionality/"><u>Resetting Audio Output on Microsoft's Read Aloud Functionality</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-your-archives-with-stellars-lifeline/"><u>Revive Your Archives with Stellar's Lifeline</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-motorola-edge-40-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Motorola Edge 40 Pro Phones</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/your-ultimate-cheat-sheet-fixing-blue-screens-in-win/"><u>Your Ultimate Cheat Sheet: Fixing Blue Screens in Win</u></a></li>
 </ul></div>
 

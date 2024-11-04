@@ -1,7 +1,7 @@
 ---
 title: Methods to Deal with Restricted Codecs
-date: 2024-10-27T00:18:04.795Z
-updated: 2024-10-29T20:22:27.226Z
+date: 2024-10-29T16:35:29.944Z
+updated: 2024-11-04T16:54:51.072Z
 categories:
   - repair-tools
 description: This Article Describes Methods to Deal with Restricted Codecs
@@ -108,10 +108,10 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
@@ -135,13 +135,6 @@ _Figure: VLC message when new version is available._
 
  The open source VLC Media Player can also convert video files to different format.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -157,20 +150,27 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -197,6 +197,13 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -204,13 +211,6 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -239,18 +239,18 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-elevate-your-presentations-10-best-places-to-download-slideshow-designs-for-2024/"><u>[New] Elevate Your Presentations 10 Best Places to Download Slideshow Designs for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-pushing-boundaries-the-spectrum-of-colors-and-4k-resolution-for-2024/"><u>[New] Pushing Boundaries The Spectrum of Colors and 4K Resolution for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-mastering-youtube-intros-with-imovie-techniques-for-2024/"><u>[Updated] Mastering YouTube Intros with iMovie Techniques for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-techniques-for-creating-random-values-in-excel-spreadsheets/"><u>Effective Techniques for Creating Random Values in Excel Spreadsheets</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-state-of-decay-2-from-crashing-expert-advice-and-solutions/"><u>How to Stop State of Decay 2 From Crashing : Expert Advice and Solutions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-se-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone SE</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mastering-the-process-of-moving-recovered-email-archives-from-edb-files-to-active-exchange-platforms/"><u>Mastering the Process of Moving Recovered Email Archives From .EDB Files to Active Exchange Platforms</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mending-misaligned-movies-with-backup-samples/"><u>Mending Misaligned Movies: With Backup Samples</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/nebula-accounting-data-salvation/"><u>Nebula Accounting Data Salvation</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solving-freeze-during-3d-rendering/"><u>Solving Freeze During 3D Rendering</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-ranking-asus-router-models-in-2er-2024/"><u>Top-Ranking Asus Router Models in 2Er 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mobile-video-editing-essentials-top-apps-for-vertical-content/"><u>Updated 2024 Approved Mobile Video Editing Essentials Top Apps for Vertical Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-exclusive-list-of-premium-video-downloader-apps/"><u>[Updated] 2024 Approved Exclusive List of Premium Video Downloader Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-learn-the-art-of-gaussian-blur-mobile-and-pc-edition/"><u>2024 Approved Learn the Art of Gaussian Blur Mobile and PC Edition</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/a-new-dawn-for-data-hubs-stellar-services/"><u>A New Dawn for Data Hubs: Stellar Services</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-video-malfunction-your-guide-to-recovery/"><u>Advanced Video Malfunction: Your Guide to Recovery?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/beat-the-blues-how-to-fix-errors-in-win11-operating-system/"><u>Beat the Blues: How to Fix Errors in Win11 Operating System</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celebrating-unprecedented-support-success-with-245-satisfaction/"><u>Celebrating Unprecedented Support Success with 245% Satisfaction</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/clean-cinematography-uncompromised-quality/"><u>Clean Cinematography, Uncompromised Quality</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/data-revival-on-mac-platform-a-comprehensive-guide-to-top-8-applications/"><u>Data Revival on Mac Platform - A Comprehensive Guide to Top 8 Applications</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-tips-for-securely-getting-back-permanently-lost-photos-on-your-iphone/"><u>Expert Tips for Securely Getting Back Permanently Lost Photos on Your iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-going-back-in-time-your-android-movie-method/"><u>In 2024, Going Back in Time Your Android Movie Method</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/prime-day-discounts-securing-the-best-deal-on-the-apple-watch-series-se-now-just-80-cheaper-insights/"><u>Prime Day Discounts: Securing the Best Deal on the Apple Watch Series SE, Now Just $80 Cheaper - Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-constant-usb-recognition-issues-in-windows-computers-effective-solutions-explored/"><u>Resolving Constant USB Recognition Issues in Windows Computers: Effective Solutions Explored</u></a></li>
 </ul></div>
 

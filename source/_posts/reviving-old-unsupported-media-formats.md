@@ -1,7 +1,7 @@
 ---
 title: Reviving Old, Unsupported Media Formats
-date: 2024-08-27T03:23:55.375Z
-updated: 2024-08-28T03:23:55.375Z
+date: 2024-11-01T18:52:32.434Z
+updated: 2024-11-04T17:42:37.903Z
 categories:
   - repair-tools
 description: This Article Describes Reviving Old, Unsupported Media Formats
@@ -68,8 +68,12 @@ _An error occurred. Unsupported file format.’_
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -88,9 +92,6 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -113,6 +114,13 @@ _Figure: Mac suggests installed apps to open video_
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -125,8 +133,12 @@ _Figure: VLC message when new version is available._
 * Click**Yes.** This will automatically download the new codecs also.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -138,8 +150,12 @@ _Figure: VLC message when new version is available._
  The open source VLC Media Player can also convert video files to different format.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -163,9 +179,6 @@ _Figure: Video profile options in VLC Player_
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
  When converting or getting the compatible codecs don’t solve the problem, chances are your video file is giving error due to corruption.
@@ -199,10 +212,6 @@ _Figure: Preview video after repair_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Was this article helpful?
 
 YES 0
@@ -221,8 +230,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,6 +237,26 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-noble-tunes-archiver-android-edition-for-2024/"><u>[Updated] Noble Tunes Archiver, Android Edition for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-3-techniques-converting-pin-videos-to-mp3s/"><u>[Updated] Top 3 Techniques Converting Pin Videos To MP3s</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-interactive-media-adding-audio-to-visual-narratives/"><u>2024 Approved Interactive Media Adding Audio to Visual Narratives</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-find-x6-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo Find X6 Device SIM</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-flawed-h265hevc-streams-efficiently/"><u>Fixing Flawed H.265/HEVC Streams Efficiently</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guaranteeing-smooth-apple-video-playback/"><u>Guaranteeing Smooth Apple Video Playback</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-do-i-fix-a-video-card-problem/"><u>How Do I Fix a Video Card Problem?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-correct-the-offline-issue-with-your-amazon-echo/"><u>How to Address and Correct the Offline Issue with Your Amazon Echo</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-redmi-a2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi Redmi A2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-culmination-in-virtual-ventures-for-2024/"><u>Ideal Culmination in Virtual Ventures for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-script-wondershare-virbo-online/"><u>In 2024, AI Script | Wondershare Virbo Online</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-broken-avchd-videos/"><u>Restoring Broken AVCHD Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-troubled-mov-mp4-files-for-mac-and-pc-users/"><u>Restoring Troubled MOV, MP4 Files for Mac & PC Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/smoothened-instagrams-reel-hiccup/"><u>Smoothened: Instagram's Reel Hiccup</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solving-unplayable-video-with-code-224003/"><u>Solving Unplayable Video with Code 224003</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/transform-damaged-footage-with-expertise-from-grau-gmbh-leading-providers-of-video-restoration-services/"><u>Transform Damaged Footage with Expertise From Grau GmbH – Leading Providers of Video Restoration Services</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-zero-cost-wonders-the-best-free-vob-video-editing-software-for-2024/"><u>Updated Zero-Cost Wonders The Best Free VOB Video Editing Software for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-file-non-playable-post-restoration/"><u>Video File Non-Playable Post Restoration</u></a></li>
+</ul></div>
 

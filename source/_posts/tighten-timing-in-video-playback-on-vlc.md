@@ -1,7 +1,7 @@
 ---
 title: Tighten Timing in Video Playback on VLC
-date: 2024-10-22T19:16:22.317Z
-updated: 2024-10-29T22:15:42.116Z
+date: 2024-10-30T16:17:40.778Z
+updated: 2024-11-04T18:07:14.077Z
 categories:
   - repair-tools
 description: This Article Describes Tighten Timing in Video Playback on VLC
@@ -47,10 +47,10 @@ Table of Content
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
@@ -64,13 +64,6 @@ _Figure: Audio delay message in VLC_
  If you are a Mac user, press the ‘G’ key to slow down the audio and the ‘F’ key to increase the audio speed.
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
@@ -86,13 +79,6 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -115,6 +101,13 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 
  The video or movie should now play without any audio sync issue in the VLC Player.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -132,6 +125,13 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 * Click on the + or – button to increase or decrease the audio speed in your video. The + button will delay the sound by 50 milliseconds, whereas the – button will hasten the sound. Press the + and – buttons until the audio gets synced with the video.
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
@@ -159,6 +159,13 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
  It’s annoying when your favourite VLC Player suddenly starts playing videos out of sync. But the best thing about VLC is that it can fix its glitches. You can use various features in VLC to fix video-audio sync problems.
@@ -174,13 +181,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -209,18 +209,19 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-cubic-cottages-for-newcomers-to-mc-world/"><u>[Updated] 2024 Approved Cubic Cottages for Newcomers to MC World</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-format-transmutation-srt-to-ssa-and-more/"><u>2024 Approved The Art of Format Transmutation SRT to SSA & More</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-ultimate-list-of-10-online-free-jpg-to-gif-conversion-programs/"><u>2024 Approved Ultimate List of 10 Online, Free JPG to GIF Conversion Programs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-7-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 7 to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/masterclass-dispatching-macs-kernel-emergency/"><u>Masterclass: Dispatching Mac's Kernel Emergency</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mastering-mac-hard-drive-allocation-via-video/"><u>Mastering Mac Hard Drive Allocation Via Video</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/step-by-step-guide-transferring-mailboxes-from-an-edb-file-to-a-running-exchange-server-via-video-tutorial/"><u>Step-by-Step Guide: Transferring Mailboxes From an EDB File to a Running Exchange Server via Video Tutorial</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/techniques-for-smooth-video-replay/"><u>Techniques for Smooth Video Replay</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-10-budget-friendly-mmorpg-experiences-for-2024/"><u>Top 10 Budget-Friendly MMORPG Experiences for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-revival-excellence-endorsed-by-users/"><u>Video Revival Excellence, Endorsed by Users</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/vidfixmaster-quick-repair-made-easy/"><u>VidFixMaster: Quick Repair Made Easy</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-uncontrollable-scroll-troubleshooting-steps/"><u>Windows Uncontrollable Scroll: Troubleshooting Steps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/zoom-meetings-made-effortless-with-top-5-transcribers-reviewed/"><u>Zoom Meetings Made Effortless with Top 5 Transcribers Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-creativity-mastering-high-quality-slow-motion-video-on-your-phone/"><u>[New] Unleash Creativity Mastering High-Quality Slow Motion Video on Your Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-full-potential-of-vlc-media-player-on-mac/"><u>[New] Unlocking the Full Potential of VLC Media Player on Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-secrets-of-high-quality-steam-gameplay-footage/"><u>[Updated] 2024 Approved Secrets of High-Quality Steam Gameplay Footage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-guide-to-personalized-phone-tones-for-android-users/"><u>[Updated] The Ultimate Guide to Personalized Phone Tones for Android Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-error-messages-during-playback/"><u>Fixing Error Messages During Playback</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/framefraction-analysis/"><u>FrameFraction Analysis</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/gunstige-moglichkeiten-geschutzte-dvds-mit-vlc-und-handbrake-kostenlos-zu-rippen/"><u>Günstige Möglichkeiten, Geschützte DVDs Mit VLC Und Handbrake Kostenlos Zu Rippen</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-secrets-revealed-streamlined-importation-on-windows-10-os/"><u>In 2024, Secrets Revealed Streamlined Importation on Windows 10 OS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/leading-service-virtual-video-correction-kits/"><u>Leading Service: Virtual Video Correction Kits</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/memory-miracle-unveiled-thousands-of-photos-restored-success-story/"><u>Memory Miracle Unveiled: Thousands of Photos Restored Success Story</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/prime-digital-photography-recovery/"><u>Prime Digital Photography Recovery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revitalizing-damaged-quicktime-video-extensions/"><u>Revitalizing Damaged Quicktime Video Extensions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/seamless-video-restoration-experience-with-grau-gmbhs-integrated-tech-solutions/"><u>Seamless Video Restoration Experience with Grau GmbH's Integrated Tech Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-next-gen-samsung-gear-360-finding-your-perfect-replacement/"><u>The Next Gen Samsung Gear 360 - Finding Your Perfect Replacement</u></a></li>
 </ul></div>
 
