@@ -1,7 +1,7 @@
 ---
 title: Revitalize Corrupt Videos with VideoCure
-date: 2024-11-02T18:28:37.198Z
-updated: 2024-11-04T17:42:37.251Z
+date: 2024-11-10T17:22:13.273Z
+updated: 2024-11-14T21:33:19.593Z
 categories:
   - repair-tools
 description: This Article Describes Revitalize Corrupt Videos with VideoCure
@@ -78,13 +78,6 @@ STELLAR REPAIR FOR VIDEO
 
 ![3GP Format](https://www.stellarinfo.com/public/image/catalog/v6/video/3gp.png) ![Avi Format](https://www.stellarinfo.com/public/image/catalog/v6/video/avi.png) ![MKV Format](https://www.stellarinfo.com/public/image/catalog/v6/video/mkv.png) ![MOV Format](https://www.stellarinfo.com/public/image/catalog/v6/video/mov.png) ![MP4 Format](https://www.stellarinfo.com/public/image/catalog/v6/video/mp4.png) ![Video Repair app](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Video Repair software](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Video Repair tool](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Repair Popular Video File Formats
 
 * Repairs damaged videos of MP4, MOV, AVI, and 3GP formats.
@@ -99,6 +92,13 @@ STELLAR REPAIR FOR VIDEO
  \* Free download previews repaired files up to 20% of total video size.
 
 ![macOS](https://www.stellarinfo.com/image/icm.png) **[Also available for Mac](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Powerful & Proven Video Repair Tool to Fix Damaged Videos
 
@@ -118,13 +118,6 @@ STELLAR REPAIR FOR VIDEO
 
 ![Repairs Broken or Damaged Videos](https://www.stellarinfo.com/public/image/catalog//featureicon/video-repair/Repairs-Broken-or-Damaged-Videos.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Repairs Broken or Damaged Videos
 
  The video file repair software is effective in repairing damaged videos shot with DSLRs, digital cameras, drones, CCTV, Dashcam, camcorders, Android, iPhones, etc. These include devices of popular brands such as Sony®, Canon®, Nikon®, FujiFilm®, GoPRo®, DJI® (Mavic, Phantom), Panasonic®, Samsung®, Olympus®, Flip Video®, Pentax®, Mamiya® etc.
@@ -137,13 +130,6 @@ STELLAR REPAIR FOR VIDEO
 
 More Features
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Powerful Features of Stellar Video Repair Tool
 
 ![Saves Repaired Files at the Desired Location](https://www.stellarinfo.com/image/catalog/feature-icon/video/saves-repaired-files-at-the-desired-location.png)
@@ -153,13 +139,6 @@ More Features
  Stellar Repair for Video software allows you to save your repaired videos at the desired location on any computer drive or external storage media. You can also save the repaired videos at the source location by browsing and selecting the specific location on your system.
 
 ![Repairs Multiple Videos Simultaneously](https://www.stellarinfo.com/image/catalog/feature-icon/video/repairs-multiple-video-simultaneusly.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Repairs Multiple Videos Simultaneously
 
@@ -179,6 +158,13 @@ More Features
 
 ![Support for all Digital Media Players](https://www.stellarinfo.com/image/catalog/feature-icon/video/supports-all-digital-media-players.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Support for all Digital Media Players
 
  The video repair software fixes video files that do not play due to corruption in various media players like VLC Media Player, Windows Media Player®, Media Player Classic, MX player, PotPlayer, KM player, Winamp, QuickTime®, Mplayer, iTunes®, Adobe Flash Player®, Real Player, etc.
@@ -191,6 +177,13 @@ More Features
 
 Software Walkthrough
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Screenshots & Video
 
 **Step 3** : Select Save Repaired Files
@@ -202,13 +195,6 @@ Software Walkthrough
 **Step 1** : Click Add File
 
 ![Click Add File](https://www.stellarinfo.com/public/image/catalog/screenshot/video-repair/Stellar-video-repair-add-files.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Add Video(s) that you want to repair.
 
@@ -227,6 +213,13 @@ Software Walkthrough
 **Step 1** : Click Add File
 
 ![Click Add File](https://www.stellarinfo.com/public/image/catalog/screenshot/video-repair/Stellar-video-repair-add-files.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Add Video(s) that you want to repair.
 
@@ -296,6 +289,13 @@ AWARDS & REVIEWS
 
 ![q1](https://www.stellarinfo.com/images/v7/q1.png) ![q1](https://www.stellarinfo.com/images/v7/q2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![HNGN](https://www.stellarinfo.com/image/catalog/awards/mac/ar-logo.jpg) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
 HNGN
@@ -306,6 +306,19 @@ Stellar Repair for Video: Easy-to-use software
 
 ![MacWorld](https://www.stellarinfo.com/image/catalog/awards/mac/mac-word.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 MacWorld
 
  Stellar Repair for Video: Powerful tool to repair broken, corrupted, or damaged videos.
@@ -313,13 +326,6 @@ MacWorld
  Stellar Repair for Video is user-friendly software that doesn't need a working reference video to know how to repair videos.
 
 ![HNGN](https://www.stellarinfo.com/image/catalog/awards/mac/ar-logo.jpg) ![star](https://www.stellarinfo.com/images/v7/star.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 HNGN
 
@@ -336,13 +342,6 @@ MacWorld
  Stellar Repair for Video is user-friendly software that doesn't need a working reference video to know how to repair videos.
 
 DATA SHEET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Technical Specifications
 
@@ -372,7 +371,27 @@ Documents
 | [InstallationGuide Installation](https://www.stellarinfo.com/public/image/catalog/v6/InstallationGuide.svg) Installation](https://www.stellarinfo.com/pdf/installation-uninstallation/installation.php?product%5Fid=78) [knowledgebase Knowledge Base](https://www.stellarinfo.com/public/image/catalog/v6/UserManual.svg) Uninstallation](https://www.stellarinfo.com/pdf/installation-uninstallation/uninstallation.php?product%5Fid=78) [knowledgebase EULA](https://www.stellarinfo.com/public/image/catalog/v6/EULA.svg) EULA](https://www.stellarinfo.com/installation-uninstallation/eula%5Feng.pdf) | [![UserManual](https://www.stellarinfo.com/public/image/catalog/v6/UserManual.svg) User Manual](https://tools.techidaily.com/stellardata-recovery/buy-now/) [![knowledgebase](https://www.stellarinfo.com/public/image/catalog/v6/knowledgebase.svg) Knowledge Base](https://www.stellarinfo.com/support/kb/index.php/category/quicktime-mov-repair) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Stellar Repair for Video](https://www.stellarinfo.com/image/boxshot/Stellar-Repair-for-Video-Windows.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 TRY BEFORE YOU BUY
 
@@ -516,13 +535,6 @@ Awards Received
 
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  About
 
 * [About us](https://tools.techidaily.com/stellardata-recovery/buy-now/)
@@ -588,24 +600,22 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-designing-powerful-summaries-insights-and-real-world-use/"><u>[Updated] 2024 Approved Designing Powerful Summaries Insights & Real World Use</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlock-igtv-master-video-submission-for-2024/"><u>[Updated] Unlock IGTV Master Video Submission for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unrestricted-mental-harmony/"><u>2024 Approved Unrestricted Mental Harmony</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enterprise-transformation-post-gpt-whisper-apis-launch/"><u>Enterprise Transformation Post GPT, Whisper APIs Launch</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/handling-jitter-in-media-files/"><u>Handling Jitter in Media Files</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-essential-techniques-for-effective-srt-file-creation/"><u>In 2024, Essential Techniques for Effective SRT File Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-14-vs-iphone-16-pro-four-key-factors-that-keep-me-loyal-to-my-current-device/"><u>IPhone 14 Vs. IPhone 16 Pro: Four Key Factors That Keep Me Loyal to My Current Device</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mastering-the-art-of-transferring-recovered-inboxes-online/"><u>Mastering the Art of Transferring Recovered Inboxes Online</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/menderclipai-revive-flawed-video-files/"><u>MenderClipAI: Revive Flawed Video Files</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-top-picks-movie-trailer-editors-for-mac-and-windows/"><u>New 2024 Approved S Top Picks Movie Trailer Editors for Mac and Windows</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-pc-display-using-the-latest-intel-3000-driver-on-windows-10/"><u>Optimize PC Display Using the Latest Intel 3000 Driver on Windows 10.</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/phoenix-revives-new-tool-for-fixing-damaged-pdfs/"><u>Phoenix Revives: New Tool for Fixing Damaged PDFs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-ai-desired-advancements-in-chatgpts-plugin-ecosystem/"><u>Revolutionizing AI: Desired Advancements in ChatGPT's Plugin Ecosystem</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-integration-of-microsoft-copilot-into-your-macos-workflow/"><u>Seamless Integration of Microsoft Copilot Into Your macOS Workflow</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solving-crashed-m4v-playback-issues-on-tech-devices/"><u>Solving Crashed M4V Playback Issues on Tech Devices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/some-files-uncorrected-by-video-software/"><u>Some Files Uncorrected by Video Software.</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-success-story-reviving-dead-hard-drives/"><u>Stellar's Success Story: Reviving Dead Hard Drives</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-ultimate-guide-overcoming-interlacing-blunders/"><u>The Ultimate Guide: Overcoming Interlacing Blunders</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unlocking-the-power-of-self-created-software-insider-hacks-from-stellars-expert-toolkit-collection/"><u>Unlocking the Power of Self-Created Software: Insider Hacks From Stellar's Expert Toolkit Collection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-jocular-joke-crafting-a-step-by-step-guide-to-memelore/"><u>[New] Jocular Joke-Crafting A Step-by-Step Guide to Memelore</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unveiling-the-mysteries-of-digital-media-ownership-on-youtube-for-2024/"><u>[Updated] Unveiling the Mysteries of Digital Media Ownership on YouTube for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/captivating-and-conversational-507-must-use-instagram-captions-of-the-year-2024/"><u>Captivating and Conversational: 507 Must-Use Instagram Captions of the Year 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-your-audio-lines-fixing-windows-117-speaker-noise-disruptions-effortlessly/"><u>Clear Your Audio Lines: Fixing Windows 11/7 Speaker Noise Disruptions Effortlessly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-gaming-setup-with-secretlabs-chic-car-seat-cover-designs-insights-from-zdnet/"><u>Enhance Your Gaming Setup with SecretLab's Chic Car Seat Cover Designs - Insights From ZDNet</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-youtube-video-glitches-on-apple-devices/"><u>Fixing YouTube Video Glitches on Apple Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/get-help-get-setup-stellar/"><u>Get Help, Get Setup - Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/leading-video-correction-programs-perfect-matches-for-both-windows-and-apple-devices/"><u>Leading Video Correction Programs: Perfect Matches for Both Windows & Apple Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-post-update-distortion-on-computer-screens/"><u>Resolving Post-Update Distortion on Computer Screens</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revitalize-media-mp4-mov-fixing/"><u>Revitalize Media: MP4, MOV Fixing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revival-phoenix-toolbox-pdf-repair/"><u>Revival Phoenix Toolbox: PDF Repair</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/salvaging-severely-compromised-avchd-files/"><u>Salvaging Severely Compromised AVCHD Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-activating-gpt-4-on-chatgpt-right-now/"><u>Step by Step: Activating GPT-4 on ChatGPT Right Now</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/system-administration-at-its-peak-mysql-repairs-via-video-with-augusto/"><u>System Administration at Its Peak: MySql Repairs via Video with Augusto</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-comprehensive-guide-to-acquiring-instagram-ringtones-and-creating-noteworthy-chimes-for-2024/"><u>The Comprehensive Guide to Acquiring Instagram Ringtones & Creating Noteworthy Chimes for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-solution-to-the-cannot-find-msvcr110dll-file-for-helldivers-2-gamers/"><u>The Ultimate Solution to the 'Cannot Find' MSVCR110.dll File for Helldivers 2 Gamers</u></a></li>
 </ul></div>
 
