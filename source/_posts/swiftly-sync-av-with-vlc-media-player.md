@@ -1,7 +1,7 @@
 ---
 title: Swiftly Sync AV with VLC Media Player
-date: 2024-08-27T03:25:26.290Z
-updated: 2024-08-28T03:25:26.290Z
+date: 2024-11-07T17:13:48.304Z
+updated: 2024-11-13T18:57:10.631Z
 categories:
   - repair-tools
 description: This Article Describes Swiftly Sync AV with VLC Media Player
@@ -59,8 +59,12 @@ _Figure: Audio delay message in VLC_
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
  The answer is ‘Yes’. You can apply the settings for once for all the videos you play in VLC. For this, use the **‘Audio desynchronization compensation’** feature. It would permanently fix the audio-video sync in VLC Player. Unlike the Audio track synchronization value, which you must reset every time, you must set the ‘Audio desynchronization compensation’ value just once. The settings get saved for all the videos until you change it again.
@@ -76,9 +80,6 @@ _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
  Often, users ask if every time they play a video in VLC, they have to manually adjust Audio track synchronization to get the audio in sync with the video. So, is it possible for this setting to be saved permanently?
@@ -101,8 +102,12 @@ _Figure: Set Audio desynchronization compensation value in VLC_
  The video or movie should now play without any audio sync issue in the VLC Player.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -121,9 +126,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -135,6 +137,19 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  **Note:**  Not all video repair software is advanced enough to fix audio problems in videos. So, before choosing one, make sure it is capable of fixing sound issues in a video file.
 
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to fix audio sync issue with repair software**
 
@@ -150,9 +165,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Conclusion**
 
  It’s annoying when your favourite VLC Player suddenly starts playing videos out of sync. But the best thing about VLC is that it can fix its glitches. You can use various features in VLC to fix video-audio sync problems.
@@ -170,8 +182,12 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -190,8 +206,6 @@ About The Author
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,6 +213,24 @@ About The Author
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-mastering-the-art-of-youtube-conversion-top-10-strategies/"><u>[New] Mastering the Art of YouTube Conversion Top 10 Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-enhancing-your-discord-experience-with-recordings/"><u>[Updated] Enhancing Your Discord Experience with Recordings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-least-expensive-skyvault-service-for-big-files/"><u>[Updated] In 2024, The Least Expensive SkyVault Service for Big Files</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-your-content-potential-best-ideas-for-youtube-themes/"><u>[Updated] Unlock Your Content Potential Best Ideas for YouTube Themes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-brightening-your-story-with-instagram-highlights-3-methods/"><u>2024 Approved Brightening Your Story with Instagram Highlights (3 Methods)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/best-video-repair-utilities-a-guide-to-top-software-options-for-windows-and-mac/"><u>Best Video Repair Utilities: A Guide to Top Software Options for Windows and Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/decoding-mac-disk-management-visual-tutorial-explanation/"><u>Decoding Mac Disk Management - Visual Tutorial Explanation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-mend-corrupted-nikon-video-recordings/"><u>How to Mend Corrupted Nikon Video Recordings</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-seamlessly-migrate-edb-files-to-active-exchange-servers-a-comprehensive-video-walkthrough/"><u>How to Seamlessly Migrate EDB Files to Active Exchange Servers - A Comprehensive Video Walkthrough</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-s23-ultra-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy S23 Ultra Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/m2-vs-m1-showdown-can-apples-latest-innovation-outperform-the-classic-mac-mini/"><u>M2 Vs. M1 Showdown: Can Apple's Latest Innovation Outperform the Classic Mac Mini?</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-predominant-rainmeter-malfunctions-in-windows/"><u>Remedying Predominant Rainmeter Malfunctions in Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-lost-treasures-with-stellar-free/"><u>Reviving Lost Treasures with Stellar FREE</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/soil-health/"><u>Soil Health</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamlining-problematic-file-format-transfers/"><u>Streamlining Problematic File Format Transfers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/totan-banerjees-blueprint-for-thriving-in-the-stellar-recovery-space/"><u>Totan Banerjee's Blueprint for Thriving in the Stellar Recovery Space</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/updating-systems-to-handle-obsolete-compression/"><u>Updating Systems to Handle Obsolete Compression</u></a></li>
+</ul></div>
 

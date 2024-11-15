@@ -1,7 +1,7 @@
 ---
 title: Methods to Deal with Restricted Codecs
-date: 2024-10-29T16:35:29.944Z
-updated: 2024-11-04T16:54:51.072Z
+date: 2024-11-09T17:07:40.084Z
+updated: 2024-11-13T19:05:37.364Z
 categories:
   - repair-tools
 description: This Article Describes Methods to Deal with Restricted Codecs
@@ -85,6 +85,13 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -108,10 +115,10 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
@@ -124,6 +131,13 @@ _Figure: Check for Updates in VLC_
 _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
 
@@ -151,22 +165,15 @@ _Figure: Video profile options in VLC Player_
 * Once done, click **Start** to convert the video file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
@@ -196,13 +203,6 @@ _Figure: Repair button in software_
 _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Wrapping up**
 
@@ -239,18 +239,16 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-exclusive-list-of-premium-video-downloader-apps/"><u>[Updated] 2024 Approved Exclusive List of Premium Video Downloader Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-learn-the-art-of-gaussian-blur-mobile-and-pc-edition/"><u>2024 Approved Learn the Art of Gaussian Blur Mobile and PC Edition</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/a-new-dawn-for-data-hubs-stellar-services/"><u>A New Dawn for Data Hubs: Stellar Services</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/advanced-video-malfunction-your-guide-to-recovery/"><u>Advanced Video Malfunction: Your Guide to Recovery?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/beat-the-blues-how-to-fix-errors-in-win11-operating-system/"><u>Beat the Blues: How to Fix Errors in Win11 Operating System</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/celebrating-unprecedented-support-success-with-245-satisfaction/"><u>Celebrating Unprecedented Support Success with 245% Satisfaction</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/clean-cinematography-uncompromised-quality/"><u>Clean Cinematography, Uncompromised Quality</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-revival-on-mac-platform-a-comprehensive-guide-to-top-8-applications/"><u>Data Revival on Mac Platform - A Comprehensive Guide to Top 8 Applications</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-tips-for-securely-getting-back-permanently-lost-photos-on-your-iphone/"><u>Expert Tips for Securely Getting Back Permanently Lost Photos on Your iPhone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-going-back-in-time-your-android-movie-method/"><u>In 2024, Going Back in Time Your Android Movie Method</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/prime-day-discounts-securing-the-best-deal-on-the-apple-watch-series-se-now-just-80-cheaper-insights/"><u>Prime Day Discounts: Securing the Best Deal on the Apple Watch Series SE, Now Just $80 Cheaper - Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-constant-usb-recognition-issues-in-windows-computers-effective-solutions-explored/"><u>Resolving Constant USB Recognition Issues in Windows Computers: Effective Solutions Explored</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlock-more-views-twitch-to-facebook-streaming-tips/"><u>[New] 2024 Approved Unlock More Views Twitch to Facebook Streaming Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-perfecting-your-snap-zoom-levels-unveiled-in-insta-stories-for-2024/"><u>[New] Perfecting Your Snap Zoom Levels Unveiled in Insta Stories for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-best-livestream-capturing-solutions-for-content-makers-for-2024/"><u>[Updated] Best Livestream Capturing Solutions for Content Makers for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/discover-pope-benedict-xvis-official-email-via-massmail-enhanced-communication-with-secure-software/"><u>Discover Pope Benedict XVI's Official Email via MassMail: Enhanced Communication with Secure Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s24-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S24 Ultra without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-audio-architects-guide-to-stripping-down-beats-online/"><u>New 2024 Approved The Audio Architects Guide to Stripping Down Beats Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-routine-nircmds-win-commands-for-speed/"><u>Optimize Your Routine: NirCmd's Win Commands for Speed</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-pioneers-file-restoration-for-qb-users-worldwide/"><u>Stellar Pioneers File Restoration for QB Users Worldwide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-phoenix-software-offers-jpeg-repair-for-mac-users/"><u>Stellar's Phoenix Software Offers JPEG Repair for Mac Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stepwise-guide-converting-old-mail-to-active-exchange/"><u>Stepwise Guide: Converting Old Mail to Active Exchange</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-for-enhancing-exported-video-pixelation/"><u>Techniques for Enhancing Exported Video Pixelation</u></a></li>
 </ul></div>
 

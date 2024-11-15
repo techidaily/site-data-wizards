@@ -1,7 +1,7 @@
 ---
 title: Resolving Power Supply Issues to GPU
-date: 2024-10-28T18:30:48.947Z
-updated: 2024-11-04T18:11:19.303Z
+date: 2024-11-09T22:29:50.979Z
+updated: 2024-11-13T20:34:28.779Z
 categories:
   - repair-tools
 description: This Article Describes Resolving Power Supply Issues to GPU
@@ -72,19 +72,6 @@ Table of Content
 
 [How to fix ‘Video not playing’ issues](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Physical checks before troubleshooting video card problems**
 
  A graphics card is not always the cause of video problems; sometimes, the problems are caused due to other hardware-related aspects, as follows:
@@ -106,22 +93,15 @@ Table of Content
  If you use a dedicated NVidia GeForce or AMD card, replace it with another card of similar specifications. If the display problem gets fixed, your old graphics card needs repair or replacement.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **5\. Check your Sound Drivers:**
 
  Is the computer crashing only while playing games? It may be due to the sound hardware. To check this possibility, disable the sound hardware temporarily via**Device Manager** on your PC. If your computer doesn’t crash now, it’s a sound system issue. Download sound card drivers from the manufacturer’s website.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **6\. Check the ‘Device Status’ of your graphic card:**
 
@@ -130,10 +110,10 @@ Table of Content
 ![Device Status of Graphics card showing Code 43](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/vv.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Figure: Device Status of Graphics card showing Code 43
@@ -142,18 +122,18 @@ Table of Content
 
 ![Device Status of Graphic card showing ‘device working’](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/ww.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Figure: Device Status of Graphic card showing ‘device working’
 
 Try the free version of the software:
 
 [Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How to fix video card problems**
 
@@ -179,6 +159,13 @@ Try the free version of the software:
 
 **_ [Read More](https://support.microsoft.com/en-us/help/4028443/windows-10-update-drivers) _**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Disable/Enable the graphics card**
 
  To repair the graphics card ‘no display’ problem, disable/enable the card driver. This method can fix integrated video cards and dedicated (external) graphics cards.
@@ -193,13 +180,6 @@ To disable video card drives, follow the below steps:
 * Next, reboot your computer.
 
 ![enable the graphics card](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/Screenshot-61.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, enable the graphics card again by visiting the**Device Manager** on your PC or laptop and following these steps:
 
@@ -224,6 +204,13 @@ To uninstall the driver, follow the below steps:
  Uninstalling display drivers and then reinstalling fixes most of the video card problems. It also fixes the improper display driver installation problem.
 
 > **Note:** NVidia and AMD provide specific tools to uninstall and reinstall graphic drivers. However, these should be only used when the Windows normal uninstall/ reinstall process fails.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **4\. Cool and clean video card**
 
@@ -255,6 +242,13 @@ To uninstall the driver, follow the below steps:
 
 [Video Repair](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Video Repair Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
@@ -266,10 +260,10 @@ About The Author
 ![](https://secure.gravatar.com/avatar/574139bee03ec4bdb0cd6e869a4670da?s=85&d=mm&r=g)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
@@ -291,16 +285,17 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-a-visual-revolution-how-to-upgrade-your-snapchat-photos/"><u>[Updated] In 2024, A Visual Revolution How to Upgrade Your Snapchat Photos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-reddit-trophy-case-top-ten-threads/"><u>[Updated] The Ultimate Reddit Trophy Case - Top Ten Threads</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/addressing-media-player-lags/"><u>Addressing Media Player Lags</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/correct-frame-loss-xc00d36c4-issue/"><u>Correct Frame Loss - XC00D36C4 Issue</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/curing-common-mp4-glitches/"><u>Curing Common MP4 Glitches</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/digital-goods-safety-provision/"><u>Digital Goods Safety Provision</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhancing-blurry-cctv-footage/"><u>Enhancing Blurry CCTV Footage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-look-sonys-latest-professional-grade-xr-headset-outshines-the-vision-pro-incorporates-two-essential-functions-for-a-comparable-apple-device/"><u>Exclusive Look: Sony's Latest Professional-Grade XR Headset Outshines the Vision Pro, Incorporates Two Essential Functions for a Comparable Apple Device</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/leading-tools-for-customizable-screenshot-capabilities/"><u>Leading Tools for Customizable Screenshot Capabilities</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/missing-mkv-videos-in-your-plex-library-heres-how-you-can-fix-it/"><u>Missing MKV Videos in Your Plex Library? Here's How You Can Fix It</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-rated-no-cost-programs-for-restoring-data-from-a-wiped-hard-disk/"><u>Top Rated No-Cost Programs for Restoring Data From a Wiped Hard Disk</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-cutting-edge-cinema-with-hero5-black-professional-techniques/"><u>[New] Cutting Edge Cinema with Hero5 Black Professional Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-innovative-techniques-for-capturing-every-play-of-your-ps3-games/"><u>[New] Innovative Techniques for Capturing Every Play of Your PS3 Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-between-iphone-16-pro-and-14-pro-is-the-newest-model-worth-it-expert-review-by-zdnet/"><u>Choosing Between iPhone 16 Pro and 14 Pro: Is the Newest Model Worth It? - Expert Review by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-power-of-claude-understanding-its-benefits-and-uses/"><u>Discovering the Power of Claude: Understanding Its Benefits and Uses</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guardianship-against-flawed-videos/"><u>Guardianship Against Flawed Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/improve-android-media-streaming/"><u>Improve Android Media Streaming</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/patching-flawed-mp4mov-through-quicktime-solutions/"><u>Patching Flawed MP4/MOV Through QuickTime Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210504156-9781788177306-raise-your-vibration-new-edition/"><u>Raise Your Vibration (New Edition) | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-y100i-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y100i Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/save-fix-enhance-discover-the-finest-video-repair-solutions-compatible-with-both-windows-and-mac/"><u>Save, Fix, Enhance: Discover the Finest Video Repair Solutions Compatible With Both Windows & Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-10-video-editing-and-repair-tools-for-windowsmac-users/"><u>Top 10 Video Editing & Repair Tools for Windows/Mac Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trouble-free-gaming-mastering-the-art-of-resolving-xbox-one-signal-issues/"><u>Trouble-Free Gaming: Mastering the Art of Resolving Xbox One Signal Issues</u></a></li>
 </ul></div>
 

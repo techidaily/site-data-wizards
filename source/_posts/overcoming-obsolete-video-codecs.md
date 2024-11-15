@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obsolete Video Codecs
-date: 2024-10-29T19:33:50.448Z
-updated: 2024-11-04T19:34:30.114Z
+date: 2024-11-10T19:48:39.172Z
+updated: 2024-11-13T21:33:47.507Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Obsolete Video Codecs
@@ -67,13 +67,6 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -92,13 +85,6 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -111,6 +97,13 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -122,10 +115,10 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
@@ -169,10 +162,10 @@ _Figure: Video profile options in VLC Player_
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
@@ -203,6 +196,13 @@ _Figure: Repair button in software_
 _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Wrapping up**
 
@@ -239,18 +239,18 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-hdr-portraiture-an-ultimate-guide/"><u>[New] 2024 Approved Mastering HDR Portraiture An Ultimate Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mimicking-golden-age-filmmaking-in-contemporary-videos/"><u>[Updated] Mimicking Golden Age Filmmaking in Contemporary Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/breaking-the-chains-of-unplayable-media-files/"><u>Breaking the Chains of Unplayable Media Files</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/error-code-36-reclaim-space-in-trash/"><u>Error Code 36: Reclaim Space in Trash</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-fix-video-distortion-after-windows-11-upgrade-stellar/"><u>How to Fix Video Distortion After Windows 11 Upgrade? - Stellar</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/live-streaming-mastery-the-ultimate-guide-to-using-manycam-and-virtual-camcorders/"><u>Live Streaming Mastery: The Ultimate Guide to Using ManyCam and Virtual Camcorders</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-7-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 7 Making It Possible</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-to-correct-missing-dsounddll-file-errors/"><u>Troubleshooting Steps to Correct Missing Dsound.dll File Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-sound-issues-with-your-xbox-series-xs-gaming-headset/"><u>Troubleshooting Tips: Solving Sound Issues with Your Xbox Series X/S Gaming Headset</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncover-tech-secrets-the-ultimate-guide-by-toms-hardware/"><u>Uncover Tech Secrets: The Ultimate Guide by Tom's Hardware</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-fix-error-code-36-on-mac-unable-to-empty-trash-on-macos/"><u>Video - Fix Error Code 36 on Mac | Unable to Empty Trash on macOS</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/virtual-offering-guarantee/"><u>Virtual Offering Guarantee</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-combat-black-screen-disruptions-in-gaming-feeds/"><u>[New] 2024 Approved Combat Black Screen Disruptions in Gaming Feeds</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mix-magic-how-to-download-top-dj-content/"><u>[New] 2024 Approved Mix Magic How to Download Top DJ Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-perfecting-professional-productions-using-vimeos-tools/"><u>[New] In 2024, Perfecting Professional Productions Using Vimeo's Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-blurry-to-brilliant-tackling-interlacing-on-videos/"><u>From Blurry to Brilliant: Tackling Interlacing on Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-v30-lite-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo V30 Lite 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-windows-system-preferences-to-adjust-after-dark-mode/"><u>Mastery of Windows System Preferences to Adjust After Dark Mode</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/movavi-web-based-aac-to-flac-aac-flac/"><u>Movavi: Web-Based AAC to FLAC 제공자로 무료 교체 - 무료 AAC FLAC 변환</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-by-stellar-the-revolutionary-jpeg-editor-for-mac-owners/"><u>Phoenix by Stellar - The Revolutionary JPEG Editor for Mac Owners</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/re-engineering-malfunctioned-video-extensions-via-qt-player/"><u>Re-Engineering Malfunctioned Video Extensions via QT Player</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/redressing-ravaged-recording-a-sample-strategy/"><u>Redressing Ravaged Recording: A Sample Strategy</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tips-for-smoother-video-performance-avoiding-skips-and-hiccups/"><u>Tips for Smoother Video Performance: Avoiding Skips and Hiccups</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/visual-mastery-top-rated-edit-corrections/"><u>Visual Mastery: Top-Rated Edit Corrections</u></a></li>
 </ul></div>
 
