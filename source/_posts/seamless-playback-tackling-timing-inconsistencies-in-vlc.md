@@ -1,7 +1,7 @@
 ---
 title: "Seamless Playback: Tackling Timing Inconsistencies in VLC"
-date: 2024-10-30T19:26:51.942Z
-updated: 2024-11-04T16:07:55.982Z
+date: 2024-11-18T16:59:56.229Z
+updated: 2024-11-23T23:04:17.031Z
 categories:
   - repair-tools
 description: "This Article Describes Seamless Playback: Tackling Timing Inconsistencies in VLC"
@@ -37,6 +37,10 @@ Table of Content
 
  If you’re also experiencing such issues, see the methods shared below to fix audio-video sync issues in VLC Media Player on Windows, Mac, and Android devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to fix out-of-sync audio on VLC Player?**
 
  VLC Media Player has built-in features that allow you to fix the audio lag or sync issues in video playback. Below are four ways you can try to fix the audio sync issue in VLC:
@@ -47,16 +51,7 @@ Table of Content
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
@@ -70,6 +65,10 @@ _Figure: Audio delay message in VLC_
  If you are a Mac user, press the ‘G’ key to slow down the audio and the ‘F’ key to increase the audio speed.
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
@@ -87,10 +86,7 @@ _Figure: Audio track synchronization in VLC_
 * Next, click**Close** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
@@ -114,13 +110,6 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 
  The video or movie should now play without any audio sync issue in the VLC Player.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -138,13 +127,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 * Click on the + or – button to increase or decrease the audio speed in your video. The + button will delay the sound by 50 milliseconds, whereas the – button will hasten the sound. Press the + and – buttons until the audio gets synced with the video.
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
@@ -171,6 +153,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  You don’t need to do any resetting or learn to use the software. It’s easy to use and has advanced algorithms that work without you making any effort.
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -215,16 +201,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-ideal-methods-for-streaming-and-archiving-sports-events-for-2024/"><u>[New] Ideal Methods for Streaming and Archiving Sports Events for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-tapping-into-trends-your-guide-to-impactful-instagram-tags/"><u>[Updated] Tapping Into Trends Your Guide to Impactful Instagram Tags</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-timing-discrepancies-in-vlc/"><u>Fixing Timing Discrepancies in VLC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-stop-wudfhostexe-from-hiking-cpu-use-on-your-windows-10-pc/"><u>How to Stop wudfhost.exe From Hiking CPU Use on Your Windows 10 PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Is it Possible to Use Miracast with Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mac-dedicated-users-video-testimonials/"><u>Mac Dedicated Users' Video Testimonials</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/securely-transferring-past-email-data-into-live-exchange-server/"><u>Securely Transferring Past Email Data Into LIVE Exchange Server</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-adobe-premiere-pro-crashes-on-windows-11-and-10-solved/"><u>Troubleshooting Adobe Premiere Pro Crashes on Windows 11 and 10 - Solved!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ultimate-solutions-for-smooth-video-streams/"><u>Ultimate Solutions for Smooth Video Streams</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-get-radiant-skin-in-fcpx-no-plugins-required/"><u>Updated 2024 Approved Get Radiant Skin in FCPX No Plugins Required</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/videocare-restore-and-revive/"><u>VideoCare: Restore and Revive</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-tailor-videos-for-impact-on-instagram-feed/"><u>[New] In 2024, Tailor Videos for Impact on Instagram Feed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-xbox-screen-recorder-how-to-guide-for-2024/"><u>[New] Xbox Screen Recorder How-To Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-chuckle-factory-designing-7-video-ideas-for-humorists-for-2024/"><u>[Updated] Chuckle Factory Designing 7 Video Ideas for Humorists for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steams-failed-game-validation-issue/"><u>Addressing Steam's Failed Game Validation Issue</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/amazons-project-kuiper-advances-into-prototype-testing/"><u>Amazon’s Project Kuiper Advances Into Prototype Testing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/best-bites-in-a-byte-top-tiktok-foodies-for-2024/"><u>Best Bites in a Byte Top TikTok Foodies for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/exceptional-care-for-valued-customers-average-245/"><u>Exceptional Care for Valued Customers (Average: 245)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-damaged-movmp4-with-qt-player/"><u>Fixing Damaged MOV/MP4 with QT Player</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-clashes-with-huggingchat-the-outcome/"><u>GPT Clashes with HuggingChat: The Outcome</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-level-troubleshooting-how-to-stop-street-fighter-vi-from-crashing-on-windows/"><u>Master Level Troubleshooting: How to Stop Street Fighter VI From Crashing on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/melodymaster-recording-software-guide-for-2024/"><u>MelodyMaster Recording Software Guide for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-broken-video-formats-in-macos/"><u>Mending Broken Video Formats in macOS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-inconsistent-mp4-frame-rates/"><u>Mending Inconsistent MP4 Frame Rates</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-revival-stellars-server-sos/"><u>Phoenix Revival: Stellar's Server SOS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-corrupted-avchd-clips/"><u>Repairing Corrupted AVCHD Clips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-broken-video-files-with-these-10-best-restoration-programs-for-pc-and-mac-enthusiasts/"><u>Revive Broken Video Files with These 10 Best Restoration Programs for PC and Mac Enthusiasts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/saving-the-day-sql-tales-from-an-mvp/"><u>Saving the Day: SQL Tales From an MVP</u></a></li>
 </ul></div>
 

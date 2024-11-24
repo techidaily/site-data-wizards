@@ -1,7 +1,7 @@
 ---
 title: Methods to Deal with Restricted Codecs
-date: 2024-11-09T22:19:56.170Z
-updated: 2024-11-14T18:50:18.007Z
+date: 2024-11-18T23:39:53.270Z
+updated: 2024-11-24T10:44:56.480Z
 categories:
   - repair-tools
 description: This Article Describes Methods to Deal with Restricted Codecs
@@ -49,6 +49,10 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -68,10 +72,7 @@ _An error occurred. Unsupported file format.’_
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
@@ -93,10 +94,7 @@ _An error occurred. Unsupported file format.’_
 _Figure: Mac suggests installed apps to open video_
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Download the missing video codecs
@@ -120,13 +118,6 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -168,13 +159,6 @@ _Figure: Video profile options in VLC Player_
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
@@ -204,6 +188,10 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -211,6 +199,10 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -239,14 +231,17 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-evolving-tactics-for-crafting-immersive-mukbang-sessions/"><u>[New] 2024 Approved Evolving Tactics for Crafting Immersive Mukbang Sessions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-youtube-profits-a-comprehensive-manual/"><u>[New] Unlocking YouTube Profits A Comprehensive Manual</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-pcandroid-tutorial-successful-facebook-video-sharing/"><u>[Updated] PC/Android Tutorial Successful Facebook Video Sharing</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciphering-usernames-from-profile-names-on-social-networks/"><u>Deciphering Usernames From Profile Names on Social Networks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-top-11-best-dji-phantom-4-accessories-to-buy/"><u>In 2024, Top 11 Best DJI Phantom 4 Accessories to Buy</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/masterful-techniques-for-tidying-up-vids/"><u>Masterful Techniques for Tidying Up Vids</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mastering-data-migration-from-damaged-edb-files-to-functional-exchange-servers-video-instructions/"><u>Mastering Data Migration: From Damaged EDB Files to Functional Exchange Servers - Video Instructions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-phoenix-the-ultimate-solution-for-macs-torn-videos/"><u>Stellar Phoenix: The Ultimate Solution for Mac's Torn Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tips-to-enhance-h264-video-performance/"><u>Tips to Enhance H.264 Video Performance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-screen-with-ultra-screen-recorder-for-2024/"><u>[New] How to Record Screen With Ultra Screen Recorder for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-speedy-tiktok-video-performance-a-step-by-step-plan/"><u>[New] In 2024, Speedy TikTok Video Performance A Step-by-Step Plan</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advance-repair-for-bad-and-corrupt-video-files/"><u>Advance Repair for Bad and Corrupt Video Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-the-silent-problem-rapid-guide-for-astro-a50-audio-troubleshooting/"><u>Fix the Silent Problem: Rapid Guide for Astro A50 Audio Troubleshooting</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-13-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 13? Heres the Best Fixes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-timestamp-placement-in-youtube-clips-for-2024/"><u>Mastering Timestamp Placement in YouTube Clips for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/methods-for-smoother-media-playback-on-devices/"><u>Methods for Smoother Media Playback on Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-mfc42ddll-file-missing-bugs-with-these-proven-steps/"><u>Overcoming 'mfc42d.dll File Missing' Bugs with These Proven Steps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-boosts-mac-speed-with-new-utility-release/"><u>Stellar Boosts Mac Speed with New Utility Release</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-mechanics-of-producing-engaging-mukbang-content-for-2024/"><u>The Mechanics of Producing Engaging Mukbang Content for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/three-paths-to-archiving-every-engaging-second-of-your-disco-streaming-experience-for-2024/"><u>Three Paths to Archiving Every Engaging Second of Your Disco Streaming Experience for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/voice-of-the-recovered-testimonial/"><u>Voice of the Recovered: Testimonial</u></a></li>
 </ul></div>
 

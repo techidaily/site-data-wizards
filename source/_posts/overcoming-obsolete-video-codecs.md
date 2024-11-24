@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obsolete Video Codecs
-date: 2024-11-10T18:28:42.671Z
-updated: 2024-11-14T23:09:16.471Z
+date: 2024-11-19T03:11:27.747Z
+updated: 2024-11-24T07:58:29.849Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Obsolete Video Codecs
@@ -67,13 +67,6 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -125,6 +118,10 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -134,6 +131,10 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -155,15 +156,16 @@ _Figure: Video profile options in VLC Player_
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -191,10 +193,7 @@ _Figure: Preview video after repair_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Wrapping up**
@@ -204,13 +203,6 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -239,20 +231,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-the-essential-6-steps-for-recording-your-favorite-movies-from-netflix-on-macos-for-2024/"><u>[New] The Essential 6 Steps for Recording Your Favorite Movies From Netflix on macOS for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-audio-to-text-converter-for-videos/"><u>[Updated] Audio-to-Text Converter for Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/cant-access-recovered-photo-files/"><u>Can't Access Recovered Photo Files</u></a></li>
-<li><a href="https://ai-video.techidaily.com/comprehensive-test-of-the-corsair-one-i500-the-ultimate-in-sleek-small-pc-reviews/"><u>Comprehensive Test of the Corsair ONE I500: The Ultimate in Sleek, Small PC Reviews</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/decoding-propeller-selection-for-optimal-fpv-drone-control/"><u>Decoding Propeller Selection for Optimal FPV Drone Control</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/htc-u23-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>HTC U23 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-educational-growth-through-apple-innovations/"><u>Mondly's Educational Growth Through Apple Innovations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/optimizing-dram-with-amd-ryzen-threadripper-3000-unveiling-the-1u-sms-overclocking-tool/"><u>Optimizing DRAM with AMD Ryzen Threadripper 3000: Unveiling the 1U SMS Overclocking Tool</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/resolving-low-quality-cctv-videos/"><u>Resolving Low-Quality CCTV Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restore-corrupt-video-formats-mp4-and-mov-effortlessly-through-vlc-playback-repair-techniques/"><u>Restore Corrupt Video Formats MP4 and MOV Effortlessly Through VLC Playback Repair Techniques</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revive-your-videos-with-grau-gmbh-leading-innovations-in-tech-repair-tools/"><u>Revive Your Videos with Grau GmbH – Leading Innovations in Tech Repair Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/by-step-approach-to-finding-youtube-collaborators-for-2024/"><u>Step-by-Step Approach to Finding YouTube Collaborators for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-transforming-w64-audio-files-into-common-playable-formats/"><u>Step-by-Step Guide: Transforming W64 Audio Files Into Common Playable Formats</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unfiltered-support-clients-film-voices/"><u>Unfiltered Support: Clients' Film Voices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/videography-virtuoso-glowing-reviews-cited/"><u>Videography Virtuoso - Glowing Reviews Cited</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-transformation-with-strategic-use-of-youtube-outros/"><u>[New] 2024 Approved Channel Transformation with Strategic Use of YouTube Outros</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-docu-script-writers-guide/"><u>[New] The Docu-Script Writer's Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029622638-avchd/"><u>「安定して高品質を保ちながら、AVCHDフォーマットのビデオ分割時に完璧なマージ手順」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-fix-unresponsive-usb-ports-on-dell-laptopsdesktops/"><u>Diagnose and Fix Unresponsive USB Ports on Dell Laptops/Desktops</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/editing-like-a-pro-a-comprehensive-online-video-guide/"><u>Editing Like a Pro A Comprehensive Online Video Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/first-to-crack-enigma-of-encryption-stellar-saves-hard-drive-data/"><u>First to Crack Enigma of Encryption, Stellar Saves Hard Drive Data</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fusing-fragmented-visual-data-in-videos/"><u>Fusing Fragmented Visual Data in Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/next-level-editing-software-for-live-feeds/"><u>Next-Level Editing Software for Live Feeds</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimizing-video-play-speed/"><u>Optimizing Video Play Speed</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repair-corrupt-mov-and-mp4-video-files-using-quicktime-player/"><u>Repair Corrupt MOV and MP4 Video Files Using QuickTime Player</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-first-to-tackle-hardware-encrypted-drives-stellar-triumphs/"><u>The First to Tackle Hardware-Encrypted Drives, Stellar Triumphs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-story-of-satisfaction-customer-film-features/"><u>The Story of Satisfaction: Customer Film Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-roadmap-for-earning-a-student-price-cut-at-microsoft-store/"><u>The Ultimate Roadmap for Earning a Student Price Cut at Microsoft Store</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-setting-up-microsoft-office-suite-on-windows-and-mac/"><u>Ultimate Guide: Setting Up Microsoft Office Suite on Windows and Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/win11-blue-error-remedy-practical-tips-and-solutions/"><u>Win11 Blue Error Remedy: Practical Tips & Solutions</u></a></li>
 </ul></div>
 

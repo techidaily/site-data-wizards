@@ -1,7 +1,7 @@
 ---
 title: Repairing Visual Output Errors
-date: 2024-11-14T01:52:49.555Z
-updated: 2024-11-14T23:32:55.584Z
+date: 2024-11-22T06:32:06.616Z
+updated: 2024-11-24T08:34:16.211Z
 categories:
   - repair-tools
 description: This Article Describes Repairing Visual Output Errors
@@ -53,6 +53,10 @@ Table of Content
 
 ![Random colored patterns on screen](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/colored.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Figure: Random colored patterns on the screen
 
 * Computer crash
@@ -85,10 +89,7 @@ Table of Content
  The problem might be due to a faulty PCI card slot. Insert your external graphics card in a different slot and see if this resolves the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. Check the PC monitor:**
@@ -103,13 +104,6 @@ Table of Content
 
  Is the computer crashing only while playing games? It may be due to the sound hardware. To check this possibility, disable the sound hardware temporarily via**Device Manager** on your PC. If your computer doesn’t crash now, it’s a sound system issue. Download sound card drivers from the manufacturer’s website.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **6\. Check the ‘Device Status’ of your graphic card:**
 
  Go to**Device Manager> Display adapters** . Right-click on your graphic card and click**Properties** . See the**Device Status** If it shows a video card error like Code 43 or Code 12, it indicates a video card problem. Follow the given troubleshooting methods to fix the video card error.
@@ -117,16 +111,7 @@ Table of Content
 ![Device Status of Graphics card showing Code 43](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/vv.png)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Figure: Device Status of Graphics card showing Code 43
@@ -152,10 +137,7 @@ Try the free version of the software:
 5. [**Replace your video card**](#5)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **1\. Upgrade video card drivers**
@@ -171,6 +153,10 @@ Try the free version of the software:
 **Visit the below link for steps to update Windows drivers:**
 
 **_ [Read More](https://support.microsoft.com/en-us/help/4028443/windows-10-update-drivers) _**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Disable/Enable the graphics card**
 
@@ -194,13 +180,6 @@ To disable video card drives, follow the below steps:
 * Click on properties.
 * Go to the**Driver** tab and click the**Enable** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **3.** **Uninstall and reinstall the drivers**
 
  Uninstall the graphic drivers and then reboot your PC. Windows will automatically install the drivers after Windows Update.
@@ -218,6 +197,10 @@ To uninstall the driver, follow the below steps:
 
 > **Note:** NVidia and AMD provide specific tools to uninstall and reinstall graphic drivers. However, these should be only used when the Windows normal uninstall/ reinstall process fails.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **4\. Cool and clean video card**
 
  Does your CPU turn hot after some time? Or do your videos and games stop playing properly after a few minutes? It may be because of overheating of the motherboard or video card.
@@ -233,6 +216,10 @@ To uninstall the driver, follow the below steps:
  Buying a new video card is the only option when the existing card is damaged due to overheating or overclocking or has become outdated. If you are using an integrated video card, replace the whole motherboard.
 
  Before buying, consider the specific use of graphics cards. Gamers or video editing professionals need a more powerful GPU to process intense graphics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **To Sum Up**
 
@@ -253,20 +240,10 @@ To uninstall the driver, follow the below steps:
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 About The Author
 
@@ -291,17 +268,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ore-asmr-platforms-explored/"><u>[New] Core ASMR Platforms Explored</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-pro-bokeh-tips-for-captivating-instagram-snaps-for-2024/"><u>[New] Pro Bokeh Tips for Captivating Instagram Snaps for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exquisite-online-destinations-for-sparkling-3d-typography/"><u>[Updated] Exquisite Online Destinations for Sparkling 3D Typography</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-new-ui-in-windows-11/"><u>Exploring New UI in Windows 11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/image-inception-digitally-rediscovering-clips/"><u>Image Inception: Digitally Rediscovering Clips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/piecing-together-fractured-visual-narratives/"><u>Piecing Together Fractured Visual Narratives</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-playback-quality-of-damaged-mov-files-on-macos/"><u>Restoring Playback Quality of Damaged MOV Files on macOS</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solutions-for-unsharp-cctv-images/"><u>Solutions for Unsharp CCTV Images</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamlining-visual-storytelling-best-plugin-choices-in-ae/"><u>Streamlining Visual Storytelling Best Plugin Choices in AE</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-vr-classics-dont-miss-out-for-2024/"><u>Top VR Classics - Don’t Miss Out for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-achieving-youtube-earnings-excellence-strategies-and-beyond/"><u>[New] 2024 Approved Achieving YouTube Earnings Excellence - Strategies and Beyond</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-cutting-edge-desktops-for-modern-workspaces/"><u>[New] Cutting-Edge Desktops for Modern Workspaces</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-boost-youtube-video-performance-with-rapid-rendering-methods/"><u>[New] In 2024, Boost YouTube Video Performance with Rapid Rendering Methods</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-perfect-your-social-media-history-looking-back-mastery/"><u>[New] Perfect Your Social Media History Looking Back Mastery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-utilize-your-appletv-for-a-smooth-view-of-fb-videos-online-for-2024/"><u>[Updated] How to Utilize Your AppleTV for a Smooth View of FB Videos Online for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/data-rescue-success-story-testimonial/"><u>Data Rescue Success Story - Testimonial</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-epson-es-400-scandriver-on-windows-a-step-by-step-guide/"><u>Download & Install Epson ES-400 ScanDriver on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hear-the-real-talk-from-mac-customers/"><u>Hear the Real Talk From Mac Customers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-realme-12plus-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Realme 12+ 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-code-the-story-of-virtual-reality/"><u>In 2024, Beyond Code The Story of Virtual Reality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/preventing-pixelation-and-dropped-resolution-post-export/"><u>Preventing Pixelation and Dropped Resolution Post-Export</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reestablishing-high-quality-display-on-win11/"><u>Reestablishing High-Quality Display on Win11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-previously-muted-movies/"><u>Restoring Previously Muted Movies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-mac-images-with-stellars-phoenix-say-goodbye-to-jpeg-flaws/"><u>Reviving Mac Images with Stellar’s Phoenix - Say Goodbye to JPEG Flaws</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-old-unsupported-media-formats/"><u>Reviving Old, Unsupported Media Formats</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-to-optimize-low-light-footage-quality/"><u>Techniques to Optimize Low Light Footage Quality</u></a></li>
 </ul></div>
 

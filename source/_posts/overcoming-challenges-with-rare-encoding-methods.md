@@ -1,7 +1,7 @@
 ---
 title: Overcoming Challenges with Rare Encoding Methods
-date: 2024-11-13T23:53:50.819Z
-updated: 2024-11-14T23:19:47.392Z
+date: 2024-11-20T00:55:47.965Z
+updated: 2024-11-23T19:46:05.380Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Challenges with Rare Encoding Methods
@@ -49,6 +49,10 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -85,13 +89,6 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -105,10 +102,7 @@ _Figure: Mac suggests installed apps to open video_
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to fix video codec not supported in Windows Media Player:**
@@ -121,6 +115,10 @@ _Figure: Mac suggests installed apps to open video_
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -132,13 +130,6 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -148,13 +139,6 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -178,6 +162,10 @@ _Figure: Video profile options in VLC Player_
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -212,6 +200,10 @@ _Figure: Preview video after repair_
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -239,21 +231,19 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-master-headline-hacks-for-maximum-impressions-for-2024/"><u>[Updated] Master Headline Hacks for Maximum Impressions for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-utilizing-royalty-free-beats-in-your-youtube-clips-for-2024/"><u>[Updated] Utilizing Royalty-Free Beats in Your YouTube Clips for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/addressing-discoloration-in-cctv-feeds/"><u>Addressing Discoloration in CCTV Feeds</u></a></li>
-<li><a href="https://fox-info.techidaily.com/altering-game-console-tones-ps5ps4-guide-for-2024/"><u>Altering Game Console Tones PS5/PS4 Guide for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/augustos-mysql-expertise-showcased-in-stellar-repair-video/"><u>Augusto's MySql Expertise Showcased in Stellar Repair Video</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/critical-exchange-repair-a-comprehensible-analysis/"><u>Critical Exchange Repair: A Comprehensible Analysis</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/direct-assistance-download-and-setup-stellar/"><u>Direct Assistance - Download & Setup Stellar</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/effortlessly-mend-your-flicker-stellar-phoenix-app-update/"><u>Effortlessly Mend Your Flicker: 'Stellar Phoenix' App Update</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/experience-precision-video-fixes-with-grau-gmbh-the-premier-tech-savvy-restoration-toolkit/"><u>Experience Precision Video Fixes with Grau GmbH – The Premier Tech-Savvy Restoration Toolkit</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-advice-on-vids-correction-and-restoration/"><u>Expert Advice on Vids' Correction and Restoration</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-building-a-custom-google-cardboard-for-immersive-experience/"><u>In 2024, Building a Custom Google Cardboard for Immersive Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-examination-samsung-gear-360-virtual-reality-lens/"><u>In 2024, In-Depth Examination Samsung Gear 360 Virtual Reality Lens</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-15-pro-max-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 15 Pro Max Properly | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/lost-ipad-passcode-easy-steps-to-recover-and-unlock-your-device/"><u>Lost iPad Passcode? Easy Steps to Recover & Unlock Your Device!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-correcting-oculuss-detected-graphic-driver-glitches/"><u>Troubleshooting Guide: Correcting Oculus's Detected Graphic Driver Glitches</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/webmflv/"><u>오늘날의 가장 현대적인 WEBM/FLV 변환 - 무세약스 원격 자동화</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-video-visibility-for-youtubers/"><u>[New] The Ultimate Guide to Video Visibility (For YouTubers)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-most-reliable-external-hdds-for-xbox-users/"><u>[Updated] Most Reliable External HDDs for Xbox Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reveal-new-dimensions-of-communication-access-free-vocal-effects-here/"><u>2024 Approved Reveal New Dimensions of Communication - Access Free Vocal Effects Here</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-vlc-can-resurrect-your-broken-mp4mov-videos-a-comprehensive-guide/"><u>How VLC Can Resurrect Your Broken MP4/MOV Videos: A Comprehensive Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-corrupted-video-files-in-android-devices/"><u>Mending Corrupted Video Files in Android Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-delays-in-outriders-discover-our-fixes-for-seamless-gaming/"><u>No More Delays in [Outriders]: Discover Our Fixes for Seamless Gaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-headsets-elevating-drone-use/"><u>Pioneering Headsets Elevating Drone Use</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-functionality-a-guide-for-defective-m4v-media/"><u>Restoring Functionality: A Guide for Defective M4V Media</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/rtx-2080-driver-update-available-now-compatible-with-windows-11-7-and-8-systems/"><u>RTX 2080 Driver Update Available Now - Compatible with Windows 11, 7 & 8 Systems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-phoenix-launches-repair-for-sql-anywhere-server/"><u>Stellar Phoenix Launches Repair for SQL Anywhere Server</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/superior-practices-in-correcting-visual-faults/"><u>Superior Practices in Correcting Visual Faults</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-blurry-video-quality-post-export/"><u>Troubleshooting Blurry Video Quality Post-Export</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/upset-timeline-on-tiktok-retrieve-lost-content-for-2024/"><u>Upset Timeline on TikTok – Retrieve Lost Content for 2024</u></a></li>
 </ul></div>
 

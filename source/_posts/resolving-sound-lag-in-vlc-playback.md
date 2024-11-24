@@ -1,7 +1,7 @@
 ---
 title: Resolving Sound Lag in VLC Playback
-date: 2024-11-03T16:57:10.837Z
-updated: 2024-11-04T17:28:34.530Z
+date: 2024-11-18T01:42:56.889Z
+updated: 2024-11-24T00:09:16.792Z
 categories:
   - repair-tools
 description: This Article Describes Resolving Sound Lag in VLC Playback
@@ -37,6 +37,10 @@ Table of Content
 
  If you’re also experiencing such issues, see the methods shared below to fix audio-video sync issues in VLC Media Player on Windows, Mac, and Android devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to fix out-of-sync audio on VLC Player?**
 
  VLC Media Player has built-in features that allow you to fix the audio lag or sync issues in video playback. Below are four ways you can try to fix the audio sync issue in VLC:
@@ -58,6 +62,10 @@ _Figure: Audio delay message in VLC_
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
  The answer is ‘Yes’. You can apply the settings for once for all the videos you play in VLC. For this, use the **‘Audio desynchronization compensation’** feature. It would permanently fix the audio-video sync in VLC Player. Unlike the Audio track synchronization value, which you must reset every time, you must set the ‘Audio desynchronization compensation’ value just once. The settings get saved for all the videos until you change it again.
@@ -72,6 +80,10 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -93,19 +105,6 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 * Click**Save.**
 
  The video or movie should now play without any audio sync issue in the VLC Player.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
@@ -138,10 +137,7 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **How to fix audio sync issue with repair software**
@@ -157,13 +153,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  You don’t need to do any resetting or learn to use the software. It’s easy to use and has advanced algorithms that work without you making any effort.
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -182,16 +171,7 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -221,19 +201,14 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-exploring-televised-facebook-live-4-strategies-for-2024/"><u>[New] Exploring Televised Facebook Live 4 Strategies for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-most-innovative-free-video-editors-for-idevices/"><u>[New] Unveiling the Most Innovative Free Video Editors for iDevices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-online-and-offline-freebies-in-text-animation/"><u>[Updated] In 2024, Online & Offline Freebies in Text Animation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/apples-silicon-spectrum-comparing-m1-pro-and-the-powerhouse-m1-max-for-2024/"><u>Apple's Silicon Spectrum Comparing M1 Pro and the Powerhouse M1 Max for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-visibility-with-powerful-page-optimization-techniques/"><u>Boosting Visibility with Powerful Page Optimization Techniques</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/grau-gmbhs-video-fix-suite-comprehensive-hardware-and-software-restoration-services/"><u>Grau GmbH's Video Fix Suite: Comprehensive Hardware and Software Restoration Services</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-12-live-video-streaming-app-for-watching-and-streaming-videos/"><u>In 2024, 12 Live Video Streaming App for Watching and Streaming Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/problems-with-stellar-video-fix-consistency/"><u>Problems with Stellar Video Fix Consistency</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a78-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A78 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rescuing-defective-media-from-obsolescence/"><u>Rescuing Defective Media From Obsolescence</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-sql-systems-with-mvp-insights/"><u>Restoring SQL Systems with MVP Insights</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-performance-in-mysql-fixes-insights-from-sysadmin-destrero/"><u>Stellar Performance in MySql Fixes: Insights From SysAdmin Destrero</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/understanding-failed-video-enhancements/"><u>Understanding Failed Video Enhancements.</u></a></li>
-<li><a href="https://fox-http.techidaily.com/variations-in-windows-movie-maker-clones/"><u>Variations in Windows Movie Maker Clones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-navigating-your-srt-files-with-mac-expertise/"><u>[New] 2024 Approved Navigating Your SRT Files with Mac Expertise</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/complete-guide-to-choosing-an-efficient-mpeg-video-repair-software-for-corrupted-media-fixes/"><u>Complete Guide to Choosing an Efficient MPEG Video Repair Software for Corrupted Media Fixes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/errorelimination-pro-videography-salvage/"><u>ErrorElimination Pro: Videography Salvage</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-13-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 13 Pro/iPad | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-fps-expert-tips-for-solving-valorants-frame-rate-challenges-202n/"><u>Maximize FPS: Expert Tips for Solving Valorant's Frame Rate Challenges (202N)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rejuvenate-wrecked-jpeg2099-graphics/"><u>Rejuvenate Wrecked JPEG2099 Graphics</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revitalize-broken-mpeg-videos-powerful-repair-app-for-corrupted-avi-and-mp4-files/"><u>Revitalize Broken MPEG Videos: Powerful Repair App for Corrupted AVI & MP4 Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ringers-paradise-top-downloads-for-skype-sounds-for-2024/"><u>Ringer's Paradise Top Downloads for Skype Sounds for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-is-duckduckgo-is-it-safe/"><u>What Is DuckDuckGo? Is It Safe?</u></a></li>
 </ul></div>
 

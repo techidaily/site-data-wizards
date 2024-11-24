@@ -1,7 +1,7 @@
 ---
 title: Optimizing Playback Seamlessness in VLC
-date: 2024-11-12T20:52:57.477Z
-updated: 2024-11-14T20:42:50.389Z
+date: 2024-11-16T23:45:17.692Z
+updated: 2024-11-23T16:33:06.873Z
 categories:
   - repair-tools
 description: This Article Describes Optimizing Playback Seamlessness in VLC
@@ -37,6 +37,10 @@ Table of Content
 
  If you’re also experiencing such issues, see the methods shared below to fix audio-video sync issues in VLC Media Player on Windows, Mac, and Android devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to fix out-of-sync audio on VLC Player?**
 
  VLC Media Player has built-in features that allow you to fix the audio lag or sync issues in video playback. Below are four ways you can try to fix the audio sync issue in VLC:
@@ -47,10 +51,7 @@ Table of Content
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
@@ -80,13 +81,6 @@ _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
  Often, users ask if every time they play a video in VLC, they have to manually adjust Audio track synchronization to get the audio in sync with the video. So, is it possible for this setting to be saved permanently?
@@ -108,6 +102,10 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 
  The video or movie should now play without any audio sync issue in the VLC Player.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -126,6 +124,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -139,10 +141,7 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **How to fix audio sync issue with repair software**
@@ -175,13 +174,6 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Was this article helpful?
 
 YES 0
@@ -209,18 +201,24 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-comprehensively-conquering-hp-notebook-screen-recording-techniques/"><u>[Updated] Comprehensively Conquering HP Notebook Screen Recording Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-crystal-clear-playback-top-5-ultra-hd-gaming-displays-with-hdmi-21-ps5/"><u>[Updated] Crystal Clear Playback Top 5 Ultra HD Gaming Displays with HDMI 2.1 [PS5]</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-best-browser-capture-tools-top-5-screen-recorder-selections/"><u>2024 Approved Best Browser Capture Tools Top 5 Screen Recorder Selections</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/banishing-bsod-from-your-pc-with-easy-fixes-for-windows-11/"><u>Banishing BSOD From Your PC with Easy Fixes for Windows 11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/combatting-errors-in-itunes-media-streams/"><u>Combatting Errors in iTunes Media Streams</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comparing-internet-promotion-tactics-of-2009-the-role-of-sex-appeal-vs-marketing-mastery-with-massmail/"><u>Comparing Internet Promotion Tactics of 2009: The Role of Sex Appeal vs Marketing Mastery with Massmail</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhance-and-mend-videos-effortlessly-using-grau-gmbh-tech-solutions/"><u>Enhance & Mend Videos Effortlessly Using Grau GmbH Tech Solutions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-tips-for-bypassing-widespread-videography-issues/"><u>Expert Tips for Bypassing Widespread Videography Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-electrical-surge-message-in-your-windows-n-ports/"><u>How to Correct the 'Electrical Surge' Message in Your Windows N Ports</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-complete-blueprint-record-whatsapp-conversations-effectively/"><u>In 2024, The Complete Blueprint Record WhatsApp Conversations Effectively</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1728497349631-iphone/"><u>IPhone ˈ删除照片復原方法详解：三种有效策略回复图像</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-iphone-photography-tips-for-enhancing-lens-focus-functionality/"><u>Troubleshooting iPhone Photography: Tips for Enhancing Lens Focus Functionality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-captivating-subscription-making-an-animated-button-for-youtube-with-filmora/"><u>[New] 2024 Approved Captivating Subscription Making an Animated Button for YouTube with Filmora</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-strategies-for-penning-persuasive-vlogger-content/"><u>[New] In 2024, Strategies for Penning Persuasive Vlogger Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-innovative-add-ons-to-elevate-your-yi-4k-cameras-for-2024/"><u>[New] Innovative Add-Ons to Elevate Your YI 4K Cameras for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/best-of-breed-macs-data-recovery-solutions-top-8-rankings/"><u>Best of Breed - Mac's Data Recovery Solutions, Top 8 Rankings</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/bring-back-the-lost-glory-of-jpegs/"><u>Bring Back the Lost Glory of JPEGs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cosmic-bookkeeper-software-repair/"><u>Cosmic Bookkeeper Software Repair</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-motorola-moto-g-5g-2023-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Moto G 5G (2023) Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-aural-alignments-pairing-sounds-and-visuals/"><u>In 2024, Aural Alignments Pairing Sounds & Visuals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-and-leveraging-influencers-on-snapchat/"><u>In 2024, Understanding and Leveraging Influencers on Snapchat</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/installed-app-warranty-scheme/"><u>Installed App Warranty Scheme</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/maintain-vids-clear-not-corrupted/"><u>Maintain Vids Clear, Not Corrupted</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/purchase-immediate-sky-high-video-fix/"><u>Purchase Immediate: Sky-High Video Fix</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/quick-guide-saving-windows-11-on-external-media-usb-drives-and-other-options-explained/"><u>Quick Guide: Saving Windows 11 on External Media – USB Drives and Other Options Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-your-input-cannot-be-opened-vlc-error-on-windows/"><u>Rectifying 'Your Input Cannot Be Opened' VLC Error on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-compatibility-installing-idt-hd-sound-card-drivers-in-windows-11/"><u>Resolving Compatibility: Installing IDT HD Sound Card Drivers in Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-your-videos-top-mp4-and-avi-file-fixer-software/"><u>Revive Your Videos: Top MP4 and AVI File Fixer Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-toolkit-essential-software-tips-and-do-it-yourself-techniques/"><u>Stellar's Toolkit: Essential Software Tips and Do-It-Yourself Techniques</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshoot-android-video-not-working/"><u>Troubleshoot Android Video Not Working</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rectifying Illegitimate Video Codings
-date: 2024-11-12T23:56:38.022Z
-updated: 2024-11-15T02:05:09.951Z
+date: 2024-11-23T03:32:52.654Z
+updated: 2024-11-24T01:18:46.481Z
 categories:
   - repair-tools
 description: This Article Describes Rectifying Illegitimate Video Codings
@@ -49,6 +49,10 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -58,6 +62,10 @@ _An error occurred. Unsupported file format.’_
  So if your media player or device doesn’t support the video format or codec, it won’t play the video file.
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix an unsupported video codec error?
 
@@ -85,13 +93,6 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -104,6 +105,10 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -115,10 +120,7 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
@@ -161,22 +163,12 @@ _Figure: Video profile options in VLC Player_
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
@@ -239,16 +231,15 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-precision-recording-a-stepwise-plan-for-pc-ios-macbooks/"><u>[Updated] In 2024, Precision Recording A Stepwise Plan for PC, iOS, MacBooks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/wavogg-7/"><u>「無償でWAVからOGGへのデジタル音源変換 - 7つの人気ツールを紹介」</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-p60-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Huawei P60 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi Note 12 5G</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/navigating-through-deteriorated-h265-media-problems/"><u>Navigating Through Deteriorated H.265 Media Problems</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/optimization-articles/"><u>Optimization Articles</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-digital-histories-with-totans-expertise-in-stellar-data-care/"><u>Restoring Digital Histories with Totan's Expertise in Stellar Data Care</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/starlight-salvage-restoring-dbs-with-stellar/"><u>Starlight Salvage: Restoring DBs with Stellar</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-notch-video-restoration-testimonials-worth-it/"><u>Top-Notch Video Restoration, Testimonials Worth It</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-the-constant-load-screen-in-madden-22/"><u>Troubleshooting: Fixing the Constant Load Screen in Madden 22</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-earning-at-age-ten-the-extraordinary-financial-rise-of-ryan-kaji/"><u>[Updated] 2024 Approved Earning at Age Ten The Extraordinary Financial Rise of Ryan Kaji</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-banishing-facebook-broadcasts-from-laptoptablet/"><u>2024 Approved Banishing Facebook Broadcasts From Laptop/Tablet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-guide-to-vlc-for-networked-webcasting/"><u>2024 Approved Expert Guide to VLC for Networked Webcasting</u></a></li>
+<li><a href="https://discover-community.techidaily.com/accelerate-your-hevc-h265-video-encoding-tips-and-tricks-for-faster-processing/"><u>Accelerate Your HEVC (H.265) Video Encoding - Tips & Tricks for Faster Processing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-do-i-fix-an-unsupported-video-codec/"><u>How Do I Fix an Unsupported Video Codec?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-fixes-for-windows-11s-infamous-blue-screen-error/"><u>Quick Fixes for Windows 11'S Infamous Blue Screen Error</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tackling-troublesome-errors-bsod-remedies-for-w1011/"><u>Tackling Troublesome Errors: BSOD Remedies for W10/11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/unveiling-the-essence-of-clubhouse-a-comprehensive-overview-for-newcomers-for-2024/"><u>Unveiling the Essence of Clubhouse A Comprehensive Overview for Newcomers for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-stellar-repair-for-ms-sql-testimonial-by-microsoft-mvp-damian-widera/"><u>Video - Stellar Repair for MS SQL Testimonial by Microsoft MVP Damian Widera</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Audio-Video Sync Issues in H.264
-date: 2024-09-29T23:36:16.132Z
-updated: 2024-10-01T07:31:53.897Z
+date: 2024-11-19T08:58:47.340Z
+updated: 2024-11-24T07:00:14.235Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Audio-Video Sync Issues in H.264
@@ -43,6 +43,10 @@ Table of Content
 
  The corrupt video often shows errors, stops after playing for some time, throws black screen, loses sound, flickers, gets choppy, broken, or may not play at all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to repair corrupt H.264 MOV videos**
 
  A video repair tool is the only solution to repair corruption in H.264 video files. An efficient repair software can fix choppy, jerky, grainy, broken, and truncated videos.
@@ -52,24 +56,18 @@ Table of Content
  The H.264 video issues may also arise due to incompatible codecs, unsupported media player or outdated PC drivers. To rule out these factors, begin with few workarounds that may play your H.264 MOV files smoothly again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Workarounds to play your H.264 MOV files**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **1\. Play the video in another media player**
 
  If H.264 MOV video is not playing properly in one player, try another supporting one like VLC Media Player, 5KPlayer, PotPlayer, QuickTime etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Download the MOV supporting codec**
 
@@ -88,10 +86,7 @@ Table of Content
 ![Steps to convert H.264 MOV videos to MP4 in VLC Media Player](https://www.stellarinfo.com/blog/wp-content/uploads/2019/05/1-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * In the Open Media window, click on **Add** to select the MOV videos you want to convert
@@ -122,13 +117,6 @@ To disable hardware acceleration in Google Chrome, follow these steps:
 
  If your H.264 videos don’t play properly, after the above workarounds, they are corrupt. Use a H.264 video repair application to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Methods to repair corrupt H.264 MOV video files**
 
 1. Repair video with VLC Media Player
@@ -153,10 +141,7 @@ To disable hardware acceleration in Google Chrome, follow these steps:
 ![Click on Input & Codecs](https://www.stellarinfo.com/blog/wp-content/uploads/2019/05/4-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select**Always fix** in the dropdown
@@ -165,6 +150,10 @@ To disable hardware acceleration in Google Chrome, follow these steps:
  VLC Player is not an advanced ‘video repair’ tool. Video repair is an additional capability in the media player. Thus, you may not always be able to repair corrupt videos with it.
 
  Serious corruption issues like broken, black screen, flickering, sound issues, file header corruption or corruption in the video slider are best tackled by using a professional video repair software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Use Stellar Repair for Video to fix MOV H.264 videos**
 
@@ -204,13 +193,6 @@ The repair process begins.
 
 ![Progress repairing process](https://www.stellarinfo.com/screenshots/video-repair/win/3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Progress bar indicating the repairing process
 
 **Step 4:** A ‘Repair process completed’ message appears. Click**Preview.** Click**Save Repaired File**
@@ -218,13 +200,14 @@ The repair process begins.
 ![Preview and save the repaired grainy videos](https://www.stellarinfo.com/blog/wp-content/uploads/2019/05/9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Preview and save the repaired grainy videos
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Wrapping Up**
 
@@ -253,10 +236,7 @@ About The Author
 ![](https://secure.gravatar.com/avatar/574139bee03ec4bdb0cd6e869a4670da?s=85&d=mm&r=g)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
@@ -278,24 +258,16 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-engaging-listeners-respectfully-for-increased-sign-ups-for-2024/"><u>[New] Engaging Listeners Respectfully for Increased Sign-Ups for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unparalleled-clarity-in-speech-interpretation-via-google-platform-for-2024/"><u>[Updated] Unparalleled Clarity in Speech Interpretation via Google Platform for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tops-in-vocal-transformation-tech-featuring-magic/"><u>2024 Approved Tops in Vocal Transformation Tech, Featuring Magic</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-11-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme 11 Pro System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fix-broken-mpeg-videos-with-our-advanced-video-restoration-solution/"><u>Fix Broken MPEG Videos with Our Advanced Video Restoration Solution</u></a></li>
-<li><a href="https://win-info.techidaily.com/google-maps-visuals-at-fingertips-master-the-art-of-printscreen-on-pc-and-mobile-devices/"><u>Google Maps Visuals at Fingertips: Master the Art of PrintScreen on PC and Mobile Devices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-fix-video-distortion-after-windows-10-upgrade-stellar/"><u>How to Fix Video Distortion After Windows 10 Upgrade? - Stellar</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-13-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-live-subscriber-count-meters/"><u>In 2024, Live Subscriber Count Meters</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-combine-multiple-avi-files-into-one-10-best-free-freeware-for-2024/"><u>New Combine Multiple AVI Files Into One 10 Best Free Freeware for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rebuildvidhelper-free-tool-for-vids-in-need/"><u>RebuildVidHelper: Free Tool for Vids in Need</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-v30-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of V30</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solve-laggy-video-pacing-a-comprehensive-guide/"><u>Solve Laggy Video Pacing: A Comprehensive Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-converter-for-edb-convert-large-edb-file-to-pst/"><u>Stellar Converter for EDB Convert Large EDB File to PST</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-updates-introducing-phoenix-the-ultimate-macos-jpeg-editor/"><u>Stellar Updates: Introducing Phoenix, the Ultimate macOS JPEG Editor</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/techniques-for-salvaging-compromised-nikon-films/"><u>Techniques for Salvaging Compromised Nikon Films</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-ultimate-guide-to-amplifying-your-online-reach-link-up-facebook-linkedin-and-xing-with-youtube-success-strategies/"><u>The Ultimate Guide to Amplifying Your Online Reach – Link Up Facebook, LinkedIn & XING with YouTube Success Strategies</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-ultimate-troubleshooting-tips-to-restore-your-stereo-mix-capability-successfully/"><u>The Ultimate Troubleshooting Tips to Restore Your Stereo Mix Capability Successfully</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/vidvanquisher-overcoming-corruption/"><u>VidVanquisher: Overcoming Corruption</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-explore-the-ultimate-list-of-comedy-tears-on-instagram/"><u>[New] Explore the Ultimate List of Comedy-Tears On Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamlining-tiktok-twitter-integration/"><u>[New] Streamlining TikTok-Twitter Integration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-victorious-ventures-in-the-top-12-tycoons-your-ultimate-gaming-goal/"><u>[New] Victorious Ventures in the Top 12 Tycoons - Your Ultimate Gaming Goal</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-wisdom-webcasts-best-general-trivia-video-channels-for-2-point-zero-two-four-for-2024/"><u>[Updated] Wisdom Webcasts Best General Trivia Video Channels for 2 Point Zero Two Four for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-the-new-titans-of-wearables-apple-watch-ultra-vs-apple-watch-series-8-find-your-perfect-fit/"><u>Choosing Between the New Titans of Wearables: Apple Watch Ultra Vs. Apple Watch Series 8 – Find Your Perfect Fit!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-mp4-stream-errors/"><u>Fixing MP4 Stream Errors</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/galactic-disk-retrieval-guide/"><u>Galactic Disk Retrieval Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/professional-video-restoration-services-by-grau-gmbh-reliable-repair-tools-and-innovative-techniques/"><u>Professional Video Restoration Services by Grau GmbH - Reliable Repair Tools & Innovative Techniques</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolve-playback-issue-error-xc00d36c4/"><u>Resolve Playback Issue - Error XC00D36C4</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-memories-with-stellar-data-recovery-techniques-by-totan/"><u>Reviving Memories with Stellar Data Recovery Techniques by Totan</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/seamless-switch-how-to-update-to-windows-11-easily/"><u>Seamless Switch: How to Update to Windows 11 Easily</u></a></li>
 </ul></div>
 

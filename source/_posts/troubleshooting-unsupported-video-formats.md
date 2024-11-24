@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unsupported Video Formats
-date: 2024-09-30T06:14:35.092Z
-updated: 2024-10-01T13:27:42.418Z
+date: 2024-11-17T21:30:04.224Z
+updated: 2024-11-24T11:21:49.987Z
 categories:
   - repair-tools
 description: This Article Describes Troubleshooting Unsupported Video Formats
@@ -49,6 +49,10 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -66,13 +70,6 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -92,13 +89,6 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -111,6 +101,10 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -120,19 +114,6 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -154,6 +135,10 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -179,10 +164,7 @@ _Figure: Video profile options in VLC Player_
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
@@ -218,6 +200,10 @@ _Figure: Preview video after repair_
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -245,24 +231,24 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-easy-entryway-initiating-a-live-discussion-on-instagram/"><u>[New] 2024 Approved Easy Entryway Initiating a Live Discussion on Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-secrets-to-acquiring-free-audio-tracks-for-videos/"><u>[Updated] Secrets to Acquiring Free Audio Tracks for Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-8-endorsed-methods-for-video-marketing-success/"><u>[Updated] Top 8 Endorsed Methods for Video Marketing Success</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-guide-non-jittery-screen-recording-software/"><u>2024 Approved Ultimate Guide Non-Jittery Screen Recording Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/essential-guide-to-selecting-the-best-8-open-source-calls-for-2024/"><u>Essential Guide to Selecting the Best 8 Open Source Calls for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-flawed-mp4-playback-in-smartphones/"><u>Fixing Flawed MP4 Playback in Smartphones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-rtx-2070-super-graphics-card-drivers-on-windows-1011-systems/"><u>How to Update Your RTX 2070 Super Graphics Card Drivers on Windows 10/11 Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-nokia-c12-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Nokia C12 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/optimal-process-for-fixing-video-hiccups/"><u>Optimal Process for Fixing Video Hiccups</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revive-your-corrupted-mpeg-files-using-our-cutting-edge-repair-software/"><u>Revive Your Corrupted MPEG Files Using Our Cutting-Edge Repair Software</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solving-code-0xc10100be-video-glitch-fixed/"><u>Solving Code 0XC10100be: Video Glitch Fixed</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-launches-speedup-mac-an-user-friendly-utility-to-optimize/"><u>Stellar Launches Speedup Mac - An User-Friendly Utility to Optimize ...</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/subwoofer-hum-no-more-effective-methods-for-clear-bass-sound-quality/"><u>Subwoofer Hum No More: Effective Methods for Clear Bass Sound Quality</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-ultimate-jpeg-revival-kit/"><u>The Ultimate JPEG Revival Kit</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/trailblazing-in-data-rescue-stellars-hardware-encrypted-achievement/"><u>Trailblazing in Data Rescue: Stellar's Hardware-Encrypted Achievement</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/turn-corrupt-videos-into-playable-again/"><u>Turn Corrupt Videos Into Playable Again</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/videosavior-mp4-and-mov-recovery/"><u>VideoSavior: MP4 and MOV Recovery</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-wizards-infuse-ui-with-divine-duties/"><u>Windows Wizards: Infuse UI with Divine Duties</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/yt-cover-art-the-key-to-more-views-for-2024/"><u>YT Cover Art The Key to More Views for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-how-to-add-timestamps-to-youtube-video-to-increase-views/"><u>[Updated] In 2024, How to Add Timestamps to YouTube Video to Increase Views</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-weave-of-wisdom-mastering-looms-tech/"><u>2024 Approved The Weave of Wisdom Mastering Loom's Tech</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/comprehensive-bare-metal-restoration-tutorials-for-windows-10-and-11-servers/"><u>Comprehensive Bare Metal Restoration Tutorials for Windows 10 & 11 Servers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862856303-discover-chinas-longsun-processor-motherboards-and-complete-systems-for-us-market-priced-at-a-low-of-just-373/"><u>Discover China's Longsun Processor Motherboards and Complete Systems for U.S Market, Priced at a Low of Just $373</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/filefixer-combat-corrupted-videos/"><u>FileFixer: Combat Corrupted Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/flawless-film-formats-forever/"><u>Flawless Film Formats Forever</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-lava-blaze-2-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Lava Blaze 2 Pattern Lock Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-tecno-phantom-v-fold-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Tecno Phantom V Fold to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/garrys-mod-troubleshooting-guide-ending-continuous-crashes/"><u>Garry's Mod Troubleshooting Guide - Ending Continuous Crashes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-convert-big-sized-edb-data-sets-from-various-sources-including-sql-nosql-etc-for-use-in-pst-format-seamlessly/"><u>How to Convert Big Sized EDB Data Sets From Various Sources Including SQL, NoSQL, Etc., For Use in PST Format Seamlessly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mpeg-video-recovery-solutions-how-to-repair-damaged-film-files-easily/"><u>MPEG Video Recovery Solutions: How to Repair Damaged Film Files Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ps-gaming-audio-masterclass-vocal-tweaks/"><u>PS Gaming Audio Masterclass - Vocal Tweaks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-guide-4-tricks-for-resolving-symbol-on-mac-folders/"><u>Quick Guide: 4 Tricks for Resolving ?-Symbol on Mac Folders</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/real-life-heroes-client-video-praise/"><u>Real-Life Heroes: Client Video Praise</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-lost-visual-stories-in-videos/"><u>Reviving Lost Visual Stories in Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tailored-soundscapes-key-audio-setup-for-podcasters/"><u>Tailored Soundscapes Key Audio Setup for Podcasters</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-8-best-data-recovery-software-for-mac-free-and-paid/"><u>Top 8 Best Data Recovery Software for Mac - Free and Paid</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlock-your-past-get-stellar-today/"><u>Unlock Your Past, Get Stellar Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-guide-installing-and-updating-intel-nuc-drivers-fast-and-simple-methods/"><u>Updated Guide: Installing and Updating Intel NUC Drivers - Fast & Simple Methods</u></a></li>
 </ul></div>
 

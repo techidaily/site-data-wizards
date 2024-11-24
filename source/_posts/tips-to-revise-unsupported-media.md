@@ -1,7 +1,7 @@
 ---
 title: Tips to Revise Unsupported Media
-date: 2024-11-13T00:38:06.159Z
-updated: 2024-11-15T01:21:21.964Z
+date: 2024-11-20T00:25:22.890Z
+updated: 2024-11-23T16:19:32.049Z
 categories:
   - repair-tools
 description: This Article Describes Tips to Revise Unsupported Media
@@ -68,10 +68,7 @@ _An error occurred. Unsupported file format.’_
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
@@ -104,13 +101,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -120,6 +110,10 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -132,6 +126,10 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -141,13 +139,6 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -198,10 +189,7 @@ _Figure: Preview video after repair_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Wrapping up**
@@ -211,6 +199,10 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -239,21 +231,16 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-free-eco-templates-for-video-creation/"><u>[New] Free Eco Templates for Video Creation</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-from-beginner-to-maestro-a-comprehensive-gif-tutorial-for-snapchat/"><u>[New] From Beginner to Maestro A Comprehensive Gif Tutorial for Snapchat</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-vr-headset-showdown-the-best-of-2023-for-pc/"><u>[New] VR Headset Showdown The Best of 2023 for PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pixel-pizzazz-top-10-screenshot-sticker-enhancers-for-iphonesandroids/"><u>2024 Approved Pixel Pizzazz Top 10 Screenshot Sticker Enhancers for iPhones/Androids</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-step-by-step-guide-turning-your-insta-videos-into-top-notch-mp4/"><u>2024 Approved Step-by-Step Guide Turning Your Insta Videos Into Top-Notch MP4</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-zte-axon-40-lite-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On ZTE Axon 40 Lite?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-convert-youtube-to-mp4-safely-step-by-step-guide/"><u>In 2024, How to Convert YouTube to MP4 Safely? [Step by Step Guide]</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/preventing-compression-artifacts-after-output/"><u>Preventing Compression Artifacts After Output</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/real-time-music-videos-on-douyin-for-2024/"><u>Real-Time Music Videos on Douyin for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rectify-media-pause-on-xc00d36c4/"><u>Rectify Media Pause on XC00D36C4</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restore-and-fix-corrupted-mpeg-videos-with-the-best-mpeg-video-repair-tool-on-the-market/"><u>Restore and Fix Corrupted MPEG Videos with the Best MPEG Video Repair Tool on The Market</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-failed-m4v-media-on-operating-systems/"><u>Restoring Failed M4V Media on Operating Systems</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-rewind-unlock-your-data-past/"><u>Stellar Rewind - Unlock Your Data Past</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-10-free-tiktok-video-editors-compatible-with-macos-for-2024/"><u>Top 10 FREE TikTok Video Editors Compatible with MacOS for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/troubleshooting-unsupported-video-codes/"><u>Troubleshooting Unsupported Video Codes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/your-trust-our-top-priority-achieving-an-unparalleled-service-rating-of-245100/"><u>Your Trust, Our Top Priority – Achieving an Unparalleled Service Rating of 245/100</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ynamic-subscriber-buttons-for-video-creators-filmora-edition-for-2024/"><u>[New] Dynamic Subscriber Buttons for Video Creators - Filmora Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-composing-news-wrap-up-scripts/"><u>[Updated] In 2024, Composing News Wrap-Up Scripts</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-video-dilemma-whats-the-solution/"><u>Advanced Video Dilemma: What's the Solution?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/free-your-files-fuel-stellars-flame/"><u>Free Your Files, Fuel Stellar's Flame</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-meizu-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Meizu FRP Locks</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/memorable-moments-downloading-tweets-emotive-graphics/"><u>Memorable Moments Downloading Tweets’ Emotive Graphics</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/performance-vs-aesthetics-in-depth-review-of-the-clearstream-2v-tv-antenna-for-indooroutdoor-use/"><u>Performance vs Aesthetics: In-Depth Review of the ClearStream 2V TV Antenna for Indoor/Outdoor Use</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-guide-clearing-up-streaming-hurdles/"><u>Troubleshooting Guide: Clearing Up Streaming Hurdles</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-guide-restoring-damaged-mp4mov-videos-with-vlc-media-player/"><u>Ultimate Guide: Restoring Damaged MP4/MOV Videos with VLC Media Player</u></a></li>
 </ul></div>
 
