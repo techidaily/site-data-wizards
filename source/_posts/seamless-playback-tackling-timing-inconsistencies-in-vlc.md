@@ -1,7 +1,7 @@
 ---
 title: "Seamless Playback: Tackling Timing Inconsistencies in VLC"
-date: 2024-11-18T16:59:56.229Z
-updated: 2024-11-23T23:04:17.031Z
+date: 2024-11-27T10:26:45.805Z
+updated: 2024-12-02T10:02:18.434Z
 categories:
   - repair-tools
 description: "This Article Describes Seamless Playback: Tackling Timing Inconsistencies in VLC"
@@ -38,7 +38,7 @@ Table of Content
  If you’re also experiencing such issues, see the methods shared below to fix audio-video sync issues in VLC Media Player on Windows, Mac, and Android devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **How to fix out-of-sync audio on VLC Player?**
@@ -49,10 +49,6 @@ Table of Content
 2. Set Track synchronization value**(apply separately for every video)**
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
@@ -67,7 +63,7 @@ _Figure: Audio delay message in VLC_
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
@@ -84,10 +80,6 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -109,6 +101,10 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 * Click**Save.**
 
  The video or movie should now play without any audio sync issue in the VLC Player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
@@ -140,6 +136,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **How to fix audio sync issue with repair software**
 
  Simply download it on your Mac or Windows PC and follow the onscreen instructions. The video repair process is completed in 3 steps –
@@ -155,7 +155,7 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -201,22 +201,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-tailor-videos-for-impact-on-instagram-feed/"><u>[New] In 2024, Tailor Videos for Impact on Instagram Feed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-xbox-screen-recorder-how-to-guide-for-2024/"><u>[New] Xbox Screen Recorder How-To Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-chuckle-factory-designing-7-video-ideas-for-humorists-for-2024/"><u>[Updated] Chuckle Factory Designing 7 Video Ideas for Humorists for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-steams-failed-game-validation-issue/"><u>Addressing Steam's Failed Game Validation Issue</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/amazons-project-kuiper-advances-into-prototype-testing/"><u>Amazon’s Project Kuiper Advances Into Prototype Testing</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/best-bites-in-a-byte-top-tiktok-foodies-for-2024/"><u>Best Bites in a Byte Top TikTok Foodies for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/exceptional-care-for-valued-customers-average-245/"><u>Exceptional Care for Valued Customers (Average: 245)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-damaged-movmp4-with-qt-player/"><u>Fixing Damaged MOV/MP4 with QT Player</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-clashes-with-huggingchat-the-outcome/"><u>GPT Clashes with HuggingChat: The Outcome</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-level-troubleshooting-how-to-stop-street-fighter-vi-from-crashing-on-windows/"><u>Master Level Troubleshooting: How to Stop Street Fighter VI From Crashing on Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/melodymaster-recording-software-guide-for-2024/"><u>MelodyMaster Recording Software Guide for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mending-broken-video-formats-in-macos/"><u>Mending Broken Video Formats in macOS</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mending-inconsistent-mp4-frame-rates/"><u>Mending Inconsistent MP4 Frame Rates</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/phoenix-revival-stellars-server-sos/"><u>Phoenix Revival: Stellar's Server SOS</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/repairing-corrupted-avchd-clips/"><u>Repairing Corrupted AVCHD Clips</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revive-broken-video-files-with-these-10-best-restoration-programs-for-pc-and-mac-enthusiasts/"><u>Revive Broken Video Files with These 10 Best Restoration Programs for PC and Mac Enthusiasts</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/saving-the-day-sql-tales-from-an-mvp/"><u>Saving the Day: SQL Tales From an MVP</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mac-masterwork-effortless-damaged-video-restoration-with-stellar/"><u>'Mac Masterwork': Effortless Damaged Video Restoration with Stellar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-meet-the-monitor-that-elevates-your-graphic-work/"><u>[New] Meet the Monitor That Elevates Your Graphic Work</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-safely-increase-your-youtube-fanbase-to-one-million-for-2024/"><u>[Updated] How to Safely Increase Your YouTube Fanbase To One Million for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieving-seamless-ages-shifting-scenes-for-2024/"><u>Achieving Seamless Ages Shifting Scenes for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/badvideokillers-restoration-solutions/"><u>BadVideoKillers: Restoration Solutions</u></a></li>
+<li><a href="https://solve-news.techidaily.com/cookiebot-driven-unleashing-the-power-of-automated-conversion-tracking/"><u>Cookiebot-Driven: Unleashing the Power of Automated Conversion Tracking</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-amd-drivers-that-fail-to-appear-in-windows-device-manager-comprehensive-guide/"><u>Fixing AMD Drivers That Fail to Appear in Windows Device Manager: Comprehensive Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/harness-the-power-of-social-networks-connect-and-collaborate-on-facebook-linkedin-youtube/"><u>Harness the Power of Social Networks: Connect and Collaborate on Facebook, LinkedIn, YouTube</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hd-video-repair-utility-repairs-corrupt-hd-video-files/"><u>HD Video Repair Utility: Repairs Corrupt HD Video Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/improve-video-playback-on-macios-devices/"><u>Improve Video Playback on Mac/iOS Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-relaxed-riffs-20-country-songs-that-make-you-want-to-dance-and-chill-on-tiktok/"><u>In 2024, Relaxed Riffs 20 Country Songs That Make You Want to Dance and Chill on TikTok</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720669553067-quick-and-effective-mac-hd-configuration-learn-from-us/"><u>Quick & Effective Mac HD Configuration – Learn From Us</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rebuilding-damaged-avchd-recordings/"><u>Rebuilding Damaged AVCHD Recordings</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steady-logitech-webcam-update-for-windows/"><u>Steady Logitech Webcam Update for Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-handy-guide-toolkits-tips-and-techniques-for-savvy-software-creation/"><u>Stellar's Handy Guide: Toolkits, Tips & Techniques for Savvy Software Creation</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-eerie-origins-of-halloween-customs/"><u>The Eerie Origins of Halloween Customs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-extended-computer-mice-pads-the-ultimate-guide-for-2eplus-years/"><u>Top-Rated Extended Computer Mice Pads - The Ultimate Guide for 2E+ Years</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rectifying Illegitimate Video Codings
-date: 2024-11-23T03:32:52.654Z
-updated: 2024-11-24T01:18:46.481Z
+date: 2024-11-29T23:10:27.030Z
+updated: 2024-12-02T07:45:33.496Z
 categories:
   - repair-tools
 description: This Article Describes Rectifying Illegitimate Video Codings
@@ -49,10 +49,6 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -63,10 +59,6 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -74,6 +66,10 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -105,10 +101,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -120,7 +112,7 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
@@ -163,12 +155,16 @@ _Figure: Video profile options in VLC Player_
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
@@ -204,6 +200,10 @@ _Figure: Preview video after repair_
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -231,15 +231,24 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-earning-at-age-ten-the-extraordinary-financial-rise-of-ryan-kaji/"><u>[Updated] 2024 Approved Earning at Age Ten The Extraordinary Financial Rise of Ryan Kaji</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-banishing-facebook-broadcasts-from-laptoptablet/"><u>2024 Approved Banishing Facebook Broadcasts From Laptop/Tablet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-guide-to-vlc-for-networked-webcasting/"><u>2024 Approved Expert Guide to VLC for Networked Webcasting</u></a></li>
-<li><a href="https://discover-community.techidaily.com/accelerate-your-hevc-h265-video-encoding-tips-and-tricks-for-faster-processing/"><u>Accelerate Your HEVC (H.265) Video Encoding - Tips & Tricks for Faster Processing</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-do-i-fix-an-unsupported-video-codec/"><u>How Do I Fix an Unsupported Video Codec?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quick-fixes-for-windows-11s-infamous-blue-screen-error/"><u>Quick Fixes for Windows 11'S Infamous Blue Screen Error</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tackling-troublesome-errors-bsod-remedies-for-w1011/"><u>Tackling Troublesome Errors: BSOD Remedies for W10/11</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/unveiling-the-essence-of-clubhouse-a-comprehensive-overview-for-newcomers-for-2024/"><u>Unveiling the Essence of Clubhouse A Comprehensive Overview for Newcomers for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-stellar-repair-for-ms-sql-testimonial-by-microsoft-mvp-damian-widera/"><u>Video - Stellar Repair for MS SQL Testimonial by Microsoft MVP Damian Widera</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-best-microphone-for-youtubers/"><u>[New] 2024 Approved Best Microphone for YouTubers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unleashing-full-potential-nikon-1j5-in-4k-videography/"><u>[New] 2024 Approved Unleashing Full Potential Nikon 1J5 in 4K Videography</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-from-monochrome-to-motion-the-ultimate-guide-to-making-videos-with-pixiz-for-2024/"><u>[New] From Monochrome to Motion The Ultimate Guide to Making Videos with Pixiz for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cloud-price-wars-best-value-allocation/"><u>2024 Approved Cloud Price Wars Best Value Allocation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-effectively-convert-iphone-photos-jpeg-png-into-pdfs/"><u>2024 Approved How to Effectively Convert iPhone Photos (JPEG, PNG) Into PDFs</u></a></li>
+<li><a href="https://os-tips.techidaily.com/back-up-your-memories-for-free-set-up-automatic-google-photo-sync/"><u>Back Up Your Memories for Free: Set Up Automatic Google Photo Sync</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-flawed-h265hevc-streams-efficiently/"><u>Fixing Flawed H.265/HEVC Streams Efficiently</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guaranteeing-smooth-apple-video-playback/"><u>Guaranteeing Smooth Apple Video Playback</u></a></li>
+<li><a href="https://media-tips.techidaily.com/hassle-free-wmv-conversion-and-editing-techniques-for-high-quality-results/"><u>Hassle-Free WMV Conversion & Editing Techniques for High-Quality Results</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-pushing-boundaries-with-hps-next-gen-4k-display-envy-27/"><u>In 2024, Pushing Boundaries with HP's Next Gen 4K Display, Envy 27</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-when-elite-gaming-or-productivity-programs-make-your-computer-unresponsive/"><u>Resolving Issues When Elite Gaming or Productivity Programs Make Your Computer Unresponsive</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-broken-avchd-videos/"><u>Restoring Broken AVCHD Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-troubled-mov-mp4-files-for-mac-and-pc-users/"><u>Restoring Troubled MOV, MP4 Files for Mac & PC Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/smoothened-instagrams-reel-hiccup/"><u>Smoothened: Instagram's Reel Hiccup</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solving-unplayable-video-with-code-224003/"><u>Solving Unplayable Video with Code 224003</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/transform-damaged-footage-with-expertise-from-grau-gmbh-leading-providers-of-video-restoration-services/"><u>Transform Damaged Footage with Expertise From Grau GmbH – Leading Providers of Video Restoration Services</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-guide-to-the-best-video-restoration-apps-compatible-with-pc-and-mac-systems/"><u>Ultimate Guide to the Best Video Restoration Apps Compatible with PC & Mac Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-techniques-for-screen-recording-games-on-win10-for-2024/"><u>Ultimate Techniques for Screen Recording Games on Win10 for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unveiling-the-art-of-wins-bsod-recovery/"><u>Unveiling the Art of Win's BSOD Recovery</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Methods to Deal with Restricted Codecs
-date: 2024-11-18T23:39:53.270Z
-updated: 2024-11-24T10:44:56.480Z
+date: 2024-11-28T17:49:44.345Z
+updated: 2024-12-02T07:54:05.183Z
 categories:
   - repair-tools
 description: This Article Describes Methods to Deal with Restricted Codecs
@@ -49,10 +49,6 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -63,6 +59,10 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -70,10 +70,6 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -92,10 +88,6 @@ _An error occurred. Unsupported file format.’_
  If video file gives unsupported codec error on Mac, right-click on the file. Click on**‘Open With’** option. Mac may suggest all the installed apps that can play the video.
 
 _Figure: Mac suggests installed apps to open video_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Download the missing video codecs
 
@@ -130,6 +122,10 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -155,9 +151,17 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
@@ -189,7 +193,7 @@ _Figure: Preview video after repair_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Wrapping up**
@@ -199,10 +203,6 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,17 +231,24 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-screen-with-ultra-screen-recorder-for-2024/"><u>[New] How to Record Screen With Ultra Screen Recorder for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-speedy-tiktok-video-performance-a-step-by-step-plan/"><u>[New] In 2024, Speedy TikTok Video Performance A Step-by-Step Plan</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/advance-repair-for-bad-and-corrupt-video-files/"><u>Advance Repair for Bad and Corrupt Video Files</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-the-silent-problem-rapid-guide-for-astro-a50-audio-troubleshooting/"><u>Fix the Silent Problem: Rapid Guide for Astro A50 Audio Troubleshooting</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-13-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 13? Heres the Best Fixes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-timestamp-placement-in-youtube-clips-for-2024/"><u>Mastering Timestamp Placement in YouTube Clips for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/methods-for-smoother-media-playback-on-devices/"><u>Methods for Smoother Media Playback on Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-mfc42ddll-file-missing-bugs-with-these-proven-steps/"><u>Overcoming 'mfc42d.dll File Missing' Bugs with These Proven Steps</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-boosts-mac-speed-with-new-utility-release/"><u>Stellar Boosts Mac Speed with New Utility Release</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-mechanics-of-producing-engaging-mukbang-content-for-2024/"><u>The Mechanics of Producing Engaging Mukbang Content for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/three-paths-to-archiving-every-engaging-second-of-your-disco-streaming-experience-for-2024/"><u>Three Paths to Archiving Every Engaging Second of Your Disco Streaming Experience for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/voice-of-the-recovered-testimonial/"><u>Voice of the Recovered: Testimonial</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-expert-picks-8-superior-linux-snapshot-tools/"><u>[Updated] 2024 Approved Expert Picks 8 Superior Linux Snapshot Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-hidden-harmony-harvesters-ios-and-android-secret-audio-apps-for-2024/"><u>[Updated] Hidden Harmony Harvesters IOS & Android Secret Audio Apps for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-realme-v30-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Realme V30</u></a></li>
+<li><a href="https://fox-that.techidaily.com/consequently-as-the-channel-narrows-the-ids-the-drain-source-current-decreases-since-there-are-fewer-paths-for-the-carriers-to-flow-through/"><u>Consequently, as the Channel Narrows, the IDS (the Drain-Source Current) Decreases Since There Are Fewer Paths for the Carriers to Flow Through</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/effortlessly-resolve-the-issue-of-downloaded-files-being-removed-immediately/"><u>Effortlessly Resolve the Issue of Downloaded Files Being Removed Immediately</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elevate-your-diy-game-indispensable-articles-and-hacks-from-the-stellar-toolkit-collection/"><u>Elevate Your DIY Game - Indispensable Articles & Hacks From the Stellar Toolkit Collection</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-repair-corrupt-avchd-files/"><u>How to Repair Corrupt AVCHD Files</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-secrets-of-streaming-sound-record-and-preserve/"><u>In 2024, Secrets of Streaming Sound Record and Preserve</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/methods-to-maintain-visual-integrity-after-conversion/"><u>Methods to Maintain Visual Integrity After Conversion</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-rising-anywhere-db-rebooted-by-stellar/"><u>Phoenix Rising: Anywhere DB Rebooted by Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-file-integrity-in-avchd/"><u>Repairing File Integrity in AVCHD</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/seamless-video-perfection-software-windows-and-mac/"><u>Seamless Video Perfection Software - Windows & MAC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-announces-breakthrough-correction-software-for-quickbooks/"><u>Stellar Announces Breakthrough Correction Software for QuickBooks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-firmware-secure-download/"><u>Stellar Firmware - Secure Download</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/step-by-step-guide-for-overcoming-windows-blue-errors/"><u>Step-by-Step Guide for Overcoming Windows Blue Errors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-itel-a60-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Itel A60 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028309922-wav/"><u>WAVオーディオファイルにおける最新の非劣化圧縮技術 - 検索エンジン向上</u></a></li>
 </ul></div>
 
