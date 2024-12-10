@@ -1,7 +1,7 @@
 ---
 title: Rectifying Blue Light Issues on Monitor
-date: 2024-11-26T12:11:32.652Z
-updated: 2024-12-02T07:27:11.833Z
+date: 2024-12-08T17:15:51.781Z
+updated: 2024-12-09T20:28:08.971Z
 categories:
   - repair-tools
 description: This Article Describes Rectifying Blue Light Issues on Monitor
@@ -49,6 +49,10 @@ Table of Content
 
 ![Video glitches due to graphic card problem](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/distrted.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Figure: Video glitches due to graphic card problem
 
 ![Random colored patterns on screen](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/colored.jpg)
@@ -73,7 +77,7 @@ Table of Content
 [How to fix ‘Video not playing’ issues](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Physical checks before troubleshooting video card problems**
@@ -96,13 +100,13 @@ Table of Content
 
  If you use a dedicated NVidia GeForce or AMD card, replace it with another card of similar specifications. If the display problem gets fixed, your old graphics card needs repair or replacement.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **5\. Check your Sound Drivers:**
 
  Is the computer crashing only while playing games? It may be due to the sound hardware. To check this possibility, disable the sound hardware temporarily via**Device Manager** on your PC. If your computer doesn’t crash now, it’s a sound system issue. Download sound card drivers from the manufacturer’s website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **6\. Check the ‘Device Status’ of your graphic card:**
 
@@ -122,10 +126,6 @@ Try the free version of the software:
 
 [Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **How to fix video card problems**
 
  After the physical checks and fix, if the computer display problem continues, move to the below troubleshooting methods:
@@ -135,6 +135,10 @@ Try the free version of the software:
 3. [**Uninstall and reinstall the drivers**](#3)
 4. [**Cool and clean video card**](#4)
 5. [**Replace your video card**](#5)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **1\. Upgrade video card drivers**
 
@@ -165,16 +169,16 @@ To disable video card drives, follow the below steps:
 
 ![enable the graphics card](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/Screenshot-61.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, enable the graphics card again by visiting the**Device Manager** on your PC or laptop and following these steps:
 
 * Click**Display Adapters**
 * Double-click on your graphic card
 * Click on properties.
 * Go to the**Driver** tab and click the**Enable** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **3.** **Uninstall and reinstall the drivers**
 
@@ -193,10 +197,6 @@ To uninstall the driver, follow the below steps:
 
 > **Note:** NVidia and AMD provide specific tools to uninstall and reinstall graphic drivers. However, these should be only used when the Windows normal uninstall/ reinstall process fails.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **4\. Cool and clean video card**
 
  Does your CPU turn hot after some time? Or do your videos and games stop playing properly after a few minutes? It may be because of overheating of the motherboard or video card.
@@ -207,15 +207,15 @@ To uninstall the driver, follow the below steps:
 
  If the motherboard or the dedicated graphic card is damaged due to overheating, you would need to replace them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5\. Replace your video card**
 
  Buying a new video card is the only option when the existing card is damaged due to overheating or overclocking or has become outdated. If you are using an integrated video card, replace the whole motherboard.
 
  Before buying, consider the specific use of graphics cards. Gamers or video editing professionals need a more powerful GPU to process intense graphics.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **To Sum Up**
 
@@ -232,7 +232,7 @@ To uninstall the driver, follow the below steps:
 [Video Repair](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Video Repair Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -240,7 +240,7 @@ To uninstall the driver, follow the below steps:
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
@@ -268,22 +268,18 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-exclusive-downloads-top-8-stealthy-tools-for-2024/"><u>[New] Exclusive Downloads Top 8 Stealthy Tools for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-exploring-mozillas-split-screen-technique-in-firefox/"><u>[New] In 2024, Exploring Mozilla's Split Screen Technique in Firefox</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-sustaining-an-engaged-online-community-the-facebook-way/"><u>[Updated] Sustaining an Engaged Online Community The Facebook Way</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleash-creativity-filming-and-editing-on-the-go-with-a-phone/"><u>2024 Approved Unleash Creativity Filming & Editing on the Go with a Phone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/creation-de-systemes-redondants-configurer-le-raid-1-dans-windows-server-a-laide-dun-logiciel-dedicue/"><u>Création De Systèmes Redondants: Configurer Le RAID 1 Dans Windows Server À L'aide D'un Logiciel Dedicué</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/efficient-email-service-restoration-an-analysis/"><u>Efficient Email Service Restoration: An Analysis</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-enhancement-tools-for-the-modern-ps5-user/"><u>Game Enhancement Tools for the Modern PS5 User</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/master-the-art-of-recovery-totan-banerjee-and-stellars-expertise/"><u>Master the Art of Recovery: Totan Banerjee and Stellar's Expertise</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-device-harmony-a-step-by-step-tutorial-on-iphone-and-mac-synchronization/"><u>Mastering Device Harmony: A Step-by-Step Tutorial on iPhone and Mac Synchronization</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overcoming-the-impenetrable-stellar-recovers-lost-hdd-data/"><u>Overcoming the Impenetrable: Stellar Recovers Lost HDD Data</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/smooth-windows-and-mac-repair-magic-for-videos/"><u>Smooth Windows & MAC Repair Magic for Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/step-by-step-overcoming-macs-system-freeze/"><u>Step-by-Step: Overcoming Mac's System Freeze</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tips-and-tricks-repairing-media-files-in-windowsmac/"><u>Tips & Tricks: Repairing Media Files in Windows/Mac</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-10-video-fixing-applications-compatible-with-windows-and-macos/"><u>Top 10 Video Fixing Applications Compatible with Windows & macOS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-11-proplus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme 11 Pro+ without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/troubleshooting-corrupted-mov-mp4-formats-how-to/"><u>Troubleshooting Corrupted MOV, MP4 Formats: How-To</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-apple-watch-display/"><u>Troubleshooting Guide: How to Fix a Non-Responsive Apple Watch Display</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-battleground-bliss-a-ranking-of-7-top-military-sims-for-2024/"><u>[New] Battleground Bliss A Ranking of 7 Top Military Sims for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unified-event-tracking-harmonizing-phone-and-tablet-with-pc-zoom-for-2024/"><u>[New] Unified Event Tracking Harmonizing Phone & Tablet with PC Zoom for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-sign-upinto-google-meet-from-your-tech/"><u>[Updated] In 2024, How to Sign Up/Into Google Meet From Your Tech?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-narrative-strategies-for-engaging-docu-films/"><u>2024 Approved Narrative Strategies for Engaging Docu-Films</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-70-lite-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor 70 Lite 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guide-to-mending-video-flaw-error-0xc10100be/"><u>Guide to Mending Video Flaw: Error 0XC10100be</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-fresh-drivers-enhanced-support-for-tp-link-ac-nics-on-windows-7-8-and-11/"><u>Install Fresh Drivers: Enhanced Support for TP-Link Ac NICs on Windows 7, 8 & 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/photos-reborn-stellar-leads-the-repair-software-revolution/"><u>Photos Reborn: Stellar Leads the Repair Software Revolution</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-your-photos-stellar-unveils-phoenix-on-macos/"><u>Revive Your Photos: Stellar Unveils Phoenix on macOS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-expert-tips-and-handy-tools-for-diy-enthusiasts/"><u>Stellar's Expert Tips and Handy Tools for DIY Enthusiasts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-top-8-best-data-recovery-software-for-mac-free-and-paid/"><u>Video - Top 8 Best Data Recovery Software for Mac - Free and Paid</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725288717694-dvd/"><u>ステップバイステップ・ガイド:無料ソフトを使ってDVDコピー方法、エラー改善策の共有記事</u></a></li>
 </ul></div>
 

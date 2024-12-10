@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unsupported Video Formats
-date: 2024-11-17T21:30:04.224Z
-updated: 2024-11-24T11:21:49.987Z
+date: 2024-12-03T21:33:24.702Z
+updated: 2024-12-09T22:12:05.055Z
 categories:
   - repair-tools
 description: This Article Describes Troubleshooting Unsupported Video Formats
@@ -48,10 +48,6 @@ _‘Invalid File Format.’_
 _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why does unsupported codec or format error occur?
 
@@ -102,7 +98,7 @@ _Figure: Mac suggests installed apps to open video_
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to fix video codec not supported in Windows Media Player:**
@@ -114,6 +110,10 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -137,7 +137,7 @@ _Figure: VLC message when new version is available._
  The open source VLC Media Player can also convert video files to different format.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
@@ -164,7 +164,7 @@ _Figure: Video profile options in VLC Player_
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
@@ -201,7 +201,7 @@ _Figure: Preview video after repair_
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -231,24 +231,20 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-how-to-add-timestamps-to-youtube-video-to-increase-views/"><u>[Updated] In 2024, How to Add Timestamps to YouTube Video to Increase Views</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-weave-of-wisdom-mastering-looms-tech/"><u>2024 Approved The Weave of Wisdom Mastering Loom's Tech</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/comprehensive-bare-metal-restoration-tutorials-for-windows-10-and-11-servers/"><u>Comprehensive Bare Metal Restoration Tutorials for Windows 10 & 11 Servers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862856303-discover-chinas-longsun-processor-motherboards-and-complete-systems-for-us-market-priced-at-a-low-of-just-373/"><u>Discover China's Longsun Processor Motherboards and Complete Systems for U.S Market, Priced at a Low of Just $373</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/filefixer-combat-corrupted-videos/"><u>FileFixer: Combat Corrupted Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/flawless-film-formats-forever/"><u>Flawless Film Formats Forever</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-lava-blaze-2-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Lava Blaze 2 Pattern Lock Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-tecno-phantom-v-fold-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Tecno Phantom V Fold to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/garrys-mod-troubleshooting-guide-ending-continuous-crashes/"><u>Garry's Mod Troubleshooting Guide - Ending Continuous Crashes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-convert-big-sized-edb-data-sets-from-various-sources-including-sql-nosql-etc-for-use-in-pst-format-seamlessly/"><u>How to Convert Big Sized EDB Data Sets From Various Sources Including SQL, NoSQL, Etc., For Use in PST Format Seamlessly</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mpeg-video-recovery-solutions-how-to-repair-damaged-film-files-easily/"><u>MPEG Video Recovery Solutions: How to Repair Damaged Film Files Easily</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ps-gaming-audio-masterclass-vocal-tweaks/"><u>PS Gaming Audio Masterclass - Vocal Tweaks</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quick-guide-4-tricks-for-resolving-symbol-on-mac-folders/"><u>Quick Guide: 4 Tricks for Resolving ?-Symbol on Mac Folders</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/real-life-heroes-client-video-praise/"><u>Real-Life Heroes: Client Video Praise</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-lost-visual-stories-in-videos/"><u>Reviving Lost Visual Stories in Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tailored-soundscapes-key-audio-setup-for-podcasters/"><u>Tailored Soundscapes Key Audio Setup for Podcasters</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-8-best-data-recovery-software-for-mac-free-and-paid/"><u>Top 8 Best Data Recovery Software for Mac - Free and Paid</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unlock-your-past-get-stellar-today/"><u>Unlock Your Past, Get Stellar Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-guide-installing-and-updating-intel-nuc-drivers-fast-and-simple-methods/"><u>Updated Guide: Installing and Updating Intel NUC Drivers - Fast & Simple Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-of-the-daily-share-keep-your-digital-diary-top-notch/"><u>[New] The Art of the Daily Share Keep Your Digital Diary Top-Notch</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-eye-catching-4k-experience-dell-p2715q-in-focus-for-2024/"><u>[New] The Eye Catching 4K Experience Dell P2715Q in Focus for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-mpeg-video-repair-guide-how-to-salvage-damaged-movie-files-easily/"><u>Expert MPEG Video Repair Guide - How to Salvage Damaged Movie Files Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-acquire-authorization-from-trustedinstaller-for-file-customization-and-edits/"><u>How To Acquire Authorization From TrustedInstaller for File Customization and Edits</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-securely-archive-device-drivers-in-windows-11-and-10-environments/"><u>How to Securely Archive Device Drivers in Windows 11 and 10 Environments</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-depth-examination-of-xcreative-vision-studio-a-complete-guide/"><u>In-Depth Examination of XCreative Vision Studio - A Complete Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-pristine-video-conditions-after-corruption/"><u>Restoring Pristine Video Conditions After Corruption</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-elevates-mac-12v-a-leap-forward-for-data-recovery-users/"><u>Stellar Elevates Mac 12V: A Leap Forward for Data Recovery Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720670554986-stellar-releases-mac-data-recovery-12v-with-enhanced-ui/"><u>Stellar® Releases Mac Data Recovery 12v with Enhanced UI</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-complete-remedy-for-broken-h265-formats/"><u>The Complete Remedy for Broken H.265 Formats</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95702351-9781608684489-the-leap/"><u>The Leap | Free Book</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/totans-odyssey-in-data-salvation-navigating-through-stellar-realms/"><u>Totan's Odyssey in Data Salvation - Navigating Through Stellar Realms</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtubing-success-final-stages-and-top-resources/"><u>YouTubing Success Final Stages and Top Resources</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/zero-complaints-witness-the-magnificence-of-a-245-satisfaction-level/"><u>Zero Complaints: Witness the Magnificence of a 245 Satisfaction Level</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Timing Discrepancies in VLC
-date: 2024-11-19T02:04:48.828Z
-updated: 2024-11-24T02:06:49.379Z
+date: 2024-12-08T21:46:52.633Z
+updated: 2024-12-10T02:05:17.281Z
 categories:
   - repair-tools
 description: This Article Describes Fixing Timing Discrepancies in VLC
@@ -38,7 +38,7 @@ Table of Content
  If you’re also experiencing such issues, see the methods shared below to fix audio-video sync issues in VLC Media Player on Windows, Mac, and Android devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **How to fix out-of-sync audio on VLC Player?**
@@ -51,7 +51,7 @@ Table of Content
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
@@ -65,6 +65,10 @@ _Figure: Audio delay message in VLC_
  If you are a Mac user, press the ‘G’ key to slow down the audio and the ‘F’ key to increase the audio speed.
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
@@ -80,10 +84,6 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -106,10 +106,6 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 
  The video or movie should now play without any audio sync issue in the VLC Player.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -127,10 +123,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 * Click on the + or – button to increase or decrease the audio speed in your video. The + button will delay the sound by 50 milliseconds, whereas the – button will hasten the sound. Press the + and – buttons until the audio gets synced with the video.
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
@@ -158,6 +150,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
  It’s annoying when your favourite VLC Player suddenly starts playing videos out of sync. But the best thing about VLC is that it can fix its glitches. You can use various features in VLC to fix video-audio sync problems.
@@ -173,6 +169,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -201,22 +201,20 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-elevate-your-tiktok-score-with-these-10-key-tools/"><u>[New] In 2024, Elevate Your TikTok Score with These 10 Key Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-top-10-editing-powerhouses-to-create-engaging-reels-for-2024/"><u>[New] The Top 10 Editing Powerhouses to Create Engaging Reels for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unveiling-inauthentic-accounts-on-brand-pages/"><u>[Updated] In 2024, Unveiling Inauthentic Accounts on Brand Pages</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-art-of-perfecting-vocal-recordings-for-video-projects-for-2024/"><u>[Updated] The Art of Perfecting Vocal Recordings for Video Projects for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/a-brief-review-of-capcut-translate-with-alternative/"><u>A Brief Review of CapCut Translate With Alternative</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/banishing-bsod-from-your-pc-with-easy-fixes-for-windows-11/"><u>Banishing BSOD From Your PC with Easy Fixes for Windows 11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/combatting-errors-in-itunes-media-streams/"><u>Combatting Errors in iTunes Media Streams</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/comet-crashbook-recovery-steps/"><u>Comet Crashbook Recovery Steps</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/diagnosing-vram-failures/"><u>Diagnosing VRAM Failures</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/discover-the-finest-video-recovery-applications-for-your-computer-windowsmac/"><u>Discover the Finest Video Recovery Applications for Your Computer (Windows/Mac)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/easy-tips-to-prevent-video-corruption/"><u>Easy Tips to Prevent Video Corruption</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/embark-on-a-detective-journey-with-4-innovative-ai-enhanced-murder-mystery-games-online/"><u>Embark on a Detective Journey with 4 Innovative, AI-Enhanced Murder Mystery Games Online</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhance-and-mend-videos-effortlessly-using-grau-gmbh-tech-solutions/"><u>Enhance & Mend Videos Effortlessly Using Grau GmbH Tech Solutions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-tips-for-bypassing-widespread-videography-issues/"><u>Expert Tips for Bypassing Widespread Videography Issues</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-windows-compatible-brother-mfc-l27email-protected-drivers-instantly/"><u>Get the Latest Windows-Compatible Brother MFC-L27([email Protected]) Drivers Instantly</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-windows-11s-diagnostic-capabilities/"><u>Reviving Windows 11'S Diagnostic Capabilities</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/uncovering-the-secrets-of-enhancing-tiktok-profiles-with-linktree/"><u>Uncovering the Secrets of Enhancing TikTok Profiles with Linktree</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-lead-the-charge-with-our-12-best-tycoon-games-ever-played/"><u>2024 Approved Lead the Charge with Our #12 Best Tycoon Games Ever Played</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/april-specials-exclusive-discounts-on-the-latest-apple-watch-models/"><u>April Specials: Exclusive Discounts on the Latest Apple Watch Models</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ecorepairmedia-easy-damage-recovery/"><u>EcoRepairMedia: Easy Damage Recovery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/garys-guide-to-optimal-ms-sql-health-with-star-fixers/"><u>Gary's Guide to Optimal MS SQL Health with Star Fixers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-do-firms-grapple-with-harnessing-generative-ai-insights-from-a-new-deloitte-study-highlights-challenges-featured-on-zdnet/"><u>How Do Firms Grapple with Harnessing Generative AI: Insights From a New Deloitte Study Highlights Challenges - Featured on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-get-siri-to-read-text-on-ios-and-macos/"><u>How to Get Siri to Read Text on iOS and macOS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-x6-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco X6 to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-lava-storm-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Lava Storm 5G FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-11-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme 11 5G</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/inconsistent-performance-of-video-editing-programs/"><u>Inconsistent Performance of Video Editing Programs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/next-gen-edit-app-live-fix-and-focus/"><u>Next-Gen Edit App: Live Fix and Focus</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/pioneering-new-frontiers-in-data-redemption-with-stellar-expertise/"><u>Pioneering New Frontiers in Data Redemption with Stellar Expertise</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-and-exporting-e-mail-archives-to-live-exchange-server/"><u>Restoring & Exporting E-Mail Archives to Live Exchange Server</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-perfect-pair-combining-the-power-of-oculus-quest-2-with-a-mobile-device/"><u>The Perfect Pair: Combining the Power of Oculus Quest 2 with a Mobile Device</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/understanding-hdd-formatting-essentials-for-mac-users/"><u>Understanding HDD Formatting Essentials for Mac Users</u></a></li>
 </ul></div>
 

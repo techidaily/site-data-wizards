@@ -1,7 +1,7 @@
 ---
 title: Reversing the Impact of Rare Video Formats
-date: 2024-11-23T06:07:17.936Z
-updated: 2024-11-23T21:30:38.376Z
+date: 2024-12-08T21:20:21.531Z
+updated: 2024-12-09T19:35:06.160Z
 categories:
   - repair-tools
 description: This Article Describes Reversing the Impact of Rare Video Formats
@@ -67,10 +67,6 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -89,6 +85,10 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -101,6 +101,10 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -110,10 +114,6 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -125,6 +125,10 @@ _Figure: Check for Updates in VLC_
 _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
 
@@ -155,17 +159,9 @@ _Figure: Video profile options in VLC Player_
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -192,6 +188,10 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -201,7 +201,7 @@ _Figure: Preview video after repair_
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -231,20 +231,20 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-social-syncing-strategy-post-videos-between-platforms/"><u>[New] 2024 Approved Social Syncing Strategy Post Videos Between Platforms</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-packing-list-film-your-excursions/"><u>[Updated] 2024 Approved Packing List Film Your Excursions</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unveil-clear-photos-from-iphone-with-our-free-red-eye-corrector-guide-for-2024/"><u>[Updated] Unveil Clear Photos From iPhone with Our FREE Red-Eye Corrector Guide for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/astral-archive-epic-videos-and-endorsements-galore/"><u>Astral Archive: Epic Videos & Endorsements Galore</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/astronomical-edit-improvements-customer-love/"><u>Astronomical Edit Improvements, Customer Love</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/corrupted-video-remedy-high-res-solution/"><u>Corrupted Video Remedy: High-Res Solution</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/curing-display-distortion-after-upgrading-to-win11/"><u>Curing Display Distortion After Upgrading to Win11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-rescue-a-clients-perspective/"><u>Data Rescue - A Client's Perspective</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/developers-promises-package/"><u>Developer's Promises Package</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhancing-playback-of-corrupted-mov-files-on-mac/"><u>Enhancing Playback of Corrupted MOV Files on Mac</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-11-proplus-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme 11 Pro+ Phone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-fading-technique-on-soundtracks-in-audacity/"><u>In 2024, Mastering the Fading Technique on Soundtracks in Audacity</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-a23-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy A23 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-guide-to-capturing-screenshots-and-recording-audio-using-a-microphone-on-windows-8/"><u>Simple Guide to Capturing Screenshots and Recording Audio Using a Microphone on Windows 8</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-desktoponline-passport-photo-crafting-secure-your-documents-with-free-images/"><u>[Updated] 2024 Approved Desktop/Online Passport Photo Crafting - Secure Your Documents with Free Images</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-full-exploration-decoding-googles-podcast-app/"><u>[Updated] In 2024, Full Exploration Decoding Google's Podcast App</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/adapting-business-operations-during-covid-19-crisis-key-perspectives-from-abbyy/"><u>Adapting Business Operations During COVID-19 Crisis - Key Perspectives From ABBYY</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/addressing-audio-output-from-video-card/"><u>Addressing Audio Output From Video Card</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-toshiba-printer-drivers-on-windows-operating-system/"><u>Easy Installation of Toshiba Printer Drivers on Windows Operating System</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-windows-11-webcam-problem-a00f4289-expedition/"><u>Eradicating Windows 11 Webcam Problem: A00F4289 Expedition</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-restore-unplayable-mp4mov-files-mastering-the-art-with-vlc-media-player/"><u>How to Restore Unplayable MP4/MOV Files: Mastering the Art with VLC Media Player</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/methods-to-restore-audio-in-apple-videos/"><u>Methods to Restore Audio in Apple Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pazera-unleashed-a-deep-dive-into-audio-extractor-reviews-of-2024/"><u>Pazera Unleashed A Deep Dive Into Audio Extractor Reviews of 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reversing-screen-glitches-post-win10-operating-system-change/"><u>Reversing Screen Glitches Post-Win10 Operating System Change</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/stealthy-photo-editing-with-picsart/"><u>Stealthy Photo Editing with Picsart</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-revamps-data-backup-simplifying-consumer-use/"><u>Stellar Revamps Data Backup, Simplifying Consumer Use</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-lost-and-found-chronicles-totan-banerjees-guide-to-data-recovery-at-stellar/"><u>The Lost & Found Chronicles: Totan Banerjee’s Guide to Data Recovery at Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-rated-support-center-grossing-a-245100-score/"><u>Top-Rated Support Center - Grossing a 245/100 Score</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unravel-keyboard-knot-how-to-rectify-non-functional-combinations-and-shortcuts-in-windows-os/"><u>Unravel Keyboard Knot: How to Rectify Non-Functional Combinations and Shortcuts in Windows OS</u></a></li>
 </ul></div>
 

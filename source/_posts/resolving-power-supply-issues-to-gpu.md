@@ -1,7 +1,7 @@
 ---
 title: Resolving Power Supply Issues to GPU
-date: 2024-11-24T22:38:31.607Z
-updated: 2024-12-02T07:16:04.931Z
+date: 2024-12-03T20:02:49.803Z
+updated: 2024-12-10T04:01:36.430Z
 categories:
   - repair-tools
 description: This Article Describes Resolving Power Supply Issues to GPU
@@ -43,23 +43,19 @@ Table of Content
 
 **We will cover the problem in the context of both system’s** integrated video cards (attached to the **motherboard) and dedicated graphics cards like NVidia GeForce, ATI Radeon, and others.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **How do you know if your graphics card is damaged or not working?**
 
  Distorted visuals typically indicate a damaged or corrupt video card. The following are a few visual indicators and causes of graphics card problems:
 
 ![Video glitches due to graphic card problem](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/distrted.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Figure: Video glitches due to graphic card problem
 
 ![Random colored patterns on screen](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/colored.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Figure: Random colored patterns on the screen
 
@@ -80,21 +76,17 @@ Table of Content
 
 [How to fix ‘Video not playing’ issues](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Physical checks before troubleshooting video card problems**
 
  A graphics card is not always the cause of video problems; sometimes, the problems are caused due to other hardware-related aspects, as follows:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **1\. Loose connection:**
 
  Visual issues can be caused due to a loose connection between the computer and the graphics card. Ensure that the video cable is fine and plugged in properly. Replace the faulty cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Swap graphics card slot:**
 
@@ -103,10 +95,6 @@ Table of Content
 ### **3\. Check the PC monitor:**
 
  Video display problems could be monitor-related issues instead of the graphics card. Replacing the monitor may fix the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **4\. Test another graphics card:**
 
@@ -128,6 +116,10 @@ Table of Content
 
 ![Device Status of Graphic card showing ‘device working’](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/ww.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Figure: Device Status of Graphic card showing ‘device working’
 
 Try the free version of the software:
@@ -144,10 +136,6 @@ Try the free version of the software:
 4. [**Cool and clean video card**](#4)
 5. [**Replace your video card**](#5)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **1\. Upgrade video card drivers**
 
  Video card driver update fixes bugs and adds new features. It helps to play high-definition videos and games seamlessly. The video stuttering and display problems get resolved after updating your NVidia/Intel HD/AMD card drivers.
@@ -161,6 +149,10 @@ Try the free version of the software:
 **Visit the below link for steps to update Windows drivers:**
 
 **_ [Read More](https://support.microsoft.com/en-us/help/4028443/windows-10-update-drivers) _**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Disable/Enable the graphics card**
 
@@ -184,6 +176,10 @@ To disable video card drives, follow the below steps:
 * Click on properties.
 * Go to the**Driver** tab and click the**Enable** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **3.** **Uninstall and reinstall the drivers**
 
  Uninstall the graphic drivers and then reboot your PC. Windows will automatically install the drivers after Windows Update.
@@ -201,10 +197,6 @@ To uninstall the driver, follow the below steps:
 
 > **Note:** NVidia and AMD provide specific tools to uninstall and reinstall graphic drivers. However, these should be only used when the Windows normal uninstall/ reinstall process fails.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **4\. Cool and clean video card**
 
  Does your CPU turn hot after some time? Or do your videos and games stop playing properly after a few minutes? It may be because of overheating of the motherboard or video card.
@@ -215,15 +207,15 @@ To uninstall the driver, follow the below steps:
 
  If the motherboard or the dedicated graphic card is damaged due to overheating, you would need to replace them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **5\. Replace your video card**
 
  Buying a new video card is the only option when the existing card is damaged due to overheating or overclocking or has become outdated. If you are using an integrated video card, replace the whole motherboard.
 
  Before buying, consider the specific use of graphics cards. Gamers or video editing professionals need a more powerful GPU to process intense graphics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **To Sum Up**
 
@@ -243,7 +235,15 @@ To uninstall the driver, follow the below steps:
 
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 About The Author
 
@@ -268,20 +268,24 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-revamp-your-chat-audio-experience-with-a-personalized-whatsapp-ringtone/"><u>[New] 2024 Approved Revamp Your Chat Audio Experience with a Personalized WhatsApp Ringtone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-saving-on-space-tips-for-storing-mov-in-windows-10-devices/"><u>[New] Saving on Space Tips for Storing .mov in Windows 10 Devices</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/conversione-gratuita-di-wma-in-m4r-su-internet-utilizzando-movavi-guida-alla-conversione-rapida-e-facile/"><u>Conversione Gratuita Di WMA in M4R Su Internet Utilizzando Movavi - Guida Alla Conversione Rapida E Facile</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/corrupted-film-files-no-more-a-comprehensive-guide-to-fixing-with-vlc/"><u>Corrupted Film Files No More – A Comprehensive Guide to Fixing with VLC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-setup-asus-pcb-control-software-for-windows/"><u>Download & Setup ASUS PCB Control Software for Windows</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/enthrall-audiences-identifying-top-6-video-formats-for-2024/"><u>Enthrall Audiences Identifying Top 6 Video Formats for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/exchange-emergency-management-effective-strategies/"><u>Exchange Emergency Management: Effective Strategies</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-tips-for-flawless-vlc-timing/"><u>Expert Tips for Flawless VLC Timing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722961405714-get-your-acer-monitor-up-to-date-with-compatible-screen-drivers-here/"><u>Get Your Acer Monitor Up-to-Date with Compatible Screen Drivers Here</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leviton-unveils-latest-collection-of-smart-home-gadgets-with-groundbreaking-first-matter-outdoor-plug-feature-zdnet-review/"><u>Leviton Unveils Latest Collection of Smart Home Gadgets with Groundbreaking First Matter Outdoor Plug Feature - ZDNet Review</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/navigating-the-world-of-audio-editing-in-audacity-for-mac-devices-for-2024/"><u>Navigating the World of Audio Editing in Audacity for Mac Devices for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revive-your-videos-with-grau-gmbhs-expertly-crafted-fixer-utility/"><u>Revive Your Videos with Grau GmbH’s Expertly Crafted Fixer Utility</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/techniques-to-overcome-inconsistent-frame-rates-in-videos/"><u>Techniques to Overcome Inconsistent Frame Rates in Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/undo-disaster-rebooting-deleted-phone-shots/"><u>Undo Disaster: Rebooting Deleted Phone Shots</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-behind-modern-streaming-gadgets/"><u>Unveiling the Secrets Behind Modern Streaming Gadgets</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-producers-playbook-strategies-to-win-over-youtube-viewers/"><u>[New] 2024 Approved The Producer's Playbook Strategies to Win Over YouTube Viewers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-to-browser-screen-capturing-software/"><u>[New] The Ultimate Guide to Browser Screen Capturing Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-jest-jar-imgur-meme-tool/"><u>[Updated] 2024 Approved Jest Jar Imgur Meme Tool</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-merger-software-without-watermarks/"><u>Best Free Video Merger Software Without Watermarks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-and-fabulous-the-best-fcpx-plugins-you-cant-miss-for-2024/"><u>Free and Fabulous The Best FCPX Plugins You Cant Miss for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-support-desk-to-testimonials-fabios-video-journey/"><u>From Support Desk to Testimonials - Fabio's Video Journey</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/genuine-journeys-customer-testimonial-films/"><u>Genuine Journeys: Customer Testimonial Films</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guidelines-to-mend-crushed-video-formats/"><u>Guidelines to Mend Crushed Video Formats</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267386113-immediate-access-to-top-notch-iphone-data-restoration-solutions-get-yours-today/"><u>Immediate Access to Top-Notch iPhone Data Restoration Solutions – Get Yours Today</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-effective-practices-for-device-video-capture/"><u>In 2024, Effective Practices for Device Video Capture</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mended-instagram-reel-snafu/"><u>Mended: Instagram Reel Snafu</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-video-vulnerabilities-utilizing-samples/"><u>Mending Video Vulnerabilities: Utilizing Samples</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quickbooks-lifeline-stellars-innovative-repair-program-launched/"><u>QuickBooks Lifeline: Stellar's Innovative Repair Program Launched</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revitalizing-dormant-film-files/"><u>Revitalizing Dormant Film Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/seamlessly-start-with-stellars-help-desk/"><u>Seamlessly Start with Stellar's Help Desk</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/six-simple-solutions-to-free-up-disk-space-on-your-windows-10-pc/"><u>Six Simple Solutions to Free Up Disk Space on Your Windows 10 PC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-repairs-not-uniformly-applied-to-all-videos/"><u>Stellar Repairs Not Uniformly Applied to All Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-key-to-unlocking-youtubes-editorial-haven-for-2024/"><u>The Key to Unlocking YouTube’s Editorial Haven for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-tecno-pop-7-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Tecno Pop 7 Pro for Streaming | Dr.fone</u></a></li>
 </ul></div>
 

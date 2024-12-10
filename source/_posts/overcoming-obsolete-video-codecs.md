@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obsolete Video Codecs
-date: 2024-11-30T19:03:55.469Z
-updated: 2024-12-02T00:47:28.388Z
+date: 2024-12-06T05:50:52.621Z
+updated: 2024-12-09T22:21:07.795Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Obsolete Video Codecs
@@ -49,10 +49,6 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -63,10 +59,6 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -74,6 +66,10 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -105,6 +101,10 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -114,6 +114,10 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -137,7 +141,7 @@ _Figure: VLC message when new version is available._
  The open source VLC Media Player can also convert video files to different format.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
@@ -162,6 +166,10 @@ _Figure: Video profile options in VLC Player_
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -188,10 +196,6 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -199,10 +203,6 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,22 +231,15 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-maximizing-engagement-sharing-images-on-youtube/"><u>[New] Maximizing Engagement Sharing Images on YouTube</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unmanned-vehicles-classified-for-2024/"><u>[New] Unmanned Vehicles - Classified for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-inside-the-virtual-reality-screen-revolution/"><u>2024 Approved Inside the Virtual Reality Screen Revolution</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-to-connect-airpods-to-windows/"><u>Expert Tips to Connect AirPods to Windows</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixes-instagram-reel-quirks/"><u>Fixes: Instagram Reel Quirks</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/grau-gmbhs-expert-hardware-and-software-fixes-for-seamless-video-editing/"><u>Grau GmbH's Expert Hardware and Software Fixes for Seamless Video Editing</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/healing-torn-avchd-archives/"><u>Healing Torn AVCHD Archives</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-acer-chromebook-15-high-quality-chrome-experience-on-widescreen/"><u>In-Depth Look at the Acer Chromebook 15: High-Quality Chrome Experience on Widescreen</u></a></li>
-<li><a href="https://win-special.techidaily.com/mac2024/"><u>Mac錄音軟體推薦：2024新春四款不可小看的好用選擇</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-amd-radeon-r9-troubleshooting-in-windows-11/"><u>Navigating AMD Radeon R9 Troubleshooting in Windows 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/navigating-todays-obstacles-dealing-with-imperfect-ai-output-and-doubts-on-reliability-insights-from-zdnet/"><u>Navigating Today's Obstacles: Dealing with Imperfect AI Output & Doubts on Reliability - Insights From ZDNet</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-unleash-pro-level-video-editing-with-64-bit-software/"><u>New Unleash Pro-Level Video Editing with 64-Bit Software</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/next-gen-streaming-error-eradicators/"><u>Next-Gen Streaming Error Eradicators</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/resolving-video-glitches-in-windows-10/"><u>Resolving VIDEO Glitches in Windows 10</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tech-whisperer-navigating-macs-system-anomalies/"><u>Tech Whisperer: Navigating Mac's System Anomalies</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-ultimate-testimonial-thousands-saved-one-recovery-at-a-time/"><u>The Ultimate Testimonial: Thousands Saved, One Recovery at a Time</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unlocking-mac-trash-error-36-guide/"><u>Unlocking Mac Trash - Error 36 Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-how-to-make-your-own-youtube-closures-without-spending/"><u>[Updated] In 2024, How to Make Your Own YouTube Closures Without Spending</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-humor-haven-in-virtual-realms-mastering-20plus-funny-metaverse-imagery/"><u>2024 Approved Humor Haven in Virtual Realms Mastering 20+ Funny Metaverse Imagery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automated-awareness-quick-open-of-windows-and-sticky-notebooks/"><u>Automated Awareness: Quick Open of Windows and Sticky Notebooks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/boost-your-online-presence-with-facebook-linkedin-and-youtube-integration/"><u>Boost Your Online Presence with Facebook, LinkedIn & YouTube Integration</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/complete-solution-for-corrupt-mpeg-videos-a-comprehensive-guide-to-data-restoration/"><u>Complete Solution for Corrupt MPEG Videos: A Comprehensive Guide to Data Restoration</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comprehensive-data-sanitization-demonstration-using-bitraser-software/"><u>Comprehensive Data Sanitization Demonstration Using BitRaser Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhancing-security-streamlining-usage-in-stellars-upgrade/"><u>Enhancing Security, Streamlining Usage in Stellar's Upgrade</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-update-process-for-your-zebra-zp45n-driver-software/"><u>Mastering the Update Process for Your Zebra ZP45n Driver Software</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-11-icon-size-decline/"><u>Solving Windows 11 Icon Size Decline</u></a></li>
+<li><a href="https://win-forum.techidaily.com/upgrade-to-seamless-file-deletion-with-the-latest-revo-uninstaller-pro-5/"><u>Upgrade To Seamless File Deletion With The Latest Revo Uninstaller Pro 5</u></a></li>
 </ul></div>
 

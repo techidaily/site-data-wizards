@@ -1,7 +1,7 @@
 ---
 title: Resolving Sound Lag in VLC Playback
-date: 2024-11-25T06:04:45.715Z
-updated: 2024-12-02T10:40:39.837Z
+date: 2024-12-09T05:16:19.740Z
+updated: 2024-12-09T21:28:04.972Z
 categories:
   - repair-tools
 description: This Article Describes Resolving Sound Lag in VLC Playback
@@ -38,7 +38,7 @@ Table of Content
  If you’re also experiencing such issues, see the methods shared below to fix audio-video sync issues in VLC Media Player on Windows, Mac, and Android devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **How to fix out-of-sync audio on VLC Player?**
@@ -62,6 +62,10 @@ _Figure: Audio delay message in VLC_
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
  The answer is ‘Yes’. You can apply the settings for once for all the videos you play in VLC. For this, use the **‘Audio desynchronization compensation’** feature. It would permanently fix the audio-video sync in VLC Player. Unlike the Audio track synchronization value, which you must reset every time, you must set the ‘Audio desynchronization compensation’ value just once. The settings get saved for all the videos until you change it again.
@@ -76,10 +80,6 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -120,10 +120,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -135,6 +131,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  **Note:**  Not all video repair software is advanced enough to fix audio problems in videos. So, before choosing one, make sure it is capable of fixing sound issues in a video file.
 
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How to fix audio sync issue with repair software**
 
@@ -151,7 +151,7 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -171,7 +171,7 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -201,20 +201,21 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ecoding-youtube-stats-efficiency-with-social-blades-advanced-analysis-for-2024/"><u>[New] Decoding YouTube Stats Efficiency with Social Blade's Advanced Analysis for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-top-tier-360-pro-cams/"><u>[New] The Ultimate Guide to Top-Tier 360 Pro Cams</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-double-down-on-your-youtube-success-in-a-month/"><u>[Updated] 2024 Approved How to Double Down on Your YouTube Success in a Month</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/advanced-techniques-for-salvaging-flawed-hevc-footage/"><u>Advanced Techniques for Salvaging Flawed HEVC Footage</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/click-casualty-revive-missing-images/"><u>Click Casualty: Revive Missing Images</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/diligent-duplication-in-the-world-of-insta/"><u>Diligent Duplication in the World of Insta</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/essential-tips-transferring-reclaimed-inboxes-to-exchange/"><u>Essential Tips: Transferring Reclaimed Inboxes to Exchange</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/from-darkness-to-light-customers-story-on-photo-recovery/"><u>From Darkness to Light: Customer's Story on Photo Recovery</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-optimal-techniques-for-capturing-ppt-sessions/"><u>In 2024, Optimal Techniques for Capturing PPT Sessions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-depth-hardware-insights-and-tips-curated-by-toms-experts/"><u>In-Depth Hardware Insights and Tips Curated by Tom's Experts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/locating-your-missing-facetime-images-a-guide-on-where-they-are-stored/"><u>Locating Your Missing FaceTime Images: A Guide on Where They Are Stored</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mitigate-media-motion-malaise/"><u>Mitigate Media Motion Malaise</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/swift-transaction-astral-picture-perfection/"><u>Swift Transaction: Astral Picture Perfection</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-realme-narzo-60-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Realme Narzo 60 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitters-most-popular-video-hotspots/"><u>Twitter's Most Popular Video Hotspots</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-steps-to-authenticate-your-youtube-login/"><u>2024 Approved Quick Steps to Authenticate Your YouTube Login</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-supreme-seminar-strategist-summit/"><u>2024 Approved Supreme Seminar Strategist Summit</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/address-playback-lag-in-iphone-based-youtube-streams/"><u>Address Playback Lag in iPhone-Based YouTube Streams</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/breath-of-life-to-compromised-videographs/"><u>Breath of Life to Compromised Videographs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhancing-video-playback-velocity/"><u>Enhancing Video Playback Velocity</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/free-online-converter-from-rw2-to-jpeg-easy-by-movavi/"><u>Free Online Converter From RW2 to JPEG - Easy by Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-no-cost-humor-in-your-arsenal-ultimate-meme-guide/"><u>In 2024, No-Cost Humor in Your Arsenal – Ultimate Meme Guide</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/migration-securisee-de-windows-11-passage-du-disque-dur-mbr-vers-un-ssd-a-partition-gpt/"><u>Migration Sécurisée De Windows 11 : Passage Du Disque Dur MBR Vers Un SSD À Partition GPT</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restore-exchange-databases-a-guide-to-stellar-repair/"><u>Restore Exchange Databases: A Guide to Stellar Repair</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-essential-software-strategies-and-do-it-yourself-hacks/"><u>Stellar’s Essential Software Strategies & Do-It-Yourself Hacks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-phoenix-software-a-game-changer-in-mac-jpeg-repairing/"><u>Stellar's Phoenix Software: A Game Changer in Mac JPEG Repairing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/superior-tech-for-live-stream-correction/"><u>Superior Tech for Live Stream Correction</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshoot-and-rectify-non-responsive-printer-on-nt/"><u>Troubleshoot and Rectify Non-Responsive Printer on NT</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-reality-humor-the-art-of-metaverse-memes/"><u>Virtual Reality Humor The Art of Metaverse Memes</u></a></li>
 </ul></div>
 

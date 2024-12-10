@@ -1,7 +1,7 @@
 ---
 title: Tips to Revise Unsupported Media
-date: 2024-11-26T23:22:04.560Z
-updated: 2024-12-02T07:25:45.914Z
+date: 2024-12-06T03:51:28.549Z
+updated: 2024-12-09T23:51:00.023Z
 categories:
   - repair-tools
 description: This Article Describes Tips to Revise Unsupported Media
@@ -59,6 +59,10 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -66,10 +70,6 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -88,6 +88,10 @@ _An error occurred. Unsupported file format.’_
  If video file gives unsupported codec error on Mac, right-click on the file. Click on**‘Open With’** option. Mac may suggest all the installed apps that can play the video.
 
 _Figure: Mac suggests installed apps to open video_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Download the missing video codecs
 
@@ -123,7 +127,7 @@ _Figure: VLC message when new version is available._
 * Click**Yes.** This will automatically download the new codecs also.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
@@ -151,10 +155,6 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
@@ -162,10 +162,6 @@ _Figure: Video profile options in VLC Player_
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -193,7 +189,7 @@ _Figure: Preview video after repair_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Wrapping up**
@@ -203,6 +199,10 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,15 +231,15 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-heres-what-you-dont-know-about-instagram-story-viewer2/"><u>[New] Here's What You Don't Know About Instagram Story Viewer2</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-elevating-your-nba-live-viewing/"><u>[Updated] Expert Advice Elevating Your NBA Live Viewing</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/cost-effective-measures/"><u>Cost-Effective Measures</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-avchd-file-disruptions/"><u>Fixing AVCHD File Disruptions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-idea-sparkler-to-experienced-prompt-architect-how-to-establish-a-flourishing-career-in-prompt-crafting/"><u>From Idea Sparkler to Experienced Prompt Architect: How To Establish a Flourishing Career in Prompt Crafting</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-launchpad-gear-list-enhance-your-beginners-gopro-journey/"><u>In 2024, Launchpad Gear List - Enhance Your Beginner's GoPro Journey</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/mp4twitconversion-quick-conversion/"><u>MP4TwitConversion Quick Conversion</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/now-repair-damaged-videos-effortlessly-on-mac/"><u>Now Repair Damaged Videos Effortlessly on Mac</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/vidrenewal-suite-hd-file-fixing/"><u>VidRenewal Suite: HD File Fixing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-find-youtube-hidden-videos/"><u>[New] 2024 Approved How to Find YouTube Hidden Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-harmonious-handling-of-hues-top-6-mac-video-apps-in-big-sur-for-2024/"><u>[New] Harmonious Handling of Hues Top 6 Mac Video Apps in Big Sur for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/pgrading-your-shoot-must-have-film-tech-for-creators/"><u>[New] Upgrading Your Shoot Must-Have Film Tech for Creators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-breaking-the-freeze-reviving-your-obs-cam/"><u>[Updated] 2024 Approved Breaking the Freeze Reviving Your OBS Cam</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-avchd-data-loss-incidents/"><u>Fixing AVCHD Data Loss Incidents</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rectifying-defective-mp4mov-media-with-quicktime-fixes/"><u>Rectifying Defective MP4/MOV Media with QuickTime Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-fundamentals-of-starting-an-instantaneous-broadcast/"><u>The Fundamentals of Starting an Instantaneous Broadcast</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/trust-trail-witnessed-by-true-buyers/"><u>Trust Trail: Witnessed by True Buyers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unexpected-setback-in-high-tech-video-fixes/"><u>Unexpected Setback in High-Tech Video Fixes?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-free-green-screen-apps-for-mobile-devices-updated-2023/"><u>Updated In 2024, Best Free Green Screen Apps for Mobile Devices (Updated 2023)</u></a></li>
 </ul></div>
 
