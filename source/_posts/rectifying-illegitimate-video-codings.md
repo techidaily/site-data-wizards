@@ -1,7 +1,7 @@
 ---
 title: Rectifying Illegitimate Video Codings
-date: 2024-12-08T19:57:59.109Z
-updated: 2024-12-09T17:23:54.019Z
+date: 2024-12-11T04:13:30.846Z
+updated: 2024-12-15T21:53:09.308Z
 categories:
   - repair-tools
 description: This Article Describes Rectifying Illegitimate Video Codings
@@ -49,6 +49,10 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -66,10 +70,6 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -112,7 +112,7 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
@@ -126,6 +126,10 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -135,6 +139,10 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -156,16 +164,12 @@ _Figure: Video profile options in VLC Player_
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -191,10 +195,6 @@ _Figure: Repair button in software_
 _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Wrapping up**
 
@@ -231,18 +231,16 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-capture-your-linkinscape-content-top-6-tools-for-it/"><u>[Updated] In 2024, How to Capture Your Linkinscape Content Top 6 Tools for It</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-visualize-your-workflow-top-free-screen-recorders-for-pc-and-mac/"><u>2024 Approved Visualize Your Workflow - Top Free Screen Recorders for PC & Mac</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a15-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A15 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/hd-recovery-toolkit-mending-flawed-videos/"><u>HD Recovery Toolkit: Mending Flawed Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhance-show-planning-with-obs-timer-functions/"><u>In 2024, Enhance Show Planning with OBS Timer Functions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/redeeming-ripped-videos-backup-sample-usage/"><u>Redeeming Ripped Videos: Backup Sample Usage</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-playability-to-damaged-avi-mov-and-mp4-in-qt/"><u>Restoring Playability to Damaged AVI, MOV & MP4 in QT</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-best-mobile-recording-software-roundup/"><u>The Best Mobile Recording Software Roundup</u></a></li>
-<li><a href="https://win-help.techidaily.com/the-ultimate-tutorial-on-preparing-epub-files-for-seamless-viewing-using-flippingbook/"><u>The Ultimate Tutorial on Preparing ePub Files for Seamless Viewing Using FlippingBook</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-ranked-picture-revival-tool/"><u>Top-Ranked Picture Revival Tool</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/troubleshooting-mov-video-problems/"><u>Troubleshooting MOV Video Problems</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-how-to-format-hard-drive-on-a-mac/"><u>Video - How to Format Hard Drive on a Mac?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-grasping-the-balance-positives-and-negatives-of-vr/"><u>[New] Grasping the Balance Positives and Negatives of VR</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-leaderboard-best-following-drone-technology/"><u>[New] Leaderboard Best-Following Drone Technology</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-embedding-audio-in-instant-storytelling-platforms/"><u>[Updated] In 2024, Embedding Audio in Instant Storytelling Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-roundup-best-budget-friendly-virtual-calls-for-2024/"><u>[Updated] The Ultimate Roundup Best Budget-Friendly Virtual Calls for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/masterful-picture-repair-software/"><u>Masterful Picture Repair Software</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-sign-in-snag-onedrive-0x8004dec5-fix-guide-for-windows/"><u>Overcoming the Sign-In Snag: ONEDRIVE 0X8004DEC5 Fix Guide for Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/picture-resurgence-deleted-images-redemption/"><u>Picture Resurgence: Deleted Images Redemption</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repaired-instagram-reel-issue/"><u>Repaired: Instagram Reel Issue</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-common-media-errors-on-multiple-oses/"><u>Repairing Common Media Errors on Multiple OSes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-definitive-guide-to-classic-anime-themes/"><u>The Definitive Guide to Classic Anime Themes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-h264-video-issues/"><u>Troubleshooting H.264 Video Issues</u></a></li>
 </ul></div>
 

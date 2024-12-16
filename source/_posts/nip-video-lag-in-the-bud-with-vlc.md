@@ -1,7 +1,7 @@
 ---
 title: Nip Video Lag in the Bud with VLC
-date: 2024-12-08T04:26:17.470Z
-updated: 2024-12-10T02:34:46.846Z
+date: 2024-12-09T08:51:15.583Z
+updated: 2024-12-15T20:32:05.911Z
 categories:
   - repair-tools
 description: This Article Describes Nip Video Lag in the Bud with VLC
@@ -37,6 +37,10 @@ Table of Content
 
  If you’re also experiencing such issues, see the methods shared below to fix audio-video sync issues in VLC Media Player on Windows, Mac, and Android devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to fix out-of-sync audio on VLC Player?**
 
  VLC Media Player has built-in features that allow you to fix the audio lag or sync issues in video playback. Below are four ways you can try to fix the audio sync issue in VLC:
@@ -47,7 +51,7 @@ Table of Content
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
@@ -61,10 +65,6 @@ _Figure: Audio delay message in VLC_
  If you are a Mac user, press the ‘G’ key to slow down the audio and the ‘F’ key to increase the audio speed.
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
@@ -80,10 +80,6 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -125,7 +121,7 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
@@ -140,6 +136,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **How to fix audio sync issue with repair software**
 
  Simply download it on your Mac or Windows PC and follow the onscreen instructions. The video repair process is completed in 3 steps –
@@ -153,6 +153,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  You don’t need to do any resetting or learn to use the software. It’s easy to use and has advanced algorithms that work without you making any effort.
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -169,10 +173,6 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -201,18 +201,18 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-the-art-of-humor-in-gif-form-mastering-the-most-important-8-creation-methods/"><u>[Updated] The Art of Humor in GIF Form Mastering the Most Important 8 Creation Methods</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-m14-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy M14 5G Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/demystifying-the-mysterious-windows-update-error-0x80240034-your-ultimate-troubleshooting-handbook/"><u>Demystifying the Mysterious Windows Update Error 0X80240034: Your Ultimate Troubleshooting Handbook</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dynamic-palette-skills-in-color-adjustment/"><u>Dynamic Palette Skills in Color Adjustment</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/external-hdds-in-transparency-fixing-problems-in-macs/"><u>External HDDs in Transparency: Fixing Problems in Macs</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-frame-loss-in-h264-playback/"><u>Fixing Frame Loss in H.264 Playback</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-resurrect-old-facebook-ties-post-block/"><u>How to Resurrect Old Facebook Ties Post-Block</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-unlock-full-potential-of-obs-studio-for-android-devices/"><u>In 2024, Unlock Full Potential of OBS Studio for Android Devices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/innovative-approaches-to-remove-interlaced-noise/"><u>Innovative Approaches to Remove Interlaced Noise</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovative-title-crafting-with-top-10-ai-tools/"><u>Innovative Title Crafting with Top 10 AI Tools</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/interstellar-bookkeeper-rehab-guide/"><u>Interstellar Bookkeeper Rehab Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-delivers-improved-user-experience-with-new-data-restoration-tool-for-everyday-users/"><u>Stellar Delivers Improved User Experience with New Data Restoration Tool for Everyday Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-sony-xperia-5-v-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Sony Xperia 5 V Device</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unleashing-potential-a-guide-to-setting-up-and-analyzing-instream-ads-in-fb-for-2024/"><u>[New] Unleashing Potential A Guide to Setting Up & Analyzing Instream Ads in FB for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2023-fix-reappear-disappeared-watch-video-icon/"><u>2023 Fix Reappear Disappeared Watch Video Icon</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-complete-checklist-for-remotely-podcasters-delight/"><u>2024 Approved The Complete Checklist for Remotely Podcaster's Delight</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-discord-overlay-problems-swiftly-and-easily-expert-tips-inside/"><u>Bypass Discord Overlay Problems Swiftly & Easily – Expert Tips Inside</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guide-how-to-fix-continuous-crashes-in-xcom-2-on-your-windows-machine/"><u>Expert Guide: How to Fix Continuous Crashes in XCOM 2 on Your Windows Machine</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-s17-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo S17 to Another | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lowering-sounds-strength-progressively-with-lumafusion-for-2024/"><u>Lowering Sounds' Strength Progressively with Lumafusion for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ms-sql-saviors-gary-praises-star-stellar-repair-teams-efforts/"><u>MS SQL Saviors: Gary Praises Star Stellar Repair Team's Efforts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-fixes-to-reclaim-sanity-from-symbol-issues/"><u>Quick Fixes to Reclaim Sanity From ?-Symbol Issues</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-fragmented-mp4-files/"><u>Repairing Fragmented MP4 Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-phoenix-sql-server-renewal-promise/"><u>Stellar Phoenix: SQL Server Renewal Promise</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-troubleshooting-bluetooth-connection-issues-on-windows-10/"><u>Ultimate Guide: Troubleshooting Bluetooth Connection Issues on Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Methods to Deal with Restricted Codecs
-date: 2024-12-03T04:17:56.335Z
-updated: 2024-12-09T18:18:53.555Z
+date: 2024-12-13T17:41:50.253Z
+updated: 2024-12-16T08:28:24.622Z
 categories:
   - repair-tools
 description: This Article Describes Methods to Deal with Restricted Codecs
@@ -49,6 +49,10 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -58,6 +62,10 @@ _An error occurred. Unsupported file format.’_
  So if your media player or device doesn’t support the video format or codec, it won’t play the video file.
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix an unsupported video codec error?
 
@@ -97,10 +105,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -112,7 +116,7 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
@@ -137,7 +141,7 @@ _Figure: VLC message when new version is available._
  The open source VLC Media Player can also convert video files to different format.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
@@ -154,10 +158,6 @@ _Figure: Video profile options in VLC Player_
 
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Convert video file to fix unsupported codec error on Android**
 
@@ -192,10 +192,6 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -203,6 +199,10 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,22 +231,18 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/1723201213238-solved-error-1067-the-process-terminated-unexpectedly-on-windows/"><u>[SOLVED] “Error 1067: The Process Terminated Unexpectedly” On Windows</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-3-simple-ways-to-color-grading-in-photoshop-for-2024/"><u>[Updated] 3 Simple Ways to Color Grading in Photoshop for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1-movavi-video-editor-utat-stand-alone/"><u>1. 'Movavi Video Editor: ผู้คนสูง ประยutatัดวิที - แคมเพ Stand-Alone ไพ่แก้ว'</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-5-essential-android-image-tweakers/"><u>2024 Approved 5 Essential Android Image Tweakers</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-roadmap-to-becoming-an-excellent-interviewer/"><u>In 2024, The Roadmap To Becoming An Excellent Interviewer</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/kernel-crashes-unraveled-how-to-repair-macos/"><u>Kernel Crashes Unraveled: How to Repair MacOS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-your-complete-guide-to-making-a-mark-with-reels-for-2024/"><u>Mastering Instagram Your Complete Guide to Making a Mark With Reels for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overcoming-basic-blurry-picture-errors/"><u>Overcoming Basic Blurry Picture Errors</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/radeon-relive-download/"><u>Radeon Relive Download</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revitalizing-damaged-media-players-on-apple/"><u>Revitalizing Damaged Media Players on Apple</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/seamless-media-stream-with-vlc-player-fixes/"><u>Seamless Media Stream with VLC Player Fixes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/smooth-sailing-through-frequent-video-setbacks/"><u>Smooth Sailing Through Frequent Video Setbacks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/solution-found-updatingdownloading-proper-xbox-accessories-drivers-for-win11win8win7-systems/"><u>Solution Found! Updating/Downloading Proper Xbox Accessories Drivers for Win11/Win8/Win7 Systems</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-reveals-phoenix-app-the-ultimate-mac-companion-for-image-restoration/"><u>Stellar Reveals Phoenix App: The Ultimate Mac Companion for Image Restoration</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-unveils-historic-hdd-recovery-a-tech-marathon-victory/"><u>Stellar Unveils Historic HDD Recovery - A Tech Marathon Victory</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/troubleshooting-video-playback-problems-mp4/"><u>Troubleshooting Video Playback Problems (MP4)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-capturing-consciousness-proven-techniques-for-documenting-virtual-play/"><u>[New] In 2024, Capturing Consciousness Proven Techniques for Documenting Virtual Play</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-a-step-by-step-journey-into-professional-gopro-editing/"><u>[Updated] 2024 Approved A Step-by-Step Journey Into Professional GoPro Editing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-ultimate-guide-to-watching-fb-live-on-roku/"><u>[Updated] In 2024, The Ultimate Guide to Watching FB Live on Roku</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-definitive-guide-to-superior-hdr-photography-gear/"><u>2024 Approved The Definitive Guide to Superior HDR Photography Gear</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-the-new-google-gemini-feature-in-ios-boosts-your-iphones-capabilities-expert-analysis/"><u>Discover How the New Google Gemini Feature in iOS Boosts Your iPhone’s Capabilities | Expert Analysis</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-frustratingly-slow-film-playback/"><u>Fixing Frustratingly Slow Film Playback</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-prestige-pickers-top-ranked-websites-for-snapping-alert-songs/"><u>In 2024, Prestige Pickers Top-Ranked Websites for Snapping Alert Songs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-bsod-in-windows-11-an-experts-guide/"><u>Overcoming BSOD in Windows 11: An Expert's Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-obsolete-video-compression-issues/"><u>Overcoming Obsolete Video Compression Issues</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/smooth-transitions-overcoming-interlace-video-challenges/"><u>Smooth Transitions: Overcoming Interlace Video Challenges</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-media-fix-0xc00d36c4-problem/"><u>Stellar Media Fix: 0XC00D36C4 Problem</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210768256-9781639190843-todo-el-zodiaco-piscis/"><u>Todo el Zodiaco. Piscis | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-honor-x50-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor X50 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

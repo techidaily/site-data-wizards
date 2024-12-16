@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obsolete Video Codecs
-date: 2024-12-06T05:50:52.621Z
-updated: 2024-12-09T22:21:07.795Z
+date: 2024-12-12T18:24:50.639Z
+updated: 2024-12-16T02:12:28.160Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Obsolete Video Codecs
@@ -49,6 +49,10 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -59,6 +63,10 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -66,10 +74,6 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -102,7 +106,7 @@ _Figure: Mac suggests installed apps to open video_
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to fix video codec not supported in Windows Media Player:**
@@ -114,10 +118,6 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -141,7 +141,7 @@ _Figure: VLC message when new version is available._
  The open source VLC Media Player can also convert video files to different format.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
@@ -168,7 +168,7 @@ _Figure: Video profile options in VLC Player_
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
@@ -231,15 +231,21 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-how-to-make-your-own-youtube-closures-without-spending/"><u>[Updated] In 2024, How to Make Your Own YouTube Closures Without Spending</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-humor-haven-in-virtual-realms-mastering-20plus-funny-metaverse-imagery/"><u>2024 Approved Humor Haven in Virtual Realms Mastering 20+ Funny Metaverse Imagery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/automated-awareness-quick-open-of-windows-and-sticky-notebooks/"><u>Automated Awareness: Quick Open of Windows and Sticky Notebooks</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/boost-your-online-presence-with-facebook-linkedin-and-youtube-integration/"><u>Boost Your Online Presence with Facebook, LinkedIn & YouTube Integration</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/complete-solution-for-corrupt-mpeg-videos-a-comprehensive-guide-to-data-restoration/"><u>Complete Solution for Corrupt MPEG Videos: A Comprehensive Guide to Data Restoration</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/comprehensive-data-sanitization-demonstration-using-bitraser-software/"><u>Comprehensive Data Sanitization Demonstration Using BitRaser Software</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhancing-security-streamlining-usage-in-stellars-upgrade/"><u>Enhancing Security, Streamlining Usage in Stellar's Upgrade</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-the-update-process-for-your-zebra-zp45n-driver-software/"><u>Mastering the Update Process for Your Zebra ZP45n Driver Software</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-windows-11-icon-size-decline/"><u>Solving Windows 11 Icon Size Decline</u></a></li>
-<li><a href="https://win-forum.techidaily.com/upgrade-to-seamless-file-deletion-with-the-latest-revo-uninstaller-pro-5/"><u>Upgrade To Seamless File Deletion With The Latest Revo Uninstaller Pro 5</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-download-without-risks-the-pathway-to-secure-free-vlc-on-macos/"><u>[New] 2024 Approved Download without Risks The Pathway to Secure, Free VLC on macOS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-instaphoto-tips-for-seamless-sharing/"><u>[New] In 2024, InstaPhoto Tips for Seamless Sharing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-perfectly-merged-clips-the-power-of-blending-modes/"><u>[New] In 2024, Perfectly Merged Clips The Power of Blending Modes</u></a></li>
+<li><a href="https://win-unique.techidaily.com/beheben-der-befehlseingabefehler-in-windows-11-umfassende-schritt-fur-schritt-anleitung/"><u>Beheben Der Befehlseingabefehler in Windows 11 - Umfassende Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solutions-for-when-your-laptops-keys-stop-working-hp-models-included/"><u>DIY Solutions for When Your Laptop's Keys Stop Working - HP Models Included</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/efficient-techniques-for-moving-archived-microsoft-outlook-databases-edb-to-modern-exchange-servers/"><u>Efficient Techniques for Moving Archived Microsoft Outlook Databases (EDB) to Modern Exchange Servers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-windows-11-audio-recording/"><u>Essential Tips for Windows 11 Audio Recording</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-hp-officejet-3830-printer-driver-installation-for-windows-pcs/"><u>Free HP OfficeJet 3830 Printer Driver Installation for Windows PCs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mysql-restoration-mastered-by-augusto-the-sysadmin-pro/"><u>MySQL Restoration Mastered by Augusto, the SysAdmin Pro</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-rises-stellar-fixes-anywhere-db-crisis/"><u>Phoenix Rises: Stellar Fixes Anywhere DB Crisis</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/photography-reborn-stellars-innovative-recovery-software/"><u>Photography Reborn: Stellar’s Innovative Recovery Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-lost-mac-files-with-our-top-picks-from-8-recovery-applications/"><u>Reviving Lost Mac Files with Our Top Picks From 8 Recovery Applications</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solve-scrambled-xvid-and-hds-clips/"><u>Solve Scrambled XviD & HDS Clips</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-security-autoupdate-and-change-amd-video-drivers/"><u>Streamline Security: Autoupdate and Change AMD Video Drivers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-prime-cloud-storage-options-for-2024/"><u>Unveiling Prime Cloud Storage Options for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vidrescuetool-simple-solution-to-damaged-footage/"><u>VidRescueTool: Simple Solution to Damaged Footage</u></a></li>
 </ul></div>
 

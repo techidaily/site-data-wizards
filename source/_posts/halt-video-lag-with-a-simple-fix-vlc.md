@@ -1,7 +1,7 @@
 ---
 title: Halt Video Lag with a Simple Fix (VLC)
-date: 2024-12-03T21:55:47.565Z
-updated: 2024-12-10T03:30:23.668Z
+date: 2024-12-12T18:50:24.356Z
+updated: 2024-12-16T01:15:15.662Z
 categories:
   - repair-tools
 description: This Article Describes Halt Video Lag with a Simple Fix (VLC)
@@ -39,25 +39,21 @@ Table of Content
 
  Here are the six best solutions to fix Video Stuck or Frozen in VLC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solutions to fix video stuck, stuttering, buffering or lagging in VLC Media Player
 
  Although there isn’t a set solution, changing the VLC media player’s settings can work. You may have to try various methods shared here to fix the video freeze or lag issues in VLC Media Player.
 
  You can apply the solutions here to play high-quality HD/ UHD/ HDR, 8k, or H.265 videos of any size and file format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 1: Update VLC Media Player to the latest version**
 
  If your videos freeze, stutter, or are not playing in VLC Media Player, first update the player to the latest version. The updates improve support for new HD codecs, advanced formats, HDR, H.265/HEVC, 4K & 8K playback, 360-degree videos, VP9 (HD videos at lower bitrates), and others for decoding and encoding. It also fixes streaming issues and bugs, if any.
 
 **Also read:** [How to open HEIC, HEVC files on Windows 10](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 2: Increase cache values in VLC Player**
 
@@ -79,6 +75,10 @@ _Figure: Input/Codecs pane in VLC_
 * In the**Advanced** section, across**File caching (ms),** change the value to 1000 or above.
 * Click**Save.** Next, restart VLC Player and check if the videos are playing properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 3: Disable Hardware Decoding in VLC Player**
 
  VLC Media Player can use the GPU of a computer to accelerate video decoding in high-quality videos. However, your PC’s drivers may behave abruptly, resulting in video playback or streaming issues. You can try disabling hardware decoding to fix Video Stuck or Freeze in the VLC player.
@@ -95,10 +95,6 @@ _Figure: Input/Codecs pane in VLC_
 
 * Under**FFmpeg audio/video decoder** , scroll down to**Hardware decoding** and set it to**Disable** .
 * Click **Save** . Restart VLC Payer to enable the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 4: Change FFmpeg settings in VLC Player**
 
@@ -117,7 +113,7 @@ _Figure: Input/Codecs pane in VLC_
 * Click**Save** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 5: Switch video output to DirectX DirectDraw in VLC**
@@ -172,6 +168,10 @@ _Figure: Video output modules in VLC_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
  Here we have recommended changing the settings of VLC Media Player to fix video freezing or lag using the below methods:
@@ -187,7 +187,7 @@ _Figure: Video output modules in VLC_
  I hope you found this helpful. Do share with our readers which method helped you fix Video Stuck or Freeze in the VLC player issue in the comment box below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -217,18 +217,18 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-fresh-off-the-press-film-review-and-complementary-options-for-2024/"><u>[New] Fresh-Off-the-Press Film Review and Complementary Options for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-record-and-relive-iphoneandroid-google-meet-sessions/"><u>[Updated] Record and Relive IPhone/Android Google Meet Sessions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-swift-windows-insight-sharing-methods/"><u>2024 Approved Swift Windows Insight Sharing Methods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enjoy-uninterrupted-gameplay-the-problematic-assassins-creed-odyssey-pc-bug-is-now-solved/"><u>Enjoy Uninterrupted Gameplay - The Problematic Assassin's Creed Odyssey PC Bug Is Now Solved</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-these-10-fantastic-cost-free-tv-show-platforms-similar-to-netflix/"><u>Explore These 10 Fantastic Cost-Free TV Show Platforms Similar to Netflix</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/identifying-lack-of-engagement-in-snapsphere-for-2024/"><u>Identifying Lack of Engagement in Snapsphere for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-video-capacity-in-64128gb-drives/"><u>In 2024, Maximizing Video Capacity in 64/128GB Drives</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reestablishing-high-quality-display-on-win11/"><u>Reestablishing High-Quality Display on Win11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-previously-muted-movies/"><u>Restoring Previously Muted Movies</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-mac-images-with-stellars-phoenix-say-goodbye-to-jpeg-flaws/"><u>Reviving Mac Images with Stellar’s Phoenix - Say Goodbye to JPEG Flaws</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-old-unsupported-media-formats/"><u>Reviving Old, Unsupported Media Formats</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-resource-for-your-tech-enthusiasm-toms-insider-knowledge/"><u>The Ultimate Resource for Your Tech Enthusiasm - Tom's Insider Knowledge</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-logitech-g-pro-x-microphone-issues/"><u>Troubleshooting Guide: Fixing Logitech G Pro X Microphone Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-top-12-tycoon-games-worthy-of-every-business-strategists-time/"><u>[New] In 2024, The Top 12 Tycoon Games Worthy of Every Business Strategist's Time</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-podcast-editing-with-garageband-a-step-by-step-guide/"><u>[New] Mastering Podcast Editing with GarageBand A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-building-blocks-of-a-well-structured-youtube-video-for-2024/"><u>[Updated] Building Blocks of a Well-Structured YouTube Video for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-business-beginnings-easier-than-ever-top-10-youtube-channel-ideas/"><u>2024 Approved Business Beginnings Easier Than Ever Top 10 YouTube Channel Ideas</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplified-avi-to-gif-editing-with-filmora-on-windows-and-macos-platforms/"><u>2024 Approved Simplified AVI to GIF Editing with Filmora on Windows & macOS Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/cerebral-quests-the-ultimate-list-of-escape-rooms/"><u>Cerebral Quests The Ultimate List of Escape Rooms</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/digital-doctor-for-distorted-images/"><u>Digital Doctor for Distorted Images</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/digital-recovery-renewing-video-files/"><u>Digital Recovery: Renewing Video Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expedite-synchronization-in-media-apps-like-vlc/"><u>Expedite Synchronization in Media Apps Like VLC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g-pro-mechanical-keyboard-firmware-update-get-the-newest-version-for-pc/"><u>Logitech G Pro Mechanical Keyboard Firmware Update: Get the Newest Version for PC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/precision-tips-addressing-every-stream-issue/"><u>Precision Tips: Addressing Every Stream Issue</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-exchange-functionality-a-success-story/"><u>Restoring Exchange Functionality: A Success Story</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-for-enjoying-authentic-budget-friendly-meals-such-as-visiting-local-markets-and-avoiding-tourist-traps/"><u>Tips for Enjoying Authentic, Budget-Friendly Meals Such as Visiting Local Markets and Avoiding Tourist Traps.</u></a></li>
 </ul></div>
 
