@@ -1,7 +1,7 @@
 ---
 title: Tips to Revise Unsupported Media
-date: 2024-12-08T23:27:46.601Z
-updated: 2024-12-15T23:43:11.434Z
+date: 2024-12-23T21:26:16.046Z
+updated: 2024-12-25T06:26:37.064Z
 categories:
   - repair-tools
 description: This Article Describes Tips to Revise Unsupported Media
@@ -50,7 +50,7 @@ _An error occurred. Unsupported file format.’_
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does unsupported codec or format error occur?
@@ -63,6 +63,10 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -72,7 +76,7 @@ _An error occurred. Unsupported file format.’_
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
@@ -105,10 +109,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -140,6 +140,10 @@ _Figure: VLC message when new version is available._
 
  The open source VLC Media Player can also convert video files to different format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -162,10 +166,6 @@ _Figure: Video profile options in VLC Player_
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -201,7 +201,7 @@ _Figure: Preview video after repair_
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -231,22 +231,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-in-depth-tutorials-on-documenting-ps3-gaming-sessions/"><u>[New] 2024 Approved In-Depth Tutorials on Documenting PS3 Gaming Sessions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-soundtrack-switch-up-effortlessly-moving-your-music-queue/"><u>[Updated] 2024 Approved Soundtrack Switch-Up Effortlessly Moving Your Music Queue</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-streamlining-social-media-posting-vimeo-on-instagram/"><u>[Updated] 2024 Approved Streamlining Social Media Posting Vimeo on Instagram</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-podcast-production-perfection-from-draft-to-audio-bliss/"><u>[Updated] In 2024, Podcast Production Perfection From Draft to Audio Bliss</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-laughing-lane-the-funniest-youtubers-for-a-good-time/"><u>2024 Approved Laughing Lane The Funniest YouTubers for a Good Time</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-tecno-spark-20-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Tecno Spark 20 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/capture-your-inspiration-top-5-pinterest-videos-without-cost/"><u>Capture Your Inspiration! Top 5 Pinterest Videos Without Cost</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixitflow-video-file-repair-tool/"><u>FixItFlow: Video File Repair Tool</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/flawless-fixes-for-apples-qtp-player-courtesy-of-stellar/"><u>Flawless Fixes for Apple’s QTP Player, Courtesy of Stellar</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-fix-apple-videos-not-playing/"><u>How to Fix Apple Videos Not Playing?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mastering-the-art-of-exchange-testimonials-it-expertise-with-fabio/"><u>Mastering the Art of Exchange Testimonials - IT Expertise with Fabio</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/natural-remedies-for-unstable-video/"><u>Natural Remedies for Unstable Video</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/navigating-through-the-notorious-bsod-on-windows-11/"><u>Navigating Through the Notorious BSOD on Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/painless-audio-progression-the-unobtrusive-way-for-2024/"><u>Painless Audio Progression The Unobtrusive Way for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rehabilitating-distorted-and-damaged-hevc-imagesvideos/"><u>Rehabilitating Distorted and Damaged HEVC Images/Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tainttrack-tracing-and-correcting-vids/"><u>TaintTrack: Tracing and Correcting Vids</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-the-backspace-key-fails/"><u>Troubleshooting Steps When the Backspace Key Fails</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-digital-footprint-and-interactive-iconography-honors/"><u>[New] In 2024, Digital Footprint and Interactive Iconography Honors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-process-to-shoot-with-a-fisheye-lens/"><u>[Updated] Step-by-Step Process to Shoot with a Fisheye Lens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-learning-journey-your-first-stop-at-9-tool-communities/"><u>AI Learning Journey: Your First Stop at 9 Tool Communities</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-seamless-photo-recovery-with-windowwizards-editing-tool-order-today/"><u>Experience Seamless Photo Recovery with WindowWizards Editing Tool - Order Today</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-can-you-detect-signs-of-a-malfunctioning-gpu-in-your-system-insights-from-yl-computing/"><u>How Can You Detect Signs of a Malfunctioning GPU in Your System? - Insights From YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-books-purchases-on-iphone-se-2022-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Books Purchases on iPhone SE (2022)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/inadequate-video-editing-results-from-stellar-tools/"><u>Inadequate Video Editing Results From Stellar Tools.</u></a></li>
+<li><a href="https://fox-links.techidaily.com/key-approaches-to-elicit-trust-in-product-reviews-through-videography-for-2024/"><u>Key Approaches to Elicit Trust in Product Reviews Through Videography for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-video-restoration-with-these-leading-repair-applications-on-windows-and-mac-systems/"><u>Master Video Restoration with These Leading Repair Applications on Windows and Mac Systems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimizing-post-export-video-clarity/"><u>Optimizing Post-Export Video Clarity</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quantum-ledger-data-restoration/"><u>Quantum Ledger Data Restoration</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recovering-troubled-avchd-media/"><u>Recovering Troubled AVCHD Media</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reversing-corruption-in-m4v-video-formats-on-computers/"><u>Reversing Corruption in M4V Video Formats on Computers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/sysadmin-augusto-unveils-secrets-to-efficient-mysql-repair/"><u>SysAdmin Augusto Unveils Secrets to Efficient MySql Repair</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-rated-free-wmv-video-editing-software-with-splitting-features/"><u>Top-Rated Free WMV Video Editing Software with Splitting Features</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-healthcare-high-def-recovery/"><u>Video Healthcare: High-Def Recovery</u></a></li>
+<li><a href="https://win-forum.techidaily.com/movaviasfavi/"><u>オンラインで使いやすい、Movaviを含むフリーASF/AVI形式の変換ツール - 無料アップグレード</u></a></li>
 </ul></div>
 
