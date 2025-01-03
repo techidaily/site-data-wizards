@@ -1,7 +1,7 @@
 ---
 title: Methods to Deal with Restricted Codecs
-date: 2024-12-23T04:27:49.214Z
-updated: 2024-12-25T05:43:48.300Z
+date: 2025-01-01T00:28:25.507Z
+updated: 2025-01-03T10:58:58.575Z
 categories:
   - repair-tools
 description: This Article Describes Methods to Deal with Restricted Codecs
@@ -49,6 +49,10 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -58,10 +62,6 @@ _An error occurred. Unsupported file format.’_
  So if your media player or device doesn’t support the video format or codec, it won’t play the video file.
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix an unsupported video codec error?
 
@@ -112,7 +112,7 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
@@ -126,10 +126,6 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -139,10 +135,6 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -164,7 +156,7 @@ _Figure: Video profile options in VLC Player_
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
@@ -196,6 +188,10 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -203,6 +199,10 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,20 +231,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-seamless-techniques-for-effective-iphone-screen-captures/"><u>[Updated] In 2024, Seamless Techniques for Effective Iphone Screen Captures</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tects-crafting-fantasy-realms-for-marvel/"><u>Architects Crafting Fantasy Realms for Marvel</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/combining-social-media-powers-facebook-plus-linkedin-plus-youtube/"><u>Combining Social Media Powers: Facebook + LinkedIn + YouTube</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/corrupted-movie-file-recovery-tips-using-vlc-to-restore-mp4-and-mov-formats/"><u>Corrupted Movie File Recovery Tips: Using VLC to Restore MP4 and MOV Formats</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/customer-insights-in-mac-video-format/"><u>Customer Insights in Mac Video Format</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/diy-fix-it-method-for-erratic-movies-how-to-make-your-films-smooth-again-at-home/"><u>DIY Fix-It Method for Erratic Movies: How To Make Your Films Smooth Again at Home</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/easy-fix-restoring-damaged-mp4mov-videos-with-vlc-media-player/"><u>Easy Fix: Restoring Damaged MP4/MOV Videos with VLC Media Player</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/email-resurrection-syncing-past-inboxes-to-live-exchange/"><u>Email Resurrection - Syncing Past Inboxes to LIVE Exchange</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/error-bypassed-resolving-video-issue-224003/"><u>Error Bypassed: Resolving Video Issue 224003</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experts-reveal-top-non-hplenovo-2-in-1-laptops-with-exceptional-capabilities-zdnet-insights/"><u>Experts Reveal Top Non-HP/Lenovo 2-in-1 Laptops with Exceptional Capabilities | ZDNet Insights</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/fireshadow-video-recording/"><u>Fireshadow Video Recording</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-match-up-with-moguls-six-questions-to-identify-youtubers/"><u>In 2024, Match Up With Moguls Six Questions to Identify YouTubers</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/multi-window-text-editing-with-emeditor-a-step-by-step-guide/"><u>Multi-Window Text Editing with EmEditor: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-next-level-in-smart-assistants-a-review-of-the-4gen-echo-device/"><u>The Next Level in Smart Assistants - A Review of the 4Gen Echo Device</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-record-like-a-pro-10-best-free-music-production-software-for-2024/"><u>Updated Record Like a Pro 10 Best Free Music Production Software for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-3-techniques-to-retrieve-and-save-youtubes-iconic-images/"><u>[New] 3 Techniques to Retrieve & Save YouTube's Iconic Images</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-filters-through-windows-10-photos-extracting-picture-moments-for-2024/"><u>[New] Filters Through Windows 10 Photos Extracting Picture Moments for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-web-humor-fabricator/"><u>[New] Web Humor Fabricator</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-here-is-how-asmr-helps-with-sleep-and-best-asmrtist-recommendation/"><u>[Updated] Here Is How ASMR Helps with Sleep & Best ASMRtist Recommendation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-shining-a-light-on-phony-connections-in-facebook-marketing-for-2024/"><u>[Updated] Shining a Light on Phony Connections in Facebook Marketing for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-it-guide-no-more-distorted-screens/"><u>Fix-It Guide: No More Distorted Screens</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/garys-endorsement-top-rated-stellar-repairs-for-ms-sql-systems/"><u>Gary's Endorsement: Top-Rated Stellar Repairs for MS SQL Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-facile-pour-gerer-et-reparer-la-compatibilite-hevc-sous-les-systemes-dexploitation-windows-varies/"><u>Guide Facile Pour Gérer Et Réparer La Compatibilité HEVC Sous Les Systèmes D'Exploitation Windows Variés</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-the-stopped-window-lock-screen-countdown/"><u>Rectifying the Stopped Window Lock Screen Countdown</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-your-tapes-stellar-phoenix-for-flawless-fixes-on-mac/"><u>Revive Your Tapes: 'Stellar Phoenix' For Flawless Fixes on Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/starborne-solutions-sql-anywhere-recovery/"><u>Starborne Solutions: SQL Anywhere Recovery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-archivist-totans-guide-to-lost-data-salvation/"><u>Stellar Archivist: Totan's Guide to Lost Data Salvation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unchain-your-data-with-free-stellar-recovery/"><u>Unchain Your Data with Free Stellar Recovery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/upgraded-backup-for-everyday-users-with-stellars-new-tools/"><u>Upgraded Backup for Everyday Users with Stellar's New Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/viral-talent-quest-episodes-1-10-for-2024/"><u>Viral Talent Quest Episodes #1-10 for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/voices-for-verification-consumer-reviews-in-motion/"><u>Voices for Verification: Consumer Reviews in Motion</u></a></li>
 </ul></div>
 

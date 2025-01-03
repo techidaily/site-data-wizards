@@ -1,7 +1,7 @@
 ---
 title: Rectifying Illegitimate Video Codings
-date: 2024-12-23T16:34:31.652Z
-updated: 2024-12-24T20:00:49.779Z
+date: 2024-12-28T22:50:41.149Z
+updated: 2025-01-02T23:30:31.252Z
 categories:
   - repair-tools
 description: This Article Describes Rectifying Illegitimate Video Codings
@@ -49,10 +49,6 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -62,10 +58,6 @@ _An error occurred. Unsupported file format.’_
  So if your media player or device doesn’t support the video format or codec, it won’t play the video file.
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix an unsupported video codec error?
 
@@ -104,10 +96,6 @@ _Figure: Mac suggests installed apps to open video_
  However, be aware that there may be malicious ads for codec downloads. This can put your computer at risk. Make sure you download codecs from a trusted source, preferably from the manufacturer’s site.
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
@@ -155,17 +143,25 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -193,7 +189,7 @@ _Figure: Preview video after repair_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Wrapping up**
@@ -203,6 +199,10 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,18 +231,17 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-enhancing-online-stream-quality-with-a-single-source-approach/"><u>[New] 2024 Approved Enhancing Online Stream Quality with a Single Source Approach</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-a-guide-to-googles-augmented-reality-sticker-features/"><u>[Updated] 2024 Approved A Guide to Google's Augmented Reality Sticker Features</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/android-media-troubleshooting-steps/"><u>Android Media Troubleshooting Steps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/at-127-by-antop-the-perfect-blend-of-style-and-performance-for-hassle-free-tv/"><u>AT-127 by Antop: The Perfect Blend of Style & Performance for Hassle-Free TV</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/bridging-the-gap-in-uncommon-codecs/"><u>Bridging the Gap in Uncommon Codecs</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/charting-a-course-for-successful-digital-restoration-vishakhas-perspective/"><u>Charting a Course for Successful Digital Restoration: Vishakha's Perspective</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/easy-solution-to-fix-video-stuck-or-freezing-in-vlc-player-stellar/"><u>Easy Solution to Fix Video Stuck or Freezing in VLC Player - Stellar</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/eliminate-video-glitches-error-xc00d36c4/"><u>Eliminate Video Glitches - Error XC00D36C4</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhance-android-video-performance/"><u>Enhance Android Video Performance</u></a></li>
-<li><a href="https://article-posts.techidaily.com/exploring-the-boundaries-of-ae-type-design/"><u>Exploring the Boundaries of AE Type Design</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-youtube-content-editing-in-adobe-premiere/"><u>In 2024, Elevate Your YouTube Content Editing in Adobe Premiere</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimizing-mundane-hr-tasks-via-ai-guidance/"><u>Optimizing Mundane HR Tasks via AI Guidance</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncover-top-discord-communities-for-maximum-engagement/"><u>Uncover Top Discord Communities for Maximum Engagement</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elevate-listener-engagement-seo-strategies-for-podcasts/"><u>[New] 2024 Approved Elevate Listener Engagement Seo Strategies for Podcasts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-pushing-boundaries-in-visual-storytelling-with-hdr/"><u>[New] Pushing Boundaries in Visual Storytelling with HDR</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-excellence-in-image-making-via-premium-grid-makers-for-2024/"><u>[Updated] Excellence in Image Making via Premium Grid Makers for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-leading-home-security-elite-smart-locks-ranking-for-2eplust2eplusr2024/"><u>Discover the Leading Home Security: Elite Smart Locks Ranking for 2E+t2e+r2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eliminating-video-freezing-phenomena/"><u>Eliminating Video Freezing Phenomena</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-techniques-for-soundless-video-for-2024/"><u>Essential Techniques for Soundless Video for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macs-digital-salvation-narrowing-down-the-best-8-data-recovery-tools/"><u>Mac's Digital Salvation: Narrowing Down the Best 8 Data Recovery Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-driver-updates-on-the-hp-envy-2n-pc-series-a-user-friendly-guide/"><u>Mastering Driver Updates on the HP ENVY 2N PC Series - A User-Friendly Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/navigating-the-world-of-android-video-snapshots-for-2024/"><u>Navigating the World of Android Video Snapshots for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recovering-flawed-video-playback-in-macos/"><u>Recovering Flawed Video Playback in macOS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-magic-recovery-client-reports-a-miraculous-turnaround-for-lost-memories/"><u>The Magic Recovery: Client Reports a Miraculous Turnaround for Lost Memories</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-gaming-laptop-discounts-get-the-gigabyte-a5-k1-for-40-off-this-black-friday-exclusive-offer/"><u>Unbeatable Gaming Laptop Discounts: Get the Gigabyte A5 K1 for 40% Off This Black Friday Exclusive Offer</u></a></li>
 </ul></div>
 

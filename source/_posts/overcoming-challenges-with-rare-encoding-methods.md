@@ -1,7 +1,7 @@
 ---
 title: Overcoming Challenges with Rare Encoding Methods
-date: 2024-12-23T05:00:35.729Z
-updated: 2024-12-25T06:00:54.690Z
+date: 2024-12-31T02:44:58.493Z
+updated: 2025-01-02T18:55:19.749Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Challenges with Rare Encoding Methods
@@ -50,7 +50,7 @@ _An error occurred. Unsupported file format.’_
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does unsupported codec or format error occur?
@@ -71,6 +71,10 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -88,10 +92,6 @@ _An error occurred. Unsupported file format.’_
  If video file gives unsupported codec error on Mac, right-click on the file. Click on**‘Open With’** option. Mac may suggest all the installed apps that can play the video.
 
 _Figure: Mac suggests installed apps to open video_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Download the missing video codecs
 
@@ -127,7 +127,7 @@ _Figure: VLC message when new version is available._
 * Click**Yes.** This will automatically download the new codecs also.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
@@ -139,10 +139,6 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -164,7 +160,7 @@ _Figure: Video profile options in VLC Player_
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
@@ -204,6 +200,10 @@ _Figure: Preview video after repair_
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -231,17 +231,17 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-wave-warriors-cam-selection-best-surf-gear-2023/"><u>[New] Wave Warriors' Cam Selection - Best Surf Gear 2023</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-prodigy-playgrounds-top-10-roguelike-creations/"><u>[Updated] Prodigy Playgrounds Top 10 Roguelike Creations</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-vsg-hd-screen-snapper-reports-extensive-breakdown/"><u>[Updated] VSG HD Screen Snapper Reports Extensive Breakdown</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/cured-instagram-reel-disruption/"><u>Cured: Instagram Reel Disruption</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-the-ultimate-social-watchlist-2023s-top-tweets/"><u>In 2024, The Ultimate Social Watchlist - 2023'S Top Tweets</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>In 2024, Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-phoenix-launches-robust-tool-to-repair-corrupt-pdf-files-news-of-stellar/"><u>Stellar Phoenix Launches Robust Tool to Repair Corrupt PDF Files - News of Stellar</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/supernova-streams-exceptional-content-and-client-love/"><u>Supernova Streams: Exceptional Content & Client Love</u></a></li>
-<li><a href="https://fox-links.techidaily.com/synergy-between-humans-and-computers-through-gestures-for-2024/"><u>Synergy Between Humans & Computers Through Gestures for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720673462771-unlock-the-mysteries-of-data-loss-with-totan-banerjee-at-stellar-inc/"><u>Unlock the Mysteries of Data Loss with Totan Banerjee at Stellar Inc</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/why-does-video-repair-yield-mixed-results/"><u>Why Does Video Repair Yield Mixed Results?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-charting-a-path-to-youtube-wealth-cpm-analysis/"><u>[New] Charting a Path to YouTube Wealth CPM Analysis</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtuber-yield-the-leaders-with-the-largest-audiences/"><u>[Updated] 2024 Approved YouTuber Yield The Leaders with the Largest Audiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-hidden-potential-snapchat-zooming-tips/"><u>[Updated] Unlock Hidden Potential Snapchat Zooming Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-rankings-leading-gopro-case-models/"><u>2024 Approved The Ultimate Rankings Leading GoPro Case Models</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/action-to-archive-top-screen-recording-tools-assessed-for-2024/"><u>Action to Archive Top Screen Recording Tools Assessed for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-aocs-ultimate-three-monitor-setup-with-the-u3-graphic-pro-series/"><u>Introducing AOC's Ultimate Three-Monitor Setup with the U3 Graphic Pro Series</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-the-art-of-video-repair-top-10-tools-compatible-with-both-pc-and-mac/"><u>Master the Art of Video Repair: Top 10 Tools Compatible with Both PC & Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/superior-service-quality-averaging-245100-satisfaction/"><u>Superior Service Quality - Averaging 245/100 Satisfaction</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-essential-checklist-for-rectifying-common-video-mistakes/"><u>The Essential Checklist for Rectifying Common Video Mistakes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-guide-to-youtube-short-video-insights/"><u>The Ultimate Guide to YouTube Short Video Insights</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-10-video-restoration-tools-ultimate-guide-for-windows-and-mac-users/"><u>Top 10 Video Restoration Tools: Ultimate Guide for Windows & Mac Users</u></a></li>
 </ul></div>
 

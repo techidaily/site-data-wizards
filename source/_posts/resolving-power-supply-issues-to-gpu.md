@@ -1,7 +1,7 @@
 ---
 title: Resolving Power Supply Issues to GPU
-date: 2024-12-22T16:50:52.250Z
-updated: 2024-12-25T04:06:32.337Z
+date: 2024-12-28T09:28:21.043Z
+updated: 2025-01-03T03:59:19.696Z
 categories:
   - repair-tools
 description: This Article Describes Resolving Power Supply Issues to GPU
@@ -43,23 +43,19 @@ Table of Content
 
 **We will cover the problem in the context of both system’s** integrated video cards (attached to the **motherboard) and dedicated graphics cards like NVidia GeForce, ATI Radeon, and others.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How do you know if your graphics card is damaged or not working?**
 
  Distorted visuals typically indicate a damaged or corrupt video card. The following are a few visual indicators and causes of graphics card problems:
 
 ![Video glitches due to graphic card problem](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/distrted.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Figure: Video glitches due to graphic card problem
 
 ![Random colored patterns on screen](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/colored.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Figure: Random colored patterns on the screen
 
@@ -89,7 +85,7 @@ Table of Content
  Visual issues can be caused due to a loose connection between the computer and the graphics card. Ensure that the video cable is fine and plugged in properly. Replace the faulty cable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. Swap graphics card slot:**
@@ -97,7 +93,7 @@ Table of Content
  The problem might be due to a faulty PCI card slot. Insert your external graphics card in a different slot and see if this resolves the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. Check the PC monitor:**
@@ -112,6 +108,10 @@ Table of Content
 
  Is the computer crashing only while playing games? It may be due to the sound hardware. To check this possibility, disable the sound hardware temporarily via**Device Manager** on your PC. If your computer doesn’t crash now, it’s a sound system issue. Download sound card drivers from the manufacturer’s website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **6\. Check the ‘Device Status’ of your graphic card:**
 
  Go to**Device Manager> Display adapters** . Right-click on your graphic card and click**Properties** . See the**Device Status** If it shows a video card error like Code 43 or Code 12, it indicates a video card problem. Follow the given troubleshooting methods to fix the video card error.
@@ -119,7 +119,7 @@ Table of Content
 ![Device Status of Graphics card showing Code 43](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/vv.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Figure: Device Status of Graphics card showing Code 43
@@ -128,15 +128,15 @@ Table of Content
 
 ![Device Status of Graphic card showing ‘device working’](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/ww.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Figure: Device Status of Graphic card showing ‘device working’
 
 Try the free version of the software:
 
 [Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How to fix video card problems**
 
@@ -185,7 +185,7 @@ To disable video card drives, follow the below steps:
 * Go to the**Driver** tab and click the**Enable** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3.** **Uninstall and reinstall the drivers**
@@ -204,6 +204,10 @@ To uninstall the driver, follow the below steps:
  Uninstalling display drivers and then reinstalling fixes most of the video card problems. It also fixes the improper display driver installation problem.
 
 > **Note:** NVidia and AMD provide specific tools to uninstall and reinstall graphic drivers. However, these should be only used when the Windows normal uninstall/ reinstall process fails.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **4\. Cool and clean video card**
 
@@ -239,10 +243,6 @@ To uninstall the driver, follow the below steps:
 
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
 
 About The Author
@@ -268,20 +268,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-crafting-content-for-specific-youtube-subsets/"><u>[New] 2024 Approved Crafting Content for Specific Youtube Subsets</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-customizable-mcb-visuals-for-youtube-banners-for-2024/"><u>[New] Customizable MCB Visuals for YouTube Banners for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-finding-fellowship-adding-friends-in-discord-for-2024/"><u>[New] Finding Fellowship Adding Friends in Discord for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-ultimate-alarm-tones-optimal-websites-list/"><u>[New] In 2024, Ultimate Alarm Tones Optimal Websites List</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ecure-free-footage-streaming-through-key-youtube-channels/"><u>[New] Secure Free Footage Streaming Through Key YouTube Channels</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/4-ways-to-fix-flashing-folder-with-question-mark-on-macbook/"><u>4 Ways to Fix Flashing Folder With Question Mark on Macbook</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/bridging-the-gap-in-corrupted-video-recovery/"><u>Bridging the Gap in Corrupted Video Recovery</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-recovery-simplified-stellar-12-mac-interaction/"><u>Data Recovery Simplified: Stellar 12 Mac Interaction</u></a></li>
-<li><a href="https://win11.techidaily.com/dual-screen-delight-personalized-pixels-per-monitor-of-windows-1011/"><u>Dual Screen Delight: Personalized Pixels per Monitor of Windows 10/11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/effortless-and-secure-recovery-stellars-software-revolution/"><u>Effortless and Secure Recovery: Stellar’s Software Revolution</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-tips-for-eradicating-interlaced-footage-defects/"><u>Expert Tips for Eradicating Interlaced Footage Defects</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-mysterious-question-marks-in-macs-file-folders/"><u>Fixing Mysterious Question Marks in Mac's File Folders</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/step-by-step-approach-to-saving-instagram-stories/"><u>Step-by-Step Approach to Saving Instagram Stories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-treasure-trove-of-premium-rate-free-luts-revealed/"><u>[New] A Treasure Trove of Premium-Rate Free LUTs Revealed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-earning-power-through-engagement-ajays-success-on-youtube-monetization-for-2024/"><u>[New] Earning Power Through Engagement Ajay’s Success on YouTube Monetization for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigating-fb-timing-and-tools-without-a-price-tag/"><u>[New] In 2024, Navigating Fb Timing and Tools Without a Price Tag</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-guide-to-the-lg-bp350-visual-experience-for-2024/"><u>[Updated] Ultimate Guide to the LG BP350 Visual Experience for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>2024 Approved Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-honor-play-40c-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Honor Play 40C.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-marred-media-a-guide-to-sample-assistance/"><u>Mending Marred Media: A Guide to Sample Assistance</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/navigating-non-playable-video-files/"><u>Navigating Non-Playable Video Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-obstacles-in-online-media-syncing/"><u>Overcoming Obstacles in Online Media Syncing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/photographic-lifeline-stellar-launches-new-tech/"><u>Photographic Lifeline: Stellar Launches New Tech</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rebuilding-damaged-avchd-files/"><u>Rebuilding Damaged AVCHD Files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-simplifies-mac-performance-latest-utility/"><u>Stellar Simplifies Mac Performance - Latest Utility</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-to-resume-non-playing-videos/"><u>Techniques to Resume Non-Playing Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/testimonial-hard-drive-data-recovery/"><u>Testimonial: Hard Drive Data Recovery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-apple-vision-pro-in-action-a-look-at-its-transformative-role-across-top-businesses-insights-from-zdnet/"><u>The Apple Vision Pro in Action: A Look at Its Transformative Role Across Top Businesses - Insights From ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/venturing-virtuality-a-review-of-lgs-360-headset-for-2024/"><u>Venturing Virtuality A Review of LG's 360 Headset for 2024</u></a></li>
 </ul></div>
 

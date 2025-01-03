@@ -1,7 +1,7 @@
 ---
 title: Handling Non-Compatible Media Coding Methods
-date: 2024-12-13T03:21:04.886Z
-updated: 2024-12-16T00:11:07.251Z
+date: 2024-12-29T21:36:57.740Z
+updated: 2025-01-02T19:12:20.919Z
 categories:
   - repair-tools
 description: This Article Describes Handling Non-Compatible Media Coding Methods
@@ -49,10 +49,6 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -70,10 +66,6 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -93,6 +85,10 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -106,7 +102,7 @@ _Figure: Mac suggests installed apps to open video_
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to fix video codec not supported in Windows Media Player:**
@@ -131,7 +127,7 @@ _Figure: VLC message when new version is available._
 * Click**Yes.** This will automatically download the new codecs also.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
@@ -143,6 +139,10 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -166,6 +166,10 @@ _Figure: Video profile options in VLC Player_
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -200,10 +204,6 @@ _Figure: Preview video after repair_
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Was this article helpful?
 
 YES 0
@@ -231,24 +231,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-currencies-through-cosmetics-content/"><u>[New] In 2024, Flipping Currencies Through Cosmetics Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-mastering-real-time-video-conversations-with-whatsapp-web-on-pcs/"><u>[New] Mastering Real-Time Video Conversations with WhatsApp Web on PCs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-selecting-the-superior-cloud-vaults-for-your-digital-needs/"><u>[New] Selecting the Superior Cloud Vaults for Your Digital Needs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-360-degree-cameras-vs-3d-cameras-what-are-the-differences/"><u>[Updated] In 2024, 360 Degree Cameras Vs 3D Cameras What Are the Differences?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-cut-the-clutter-ultimate-guide-to-trimming-down-oversized-tiktoks/"><u>[Updated] In 2024, Cut the Clutter Ultimate Guide to Trimming Down Oversized TikToks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unravel-complex-video-editing-a-complete-android-guide/"><u>[Updated] Unravel Complex Video Editing A Complete Android Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-damaged-mp4-and-mov-videos-a-step-by-step-guide-with-vlc-media-player/"><u>Fixing Damaged MP4 & MOV Videos: A Step-by-Step Guide with VLC Media Player</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-hacks-recovering-damaged-videos/"><u>Fixing Hacks: Recovering Damaged Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-repair-corrupt-mpeg-files/"><u>How to Repair Corrupt MPEG Files</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-or-updating-your-brother-hl-l2300d-printer-driver-made-easy/"><u>Installing or Updating Your Brother HL-L2300D Printer Driver Made Easy</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mvp-stellar-repair-a-deep-dive-into-ms-sql/"><u>MVP Stellar Repair: A Deep Dive Into MS SQL</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/open-iphone-sim-card-panel-without-ejector-pin-tips-and-tricks/"><u>Open iPhone Sim Card Panel without Ejector Pin – Tips & Tricks</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overcoming-audio-video-sync-issues-in-h264/"><u>Overcoming Audio-Video Sync Issues in H.264</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/practical-ways-to-archive-online-discussions-for-2024/"><u>Practical Ways to Archive Online Discussions for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quick-fix-for-media-glitch-code-0xc10100be/"><u>Quick Fix for Media Glitch Code: 0XC10100be</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ultimate-video-fixer-windows-and-mac-edition/"><u>Ultimate Video Fixer - Windows & MAC Edition</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unveiling-top-secrets-in-data-reconstruction-via-vishakha/"><u>Unveiling Top Secrets in Data Reconstruction via Vishakha</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-file-issues-after-stellar-repairing/"><u>Video File Issues After Stellar Repairing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721463940528-why-isnt-my-iphone-buzzing-on-silentring-settings-fix-it-with-these-8-steps/"><u>Why Isn't My iPhone Buzzing on Silent/Ring Settings? Fix It With These 8 Steps!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-srgb-standardization-the-next-step-beyond-traditional-rgb/"><u>[New] 2024 Approved Srgb Standardization The Next Step Beyond Traditional Rgb</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-clean-soundscape-youtube-audio-enhancement-guide/"><u>[New] In 2024, Clean Soundscape YouTube Audio Enhancement Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/addressing-common-digital-streaming-mishaps/"><u>Addressing Common Digital Streaming Mishaps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-on-your-computer-exploring-superior-features-to-the-online-counterpart/"><u>ChatGPT on Your Computer: Exploring Superior Features to the Online Counterpart</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comprehensive-video-restoration-toolkit-by-grau-gmbh-top-tier-tech-services/"><u>Comprehensive Video Restoration Toolkit by Grau GmbH - Top-Tier Tech Services</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diy-mastery-with-stellar-a-collection-of-expert-toolkit-strategies/"><u>DIY Mastery with Stellar: A Collection of Expert Toolkit Strategies</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-se-2022-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone SE (2022) to PC | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720673443488-efficient-mac-hard-disk-management-in-minutes-thanks-to-video/"><u>Efficient Mac Hard Disk Management in Minutes, Thanks to Video</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhanced-fixing-for-tainted-and-damaged-videos/"><u>Enhanced Fixing for Tainted & Damaged Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unsupported-alpha-blending-on-your-graphics-card-a-comprehensive-guide/"><u>Fixing Unsupported Alpha Blending on Your Graphics Card: A Comprehensive Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solution-for-trash-and-error-code-36-on-macos/"><u>Solution for Trash & Error Code 36 on macOS</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solving-corrupted-media-issues-on-both-platforms/"><u>Solving Corrupted Media Issues on Both Platforms</u></a></li>
+<li><a href="https://win-bits.techidaily.com/spotifymp3/"><u>SpotifyからMP3に: 専用フリープログラムで簡単な音楽変換</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/swift-iphone-image-restoration-rescue-your-lost-memories-with-our-top-notch-tool/"><u>Swift iPhone Image Restoration – Rescue Your Lost Memories with Our Top-Notch Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshoot-and-correct-your-binkw32dll-file-absence-issue-easily/"><u>Troubleshoot and Correct Your Binkw32.dll File Absence Issue Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-the-problem-of-your-ps5-dualsense-not-charging/"><u>Troubleshooting Tips: Solving the Problem of Your PS5 DualSense Not Charging</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-how-to-fix-blue-screen-of-death-bsod-error-in-windows-1111-tutorial/"><u>Video - How to Fix Blue Screen of Death [BSOD] Error in Windows 11/11 (Tutorial)</u></a></li>
 </ul></div>
 

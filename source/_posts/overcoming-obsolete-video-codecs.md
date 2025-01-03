@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obsolete Video Codecs
-date: 2024-12-22T20:11:22.138Z
-updated: 2024-12-24T21:22:14.781Z
+date: 2024-12-27T21:58:41.781Z
+updated: 2025-01-03T10:48:06.868Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Obsolete Video Codecs
@@ -59,10 +59,6 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -111,6 +107,10 @@ _Figure: Mac suggests installed apps to open video_
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -122,10 +122,6 @@ _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Convert the video file format
 
  If you don’t want to install a new codec or codec pack, there is another option.
@@ -135,6 +131,10 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -156,12 +156,16 @@ _Figure: Video profile options in VLC Player_
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -189,7 +193,7 @@ _Figure: Preview video after repair_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Wrapping up**
@@ -199,10 +203,6 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,21 +231,20 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/hortcut-to-success-the-top-5-youtube-link-trimming-apps-for-2024/"><u>[New] Shortcut to Success The Top 5 YouTube Link Trimming Apps for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-prime-data-keepers-expert-top-10-selections/"><u>2024 Approved Prime Data Keepers Expert Top 10 Selections</u></a></li>
-<li><a href="https://win-studio.techidaily.com/7-strategien-zur-sichtbarmachung-versteckter-dateien-in-verzeichnissen-auf-windows-1087-seo-optimiert/"><u>7 Strategien Zur Sichtbarmachung Versteckter Dateien in Verzeichnissen Auf Windows 10/8/7 - SEO-Optimiert</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-huawei-nova-y91-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Huawei Nova Y91 Phone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/advanced-video-breakdown-what-now/"><u>Advanced Video Breakdown: What Now?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/authentic-reviews-the-mac-customer-voice/"><u>Authentic Reviews: The Mac Customer Voice</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-fix-choppy-or-jerky-videos/"><u>How to Fix Choppy or Jerky Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-quickening-instagram-video-streams-on-mobile-devices/"><u>In 2024, Quickening Instagram Video Streams on Mobile Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/inconsistent-stellar-video-editing-results/"><u>Inconsistent Stellar Video Editing Results</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/intuitive-ui-and-improved-data-retrieval-stellars-12v-update-revealed/"><u>Intuitive UI & Improved Data Retrieval: Stellar's 12v Update Revealed</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/macos-fix-trash-empty-failure-case/"><u>MacOS: Fix Trash Empty Failure Case</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/peak-posts-on-reddit-honoring-10-highly-engaging-threads/"><u>Peak Posts on Reddit Honoring 10 Highly Engaging Threads</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-youtube-audio-issues-fixing-the-audio-renderer-glitch-in-windows-11/"><u>Resolving YouTube Audio Issues: Fixing the Audio Renderer Glitch in Windows 11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-ultimate-guide-to-playful-videos/"><u>The Ultimate Guide to Playful Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-loading-issues-for-smooth-start-of-football-manager-2021/"><u>Troubleshooting Loading Issues for Smooth Start of Football Manager 2021</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discover-the-secret-to-turning-iphone-pics-around-for-2024/"><u>[New] Discover the Secret to Turning iPhone Pics Around for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-upside-down-and-sideways-iphone-photos/"><u>[New] Mastering Upside-Down and Sideways iPhone Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-cataloging-fb-video-ratios/"><u>[Updated] 2024 Approved Cataloging FB Video Ratios</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/auto-translate-youtube-videos-into-different-languages/"><u>Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-on-netgears-c3000-model-the-classic-router-and-modem-in-question/"><u>In-Depth Analysis on Netgear's C3000 Model: The Classic Router and Modem in Question</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mac-user-filmed-endorsements/"><u>Mac User-Filmed Endorsements</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mp4-and-avi-recovery-techniques-using-the-power-of-vlc-player-software/"><u>MP4 and AVI Recovery Techniques Using the Power of VLC Player Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/onlineoffline-animation-revolution-with-zero-price-tag-for-2024/"><u>Online/Offline Animation Revolution with Zero Price Tag for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restorehub-for-corrupt-vids/"><u>RestoreHub for Corrupt Vids</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/space-data-refresh-the-sql-guidebook/"><u>Space Data Refresh: The SQL Guidebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/supreme-boundless-data-depot/"><u>Supreme Boundless Data Depot</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/systematic-methods-for-restoring-clips/"><u>Systematic Methods for Restoring Clips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-screen-distortion-after-win10-upgrade/"><u>Troubleshooting Screen Distortion After Win10 Upgrade</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-professional-techniques-how-to-refine-your-published-videos-on-youtube-for-2024/"><u>Unveiling Professional Techniques How to Refine Your Published Videos on YouTube for 2024</u></a></li>
 </ul></div>
 
