@@ -1,7 +1,7 @@
 ---
 title: Halt Video Lag with a Simple Fix (VLC)
-date: 2024-12-12T18:50:24.356Z
-updated: 2024-12-16T01:15:15.662Z
+date: 2025-01-08T04:00:52.945Z
+updated: 2025-01-10T07:01:25.306Z
 categories:
   - repair-tools
 description: This Article Describes Halt Video Lag with a Simple Fix (VLC)
@@ -45,15 +45,15 @@ Table of Content
 
  You can apply the solutions here to play high-quality HD/ UHD/ HDR, 8k, or H.265 videos of any size and file format.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Method 1: Update VLC Media Player to the latest version**
 
  If your videos freeze, stutter, or are not playing in VLC Media Player, first update the player to the latest version. The updates improve support for new HD codecs, advanced formats, HDR, H.265/HEVC, 4K & 8K playback, 360-degree videos, VP9 (HD videos at lower bitrates), and others for decoding and encoding. It also fixes streaming issues and bugs, if any.
 
 **Also read:** [How to open HEIC, HEVC files on Windows 10](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 2: Increase cache values in VLC Player**
 
@@ -76,7 +76,7 @@ _Figure: Input/Codecs pane in VLC_
 * Click**Save.** Next, restart VLC Player and check if the videos are playing properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 3: Disable Hardware Decoding in VLC Player**
@@ -96,6 +96,10 @@ _Figure: Input/Codecs pane in VLC_
 * Under**FFmpeg audio/video decoder** , scroll down to**Hardware decoding** and set it to**Disable** .
 * Click **Save** . Restart VLC Payer to enable the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 4: Change FFmpeg settings in VLC Player**
 
  Making changes in the FFmpeg video codec in VLC Player has worked for some. You can also try to resolve video stuttering and freezing with this technique.
@@ -113,7 +117,7 @@ _Figure: Input/Codecs pane in VLC_
 * Click**Save** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 5: Switch video output to DirectX DirectDraw in VLC**
@@ -146,6 +150,10 @@ _Figure: Video output modules in VLC_
 * Click on**Save** at the bottom**.**
 * Check if VLC Player can play your videos without freeze or interruption.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 6: Repair your video using Stellar Repair for Video**
 
  The video file may be corrupt if the above methods using VLC Media Player don’t fix video freeze, lag, or stuttering issues. To confirm corruption, see if your video freezes while playing in another media player.
@@ -168,10 +176,6 @@ _Figure: Video output modules in VLC_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
  Here we have recommended changing the settings of VLC Media Player to fix video freezing or lag using the below methods:
@@ -185,10 +189,6 @@ _Figure: Video output modules in VLC_
  If changing the VLC settings doesn’t work, your file may be corrupt. Repair it using an advanced video repair software — Stellar Repair for Video that fixes corrupt header, data, frames, slider movement, etc., in videos.
 
  I hope you found this helpful. Do share with our readers which method helped you fix Video Stuck or Freeze in the VLC player issue in the comment box below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -217,18 +217,17 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-top-12-tycoon-games-worthy-of-every-business-strategists-time/"><u>[New] In 2024, The Top 12 Tycoon Games Worthy of Every Business Strategist's Time</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-podcast-editing-with-garageband-a-step-by-step-guide/"><u>[New] Mastering Podcast Editing with GarageBand A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-building-blocks-of-a-well-structured-youtube-video-for-2024/"><u>[Updated] Building Blocks of a Well-Structured YouTube Video for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-business-beginnings-easier-than-ever-top-10-youtube-channel-ideas/"><u>2024 Approved Business Beginnings Easier Than Ever Top 10 YouTube Channel Ideas</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplified-avi-to-gif-editing-with-filmora-on-windows-and-macos-platforms/"><u>2024 Approved Simplified AVI to GIF Editing with Filmora on Windows & macOS Platforms</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/cerebral-quests-the-ultimate-list-of-escape-rooms/"><u>Cerebral Quests The Ultimate List of Escape Rooms</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/digital-doctor-for-distorted-images/"><u>Digital Doctor for Distorted Images</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/digital-recovery-renewing-video-files/"><u>Digital Recovery: Renewing Video Files</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expedite-synchronization-in-media-apps-like-vlc/"><u>Expedite Synchronization in Media Apps Like VLC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-g-pro-mechanical-keyboard-firmware-update-get-the-newest-version-for-pc/"><u>Logitech G Pro Mechanical Keyboard Firmware Update: Get the Newest Version for PC</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/precision-tips-addressing-every-stream-issue/"><u>Precision Tips: Addressing Every Stream Issue</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-exchange-functionality-a-success-story/"><u>Restoring Exchange Functionality: A Success Story</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tips-for-enjoying-authentic-budget-friendly-meals-such-as-visiting-local-markets-and-avoiding-tourist-traps/"><u>Tips for Enjoying Authentic, Budget-Friendly Meals Such as Visiting Local Markets and Avoiding Tourist Traps.</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-free-windows-10-recorder-tools-a-comprehensive-updated-guide/"><u>[New] In 2024, Free Windows 10 Recorder Tools A Comprehensive, Updated Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-exploring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube-for-2024/"><u>[Updated] Exploring How TSeries Harnesses Revenue From Online Viewer Base (YouTube) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-create-a-sports-youtube-channel-on-mac/"><u>[Updated] How to Create a Sports YouTube Channel on Mac?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-revive-the-past-best-ps1-emulation-software-for-modern-systems-for-2024/"><u>[Updated] Revive the Past Best PS1 Emulation Software for Modern Systems for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-site-with-cutting-edge-cookiebot-technology/"><u>Boost Your Site with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/illuminating-troubleshooting-techniques-for-the-mysterious-black-screen-of-windows-11/"><u>Illuminating Troubleshooting Techniques for the Mysterious Black Screen of Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/learn-to-format-a-macs-drive-quickly-our-step-by-step-tutorial/"><u>Learn to Format a Mac's Drive Quickly - Our Step-by-Step Tutorial</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/maximizing-external-hd-connectivity-in-apple-devices/"><u>Maximizing External HD Connectivity in Apple Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-filmmakers-voice-how-to-raise-your-pitch-for-impact-using-filmora-for-2024/"><u>The Filmmakers Voice How to Raise Your Pitch for Impact Using Filmora for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gaming-experience-with-a-dual-boot-system/"><u>Transform Your Gaming Experience with a Dual-Boot System</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-disrupted-m4v-file-functionality/"><u>Troubleshooting Disrupted M4V File Functionality</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/videosaverx-heal-damaged-files/"><u>VideoSaverX: Heal Damaged Files</u></a></li>
 </ul></div>
 

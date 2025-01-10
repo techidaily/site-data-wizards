@@ -1,7 +1,7 @@
 ---
 title: Tips to Revise Unsupported Media
-date: 2024-12-30T11:07:25.540Z
-updated: 2025-01-03T08:47:33.654Z
+date: 2025-01-07T02:04:42.496Z
+updated: 2025-01-09T17:23:36.828Z
 categories:
   - repair-tools
 description: This Article Describes Tips to Revise Unsupported Media
@@ -49,6 +49,10 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -66,6 +70,10 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -97,10 +105,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -110,6 +114,10 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -147,21 +155,21 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -188,10 +196,6 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -199,10 +203,6 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,17 +231,16 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-transform-images-into-textbooks-photo-text-editor-hacks/"><u>[New] Transform Images Into Textbooks Photo Text Editor Hacks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-shave-seconds-off-your-youtube-video-submission/"><u>[Updated] How to Shave Seconds Off Your YouTube Video Submission</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-setup-and-evaluate-facebook-instream-ads/"><u>[Updated] In 2024, How to Setup and Evaluate Facebook Instream Ads?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-unveiling-the-future-how-apple-could-outshine-competitors-at-wwdc-2024-insights/"><u>1. Unveiling the Future: How Apple Could Outshine Competitors at WWDC 2024 - Insights</u></a></li>
-<li><a href="https://win-dash.techidaily.com/creating-videos-from-photos-with-three-top-app-choices/"><u>Creating Videos From Photos with Three Top App Choices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhancing-video-frame-rates/"><u>Enhancing Video Frame Rates</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/guidelines-on-fixing-broken-nikon-video-data/"><u>Guidelines on Fixing Broken Nikon Video Data</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oneplus-nord-n30-se-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on OnePlus Nord N30 SE? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-fix-kernel-panic-on-mac/"><u>How to Fix Kernel Panic on Mac?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-azures-transcription-service/"><u>Mastering Azure's Transcription Service</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/premier-remote-video-enhancement-services/"><u>Premier Remote Video Enhancement Services</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-watch-next-disneypluss-hottest-movies-of-the-moment/"><u>What to Watch Next: Disney+'s Hottest Movies of the Moment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-dreams-on-screen-the-best-motivational-movies/"><u>[New] Crafting Dreams on Screen The Best Motivational Movies</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-migrating-media-from-android-to-iphone/"><u>[New] In 2024, Migrating Media From Android to iPhone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-asmr-app-selection-guide-for-phones-for-2024/"><u>[Updated] ASMR App Selection Guide for Phones for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-highest-achievers-in-the-realm-of-reddit-posts-for-2024/"><u>[Updated] Highest Achievers in the Realm of Reddit Posts for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pixelpilot-studio-direct-access-screen-recorder-for-2024/"><u>[Updated] PixelPilot Studio Direct-Access Screen Recorder for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-battle-for-ephemeral-content-youtube-shorts-versus-tiktok/"><u>[Updated] The Ultimate Battle for Ephemeral Content YouTube Shorts Versus TikTok</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-abnormal-android-video-display/"><u>Fix Abnormal Android Video Display</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/innovating-photography-with-stellars-new-recovery-solution/"><u>Innovating Photography with Stellar's New Recovery Solution</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-the-art-of-bsod-resolution-on-windows-10plus/"><u>Master the Art of BSOD Resolution on Windows 10+</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-battlefield-2042-pc-game-crashes-a-comprehensive-guide/"><u>Preventing Battlefield 2042 PC Game Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/renewing-degraded-video-clip-formats-using-qt-interface/"><u>Renewing Degraded Video Clip Formats Using QT Interface</u></a></li>
 </ul></div>
 

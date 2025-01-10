@@ -1,7 +1,7 @@
 ---
 title: Methods to Deal with Restricted Codecs
-date: 2025-01-01T00:28:25.507Z
-updated: 2025-01-03T10:58:58.575Z
+date: 2025-01-07T00:16:50.947Z
+updated: 2025-01-09T22:22:14.347Z
 categories:
   - repair-tools
 description: This Article Describes Methods to Deal with Restricted Codecs
@@ -49,10 +49,6 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -89,6 +85,10 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -101,6 +101,10 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -110,10 +114,6 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -136,6 +136,10 @@ _Figure: VLC message when new version is available._
 
  The open source VLC Media Player can also convert video files to different format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -154,10 +158,6 @@ _Figure: Video profile options in VLC Player_
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
@@ -189,7 +189,7 @@ _Figure: Preview video after repair_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Wrapping up**
@@ -201,7 +201,7 @@ _Figure: Preview video after repair_
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -231,22 +231,24 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-3-techniques-to-retrieve-and-save-youtubes-iconic-images/"><u>[New] 3 Techniques to Retrieve & Save YouTube's Iconic Images</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-filters-through-windows-10-photos-extracting-picture-moments-for-2024/"><u>[New] Filters Through Windows 10 Photos Extracting Picture Moments for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-web-humor-fabricator/"><u>[New] Web Humor Fabricator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-here-is-how-asmr-helps-with-sleep-and-best-asmrtist-recommendation/"><u>[Updated] Here Is How ASMR Helps with Sleep & Best ASMRtist Recommendation</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-shining-a-light-on-phony-connections-in-facebook-marketing-for-2024/"><u>[Updated] Shining a Light on Phony Connections in Facebook Marketing for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fix-it-guide-no-more-distorted-screens/"><u>Fix-It Guide: No More Distorted Screens</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/garys-endorsement-top-rated-stellar-repairs-for-ms-sql-systems/"><u>Gary's Endorsement: Top-Rated Stellar Repairs for MS SQL Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-facile-pour-gerer-et-reparer-la-compatibilite-hevc-sous-les-systemes-dexploitation-windows-varies/"><u>Guide Facile Pour Gérer Et Réparer La Compatibilité HEVC Sous Les Systèmes D'Exploitation Windows Variés</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-the-stopped-window-lock-screen-countdown/"><u>Rectifying the Stopped Window Lock Screen Countdown</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revive-your-tapes-stellar-phoenix-for-flawless-fixes-on-mac/"><u>Revive Your Tapes: 'Stellar Phoenix' For Flawless Fixes on Mac</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/starborne-solutions-sql-anywhere-recovery/"><u>Starborne Solutions: SQL Anywhere Recovery</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-archivist-totans-guide-to-lost-data-salvation/"><u>Stellar Archivist: Totan's Guide to Lost Data Salvation</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unchain-your-data-with-free-stellar-recovery/"><u>Unchain Your Data with Free Stellar Recovery</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/upgraded-backup-for-everyday-users-with-stellars-new-tools/"><u>Upgraded Backup for Everyday Users with Stellar's New Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/viral-talent-quest-episodes-1-10-for-2024/"><u>Viral Talent Quest Episodes #1-10 for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/voices-for-verification-consumer-reviews-in-motion/"><u>Voices for Verification: Consumer Reviews in Motion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube/"><u>[New] In 2024, Enjoy a Stream of Nine Complete Christmas Capsules on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-cut-to-perfection-advanced-guide-to-cropping-videos-for-instagram/"><u>[Updated] In 2024, Cut to Perfection Advanced Guide to Cropping Videos for Instagram</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/3-ways-to-repair-corrupt-mov-m4v-or-mp4-video-files-on-mac/"><u>3 Ways to Repair Corrupt MOV, M4V, or MP4 Video Files on Mac？</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/addressing-instagram-reel-oversight/"><u>Addressing: Instagram Reel Oversight</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/analyzing-motorola-edgepluss-performance-lackluster-flagship-features-explored/"><u>Analyzing Motorola Edge+'s Performance: Lackluster Flagship Features Explored</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/crisis-averted-handling-macos-kernel-panic/"><u>Crisis Averted: Handling MacOS Kernel Panic</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diagnosing-vram-failures/"><u>Diagnosing VRAM Failures</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/digital-retrieval-reviving-lost-camera-images/"><u>Digital Retrieval: Reviving Lost Camera Images</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/easy-tips-to-prevent-video-corruption/"><u>Easy Tips to Prevent Video Corruption</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eliminate-video-issues-fast-fix-the-top-20-problems/"><u>Eliminate Video Issues Fast: Fix the Top 20 Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolution-tactics-restarting-your-computer-after-critical-failures/"><u>Error Resolution Tactics: Restarting Your Computer After Critical Failures</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-tips-for-live-exchange-migration-of-recovered-edb-files-educational-video-series/"><u>Expert Tips for Live Exchange Migration of Recovered EDB Files - Educational Video Series</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720669299489-inadequate-video-editing-results-from-stellar-tools/"><u>Inadequate Video Editing Results From Stellar Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-s18-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo S18? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-the-transformation-of-pal-dvds-to-ntsc-standard-via-handbrake-a-comprehensive-tutorial/"><u>Mastering the Transformation of PAL DVDs to NTSC Standard via HandBrake - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-windows-with-these-5-firewall-adjustments/"><u>Secure Windows with These 5 Firewall Adjustments</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-power-of-persuasion-how-to-boost-instagram-post-reach-for-2024/"><u>The Power of Persuasion How to Boost Instagram Post Reach for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-saving-made-easy-a-step-by-step-fcp-project-guide/"><u>Updated 2024 Approved Saving Made Easy A Step-by-Step FCP Project Guide</u></a></li>
 </ul></div>
 
