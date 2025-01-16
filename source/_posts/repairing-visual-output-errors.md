@@ -1,7 +1,7 @@
 ---
 title: Repairing Visual Output Errors
-date: 2025-01-09T00:27:24.325Z
-updated: 2025-01-10T07:26:55.965Z
+date: 2025-01-08T19:31:17.545Z
+updated: 2025-01-15T16:21:08.610Z
 categories:
   - repair-tools
 description: This Article Describes Repairing Visual Output Errors
@@ -49,13 +49,13 @@ Table of Content
 
 ![Video glitches due to graphic card problem](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/distrted.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Figure: Video glitches due to graphic card problem
 
 ![Random colored patterns on screen](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/colored.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Figure: Random colored patterns on the screen
 
@@ -76,13 +76,13 @@ Table of Content
 
 [How to fix ‘Video not playing’ issues](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Physical checks before troubleshooting video card problems**
 
  A graphics card is not always the cause of video problems; sometimes, the problems are caused due to other hardware-related aspects, as follows:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **1\. Loose connection:**
 
@@ -92,13 +92,13 @@ Table of Content
 
  The problem might be due to a faulty PCI card slot. Insert your external graphics card in a different slot and see if this resolves the problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **3\. Check the PC monitor:**
 
  Video display problems could be monitor-related issues instead of the graphics card. Replacing the monitor may fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **4\. Test another graphics card:**
 
@@ -108,25 +108,21 @@ Table of Content
 
  Is the computer crashing only while playing games? It may be due to the sound hardware. To check this possibility, disable the sound hardware temporarily via**Device Manager** on your PC. If your computer doesn’t crash now, it’s a sound system issue. Download sound card drivers from the manufacturer’s website.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **6\. Check the ‘Device Status’ of your graphic card:**
 
  Go to**Device Manager> Display adapters** . Right-click on your graphic card and click**Properties** . See the**Device Status** If it shows a video card error like Code 43 or Code 12, it indicates a video card problem. Follow the given troubleshooting methods to fix the video card error.
 
 ![Device Status of Graphics card showing Code 43](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/vv.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Figure: Device Status of Graphics card showing Code 43
 
  If your videos are not playing and the**Device Status** of your graphic card reads –_‘The device is working properly,’_ the video might be corrupt.**In this case, you would need software like** Stellar Repair for Video, which can repair visual and sound corruption in damaged videos. The software fixes video glitches, stuttering, missing sound, video lag, and other problems.
 
 ![Device Status of Graphic card showing ‘device working’](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/ww.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Figure: Device Status of Graphic card showing ‘device working’
 
@@ -174,7 +170,7 @@ To disable video card drives, follow the below steps:
 ![enable the graphics card](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/Screenshot-61.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, enable the graphics card again by visiting the**Device Manager** on your PC or laptop and following these steps:
@@ -211,15 +207,15 @@ To uninstall the driver, follow the below steps:
 
  If the motherboard or the dedicated graphic card is damaged due to overheating, you would need to replace them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5\. Replace your video card**
 
  Buying a new video card is the only option when the existing card is damaged due to overheating or overclocking or has become outdated. If you are using an integrated video card, replace the whole motherboard.
 
  Before buying, consider the specific use of graphics cards. Gamers or video editing professionals need a more powerful GPU to process intense graphics.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **To Sum Up**
 
@@ -242,12 +238,16 @@ To uninstall the driver, follow the below steps:
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 About The Author
 
 ![](https://secure.gravatar.com/avatar/574139bee03ec4bdb0cd6e869a4670da?s=85&d=mm&r=g)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
@@ -268,16 +268,19 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-affordable-wide-angle-vr-cameras-for-filmmaking/"><u>[New] Affordable Wide-Angle VR Cameras for Filmmaking</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-advanced-techniques-in-developing-compelling-customer-success-narratives/"><u>[Updated] Advanced Techniques in Developing Compelling Customer Success Narratives</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-unrestricted-data-saver-solutions/"><u>[Updated] In 2024, Top Unrestricted Data Saver Solutions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720670531729-best-ways-to-fix-all-video-streaming-issues/"><u>Best Ways to Fix All Video Streaming Issues</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhancing-video-file-performance/"><u>Enhancing Video File Performance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/perfect-fix-for-corrupted-dvds-discover-leading-techniques-to-salvage-your-damaged-media-collection/"><u>Perfect Fix for Corrupted DVDs: Discover Leading Techniques to Salvage Your Damaged Media Collection</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720669305070-some-files-uncorrected-by-video-software/"><u>Some Files Uncorrected by Video Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-strategies-to-eliminate-lag-in-fallout-4/"><u>Top Strategies to Eliminate Lag in Fallout 4</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720671133776-ultimate-list-of-windowsmacos-video-fixing-programs-find-the-perfect-one/"><u>Ultimate List of Windows/macOS Video Fixing Programs - Find the Perfect One!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unveiling-the-process-precision-recording-of-roblox-adventures-on-apple-devices-for-2024/"><u>Unveiling the Process Precision Recording of Roblox Adventures on Apple Devices for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-vegaspro-the-19-edition/"><u>Unveiling VegasPro The '19 Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-bridge-between-platforms-sharing-facebook-videos-on-whatsapp-for-2024/"><u>[New] Bridge Between Platforms Sharing Facebook Videos on WhatsApp for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-efficient-obs-adjustments-on-cost-effective-computers/"><u>[New] In 2024, Efficient OBS Adjustments on Cost-Effective Computers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-maximizing-productivity-with-auditory-storytelling/"><u>[New] Maximizing Productivity with Auditory Storytelling</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-visionaries-mastering-the-art-of-multimedia-synthesis/"><u>[Updated] Visionaries Mastering the Art of Multimedia Synthesis</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1-accesso-gratuitamente-ottenere-i-tuoi-file-dalla-tua-memoria-sd-senza-riformattazione-con-8-metodi-efficaci/"><u>1. Accesso Gratuitamente: Ottenere I Tuoi File Dalla Tua Memoria SD Senza Riformattazione Con 8 Metodi Efficaci</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/customized-web-interactions-powered-by-cookiebot/"><u>Customized Web Interactions Powered by Cookiebot</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-xbox-audio-with-windows-support/"><u>Enhancing Xbox Audio with Windows' Support</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-7-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone 7 Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macdatarescue-roundup-discovering-8-top-rated-apps/"><u>MacDataRescue Roundup: Discovering 8 Top-Rated Apps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resource-allocation-mastery/"><u>Resource Allocation Mastery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solutions-for-non-compatible-video-format/"><u>Solutions for Non-Compatible Video Format</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-best-10-software-solutions-to-repair-videos-on-your-computer-or-mac/"><u>The Best 10 Software Solutions to Repair Videos on Your Computer or Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720671051513-transform-your-media-with-grau-gmbhs-elite-video-repair-software-perfect-for-both-novices-and-tech-gurus/"><u>Transform Your Media with Grau GmbH's Elite Video Repair Software – Perfect for Both Novices and Tech Gurus</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/why-do-my-videos-show-varied-repair-quality/"><u>Why Do My Videos Show Varied Repair Quality?</u></a></li>
 </ul></div>
 
