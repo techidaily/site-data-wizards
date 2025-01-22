@@ -1,7 +1,7 @@
 ---
 title: Tips to Revise Unsupported Media
-date: 2025-01-15T02:42:37.965Z
-updated: 2025-01-16T01:25:25.160Z
+date: 2025-01-18T20:57:30.323Z
+updated: 2025-01-22T04:30:33.886Z
 categories:
   - repair-tools
 description: This Article Describes Tips to Revise Unsupported Media
@@ -49,6 +49,10 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -85,6 +89,10 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -97,10 +105,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -112,7 +116,7 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
@@ -136,10 +140,6 @@ _Figure: VLC message when new version is available._
 
  The open source VLC Media Player can also convert video files to different format.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
 * Go to **Media.**
@@ -160,7 +160,7 @@ _Figure: Video profile options in VLC Player_
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
@@ -193,7 +193,7 @@ _Figure: Preview video after repair_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Wrapping up**
@@ -231,14 +231,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unveiling-audible-tweets-within-social-media-videos/"><u>[New] 2024 Approved Unveiling Audible Tweets Within Social Media Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-techniques-for-depicting-realism-in-docuscripts/"><u>[Updated] Techniques for Depicting Realism in Docuscripts</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/effective-utilization/"><u>Effective Utilization</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/efficient-strategies-for-mending-h265-files/"><u>Efficient Strategies for Mending H.265 Files</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/error-message-resolution-224003-fix/"><u>Error Message Resolution: 224003 Fix</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-depths-of-toms-tech-domain-latest-trends-in-computing-equipment/"><u>Navigating the Depths of Tom's Tech Domain: Latest Trends in Computing Equipment</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-realme-11-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Realme 11 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-adding-subtitles-to-your-insta-stories/"><u>Step-by-Step Guide: Adding Subtitles to Your Insta Stories</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720672582068-underlying-issues-with-video-editing-tool-performance/"><u>Underlying Issues with Video Editing Tool Performance</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ideo-creation-journey-from-adobe-premiere-to-youtube-for-2024/"><u>[New] Video Creation Journey From Adobe Premiere to YouTube for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-windows-10-essential-tips-for-video-editing-enthusiasts/"><u>[New] Windows 10 Essential Tips for Video Editing Enthusiasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-strengthen-your-content-identity-inserting-watermarklogo-in-videos/"><u>[Updated] Strengthen Your Content Identity Inserting Watermark/Logo in Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/blue-screen-downfall-turn-it-around-with-these-tips/"><u>Blue Screen Downfall? Turn It Around with These Tips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/bypassing-encryption-barriers-with-stellars-groundbreaking-method/"><u>Bypassing Encryption Barriers with Stellar's Groundbreaking Method</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-intel-chipset-drivers-start-now/"><u>Easy Installation of Intel Chipset Drivers - Start Now</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-video-to-animation-easy-youtube-gif-creation-tips/"><u>From Video to Animation Easy YouTube GIF Creation Tips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guardian-tips-for-flawless-video-formats/"><u>Guardian Tips for Flawless Video Formats</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-itel-a05smirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Itel A05sMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/innovating-backup-solutions-stellars-new-user-interface/"><u>Innovating Backup Solutions: Stellar's New User Interface</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/maximize-mac-data-a-deep-dive-into-the-best-recovery-software/"><u>Maximize Mac Data: A Deep Dive Into the Best Recovery Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/outage-mitigation-exchange-case-study-insights/"><u>Outage Mitigation: Exchange Case Study Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-unnecessary-batch-jobs/"><u>Reducing Unnecessary Batch Jobs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-4-ways-to-fix-flashing-folder-with-question-mark-on-macbook/"><u>Video - 4 Ways to Fix Flashing Folder With Question Mark on Macbook</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-reconcizer-high-definition-harmonization/"><u>Video Reconcizer: High-Definition Harmonization</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tighten Timing in Video Playback on VLC
-date: 2025-01-14T23:57:30.265Z
-updated: 2025-01-15T17:53:43.439Z
+date: 2025-01-21T05:52:18.763Z
+updated: 2025-01-22T03:02:12.794Z
 categories:
   - repair-tools
 description: This Article Describes Tighten Timing in Video Playback on VLC
@@ -38,7 +38,7 @@ Table of Content
  If you’re also experiencing such issues, see the methods shared below to fix audio-video sync issues in VLC Media Player on Windows, Mac, and Android devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **How to fix out-of-sync audio on VLC Player?**
@@ -51,7 +51,7 @@ Table of Content
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
@@ -65,6 +65,10 @@ _Figure: Audio delay message in VLC_
  If you are a Mac user, press the ‘G’ key to slow down the audio and the ‘F’ key to increase the audio speed.
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
@@ -80,10 +84,6 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -125,7 +125,7 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
@@ -155,7 +155,7 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -201,17 +201,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/valuating-the-financial-returns-for-makers-on-youtube-shorts/"><u>[New] Evaluating the Financial Returns for Maker's on YouTube Shorts</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/effective-techniques-to-rectify-video-file-errors/"><u>Effective Techniques to Rectify Video File Errors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-photo-edits-guide-for-the-novice-photographer/"><u>Essential Photo Edits Guide for the Novice Photographer</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/from-empty-to-full-memory-card-revival-success-story-by-customer/"><u>From Empty to Full: Memory Card Revival Success Story by Customer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-tech-on-sale-apples-m2-macbook-air-awaits-at-an-irresistible-price-of-749-this-october-for-amazon-prime-shoppers-zdnet/"><u>Get the Latest Tech on Sale: Apple's M2 MacBook Air Awaits at an Irresistible Price of $749 This October for Amazon Prime Shoppers | ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/grand-revelations-in-cinema-trailers/"><u>Grand Revelations in Cinema Trailers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-personal-evolution-building-an-enduring-youtubing-identity/"><u>In 2024, Personal Evolution Building an Enduring YouTubing Identity</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/motioncure-heal-your-media-files/"><u>MotionCure: Heal Your Media Files</u></a></li>
-<li><a href="https://article-tips.techidaily.com/portable-cinematic-vibration-reliever-kit/"><u>Portable Cinematic Vibration Reliever Kit</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720673556520-stellars-handy-collection-of-software-hacks-and-tutorial-pieces-just-for-you/"><u>Stellar's Handy Collection of Software Hacks and Tutorial Pieces Just for You!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tecnicas-avanzadas-para-mejorar-videos-oscuros-en-2024-dos-metodos-innovadores/"><u>Técnicas Avanzadas Para Mejorar Videos Oscuros en 2024 - Dos Métodos Innovadores</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/universal-backup-repository-guide/"><u>Universal Backup Repository Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-audio-enhancement-for-online-video-creators/"><u>[Updated] 2024 Approved Audio Enhancement for Online Video Creators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-easing-into-cinematic-scene-for-2024/"><u>[Updated] Easing Into Cinematic Scene for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-scaling-success-the-tactics-for-increasing-youtube-audiences/"><u>2024 Approved Scaling Success The Tactics for Increasing YouTube Audiences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-battlenet-downloads-top-strategies-for-faster-speeds/"><u>Boost Your Battlenet Downloads: Top Strategies for Faster Speeds</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dealing-with-older-generations-of-usb-composite-devices-identifying-and-fixing-problems/"><u>Dealing With Older Generations of USB Composite Devices: Identifying and Fixing Problems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elite-7-drone-gimbal-selections/"><u>Elite 7 Drone Gimbal Selections</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-silence-to-signal-hard-drive-recovery-story/"><u>From Silence to Signal: Hard Drive Recovery Story</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guide-transferring-mailbox-data-from-restored-edb-files-to-active-exchange-servers-via-video-tutorial/"><u>Guide: Transferring Mailbox Data From Restored EDB Files to Active Exchange Servers via Video Tutorial</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rapid-purchase-extraterrestrial-picture-upgrade/"><u>Rapid Purchase: Extraterrestrial Picture Upgrade</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-memories-stellar-launches-photo-restoration-tech/"><u>Reviving Memories: Stellar Launches Photo Restoration Tech</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-renders-apple-movs-flawlessly-mendable/"><u>Stellar Renders Apple MOVs Flawlessly Mendable</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-triumphs-over-dormant-hdd-challenges/"><u>Stellar Triumphs Over Dormant HDD Challenges</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-upgrading-your-pc-to-windows-11/"><u>Step-by-Step Guide: Upgrading Your PC to Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/steps-to-amend-faulty-avi-and-other-video-types/"><u>Steps to Amend Faulty AVI and Other VIDEO Types</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/strategies-to-prevent-stalled-recordings/"><u>Strategies to Prevent Stalled Recordings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unlicensed-yet-lawful-music-repositories-games/"><u>Unlicensed, Yet Lawful Music Repositories (Games)</u></a></li>
 </ul></div>
 

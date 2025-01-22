@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obsolete Video Codecs
-date: 2025-01-09T23:26:39.621Z
-updated: 2025-01-15T22:55:08.042Z
+date: 2025-01-18T03:53:47.681Z
+updated: 2025-01-21T18:44:05.450Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Obsolete Video Codecs
@@ -49,10 +49,6 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -64,7 +60,7 @@ _An error occurred. Unsupported file format.’_
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix an unsupported video codec error?
@@ -74,6 +70,10 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -93,6 +93,10 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -104,10 +108,6 @@ _Figure: Mac suggests installed apps to open video_
  However, be aware that there may be malicious ads for codec downloads. This can put your computer at risk. Make sure you download codecs from a trusted source, preferably from the manufacturer’s site.
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
@@ -129,10 +129,6 @@ _Figure: Check for Updates in VLC_
 _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
 
@@ -163,12 +159,16 @@ _Figure: Video profile options in VLC Player_
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
@@ -231,22 +231,17 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-cinematic-clips-reviewed-best-in-the-business/"><u>[New] In 2024, Cinematic Clips Reviewed Best in the Business</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-complete-blueprint-record-whatsapp-conversations-effectively-for-2024/"><u>[New] The Complete Blueprint Record WhatsApp Conversations Effectively for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-craft-the-ultimate-outro-with-pro-maker-advice-for-2024/"><u>[Updated] Craft the Ultimate Outro with Pro Maker Advice for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-tailor-the-rhythm-of-youtube-videos-desktopmobile-way-for-2024/"><u>[Updated] Tailor the Rhythm of YouTube Videos - Desktop/Mobile Way for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-resurrection-for-mac-users-8-software-showdowns/"><u>Data Resurrection for Mac Users - 8 Software Showdowns</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/effortless-recording-of-android-devices-for-all-for-2024/"><u>Effortless Recording of Android Devices for All for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-tips-for-reliable-uninterrupted-viewing/"><u>Expert Tips for Reliable, Uninterrupted Viewing</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-combat-common-video-playback-issues/"><u>How to Combat Common Video Playback Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-mouse-movement-how-to-stop-acceleration/"><u>Master Your Mouse Movement: How to Stop Acceleration</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/optimizing-your-social-media-presence-facebook-linkedin-and-youtube-strategies/"><u>Optimizing Your Social Media Presence: Facebook, LinkedIn & YouTube Strategies</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overcoming-hardcoded-encoding-barriers/"><u>Overcoming Hardcoded Encoding Barriers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-updaterestore-hurdle-fixing-error-4013-efficiently/"><u>Overcoming iPhone Update/Restore Hurdle: Fixing Error 4013 Efficiently</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-visual-integrity-after-windows-11-switch/"><u>Restoring Visual Integrity After Windows 11 Switch</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/streamlining-file-corruption-fixes-on-macbook/"><u>Streamlining File Corruption Fixes on MacBook</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/techniques-for-repairing-damaged-nikon-videos/"><u>Techniques for Repairing Damaged Nikon Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-degrees-elevating-your-youtube-videos-for-2024/"><u>The Art of Degrees Elevating Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g-stylus-5g-2023-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G Stylus 5G (2023) Device</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/oost-your-revenue-yielding-earnings-from-youtube-at-500-followers/"><u>[New] Boost Your Revenue Yielding Earnings From YouTube at 500 Followers</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1728489659402-hddssd/"><u>「限られた予算で大容量HDDから高速SSDへの切り替え:専門家が教える無料ガイド」</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/5-best-360-degree-action-cameras/"><u>5 Best 360-Degree Action Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-exploration-benchmarked-against-enhanced-chatgptplus/"><u>Claude Pro Exploration: Benchmarked Against Enhanced ChatGPT+</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-edge-techniques-for-incorporating-soundtracks-in-youtube-creations-for-2024/"><u>Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-s24plus-why-its-an-excellent-choice-for-consumers/"><u>In-Depth Analysis of the Samsung Galaxy S24+: Why It's an Excellent Choice for Consumers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimizing-playback-seamlessness-in-vlc/"><u>Optimizing Playback Seamlessness in VLC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/outdoor-video-equipment-guide/"><u>Outdoor Video Equipment Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repair-your-videos-with-ease-using-grau-gmbhs-advanced-technology-suite/"><u>Repair Your Videos with Ease Using Grau GmbH's Advanced Technology Suite</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-for-salvaging-compromised-movs-and-mp4s/"><u>Techniques for Salvaging Compromised MOVs & MP4s</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-corrupt-video-extensions-on-oses/"><u>Troubleshooting Corrupt VIDEO Extensions on OSes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unparalleled-support-outstanding-customer-rates/"><u>Unparalleled Support, Outstanding Customer Rates</u></a></li>
 </ul></div>
 
