@@ -1,7 +1,7 @@
 ---
 title: Tips to Revise Unsupported Media
-date: 2025-01-18T20:57:30.323Z
-updated: 2025-01-22T04:30:33.886Z
+date: 2025-01-25T19:22:12.081Z
+updated: 2025-01-29T17:34:10.292Z
 categories:
   - repair-tools
 description: This Article Describes Tips to Revise Unsupported Media
@@ -50,7 +50,7 @@ _An error occurred. Unsupported file format.’_
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does unsupported codec or format error occur?
@@ -71,6 +71,10 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -88,10 +92,6 @@ _An error occurred. Unsupported file format.’_
  If video file gives unsupported codec error on Mac, right-click on the file. Click on**‘Open With’** option. Mac may suggest all the installed apps that can play the video.
 
 _Figure: Mac suggests installed apps to open video_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Download the missing video codecs
 
@@ -116,7 +116,7 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
@@ -129,6 +129,10 @@ _Figure: Check for Updates in VLC_
 _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
 
@@ -155,13 +159,13 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
@@ -191,10 +195,6 @@ _Figure: Repair button in software_
 _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Wrapping up**
 
@@ -231,22 +231,24 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ideo-creation-journey-from-adobe-premiere-to-youtube-for-2024/"><u>[New] Video Creation Journey From Adobe Premiere to YouTube for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-windows-10-essential-tips-for-video-editing-enthusiasts/"><u>[New] Windows 10 Essential Tips for Video Editing Enthusiasts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-strengthen-your-content-identity-inserting-watermarklogo-in-videos/"><u>[Updated] Strengthen Your Content Identity Inserting Watermark/Logo in Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/blue-screen-downfall-turn-it-around-with-these-tips/"><u>Blue Screen Downfall? Turn It Around with These Tips</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/bypassing-encryption-barriers-with-stellars-groundbreaking-method/"><u>Bypassing Encryption Barriers with Stellar's Groundbreaking Method</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-of-intel-chipset-drivers-start-now/"><u>Easy Installation of Intel Chipset Drivers - Start Now</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/from-video-to-animation-easy-youtube-gif-creation-tips/"><u>From Video to Animation Easy YouTube GIF Creation Tips</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/guardian-tips-for-flawless-video-formats/"><u>Guardian Tips for Flawless Video Formats</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-itel-a05smirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Itel A05sMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/innovating-backup-solutions-stellars-new-user-interface/"><u>Innovating Backup Solutions: Stellar's New User Interface</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/maximize-mac-data-a-deep-dive-into-the-best-recovery-software/"><u>Maximize Mac Data: A Deep Dive Into the Best Recovery Software</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/outage-mitigation-exchange-case-study-insights/"><u>Outage Mitigation: Exchange Case Study Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/reducing-unnecessary-batch-jobs/"><u>Reducing Unnecessary Batch Jobs</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-4-ways-to-fix-flashing-folder-with-question-mark-on-macbook/"><u>Video - 4 Ways to Fix Flashing Folder With Question Mark on Macbook</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-reconcizer-high-definition-harmonization/"><u>Video Reconcizer: High-Definition Harmonization</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-perfecting-the-art-of-sound-blending-a-comprehensive-audacity-workshop-series/"><u>[New] In 2024, Perfecting the Art of Sound Blending A Comprehensive Audacity Workshop Series</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-adjustments-correcting-iphone-video-washout-in-premiere-pro/"><u>[New] Precision Adjustments Correcting iPhone Video Washout in Premiere Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-sleep-inducing-series-analyzing-video-bedtime-stories-for-2024/"><u>[New] The Sleep-Inducing Series Analyzing Video Bedtime Stories for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-ordinary-to-extraordinary-transform-your-facebook-profile-with-these-tips/"><u>[Updated] In 2024, From Ordinary to Extraordinary Transform Your Facebook Profile with These Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-hidden-narratives-unlocked-a-complete-snapguide/"><u>[Updated] In 2024, Hidden Narratives Unlocked A Complete Snapguide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/amp-it-up-with-confidence-the-definitive-review-for-the-best-car-jump-starter-m-mock-1000a/"><u>Amp It Up with Confidence: The Definitive Review for the Best Car Jump Starter (M MOCK 1000A)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/concealed-crusaders-conflict-with-clarion-champion-for-2024/"><u>Concealed Crusader's Conflict with Clarion Champion for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gain-permission-for-cameras-in-snapchat-easy-troubleshooting-steps/"><u>Gain Permission for Cameras in Snapchat – Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/improving-file-streaming-quality/"><u>Improving File Streaming Quality</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-analysis-marshall-motif-anc-headphones-user-experience-and-features/"><u>In-Depth Analysis: Marshall Motif ANC Headphones - User Experience & Features</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/perfect-relationship-with-our-support-team-rating-245/"><u>Perfect Relationship with Our Support Team (Rating: 245)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rescuing-damaged-media-from-android-devices/"><u>Rescuing Damaged Media From Android Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reversing-paused-media-interruptions/"><u>Reversing Paused Media Interruptions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-definitive-guide-to-overcoming-frequent-video-problems/"><u>The Definitive Guide to Overcoming Frequent Video Problems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-engineers-approach-to-fixing-video-corruption-h265/"><u>The Engineer's Approach to Fixing Video Corruption (H.265)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-customer-testimonial-data-recovered-from-a-non-responding-hard-drive-with-stellar/"><u>Video - Customer Testimonial: Data Recovered From a Non Responding Hard Drive with Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/whats-next-after-advanced-video-malfunction/"><u>What's Next After Advanced Video Malfunction?</u></a></li>
 </ul></div>
 

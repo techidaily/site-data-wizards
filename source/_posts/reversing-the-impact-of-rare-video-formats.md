@@ -1,7 +1,7 @@
 ---
 title: Reversing the Impact of Rare Video Formats
-date: 2025-01-11T17:44:08.883Z
-updated: 2025-01-16T01:36:50.867Z
+date: 2025-01-22T16:33:33.776Z
+updated: 2025-01-29T17:06:40.735Z
 categories:
   - repair-tools
 description: This Article Describes Reversing the Impact of Rare Video Formats
@@ -68,7 +68,7 @@ _An error occurred. Unsupported file format.’_
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
@@ -88,10 +88,6 @@ _An error occurred. Unsupported file format.’_
  If video file gives unsupported codec error on Mac, right-click on the file. Click on**‘Open With’** option. Mac may suggest all the installed apps that can play the video.
 
 _Figure: Mac suggests installed apps to open video_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Download the missing video codecs
 
@@ -115,10 +111,6 @@ _Figure: Mac suggests installed apps to open video_
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Steps to download codec in VLC Player**
 
 * Open VLC Media Player.
@@ -129,6 +121,10 @@ _Figure: Check for Updates in VLC_
 _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
 
@@ -141,7 +137,7 @@ _Figure: VLC message when new version is available._
  The open source VLC Media Player can also convert video files to different format.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
@@ -166,6 +162,10 @@ _Figure: Video profile options in VLC Player_
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -192,10 +192,6 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -203,6 +199,10 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,18 +231,17 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-ideal-devices-for-capturing-stellar-videos-on-the-move/"><u>[Updated] Ideal Devices for Capturing Stellar Videos on the Move</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-infinix-hot-40-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Infinix Hot 40 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/copyright-clearance-for-creative-uploads-on-tiktok-for-2024/"><u>Copyright Clearance for Creative Uploads on TikTok for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-regain-the-bluetooth-icons-on-your-windows-10-system/"><u>Effective Solutions to Regain the Bluetooth Icons on Your Windows 10 System</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/first-to-successfully-unlock-encrypted-hard-drives-stellars-milestone/"><u>First to Successfully Unlock Encrypted Hard Drives - Stellar's Milestone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-the-kindle-paperwhite-2-enhances-reading-experience-over-the-first-generation/"><u>How the Kindle Paperwhite 2 Enhances Reading Experience Over the First Generation</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-twister-timber-titmice/"><u>In 2024, Twister Timber Titmice</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/interstellar-showcase-prime-productions-plus-stars-praise/"><u>Interstellar Showcase: Prime Productions + Stars' Praise</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/sql-saves-microsofts-tech-hero-damian/"><u>SQL Saves: Microsoft’s Tech Hero, Damian</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-data-resurrection-story/"><u>Stellar's Data Resurrection Story</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-essential-toolkit-insightful-guides-and-handy-diy-tips/"><u>Stellar's Essential Toolkit: Insightful Guides and Handy DIY Tips</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ultimate-pixel-perfectionizer/"><u>Ultimate Pixel Perfectionizer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-artistry-unleashed-advanced-techniques-in-distorted-imagery/"><u>2024 Approved Photo Artistry Unleashed Advanced Techniques in Distorted Imagery</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/best-video-repair-utilities-a-guide-to-top-software-options-for-windows-and-mac/"><u>Best Video Repair Utilities: A Guide to Top Software Options for Windows and Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/decoding-mac-disk-management-visual-tutorial-explanation/"><u>Decoding Mac Disk Management - Visual Tutorial Explanation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-15-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 15 Stuck On Activation Lock?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-seamlessly-migrate-edb-files-to-active-exchange-servers-a-comprehensive-video-walkthrough/"><u>How to Seamlessly Migrate EDB Files to Active Exchange Servers - A Comprehensive Video Walkthrough</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-peak-laughter-edit-suite/"><u>In 2024, Peak Laughter Edit Suite</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-innovators-guide-to-non-intrusive-audio-modulation-in-modern-videos/"><u>New 2024 Approved The Innovators Guide to Non-Intrusive Audio Modulation in Modern Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-lost-treasures-with-stellar-free/"><u>Reviving Lost Treasures with Stellar FREE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-turning-off-microsofts-smartscreen-feature-in-windows-118/"><u>Step-by-Step Guide: Turning Off Microsoft's SmartScreen Feature in Windows 11/8</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-future-of-urban-commuting-hands-on-with-cycwagens-revolutionary-cargo-e-bike/"><u>Unveiling the Future of Urban Commuting: Hands-On with CycWagen's Revolutionary Cargo E-Bike</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/updating-systems-to-handle-obsolete-compression/"><u>Updating Systems to Handle Obsolete Compression</u></a></li>
 </ul></div>
 

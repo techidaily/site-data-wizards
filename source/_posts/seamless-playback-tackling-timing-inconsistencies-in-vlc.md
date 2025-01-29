@@ -1,7 +1,7 @@
 ---
 title: "Seamless Playback: Tackling Timing Inconsistencies in VLC"
-date: 2025-01-14T17:39:04.877Z
-updated: 2025-01-16T00:18:58.804Z
+date: 2025-01-28T18:44:26.323Z
+updated: 2025-01-29T17:47:04.421Z
 categories:
   - repair-tools
 description: "This Article Describes Seamless Playback: Tackling Timing Inconsistencies in VLC"
@@ -37,10 +37,6 @@ Table of Content
 
  If you’re also experiencing such issues, see the methods shared below to fix audio-video sync issues in VLC Media Player on Windows, Mac, and Android devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **How to fix out-of-sync audio on VLC Player?**
 
  VLC Media Player has built-in features that allow you to fix the audio lag or sync issues in video playback. Below are four ways you can try to fix the audio sync issue in VLC:
@@ -51,7 +47,7 @@ Table of Content
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
@@ -67,7 +63,7 @@ _Figure: Audio delay message in VLC_
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
@@ -84,10 +80,6 @@ _Figure: Audio delay message in VLC_
 _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
@@ -110,10 +102,6 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 
  The video or movie should now play without any audio sync issue in the VLC Player.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -132,6 +120,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
  When the above methods don’t fix the audio sync issue in VLC videos, it indicates video corruption.
@@ -143,6 +135,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  **Note:**  Not all video repair software is advanced enough to fix audio problems in videos. So, before choosing one, make sure it is capable of fixing sound issues in a video file.
 
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How to fix audio sync issue with repair software**
 
@@ -174,6 +170,10 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -201,24 +201,20 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-aviations-new-titans-dji-phantom-pro-and-gopro-k20-ii/"><u>[New] Aviation's New Titans DJI Phantom Pro & GoPro K20 II</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-charting-the-course-of-viral-stocks-and-stories/"><u>[New] Charting the Course of Viral Stocks & Stories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-ajeys-youtube-earnings-insight-2023/"><u>[New] In 2024, Ajey's YouTube Earnings Insight - 2023</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-fix-quiet-tweets-with-youtube-links/"><u>[Updated] Fix Quiet Tweets with YouTube Links</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-revolutionize-video-production-via-xp-installation/"><u>[Updated] In 2024, Revolutionize Video Production via XP Installation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-wallet-friendly-spherical-camera-systems-for-hobbyists-for-2024/"><u>[Updated] Wallet-Friendly Spherical Camera Systems for Hobbyists for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comprehensive-step-by-step-tutorial-transferring-data-from-a-sata-ssd-to-an-m2-nvme-drive/"><u>Comprehensive Step-by-Step Tutorial: Transferring Data From a SATA SSD to an M.2 NVMe Drive</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/grau-gmbhs-ultimate-video-fixer-comprehensive-hardware-and-software-tools/"><u>Grau GmbH's Ultimate Video Fixer: Comprehensive Hardware and Software Tools</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/guide-transferring-data-from-restored-edb-mailboxes-to-an-active-exchange-server-via-video-tutorial/"><u>Guide: Transferring Data From Restored EDB Mailboxes to an Active Exchange Server via Video Tutorial</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/heal-crushed-nut-and-apple-iigs-media/"><u>Heal Crushed NUT & Apple IIGS Media</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-move-your-backup-ibm-i-edb-data-seamlessly-into-a-live-exchange-environment/"><u>How to Move Your Backup IBM I EDB Data Seamlessly Into a Live Exchange Environment</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/more-than-movies-and-shows-how-your-smart-tv-gathers-intelligence-on-your-daily-habits/"><u>More Than Movies and Shows: How Your Smart TV Gathers Intelligence On Your Daily Habits</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/proven-ways-to-rectify-errored-visuals/"><u>Proven Ways to Rectify Errored Visuals</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rejuvenating-compromised-mp4-playback/"><u>Rejuvenating Compromised MP4 Playback</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-zte-nubia-flip-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your ZTE Nubia Flip 5G</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-photographic-history-with-stellars-advance/"><u>Reviving Photographic History with Stellar's Advance</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-bold-move-in-mac-recovery-intuitive-ui-and-improved-features/"><u>Stellar's Bold Move in Mac Recovery - Intuitive UI & Improved Features</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unprofessional-techniques-for-improved-videos/"><u>Unprofessional Techniques for Improved Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-17-transformative-metaverse-trials-explained/"><u>[New] 17 Transformative Metaverse Trials Explained</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-digital-detailing-expert-tips-for-attaching-dates-in-photography/"><u>[Updated] 2024 Approved Digital Detailing Expert Tips for Attaching Dates in Photography</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-delving-into-past-facebook-chronicles-with-tech-help/"><u>[Updated] In 2024, Delving Into Past Facebook Chronicles with Tech Help</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/easy-steps-to-restore-broken-movie-files-in-mp4mov-format-via-vlc/"><u>Easy Steps to Restore Broken Movie Files in MP4/MOV Format via VLC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effortless-tactics-for-better-footage/"><u>Effortless Tactics for Better Footage</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eliminate-interruptions-for-smooth-video-sessions/"><u>Eliminate Interruptions for Smooth Video Sessions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-digital-footprint-with-cookiebot-technology-for-improved-conversions/"><u>Enhance Digital Footprint with Cookiebot Technology for Improved Conversions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-obscurity-to-clarity-stellar-recovery-insights-by-totan/"><u>From Obscurity to Clarity: Stellar Recovery Insights by Totan</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/how-to-achieve-slick-sound-segmentation-in-premiere-for-2024/"><u>How to Achieve Slick Sound Segmentation in Premiere for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-pair-of-timers-ios-and-android-wedding-clock-essentials/"><u>In 2024, Perfect Pair of Timers IOS & Android Wedding Clock Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-creativity-pivotal-pixlr-editing-strategies/"><u>In 2024, Unleash Creativity Pivotal Pixlr Editing Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-wallet-friendly-microphones-for-social-media-stars/"><u>In 2024, Wallet-Friendly Microphones for Social Media Stars</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-damaged-film-clips-in-mp4mov-format-effortlessly-using-vlc-solutions/"><u>Revive Damaged Film Clips in MP4/MOV Format Effortlessly Using VLC Solutions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/speedy-transaction-astral-movie-enlightenment/"><u>Speedy Transaction: Astral Movie Enlightenment</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/swiftly-sync-av-with-vlc-media-player/"><u>Swiftly Sync AV with VLC Media Player</u></a></li>
 </ul></div>
 

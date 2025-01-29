@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obsolete Video Codecs
-date: 2025-01-18T03:53:47.681Z
-updated: 2025-01-21T18:44:05.450Z
+date: 2025-01-27T17:02:10.418Z
+updated: 2025-01-29T16:38:21.387Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Obsolete Video Codecs
@@ -49,6 +49,10 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -59,10 +63,6 @@ _An error occurred. Unsupported file format.’_
 
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix an unsupported video codec error?
 
  There are various ways to deal with the unsupported format problem in videos.
@@ -70,10 +70,6 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -92,10 +88,6 @@ _An error occurred. Unsupported file format.’_
  If video file gives unsupported codec error on Mac, right-click on the file. Click on**‘Open With’** option. Mac may suggest all the installed apps that can play the video.
 
 _Figure: Mac suggests installed apps to open video_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Download the missing video codecs
 
@@ -118,6 +110,10 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -160,16 +156,12 @@ _Figure: Video profile options in VLC Player_
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -196,6 +188,10 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -203,6 +199,10 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,17 +231,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/oost-your-revenue-yielding-earnings-from-youtube-at-500-followers/"><u>[New] Boost Your Revenue Yielding Earnings From YouTube at 500 Followers</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1728489659402-hddssd/"><u>「限られた予算で大容量HDDから高速SSDへの切り替え:専門家が教える無料ガイド」</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/5-best-360-degree-action-cameras/"><u>5 Best 360-Degree Action Cameras</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-pro-exploration-benchmarked-against-enhanced-chatgptplus/"><u>Claude Pro Exploration: Benchmarked Against Enhanced ChatGPT+</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ng-edge-techniques-for-incorporating-soundtracks-in-youtube-creations-for-2024/"><u>Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-s24plus-why-its-an-excellent-choice-for-consumers/"><u>In-Depth Analysis of the Samsung Galaxy S24+: Why It's an Excellent Choice for Consumers</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/optimizing-playback-seamlessness-in-vlc/"><u>Optimizing Playback Seamlessness in VLC</u></a></li>
-<li><a href="https://article-tips.techidaily.com/outdoor-video-equipment-guide/"><u>Outdoor Video Equipment Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/repair-your-videos-with-ease-using-grau-gmbhs-advanced-technology-suite/"><u>Repair Your Videos with Ease Using Grau GmbH's Advanced Technology Suite</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/techniques-for-salvaging-compromised-movs-and-mp4s/"><u>Techniques for Salvaging Compromised MOVs & MP4s</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/troubleshooting-corrupt-video-extensions-on-oses/"><u>Troubleshooting Corrupt VIDEO Extensions on OSes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unparalleled-support-outstanding-customer-rates/"><u>Unparalleled Support, Outstanding Customer Rates</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-information-what-is-blue-video-icon-on-facebook-messenger/"><u>[New] 2024 Approved Information | What Is Blue Video Icon on Facebook Messenger?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-top-10-destinations-for-high-end-vectors/"><u>[New] Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-from-beats-to-broadcast-a-compreesive-guide-to-editing-your-podcast/"><u>[Updated] From Beats to Broadcast A Compreesive Guide to Editing Your Podcast</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-premiers-8-most-booming-online-influencers/"><u>2024 Approved Premier's 8 Most Booming Online Influencers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-top-15-youtube-portals-on-stocks-and-trades/"><u>2024 Approved Top 15 YouTube Portals on Stocks & Trades</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-google-insider-reveals-why-he-loves-his-macbook-and-escapes-the-grief-of-using-a-windows-laptop-insights/"><u>A Google Insider Reveals Why He Loves His MacBook and Escapes the Grief of Using a Windows Laptop - Insights</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-online-solution-for-broadcast-cleanup/"><u>Advanced Online Solution for Broadcast Cleanup</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/boosting-brand-visibility-on-major-networks-facebook-to-xing-and-youtube-integration-tactics/"><u>Boosting Brand Visibility on Major Networks: Facebook to XING and YouTube Integration Tactics</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/bring-back-hidden-external-storage-on-your-mac/"><u>Bring Back Hidden External Storage on Your Mac!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-repair-crew-restoring-anywhere-db/"><u>Celestial Repair Crew: Restoring Anywhere DB</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-h264-file-defects/"><u>Correcting H.264 File Defects</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/crisis-management-saving-your-mac-from-a-kernel-freeze/"><u>Crisis Management: Saving Your Mac From a Kernel Freeze</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/data-rebirth-free-stellar-restoration-kit/"><u>Data Rebirth: Free Stellar Restoration Kit</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/digital-detour-finding-lost-cameras-pics/"><u>Digital Detour: Finding Lost Cameras' Pics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-using-your-apple-watch-to-stay-connected-with-loved-ones-expert-tips-from-zdnet/"><u>Guide: Using Your Apple Watch to Stay Connected with Loved Ones - Expert Tips From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/metaquest-3-the-future-of-immersive-gaming/"><u>MetaQuest 3: The Future of Immersive Gaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-premier-5-ios-photo-background-swap-apps/"><u>The Premier 5 iOS Photo Background Swap Apps</u></a></li>
 </ul></div>
 

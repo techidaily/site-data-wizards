@@ -1,7 +1,7 @@
 ---
 title: Halt Video Lag with a Simple Fix (VLC)
-date: 2025-01-09T00:54:58.693Z
-updated: 2025-01-15T21:43:13.405Z
+date: 2025-01-28T18:49:26.375Z
+updated: 2025-01-29T16:04:00.443Z
 categories:
   - repair-tools
 description: This Article Describes Halt Video Lag with a Simple Fix (VLC)
@@ -39,6 +39,10 @@ Table of Content
 
  Here are the six best solutions to fix Video Stuck or Frozen in VLC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solutions to fix video stuck, stuttering, buffering or lagging in VLC Media Player
 
  Although there isn’t a set solution, changing the VLC media player’s settings can work. You may have to try various methods shared here to fix the video freeze or lag issues in VLC Media Player.
@@ -46,7 +50,7 @@ Table of Content
  You can apply the solutions here to play high-quality HD/ UHD/ HDR, 8k, or H.265 videos of any size and file format.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 1: Update VLC Media Player to the latest version**
@@ -54,10 +58,6 @@ Table of Content
  If your videos freeze, stutter, or are not playing in VLC Media Player, first update the player to the latest version. The updates improve support for new HD codecs, advanced formats, HDR, H.265/HEVC, 4K & 8K playback, 360-degree videos, VP9 (HD videos at lower bitrates), and others for decoding and encoding. It also fixes streaming issues and bugs, if any.
 
 **Also read:** [How to open HEIC, HEVC files on Windows 10](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 2: Increase cache values in VLC Player**
 
@@ -79,6 +79,10 @@ _Figure: Input/Codecs pane in VLC_
 * In the**Advanced** section, across**File caching (ms),** change the value to 1000 or above.
 * Click**Save.** Next, restart VLC Player and check if the videos are playing properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 3: Disable Hardware Decoding in VLC Player**
 
  VLC Media Player can use the GPU of a computer to accelerate video decoding in high-quality videos. However, your PC’s drivers may behave abruptly, resulting in video playback or streaming issues. You can try disabling hardware decoding to fix Video Stuck or Freeze in the VLC player.
@@ -96,10 +100,6 @@ _Figure: Input/Codecs pane in VLC_
 * Under**FFmpeg audio/video decoder** , scroll down to**Hardware decoding** and set it to**Disable** .
 * Click **Save** . Restart VLC Payer to enable the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Method 4: Change FFmpeg settings in VLC Player**
 
  Making changes in the FFmpeg video codec in VLC Player has worked for some. You can also try to resolve video stuttering and freezing with this technique.
@@ -115,6 +115,10 @@ _Figure: Input/Codecs pane in VLC_
 * Under**FFmpeg audio/video decoder** _,_ scroll down to**Skip the loop filter for H.264 decoding** option. Set it to ‘**All** .’
 
 * Click**Save** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 5: Switch video output to DirectX DirectDraw in VLC**
 
@@ -168,10 +172,6 @@ _Figure: Video output modules in VLC_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
  Here we have recommended changing the settings of VLC Media Player to fix video freezing or lag using the below methods:
@@ -187,7 +187,7 @@ _Figure: Video output modules in VLC_
  I hope you found this helpful. Do share with our readers which method helped you fix Video Stuck or Freeze in the VLC player issue in the comment box below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -217,14 +217,15 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-cutting-edge-tactics-for-effective-cricket-streaming-for-2024/"><u>[New] Cutting-Edge Tactics for Effective Cricket Streaming for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-complementing-visuals-embedding-text-into-windowsmac-pictures-for-2024/"><u>[Updated] Complementing Visuals Embedding Text Into Windows/Mac Pictures for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-clearer-eliminate-backgrounds-effectively-for-2024/"><u>[Updated] Ultimate Clearer Eliminate Backgrounds Effectively for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-curated-lists-of-websites-offering-youtube-tone-purchases/"><u>2024 Approved Curated Lists of Websites Offering YouTube Tone Purchases</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/lens-lamentation-restoring-lost-pics/"><u>Lens Lamentation: Restoring Lost Pics</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-compass-navigate-your-data-void/"><u>Stellar's Compass: Navigate Your Data Void</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tailored-guide-for-format-hard-drive-on-apple-computers/"><u>Tailored Guide for Format Hard Drive on Apple Computers</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-10-video-editing-fix-tools-enhancing-windows-and-mac-files/"><u>Top 10 Video Editing Fix Tools: Enhancing Windows & Mac Files</u></a></li>
-<li><a href="https://fox-where.techidaily.com/two-proven-techniques-for-successfully-executing-dell-secure-erase-on-your-ssd-a-comprehensive-tutorial/"><u>Two Proven Techniques for Successfully Executing Dell Secure Erase on Your SSD - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhance-your-asmr-experience-with-top-tier-mics-for-2024/"><u>[Updated] Enhance Your ASMR Experience with Top-Tier Mics for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-interlinked-networks-transferring-fb-videos-to-whatsapp/"><u>2024 Approved Interlinked Networks Transferring FB Videos to WhatsApp</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-xs-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone XS Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cosmic-visual-hub-star-quality-vids-and-praise/"><u>Cosmic Visual Hub: Star-Quality Vids & Praise</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-7-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone 7 Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-adventure-seekers-choice-black-hero5-or-star-sj7/"><u>In 2024, Adventure Seekers Choice Black Hero5 or Star SJ7?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-13t-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi 13T Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macs-data-saving-heroes-ranking-8-recovery-solutions/"><u>Mac's Data Saving Heroes: Ranking 8 Recovery Solutions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rectified-instagram-reel-bug/"><u>Rectified: Instagram Reel Bug</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/seamless-conversion-of-legacy-email-data-migrating-from-edb-to-a-new-exchange-server-platform/"><u>Seamless Conversion of Legacy Email Data - Migrating From EDB to a New Exchange Server Platform</u></a></li>
 </ul></div>
 

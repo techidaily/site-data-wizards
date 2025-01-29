@@ -1,7 +1,7 @@
 ---
 title: Fixing Timing Discrepancies in VLC
-date: 2025-01-14T16:01:56.424Z
-updated: 2025-01-15T18:09:19.120Z
+date: 2025-01-28T17:29:03.520Z
+updated: 2025-01-29T19:14:41.897Z
 categories:
   - repair-tools
 description: This Article Describes Fixing Timing Discrepancies in VLC
@@ -37,6 +37,10 @@ Table of Content
 
  If you’re also experiencing such issues, see the methods shared below to fix audio-video sync issues in VLC Media Player on Windows, Mac, and Android devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to fix out-of-sync audio on VLC Player?**
 
  VLC Media Player has built-in features that allow you to fix the audio lag or sync issues in video playback. Below are four ways you can try to fix the audio sync issue in VLC:
@@ -45,10 +49,6 @@ Table of Content
 2. Set Track synchronization value**(apply separately for every video)**
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
@@ -77,10 +77,6 @@ _Figure: Audio track synchronization in VLC_
 
 * Next, click**Close** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 3: Set the VLC audio desynchronization permanently**
 
  Often, users ask if every time they play a video in VLC, they have to manually adjust Audio track synchronization to get the audio in sync with the video. So, is it possible for this setting to be saved permanently?
@@ -103,7 +99,7 @@ _Figure: Set Audio desynchronization compensation value in VLC_
  The video or movie should now play without any audio sync issue in the VLC Player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
@@ -125,7 +121,7 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
@@ -141,7 +137,7 @@ _Figure: Select the_ second icon on the_VLC video on Android_
  Here we recommend one such tool— **[Stellar Repair for Video](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  that can repair corrupt sound sections, file header, frame movement, etc., which usually result in out-of-sync, audio lag, missing sound, or stuttering issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **How to fix audio sync issue with repair software**
@@ -174,6 +170,10 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 YES 0
@@ -201,18 +201,19 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-manufacture-memorable-visuals-on-giphy/"><u>[New] Manufacture Memorable Visuals on Giphy</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-winning-game-recording-guide-for-w11-users/"><u>[Updated] 2024 Approved Winning Game Recording Guide for W11 Users</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-13-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 13 5Gwith/without a PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-s17t-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo S17t?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-90-gt-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor 90 GT FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-blaze-2-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Blaze 2 5G Phone that is Locked?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-artistic-edge-premium-text-tools-for-adobe-after-effects/"><u>In 2024, The Artistic Edge Premium Text Tools for Adobe After Effects</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mac-data-revival-revolutionized-by-stellars-12v-update/"><u>Mac Data Revival Revolutionized by Stellar's 12v Update</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-join-avi-files-for-free-top-picks-for-video-merging-software-for-2024/"><u>New Join AVI Files for Free Top Picks for Video Merging Software for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reconstruct-damaged-video-archives/"><u>Reconstruct Damaged Video Archives</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/saving-your-macs-data-unveiling-the-best-8-restoration-apps/"><u>Saving Your Mac's Data: Unveiling the Best 8 Restoration Apps</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/trash-problem-and-error-code-36-fix/"><u>Trash Problem & Error Code 36 Fix</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unveiling-mysql-fixes-with-system-administrator-augusto/"><u>Unveiling MySQL Fixes with System Administrator Augusto</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nsights-into-youtubes-economic-model-for-content-makers/"><u>[New] Insights Into YouTube's Economic Model for Content Makers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevate-your-online-impact-with-effective-backlink-strategies/"><u>[Updated] 2024 Approved Elevate Your Online Impact with Effective Backlink Strategies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-discover-7-essential-free-audio-tracks-for-youtubers-for-2024/"><u>[Updated] Discover 7 Essential Free Audio Tracks for YouTubers for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-the-screen-metaverse-vs-omniverse-dissected/"><u>Beyond the Screen Metaverse Vs. Omniverse Dissected</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/faulty-jpeg-restorer-reinstate-image-integrity/"><u>Faulty JPEG Restorer: Reinstate Image Integrity</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-realme-v30-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Realme V30 to iPod | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mac-repair-guide-eliminating-kernel-stalls/"><u>Mac Repair Guide: Eliminating Kernel Stalls</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcome-video-interruption-error-cx0d36c4/"><u>Overcome Video Interruption - Error Cx0d36c4</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-perfection-at-your-fingertips-top-10-stickers-on-iphones-and-androids/"><u>Photo Perfection at Your Fingertips Top 10 Stickers on iPhones & Androids</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/pristine-visual-quality-revered-customer-opinions/"><u>Pristine Visual Quality, Revered Customer Opinions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-art-of-recording-facebook-lives-discover-4-key-strategies-for-2024/"><u>The Art of Recording Facebook Lives Discover 4 Key Strategies for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-essential-guide-on-resolving-flickering-and-jittery-visual-content-a-step-by-step-manual-using-home-tools-with-subtitles/"><u>The Essential Guide on Resolving Flickering and Jittery Visual Content – A Step-by-Step Manual Using Home Tools (With Subtitles)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-isolated-earbuds-fix-manual/"><u>The Isolated Earbuds Fix Manual</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/triple-use-cases-for-chatgpts-integration-with-wolframalpha/"><u>Triple Use Cases for ChatGPT's Integration with WolframAlpha</u></a></li>
 </ul></div>
 
