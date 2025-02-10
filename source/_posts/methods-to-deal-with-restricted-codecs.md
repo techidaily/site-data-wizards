@@ -1,7 +1,7 @@
 ---
 title: Methods to Deal with Restricted Codecs
-date: 2025-01-22T18:00:29.739Z
-updated: 2025-01-29T19:02:18.641Z
+date: 2025-02-05T04:46:17.075Z
+updated: 2025-02-09T19:22:39.486Z
 categories:
   - repair-tools
 description: This Article Describes Methods to Deal with Restricted Codecs
@@ -50,7 +50,7 @@ _An error occurred. Unsupported file format.’_
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does unsupported codec or format error occur?
@@ -64,7 +64,7 @@ _An error occurred. Unsupported file format.’_
  Other than lack of supporting codec, the invalid file format error may also appear when the video file is corrupt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix an unsupported video codec error?
@@ -74,6 +74,10 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -127,7 +131,7 @@ _Figure: VLC message when new version is available._
 * Click**Yes.** This will automatically download the new codecs also.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
@@ -139,10 +143,6 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -201,7 +201,7 @@ _Figure: Preview video after repair_
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -231,24 +231,18 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-leading-ladies-of-livestreams-top-10-female-youtubers-unveiled/"><u>[New] In 2024, Leading Ladies of Livestreams Top 10 Female YouTubers Unveiled</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-compre-point-saving-twitter-exclusive-gifs-on-phones/"><u>[New] The Compre Point Saving Twitter-Exclusive Gifs on Phones</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/1726027045701-avidemux/"><u>Avidemux 用ビデオからオーディオを分離・抽出する手順</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-update-lenovo-drivers-for-windows-10/"><u>Download Update Lenovo Drivers for Windows 10</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-broken-movie-formats-easy-mp4-and-mov-repair-techniques-in-vlc/"><u>Fixing Broken Movie Formats: Easy MP4 & MOV Repair Techniques in VLC</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-problems-with-silent-imovie-tracks/"><u>Fixing Problems With Silent iMovie Tracks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-google-pixel-7a-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Google Pixel 7a</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-m34-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Samsung Galaxy M34</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/knowledge-base-articles-and-resources/"><u>Knowledge Base Articles & Resources</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mending-malformed-video-on-macos-for-editing/"><u>Mending Malformed Video on macOS for Editing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-the-new-era-of-connectivity-in-depth-review-and-comparison-of-the-samsung-galaxy-s2/"><u>Navigating the New Era of Connectivity: In-Depth Review and Comparison of the Samsung Galaxy S2</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/pinnacle-editing-services-heartfelt-praises/"><u>Pinnacle Editing Services, Heartfelt Praises</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/recover-lost-footage-with-diy-skills/"><u>Recover Lost Footage with DIY Skills</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/secure-your-dex-3-mixer-at-a-steal-for-only-149-before-oct-deadline-includes-200-complimentary-custom-audio-downloads/"><u>Secure Your DEX-3 Mixer at a Steal for Only $149 Before Oct Deadline, Includes 200 Complimentary Custom Audio Downloads!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-introduces-groundbreaking-image-salvage-program/"><u>Stellar Introduces Groundbreaking Image Salvage Program</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/tech-titans-captivate-audiences-boosting-microsoft-copilot-and-temu-downloads-after-super-bowl-spots-zdnet-insider/"><u>Tech Titans Captivate Audiences, Boosting Microsoft Copilot & Temu Downloads After Super Bowl Spots | ZDNet Insider</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-tips-fixing-the-an-error-has-happened-while-solving-problems-on-windows-11-or-10/"><u>Troubleshooting Tips: Fixing the 'An Error Has Happened While Solving Problems' On Windows 11 or 10</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unleashing-superior-mac-data-rescue-in-the-latest-stellar-version/"><u>Unleashing Superior Mac Data Rescue in the Latest Stellar Version</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unmatched-video-repair-client-testimonials-show/"><u>Unmatched Video Repair, Client Testimonials Show</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-cross-platform-content-spread-tweeting-and-tumbling-for-2024/"><u>[New] Cross-Platform Content Spread Tweeting & Tumbling for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-top-tweets-review-the-full-year-in-videos/"><u>[New] Top Tweets Review The Full Year in Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-complete-critique-gopro-hero4-silver-sensor/"><u>[Updated] In 2024, Complete Critique GoPro HERO4 Silver Sensor</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/empowering-esl-learners-9-must-know-grammar-techniques-for-successful-comprehension/"><u>Empowering ESL Learners: 9 Must-Know Grammar Techniques for Successful Comprehension</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/galactic-bookkeeper-rescue-guide/"><u>Galactic Bookkeeper Rescue Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-fix-videos-with-interlacing-artifacts/"><u>How To Fix Videos With Interlacing Artifacts?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/incorporating-cards-and-annotations-in-youtube-content/"><u>Incorporating Cards and Annotations in YouTube Content</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rectified-glitchy-reels-of-instagram/"><u>Rectified: Glitchy Reels of Instagram</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resurrecting-broken-films-using-sample-data/"><u>Resurrecting Broken Films: Using Sample Data</u></a></li>
+<li><a href="https://win11.techidaily.com/skirting-repeated-sign-in-issues-for-microsoft-teams-users/"><u>Skirting Repeated Sign-In Issues for Microsoft Teams Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-first-step-in-photo-rehabilitation-software/"><u>Stellar's First Step in Photo Rehabilitation Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-adding-libdvdcss-to-handbrake-on-windows-and-macos-version-11/"><u>Step-by-Step Guide to Adding Libdvdcss to HandBrake on Windows & macOS Version 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-performing-non-macbook-laptop-challenges-apples-dominance-expert-review/"><u>Top-Performing Non-MacBook Laptop Challenges Apple’s Dominance - Expert Review</u></a></li>
 </ul></div>
 

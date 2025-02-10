@@ -1,7 +1,7 @@
 ---
 title: Handling Non-Compatible Media Coding Methods
-date: 2025-01-24T17:53:25.630Z
-updated: 2025-01-29T16:32:45.477Z
+date: 2025-02-07T20:52:30.371Z
+updated: 2025-02-09T20:25:27.565Z
 categories:
   - repair-tools
 description: This Article Describes Handling Non-Compatible Media Coding Methods
@@ -49,6 +49,10 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -85,6 +89,10 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -119,7 +127,7 @@ _Figure: VLC message when new version is available._
 * Click**Yes.** This will automatically download the new codecs also.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
@@ -131,10 +139,6 @@ _Figure: VLC message when new version is available._
  You can convert a video file format using a desktop converter such as Stellar Converter for Audio Video or via any secure online video converter program.
 
  The open source VLC Media Player can also convert video files to different format.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Steps to convert video in VLC to fix unsupported codec problems:**
 
@@ -151,17 +155,21 @@ _Figure: Video profile options in VLC Player_
 * In the**Convert** window, select new video file format from the**Profile** options. You can also click on**Edit Selected Profile** (wrench icon) to edit a specific profile.
 * Once done, click **Start** to convert the video file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Convert video file to fix unsupported codec error on Android**
 
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Convert file to fix codec not supported error on Smart TV**
 
  If you are receiving the codec error on Smart TV when trying to play a video, first transfer the file to your laptop. Next, fix codec issue by converting the video file to a format supported by your Smart TV. You can use any of the above conversion method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Repair video codec error using Stellar Repair for Video
 
@@ -188,10 +196,6 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -199,10 +203,6 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,17 +231,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-artistic-horizons-scouting-the-finest-8-drawing-apps-for-iphones/"><u>[New] In 2024, Artistic Horizons Scouting the Finest 8 Drawing Apps for iPhones</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-instant-impact-facebook-vids/"><u>[Updated] Instant Impact Facebook Vids</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-10-instagram-video-editing-app-marketers-must-know/"><u>2024 Approved 10 Instagram Video Editing App Marketers Must Know</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/easy-installation-of-stellar-hardwaresoftware/"><u>Easy Installation of Stellar Hardware/Software</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/echoes-of-approval-video-success-tales/"><u>Echoes of Approval: Video Success Tales</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guia-paso-a-paso-para-insertar-texto-en-un-gif-metodos-de-vanguardia/"><u>Guía Paso a Paso Para Insertar Texto en Un GIF: Métodos De Vanguardia</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-google-pixel-7a-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Google Pixel 7a?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-poorly-encoded-h265-media-content/"><u>Reviving Poorly Encoded H.265 Media Content</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-phoenix-launches-robust-tool-to-repair-corrupt-pdf-files/"><u>Stellar Phoenix Launches Robust Tool to Repair Corrupt PDF Files</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-guide-to-zoom-engagement-unlocking-communication-success/"><u>The Ultimate Guide to Zoom Engagement Unlocking Communication Success</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-get-lumafusion-for-mac-explore-the-best-video-editing-alternatives-for-2024/"><u>Updated Get Lumafusion for Mac Explore the Best Video Editing Alternatives for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-expert-mysql-fixes-featuring-admin-augusto-destrero/"><u>Video: Expert MySQL Fixes Featuring Admin Augusto Destrero</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-explore-our-updated-top-10-best-fb-video-extractors-for-android-users/"><u>[New] In 2024, Explore Our Updated Top 10 Best FB Video Extractors for Android Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unrestricted-media-playback-free-on-windows-and-macos/"><u>[New] Unrestricted Media Playback FREE on Windows & MacOS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-achieving-excellence-in-work-and-online-content/"><u>[Updated] Achieving Excellence in Work and Online Content</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/could-meta-shatter-the-dominance-of-facebook-and-instagram-in-europe/"><u>Could Meta Shatter the Dominance of Facebook & Instagram in Europe?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-bespoke-online-marketing-with-cutting-edge-cookiebot-solutions/"><u>Experience Bespoke Online Marketing with Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ideal-video-solution-flawless-fixes-for-both-platforms/"><u>Ideal Video Solution: Flawless Fixes for Both Platforms</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/masterful-online-restoration-service-hub/"><u>Masterful Online Restoration Service Hub</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-disrupted-apple-video-streams/"><u>Mending Disrupted Apple Video Streams</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-converter-explained-unraveling-the-distinctions-between-avchd-and-mp4-video-types/"><u>Movavi Converter Explained: Unraveling the Distinctions Between AVCHD and MP4 Video Types</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimizing-video-quality-ditching-buffering-and-jerking/"><u>Optimizing Video Quality: Ditching Buffering and Jerking</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-software-by-stellar-your-mac-based-jpeg-savior/"><u>Phoenix Software by Stellar - Your Mac-Based JPEG Savior</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-fractured-screen-captures-techniques-and-tools/"><u>Repairing Fractured Screen Captures: Techniques and Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-reimagines-image-repair-a-new-dawn/"><u>Stellar Reimagines Image Repair - A New Dawn</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-voice-chat-issues-in-league-of-legends/"><u>Troubleshooting Guide: Fixing Voice Chat Issues in League of Legends</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-image-fixer-for-damaged-pics/"><u>Ultimate Image Fixer for Damaged Pics</u></a></li>
 </ul></div>
 

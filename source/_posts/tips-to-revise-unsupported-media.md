@@ -1,7 +1,7 @@
 ---
 title: Tips to Revise Unsupported Media
-date: 2025-01-25T19:22:12.081Z
-updated: 2025-01-29T17:34:10.292Z
+date: 2025-02-05T04:00:42.539Z
+updated: 2025-02-09T17:40:58.186Z
 categories:
   - repair-tools
 description: This Article Describes Tips to Revise Unsupported Media
@@ -49,10 +49,6 @@ _An error occurred. Unsupported file format.’_
 
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does unsupported codec or format error occur?
 
  The error as obvious with the messages, appears due to absence of a codec that is required to play the video file on your computer or smartphone.
@@ -70,10 +66,6 @@ _An error occurred. Unsupported file format.’_
  Either convert the file format to one that is supported by your media player or change the player itself. You can also consider installing the supporting codec on your system to play the video s.
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Play video in a different media player
 
@@ -105,6 +97,10 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -114,10 +110,6 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -131,7 +123,7 @@ _Figure: VLC message when new version is available._
 * Click**Yes.** This will automatically download the new codecs also.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
@@ -160,7 +152,7 @@ _Figure: Video profile options in VLC Player_
 * Once done, click **Start** to convert the video file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Convert video file to fix unsupported codec error on Android**
@@ -196,6 +188,10 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -203,6 +199,10 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,24 +231,19 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-perfecting-the-art-of-sound-blending-a-comprehensive-audacity-workshop-series/"><u>[New] In 2024, Perfecting the Art of Sound Blending A Comprehensive Audacity Workshop Series</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-precision-adjustments-correcting-iphone-video-washout-in-premiere-pro/"><u>[New] Precision Adjustments Correcting iPhone Video Washout in Premiere Pro</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-sleep-inducing-series-analyzing-video-bedtime-stories-for-2024/"><u>[New] The Sleep-Inducing Series Analyzing Video Bedtime Stories for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-ordinary-to-extraordinary-transform-your-facebook-profile-with-these-tips/"><u>[Updated] In 2024, From Ordinary to Extraordinary Transform Your Facebook Profile with These Tips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-hidden-narratives-unlocked-a-complete-snapguide/"><u>[Updated] In 2024, Hidden Narratives Unlocked A Complete Snapguide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/amp-it-up-with-confidence-the-definitive-review-for-the-best-car-jump-starter-m-mock-1000a/"><u>Amp It Up with Confidence: The Definitive Review for the Best Car Jump Starter (M MOCK 1000A)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/concealed-crusaders-conflict-with-clarion-champion-for-2024/"><u>Concealed Crusader's Conflict with Clarion Champion for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gain-permission-for-cameras-in-snapchat-easy-troubleshooting-steps/"><u>Gain Permission for Cameras in Snapchat – Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/improving-file-streaming-quality/"><u>Improving File Streaming Quality</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-analysis-marshall-motif-anc-headphones-user-experience-and-features/"><u>In-Depth Analysis: Marshall Motif ANC Headphones - User Experience & Features</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/perfect-relationship-with-our-support-team-rating-245/"><u>Perfect Relationship with Our Support Team (Rating: 245)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rescuing-damaged-media-from-android-devices/"><u>Rescuing Damaged Media From Android Devices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reversing-paused-media-interruptions/"><u>Reversing Paused Media Interruptions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-definitive-guide-to-overcoming-frequent-video-problems/"><u>The Definitive Guide to Overcoming Frequent Video Problems</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-engineers-approach-to-fixing-video-corruption-h265/"><u>The Engineer's Approach to Fixing Video Corruption (H.265)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-customer-testimonial-data-recovered-from-a-non-responding-hard-drive-with-stellar/"><u>Video - Customer Testimonial: Data Recovered From a Non Responding Hard Drive with Stellar</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/whats-next-after-advanced-video-malfunction/"><u>What's Next After Advanced Video Malfunction?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-creating-captivating-grids-the-best-photo-tools/"><u>[New] Creating Captivating Grids - The Best Photo Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-perfect-shots-effortless-streaming-dslr-on-pcmac/"><u>[New] Perfect Shots, Effortless Streaming DSLR on PC/Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revealing-rays-of-light-the-ultimate-guide-for-choosing-a-premium-4k-screen/"><u>2024 Approved Revealing Rays of Light The Ultimate Guide for Choosing a Premium 4K Screen</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-transform-your-instagram-photos-with-creative-borders/"><u>2024 Approved Transform Your Instagram Photos with Creative Borders</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cyber-monday-2022-exclusive-save-with-the-last-black-friday-offer-on-a-79-lenovo-chromebook-check-out-now/"><u>Cyber Monday 2022 Exclusive: Save with the Last Black Friday Offer on a $79 Lenovo Chromebook - Check Out Now!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-flawed-mp4-playback-in-smartphones/"><u>Fixing Flawed MP4 Playback in Smartphones</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-multitask-media-with-ease-expertly-using-netflixs-picture-in-picture-feature/"><u>Master Multitask Media with Ease Expertly Using Netflix’s Picture-In-Picture Feature</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-degraded-h264-files/"><u>Restoring Degraded H.264 Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-shield-sensitive-enterprise-discussions/"><u>Strategies to Shield Sensitive Enterprise Discussions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/supernova-strategies-sql-database-restoration/"><u>Supernova Strategies: SQL Database Restoration</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-ultimate-jpeg-revival-kit/"><u>The Ultimate JPEG Revival Kit</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-strategies-to-overcome-buffering-woes/"><u>Top Strategies to Overcome Buffering Woes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/turn-corrupt-videos-into-playable-again/"><u>Turn Corrupt Videos Into Playable Again</u></a></li>
 </ul></div>
 

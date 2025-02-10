@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obsolete Video Codecs
-date: 2025-01-27T17:02:10.418Z
-updated: 2025-01-29T16:38:21.387Z
+date: 2025-02-02T20:45:00.955Z
+updated: 2025-02-10T03:09:22.174Z
 categories:
   - repair-tools
 description: This Article Describes Overcoming Obsolete Video Codecs
@@ -50,7 +50,7 @@ _An error occurred. Unsupported file format.’_
  You can get such error messages when trying to play a video on PC, Mac, Smart TV, Android or other devices. Unsupported format errors are also reported while trying to open a file in video editing tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does unsupported codec or format error occur?
@@ -112,7 +112,7 @@ _Figure: Mac suggests installed apps to open video_
 * Click **Install.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
@@ -125,6 +125,10 @@ _Figure: Check for Updates in VLC_
 _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
 
@@ -156,7 +160,7 @@ _Figure: Video profile options in VLC Player_
  Android phones can usually play MP4 and 3GP videos of H.263 or H.264 format. So you can convert videos to either one to play on your smartphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Convert file to fix codec not supported error on Smart TV**
@@ -189,7 +193,7 @@ _Figure: Preview video after repair_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Wrapping up**
@@ -199,10 +203,6 @@ _Figure: Preview video after repair_
  But if the codec error is appearing because of some corruption in the file, these methods won’t work. You have to go for a video repair software. It is recommended to use a free trial version of the video repair tool. In the trial, you get to preview and play the repaired video.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -231,22 +231,15 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-information-what-is-blue-video-icon-on-facebook-messenger/"><u>[New] 2024 Approved Information | What Is Blue Video Icon on Facebook Messenger?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-top-10-destinations-for-high-end-vectors/"><u>[New] Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-from-beats-to-broadcast-a-compreesive-guide-to-editing-your-podcast/"><u>[Updated] From Beats to Broadcast A Compreesive Guide to Editing Your Podcast</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-premiers-8-most-booming-online-influencers/"><u>2024 Approved Premier's 8 Most Booming Online Influencers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-top-15-youtube-portals-on-stocks-and-trades/"><u>2024 Approved Top 15 YouTube Portals on Stocks & Trades</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-google-insider-reveals-why-he-loves-his-macbook-and-escapes-the-grief-of-using-a-windows-laptop-insights/"><u>A Google Insider Reveals Why He Loves His MacBook and Escapes the Grief of Using a Windows Laptop - Insights</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/advanced-online-solution-for-broadcast-cleanup/"><u>Advanced Online Solution for Broadcast Cleanup</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/boosting-brand-visibility-on-major-networks-facebook-to-xing-and-youtube-integration-tactics/"><u>Boosting Brand Visibility on Major Networks: Facebook to XING and YouTube Integration Tactics</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/bring-back-hidden-external-storage-on-your-mac/"><u>Bring Back Hidden External Storage on Your Mac!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/celestial-repair-crew-restoring-anywhere-db/"><u>Celestial Repair Crew: Restoring Anywhere DB</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/correcting-h264-file-defects/"><u>Correcting H.264 File Defects</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/crisis-management-saving-your-mac-from-a-kernel-freeze/"><u>Crisis Management: Saving Your Mac From a Kernel Freeze</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-rebirth-free-stellar-restoration-kit/"><u>Data Rebirth: Free Stellar Restoration Kit</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/digital-detour-finding-lost-cameras-pics/"><u>Digital Detour: Finding Lost Cameras' Pics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-using-your-apple-watch-to-stay-connected-with-loved-ones-expert-tips-from-zdnet/"><u>Guide: Using Your Apple Watch to Stay Connected with Loved Ones - Expert Tips From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/metaquest-3-the-future-of-immersive-gaming/"><u>MetaQuest 3: The Future of Immersive Gaming</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-premier-5-ios-photo-background-swap-apps/"><u>The Premier 5 iOS Photo Background Swap Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-investigating-actives-prowess-in-recording-technology-for-2024/"><u>[New] Investigating Active's Prowess in Recording Technology for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unleash-the-skys-potential-with-drone-livestreaming-on-fb/"><u>2024 Approved Unleash the Sky's Potential with Drone Livestreaming on FB</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/best-practices-for-eliminating-interlace-blur/"><u>Best Practices for Eliminating Interlace Blur</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/clients-journey-to-data-salvage/"><u>Client's Journey to Data Salvage</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-update-error-0x800736cc-instantly/"><u>Eliminating Windows Update Error 0X800736CC Instantly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720671634960-enhance-vlc-performance-no-delays-here/"><u>Enhance VLC Performance: No Delays Here</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-the-full-spectrum-of-visions-with-chatgpts-ai-capabilities/"><u>Harnessing the Full Spectrum of Visions with ChatGPT's AI Capabilities</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-vivo-v30-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo V30 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125518-9781609250676-the-abcs-of-chakra-therapy/"><u>The ABC's of Chakra Therapy | Free Book</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tips-for-repairing-nikons-damaged-video-content/"><u>Tips for Repairing Nikon's Damaged Video Content</u></a></li>
 </ul></div>
 
