@@ -1,7 +1,7 @@
 ---
 title: Tighten Timing in Video Playback on VLC
-date: 2025-02-02T22:41:18.147Z
-updated: 2025-02-09T19:03:50.861Z
+date: 2025-02-16T04:30:32.878Z
+updated: 2025-02-19T16:30:09.016Z
 categories:
   - repair-tools
 description: This Article Describes Tighten Timing in Video Playback on VLC
@@ -46,6 +46,10 @@ Table of Content
 3. Set Audio desynchronization compensation**(permanent fix for all VLC videos)**
 4. Adjust audio delay in VLC on Android phones**(apply separately for every video)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 1\. Fix Audio Video Delay in VLC using Keyboard shortcut keys**
 
 _Figure: Audio delay message in VLC_
@@ -57,10 +61,6 @@ _Figure: Audio delay message in VLC_
  If you are a Mac user, press the ‘G’ key to slow down the audio and the ‘F’ key to increase the audio speed.
 
  Listen to the audio carefully. Make sure it matches with the video. The player will show the increase/ decrease in audio delay by 50 milliseconds (ms) each time you press the keys. You will see the message of audio delay with time in milliseconds on the top-right of the VLC Player’s screen. Though this message goes away very quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 2: Set Track Synchronization Value to fix the VLC Player sync problem**
 
@@ -78,7 +78,7 @@ _Figure: Audio track synchronization in VLC_
 * Next, click**Close** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 3: Set the VLC audio desynchronization permanently**
@@ -102,10 +102,6 @@ _Figure: Set Audio desynchronization compensation value in VLC_
 
  The video or movie should now play without any audio sync issue in the VLC Player.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Method 4: Adjust audio-video delay in VLC on an Android device**
 
 _‘Until now I was using VLC as the_ default media player on my Android phone without any issues. But recently, the videos have started playing out of sync. I tried to fix it by using the audio delay option but couldn’t. How to adjust the_audio delay in VLC on Android?’_
@@ -123,6 +119,10 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 * Click on the + or – button to increase or decrease the audio speed in your video. The + button will delay the sound by 50 milliseconds, whereas the – button will hasten the sound. Press the + and – buttons until the audio gets synced with the video.
 
  However, the settings that you make in the video will be temporary and will be removed when you close the video. Next time when you have to play the same video, reset the audio delay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **VLC fix for out-of-sync videos didn’t work? Here’s what you can do…**
 
@@ -151,7 +151,7 @@ _Figure: Select the_ second icon on the_VLC video on Android_
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -171,7 +171,7 @@ _ [**How to play 4k ultra HD videos in VLC Player**](https://tools.techidaily.co
 _ [**How to repair corrupt video file with VLC Media Player**](https://tools.techidaily.com/stellardata-recovery/buy-now/) _
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -201,24 +201,20 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-bigger-captures-intact-detail-quality/"><u>[New] Bigger Captures, Intact Detail Quality</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/op-5-cozy-winter-scenes-for-video-aesthetics-for-2024/"><u>[New] Top 5 Cozy Winter Scenes for Video Aesthetics for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-increase-your-channels-reach-with-these-2-tricks/"><u>2024 Approved Increase Your Channel's Reach with These 2 Tricks</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/constellation-channel-premier-videos-plus-glowing-endorsements/"><u>Constellation Channel: Premier Videos + Glowing Endorsements</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/database-comeback-a-sql-cosmos-manual/"><u>Database Comeback: A SQL Cosmos Manual</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/demystifying-error-unplayable-videos-explained/"><u>Demystifying Error: Unplayable Videos Explained</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/explore-the-power-of-voice-and-text-on-huawei/"><u>Explore the Power of Voice & Text on Huawei</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/finding-the-invisible-external-hard-drive-on-your-mac/"><u>Finding the Invisible External Hard Drive on Your Mac</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-repair-and-restore-exchange-database/"><u>How to Repair and Restore Exchange Database</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-t2-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo T2 Pro 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-lite-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo V30 Lite 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-nord-ce-3-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Nord CE 3 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-z-flip-5-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy Z Flip 5 won’t play MKV movies</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solar-system-data-rescue-zone/"><u>Solar System Data Rescue Zone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-ui-mastery-for-mac-data-restoration/"><u>Stellar UI Mastery for Mac Data Restoration</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-battle-of-giants-who-wins-in-the-gmail-vs-outlookcom-debate/"><u>The Battle of Giants: Who Wins in the Gmail Vs. Outlook.com Debate?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-magic-disk-customers-journey-to-restored-photo-richness/"><u>The Magic Disk: Customer's Journey to Restored Photo Richness</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-10-video-fixing-programs-compatible-with-windows-and-macos/"><u>Top 10 Video Fixing Programs Compatible with Windows & macOS</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-cpu-utilization-by-iastordatasvc-in-a-32-bit-windows/"><u>Troubleshooting Elevated CPU Utilization by IAStorDataSvc in a 32-Bit Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastering-video-success-on-facebook-platforms/"><u>[New] In 2024, Mastering Video Success on Facebook Platforms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-top-10-list-free-image-layering-progs-iosandroid/"><u>[Updated] Exclusive Top 10 List Free Image Layering Progs iOS/Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-advice-tailoring-ppt-presentations-on-google-meet/"><u>[Updated] Expert Advice Tailoring PPT Presentations on Google Meet</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-ultimate-guide-to-incorporating-apples-siri-into-tiktok/"><u>[Updated] In 2024, The Ultimate Guide to Incorporating Apple's Siri Into TikTok</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/accelerating-slow-playback-videos-tips/"><u>Accelerating Slow-Playback Videos Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-honor-x50i-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Honor X50i.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elevate-your-gaming-by-recording-ps3-games-for-2024/"><u>Elevate Your Gaming by Recording PS3 Games for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/grau-gmbhs-mastery-in-hardware-and-software-transforming-flawed-videos-back-to-perfection/"><u>Grau GmbH's Mastery in Hardware & Software - Transforming Flawed Videos Back to Perfection</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-dance-directives-finding-ideal-dj-templates/"><u>In 2024, Dance Directives Finding Ideal DJ Templates</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macs-new-best-friend-stellars-phoenix-toolkit-jpeg-magic-at-your-fingertips/"><u>Mac's New Best Friend: Stellar's Phoenix Toolkit - JPEG Magic at Your Fingertips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-damaged-avchd-recordings/"><u>Restoring Damaged AVCHD Recordings</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reworking-broken-movie-formats-via-quicktime-interface/"><u>Reworking Broken Movie Formats via QuickTime Interface</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/totan-tech-wisdom-mastering-stellar-data-revival/"><u>Totan Tech Wisdom: Mastering Stellar Data Revival</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unscrambling-videographic-chaos-utilizing-examples/"><u>Unscrambling Videographic Chaos: Utilizing Examples</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-virtual-face-maker-websites/"><u>Updated 2024 Approved Free Virtual Face Maker Websites</u></a></li>
 </ul></div>
 

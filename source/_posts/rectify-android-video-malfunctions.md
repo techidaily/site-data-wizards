@@ -1,7 +1,7 @@
 ---
 title: Rectify Android Video Malfunctions
-date: 2025-02-07T22:02:49.766Z
-updated: 2025-02-09T21:16:56.991Z
+date: 2025-02-17T23:20:43.841Z
+updated: 2025-02-19T22:22:35.935Z
 categories:
   - repair-tools
 description: This Article Describes Rectify Android Video Malfunctions
@@ -44,21 +44,21 @@ Table of Content
 * Your mobile SD card is corrupt
 * You downloaded an untrusted software/app
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **How to Fix Videos Not Playing On Android phone**
 
  Try the below methods to play videos on your Android phone. You can apply these methods to fix the ‘videos not playing’ issue in any Android phone,**such as Samsung, Oneplus, Xiaomi, Motorola, HTC, etc.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **1\. Restart/Reboot your device**
 
  Restarting your smartphone is the most simple troubleshooting way which may help to play your videos. First, close all the applications on your mobile. Restart/Reboot the phone. Next, go to Gallery and check if your videos are playing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Clear cache on your Android phone**
 
@@ -73,16 +73,12 @@ Now, go back to the Gallery to play the videos.
  Trojans are a menace for your Android phones too. If you have downloaded any app or software from an**untrusted** source, remove it. There are chances that it disrupts your mobile Device’s smooth functioning, including not letting you play your mobile videos or making your videos corrupt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. Install VLC player/MX Player on Android phone**
 
  It might be possible that the media player on your Android phone does not support the video codec you are trying to play. Install a**compatible** video player like a VLC player, BS Player, or MX Player from the Google Play store.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **5\. Update your Android OS**
 
@@ -136,6 +132,10 @@ Now, go back to the Gallery to play the videos.
 
  You may also refer to [How to Fix ‘No sound on Android video’ Error](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **8\. Reset your app preferences**
 
  Resetting your app preferences lets you choose which video player you want to use for playing videos.
@@ -152,6 +152,10 @@ Now try to play your videos on the Android phone.
  If none of the above methods can play your Android phone videos, the last resort is Factory Reset.
 
  Factory Reset wipes out all data and renders your smartphone as new. Thus, before doing it, ensure you have taken all your contacts, photos, videos, and other smartphone data into a backup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Cannot play Facebook, YouTube, or other web videos on your Android phone? Try the below fixes:**
 
@@ -174,10 +178,6 @@ Now try to play your videos on the Android phone.
 **[How to fix Video Playback Errors and Issues?](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
 **[Solved: iPhone Videos not playing on Windows](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Was this article helpful?
 
@@ -206,22 +206,24 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-beyondthebaseline-mycams-successor/"><u>[New] BeyondTheBaseline MyCam's Successor?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-beyond-simplicity-exploring-the-intricacies-of-youtubes-view-count-algorithm/"><u>[New] In 2024, Beyond Simplicity Exploring the Intricacies of YouTube’s View Count Algorithm</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-add-featured-channels-on-youtube-an-ultimate-guide/"><u>[New] In 2024, How to Add Featured Channels on YouTube An Ultimate Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-revive-your-lost-iphone-x-with-these-tips/"><u>[New] In 2024, Revive Your LOST iPhone X with These Tips</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-techniques-for-transforming-facespace-lives-into-tv-content/"><u>[Updated] 2024 Approved Techniques for Transforming Facespace Lives Into TV Content</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-auditory-aesthetics-for-slides-infusing-your-ppt-with-tunes/"><u>[Updated] Auditory Aesthetics for Slides Infusing Your PPT with Tunes</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-bridging-platforms-loop-ready-setups-for-youtube-and-tv/"><u>2024 Approved Bridging Platforms Loop-Ready Setups for YouTube and TV</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-time-lapse-photography-on-samsung-phones/"><u>2024 Approved Mastering Time-Lapse Photography on Samsung Phones</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/boosting-brand-visibility-on-major-networks-facebook-to-xing-and-youtube-integration-tactics/"><u>Boosting Brand Visibility on Major Networks: Facebook to XING and YouTube Integration Tactics</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/bring-back-hidden-external-storage-on-your-mac/"><u>Bring Back Hidden External Storage on Your Mac!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/celestial-repair-crew-restoring-anywhere-db/"><u>Celestial Repair Crew: Restoring Anywhere DB</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/correcting-h264-file-defects/"><u>Correcting H.264 File Defects</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/crisis-management-saving-your-mac-from-a-kernel-freeze/"><u>Crisis Management: Saving Your Mac From a Kernel Freeze</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-rebirth-free-stellar-restoration-kit/"><u>Data Rebirth: Free Stellar Restoration Kit</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/digital-detour-finding-lost-cameras-pics/"><u>Digital Detour: Finding Lost Cameras' Pics</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhance-your-viewing-experience-fix-streaming-problems/"><u>Enhance Your Viewing Experience: Fix Streaming Problems</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-capturing-every-angle-how-to-post-360-photos-on-androidios/"><u>In 2024, Capturing Every Angle How to Post 360 Photos on Android/iOS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-quick-tips-for-creating-and-editing-snapchat-duos/"><u>[Updated] In 2024, Quick Tips for Creating and Editing Snapchat Duos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-step-by-step-guide-fixing-non-operational-srt-exports/"><u>2024 Approved Step-by-Step Guide Fixing Non-Operational SRT Exports</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-online-destinations-to-streamline-your-flat-search-experience/"><u>Best Online Destinations to Streamline Your Flat Search Experience</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/exchange-emergency-fixes-superior-service-and-analysis/"><u>Exchange Emergency Fixes: Superior Service & Analysis</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/external-drive-disappearance-how-to-find-it-on-your-mac/"><u>External Drive Disappearance: How to Find It on Your Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-the-backup-issue-making-sure-whatsapp-updates-to-your-icloud-account-smoothly/"><u>Fix the Backup Issue: Making Sure WhatsApp Updates to Your iCloud Account Smoothly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/immediate-fix-to-freezing-problem-in-vlc/"><u>Immediate Fix to Freezing Problem in VLC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-iphonepcs-best-video-conversion-software-8/"><u>In 2024, Unveiling iPhone/PC's Best Video Conversion Software #8</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/one-device-live-broadcast-mastery-easy-steps-to-success-for-2024/"><u>One-Device LIVE Broadcast Mastery Easy Steps to Success for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-pristine-video-conditions-after-corruption/"><u>Restoring Pristine Video Conditions After Corruption</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-damaged-mp4mov-videos-a-step-by-step-guide-with-vlc-media-player/"><u>Reviving Damaged MP4/MOV Videos: A Step-by-Step Guide with VLC Media Player</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-elevates-mac-12v-a-leap-forward-for-data-recovery-users/"><u>Stellar Elevates Mac 12V: A Leap Forward for Data Recovery Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720670554986-stellar-releases-mac-data-recovery-12v-with-enhanced-ui/"><u>Stellar® Releases Mac Data Recovery 12v with Enhanced UI</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-to-rehabilitate-compromised-nikon-movs/"><u>Techniques to Rehabilitate Compromised Nikon MOVs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-complete-remedy-for-broken-h265-formats/"><u>The Complete Remedy for Broken H.265 Formats</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-solitary-producers-guide-to-viral-audio-success/"><u>The Solitary Producer's Guide to Viral Audio Success</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-best-sites-for-distance-learning-and-e-courses/"><u>The Ultimate Guide to the Best Sites for Distance Learning and E-Courses</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/isual-dynamics-of-aspect-ratios-in-online-video-content-for-2024/"><u>The Visual Dynamics of ASPECT RATIOS in Online Video Content for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/unraveling-the-mystery-how-to-fix-repeating-dll-file-missing-errors-insights-from-yl-software/"><u>Unraveling the Mystery: How to Fix Repeating DLL File Missing Errors - Insights From YL Software</u></a></li>
 </ul></div>
 

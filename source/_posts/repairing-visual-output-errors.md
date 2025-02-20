@@ -1,7 +1,7 @@
 ---
 title: Repairing Visual Output Errors
-date: 2025-02-05T01:52:44.935Z
-updated: 2025-02-09T17:08:04.718Z
+date: 2025-02-19T02:53:34.725Z
+updated: 2025-02-20T04:56:56.423Z
 categories:
   - repair-tools
 description: This Article Describes Repairing Visual Output Errors
@@ -43,15 +43,15 @@ Table of Content
 
 **We will cover the problem in the context of both system’s** integrated video cards (attached to the **motherboard) and dedicated graphics cards like NVidia GeForce, ATI Radeon, and others.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How do you know if your graphics card is damaged or not working?**
 
  Distorted visuals typically indicate a damaged or corrupt video card. The following are a few visual indicators and causes of graphics card problems:
 
 ![Video glitches due to graphic card problem](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/distrted.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Figure: Video glitches due to graphic card problem
 
@@ -76,17 +76,9 @@ Table of Content
 
 [How to fix ‘Video not playing’ issues](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Physical checks before troubleshooting video card problems**
 
  A graphics card is not always the cause of video problems; sometimes, the problems are caused due to other hardware-related aspects, as follows:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **1\. Loose connection:**
 
@@ -108,11 +100,19 @@ Table of Content
 
  Is the computer crashing only while playing games? It may be due to the sound hardware. To check this possibility, disable the sound hardware temporarily via**Device Manager** on your PC. If your computer doesn’t crash now, it’s a sound system issue. Download sound card drivers from the manufacturer’s website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **6\. Check the ‘Device Status’ of your graphic card:**
 
  Go to**Device Manager> Display adapters** . Right-click on your graphic card and click**Properties** . See the**Device Status** If it shows a video card error like Code 43 or Code 12, it indicates a video card problem. Follow the given troubleshooting methods to fix the video card error.
 
 ![Device Status of Graphics card showing Code 43](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/vv.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Figure: Device Status of Graphics card showing Code 43
 
@@ -121,7 +121,7 @@ Table of Content
 ![Device Status of Graphic card showing ‘device working’](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/ww.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Figure: Device Status of Graphic card showing ‘device working’
@@ -129,6 +129,10 @@ Table of Content
 Try the free version of the software:
 
 [Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How to fix video card problems**
 
@@ -154,6 +158,10 @@ Try the free version of the software:
 
 **_ [Read More](https://support.microsoft.com/en-us/help/4028443/windows-10-update-drivers) _**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **2\. Disable/Enable the graphics card**
 
  To repair the graphics card ‘no display’ problem, disable/enable the card driver. This method can fix integrated video cards and dedicated (external) graphics cards.
@@ -169,10 +177,6 @@ To disable video card drives, follow the below steps:
 
 ![enable the graphics card](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/Screenshot-61.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, enable the graphics card again by visiting the**Device Manager** on your PC or laptop and following these steps:
 
 * Click**Display Adapters**
@@ -181,7 +185,7 @@ To disable video card drives, follow the below steps:
 * Go to the**Driver** tab and click the**Enable** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3.** **Uninstall and reinstall the drivers**
@@ -200,10 +204,6 @@ To uninstall the driver, follow the below steps:
  Uninstalling display drivers and then reinstalling fixes most of the video card problems. It also fixes the improper display driver installation problem.
 
 > **Note:** NVidia and AMD provide specific tools to uninstall and reinstall graphic drivers. However, these should be only used when the Windows normal uninstall/ reinstall process fails.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **4\. Cool and clean video card**
 
@@ -236,7 +236,7 @@ To uninstall the driver, follow the below steps:
 [Video Repair](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Video Repair Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -268,21 +268,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-innovative-shots-with-purpose-top-20-ideas-for-inspiration/"><u>[Updated] 2024 Approved Innovative Shots with Purpose Top 20 Ideas for Inspiration</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-7-high-impact-workout-videos-that-engage-and-energize-audiences/"><u>[Updated] 7 High-Impact Workout Videos That Engage and Energize Audiences</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-windows-movie-maker-a-toolkit-for-youtube-videographers/"><u>[Updated] Windows Movie Maker A Toolkit for YouTube Videographers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-image-saga-builder-kit/"><u>2024 Approved Prime Image Saga Builder Kit</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enjoy-the-most-watched-shows-of-the-day-on-max-cable-television/"><u>Enjoy the Most Watched Shows of the Day on MAX Cable Television</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-fix-cant-play-recorded-videos/"><u>How to Fix Can't Play Recorded Videos?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-6-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 6 iCloud Activation Lock</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-frosted-feats-beijings-ice-showdown-highlights/"><u>In 2024, Frosted Feats Beijing's Ice Showdown Highlights</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mending-broken-video-formats-expertise-for-macos/"><u>Mending Broken Video Formats - Expertise for macOS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-windows-issues-when-your-plugged-in-speakers-wont-produce-any-audio/"><u>Resolving Windows Issues: When Your Plugged-In Speakers Won’t Produce Any Audio</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solutions-for-faulty-nikon-mov-video-playback/"><u>Solutions for Faulty Nikon MOV Video Playback</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stabilizing-screen-quality-after-upgrading-to-windows-10/"><u>Stabilizing Screen Quality After Upgrading to Windows 10</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/troubleshooting-poor-video-repair-outcomes/"><u>Troubleshooting Poor Video Repair Outcomes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unseen-symbols-revealed-how-to-fix-flashing-folders/"><u>Unseen Symbols Revealed: How to Fix Flashing Folders</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/what-should-i-do-if-advanced-video-repair-failed/"><u>What Should I Do if Advanced Video Repair Failed?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-break-into-everyones-heart-clever-tips-and-examples-for-tinder-bios/"><u>[New] Break Into Everyone's Heart - Clever Tips & Examples for Tinder Bios</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-video-experience-the-top-10-listed-tools/"><u>[Updated] 2024 Approved FB Video Experience The Top 10 Listed Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-explore-top-ios-emulators-for-playing-psp-games/"><u>[Updated] Explore Top iOS Emulators for Playing PSP Games</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-tecno-spark-10-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Tecno Spark 10 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/avoiding-picture-perfection-pitfalls/"><u>Avoiding Picture Perfection Pitfalls</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/digital-welding-uniting-severed-videotapes/"><u>Digital Welding: Uniting Severed Videotapes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/finding-what-was-lost-stellar-recovery-guide/"><u>Finding What Was Lost: Stellar Recovery Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/galactic-information-preservation-index/"><u>Galactic Information Preservation Index</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-restore-and-transfer-historical-mailbox-data-online/"><u>How to Restore & Transfer Historical Mailbox Data Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-seamlessly-update-your-razer-blackwidows-drivers-comprehensive-support-guide/"><u>How to Seamlessly Update Your Razer BlackWidow's Drivers | Comprehensive Support Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolved-instagram-reel-bug/"><u>Resolved: Instagram Reel Bug</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-media-error-0xc10100be-explained/"><u>Resolving Media Error: 0XC10100be Explained</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoremediasuite-efficiently-heal-vids/"><u>RestoreMediaSuite: Efficiently Heal Vids</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-complete-process-of-logging-google-voice-calls/"><u>The Complete Process of Logging Google Voice Calls</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/top-6-animated-emoji-video-effects/"><u>Top 6 Animated Emoji Video Effects</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/opus-mp4-movavi/"><u>인터넷으로 OPUS 픽셀을 MP4로 전환하는 가장 좋은 방법 – Movavi</u></a></li>
 </ul></div>
 

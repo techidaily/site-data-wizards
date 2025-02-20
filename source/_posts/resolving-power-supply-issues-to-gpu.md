@@ -1,7 +1,7 @@
 ---
 title: Resolving Power Supply Issues to GPU
-date: 2025-02-05T17:53:24.144Z
-updated: 2025-02-09T16:53:16.363Z
+date: 2025-02-13T05:14:36.476Z
+updated: 2025-02-20T03:26:10.470Z
 categories:
   - repair-tools
 description: This Article Describes Resolving Power Supply Issues to GPU
@@ -43,10 +43,6 @@ Table of Content
 
 **We will cover the problem in the context of both system’s** integrated video cards (attached to the **motherboard) and dedicated graphics cards like NVidia GeForce, ATI Radeon, and others.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **How do you know if your graphics card is damaged or not working?**
 
  Distorted visuals typically indicate a damaged or corrupt video card. The following are a few visual indicators and causes of graphics card problems:
@@ -56,10 +52,6 @@ Table of Content
  Figure: Video glitches due to graphic card problem
 
 ![Random colored patterns on screen](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/colored.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Figure: Random colored patterns on the screen
 
@@ -81,12 +73,16 @@ Table of Content
 [How to fix ‘Video not playing’ issues](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Physical checks before troubleshooting video card problems**
 
  A graphics card is not always the cause of video problems; sometimes, the problems are caused due to other hardware-related aspects, as follows:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **1\. Loose connection:**
 
@@ -97,7 +93,7 @@ Table of Content
  The problem might be due to a faulty PCI card slot. Insert your external graphics card in a different slot and see if this resolves the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. Check the PC monitor:**
@@ -118,6 +114,10 @@ Table of Content
 
 ![Device Status of Graphics card showing Code 43](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/vv.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Figure: Device Status of Graphics card showing Code 43
 
  If your videos are not playing and the**Device Status** of your graphic card reads –_‘The device is working properly,’_ the video might be corrupt.**In this case, you would need software like** Stellar Repair for Video, which can repair visual and sound corruption in damaged videos. The software fixes video glitches, stuttering, missing sound, video lag, and other problems.
@@ -129,6 +129,10 @@ Table of Content
 Try the free version of the software:
 
 [Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How to fix video card problems**
 
@@ -176,10 +180,6 @@ To disable video card drives, follow the below steps:
 * Click on properties.
 * Go to the**Driver** tab and click the**Enable** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **3.** **Uninstall and reinstall the drivers**
 
  Uninstall the graphic drivers and then reboot your PC. Windows will automatically install the drivers after Windows Update.
@@ -196,6 +196,10 @@ To uninstall the driver, follow the below steps:
  Uninstalling display drivers and then reinstalling fixes most of the video card problems. It also fixes the improper display driver installation problem.
 
 > **Note:** NVidia and AMD provide specific tools to uninstall and reinstall graphic drivers. However, these should be only used when the Windows normal uninstall/ reinstall process fails.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **4\. Cool and clean video card**
 
@@ -228,16 +232,12 @@ To uninstall the driver, follow the below steps:
 [Video Repair](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Video Repair Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
 
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![No](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/No.png) NO
 
@@ -246,7 +246,7 @@ About The Author
 ![](https://secure.gravatar.com/avatar/574139bee03ec4bdb0cd6e869a4670da?s=85&d=mm&r=g)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
@@ -268,20 +268,15 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-add-panache-to-videos-border-magic-on-insta/"><u>[New] Add Panache to Videos Border Magic on Insta</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-deciding-on-live-stream-xsplit-or-obs-pros-and-cons-for-2024/"><u>[New] Deciding on Live Stream XSplit or OBS Pros and Cons for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-elevate-your-earnings-on-social-media-youtube-mastery-on-the-networking-powerhouse/"><u>[New] Elevate Your Earnings on Social Media YouTube Mastery on the Networking Powerhouse</u></a></li>
-<li><a href="https://win-popular.techidaily.com/18-effective-solutions-for-resolving-windows-11-error-0x800f0922/"><u>18 Effective Solutions for Resolving Windows 11 Error 0X800F0922</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-retrieve-older-whatsapp-messages-a-guide-to-accessing-deleted-or-archived-conversations/"><u>How to Retrieve Older WhatsApp Messages: A Guide to Accessing Deleted or Archived Conversations</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/macdata-rescue-12v-new-stellar-features-unveiled/"><u>MacData Rescue 12V: New Stellar Features Unveiled</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/nova-network-premier-vids-and-client-applause/"><u>Nova Network: Premier Vids & Client Applause</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/perfecting-your-macs-storage-allocation-with-easy-steps/"><u>Perfecting Your Mac's Storage Allocation with Easy Steps</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/proof-of-excellence-client-reviews-on-screen/"><u>Proof of Excellence: Client Reviews on Screen</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/simplifying-safety-measures-with-stellars-easy-backup-solution/"><u>Simplifying Safety Measures with Stellar's Easy Backup Solution</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-handy-toolkit-tips-and-techniques-for-do-it-yourself-software-mastery/"><u>Stellar's Handy Toolkit: Tips and Techniques for Do-It-Yourself Software Mastery</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-to-become-a-win-11-insider/"><u>Step-by-Step to Become a Win 11 Insider</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-learning-method-behind-mondly/"><u>The Learning Method Behind Mondly</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-selection-of-16-memorable-sites-brimming-with-trending-and-viral-internet-memes/"><u>The Ultimate Selection of 16 Memorable Sites Brimming with Trending & Viral Internet Memes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-bsod-an-insight-into-what-causes-the-blue-screen-error/"><u>Understanding the BSOD: An Insight Into What Causes the Blue Screen Error</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-insiders-guide-to-youtube-editing-mastery-using-sony-vegas-software/"><u>[New] In 2024, The Insider's Guide to YouTube Editing Mastery Using Sony Vegas Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-journey-to-origin-how-to-utilize-reverse-image-functionality-on-instagram/"><u>[Updated] In 2024, The Journey to Origin How to Utilize Reverse Image Functionality on Instagram</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-step-by-step-process-for-high-quality-thumbnails/"><u>2024 Approved Step-by-Step Process for High-Quality Thumbnails</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-perfect-process-iphones-podcast-downloading-technique/"><u>2024 Approved Unveiling the Perfect Process IPhone's Podcast Downloading Technique</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cant-access-recovered-photo-files/"><u>Can't Access Recovered Photo Files</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-5-pc-emulators-bringing-ps1-to-life/"><u>In 2024, Top 5 PC Emulators Bringing PS1 to Life</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-video-converter-th/"><u>Movavi Video Converter - เข็มแพาใส่วิดยุth: ไล่ได้วัว</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-low-quality-cctv-videos/"><u>Resolving Low-Quality CCTV Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restore-corrupt-video-formats-mp4-and-mov-effortlessly-through-vlc-playback-repair-techniques/"><u>Restore Corrupt Video Formats MP4 and MOV Effortlessly Through VLC Playback Repair Techniques</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/videography-virtuoso-glowing-reviews-cited/"><u>Videography Virtuoso - Glowing Reviews Cited</u></a></li>
 </ul></div>
 

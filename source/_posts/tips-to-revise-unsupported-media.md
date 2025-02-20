@@ -1,7 +1,7 @@
 ---
 title: Tips to Revise Unsupported Media
-date: 2025-02-05T04:00:42.539Z
-updated: 2025-02-09T17:40:58.186Z
+date: 2025-02-15T22:31:31.983Z
+updated: 2025-02-20T03:01:00.868Z
 categories:
   - repair-tools
 description: This Article Describes Tips to Revise Unsupported Media
@@ -67,6 +67,10 @@ _An error occurred. Unsupported file format.’_
 
  **Below are the methods to fix unsupported codec error and play the videos on your device in any media player:**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Play video in a different media player
 
  Not every media player supports all video file formats. For instance, QuickTime Player only supports MOV, MPEG, some AVI, and WAV files. It cannot play other formats such as AVCHD, MKV or WEBM, etc.
@@ -85,6 +89,10 @@ _An error occurred. Unsupported file format.’_
 
 _Figure: Mac suggests installed apps to open video_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Download the missing video codecs
 
  If the ‘video codec is not supported’ error appears on Windows or Mac, then download the codec.
@@ -97,10 +105,6 @@ _Figure: Mac suggests installed apps to open video_
 
  Some players such as Windows Media player and VLC also have the provision for automatic download of codecs. You can try that as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Steps to fix video codec not supported in Windows Media Player:**
 
 * Open Windows Media Player.
@@ -110,6 +114,10 @@ _Figure: Mac suggests installed apps to open video_
 * Click **OK.**
 * **Next, play your video** file in the player. A message will prompt to install codec.
 * Click **Install.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Steps to download codec in VLC Player**
 
@@ -121,10 +129,6 @@ _Figure: Check for Updates in VLC_
 _Figure: VLC message when new version is available._
 
 * Click**Yes.** This will automatically download the new codecs also.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Convert the video file format
 
@@ -152,7 +156,7 @@ _Figure: Video profile options in VLC Player_
 * Once done, click **Start** to convert the video file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Convert video file to fix unsupported codec error on Android**
@@ -188,10 +192,6 @@ _Figure: Preview video after repair_
 
 [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Wrapping up**
 
  Playing a video in another media player, downloading supporting codecs or converting the file format can help to fix ‘unsupported video format’ error on Windows, Mac or Android.
@@ -201,7 +201,7 @@ _Figure: Preview video after repair_
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was this article helpful?
@@ -231,19 +231,19 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-creating-captivating-grids-the-best-photo-tools/"><u>[New] Creating Captivating Grids - The Best Photo Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-perfect-shots-effortless-streaming-dslr-on-pcmac/"><u>[New] Perfect Shots, Effortless Streaming DSLR on PC/Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revealing-rays-of-light-the-ultimate-guide-for-choosing-a-premium-4k-screen/"><u>2024 Approved Revealing Rays of Light The Ultimate Guide for Choosing a Premium 4K Screen</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-transform-your-instagram-photos-with-creative-borders/"><u>2024 Approved Transform Your Instagram Photos with Creative Borders</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cyber-monday-2022-exclusive-save-with-the-last-black-friday-offer-on-a-79-lenovo-chromebook-check-out-now/"><u>Cyber Monday 2022 Exclusive: Save with the Last Black Friday Offer on a $79 Lenovo Chromebook - Check Out Now!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-flawed-mp4-playback-in-smartphones/"><u>Fixing Flawed MP4 Playback in Smartphones</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-multitask-media-with-ease-expertly-using-netflixs-picture-in-picture-feature/"><u>Master Multitask Media with Ease Expertly Using Netflix’s Picture-In-Picture Feature</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-degraded-h264-files/"><u>Restoring Degraded H.264 Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-to-shield-sensitive-enterprise-discussions/"><u>Strategies to Shield Sensitive Enterprise Discussions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/supernova-strategies-sql-database-restoration/"><u>Supernova Strategies: SQL Database Restoration</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-ultimate-jpeg-revival-kit/"><u>The Ultimate JPEG Revival Kit</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-strategies-to-overcome-buffering-woes/"><u>Top Strategies to Overcome Buffering Woes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/turn-corrupt-videos-into-playable-again/"><u>Turn Corrupt Videos Into Playable Again</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-discovering-beyond-vidcon-key-youtube-occasions/"><u>[New] In 2024, Discovering Beyond VidCon Key Youtube Occasions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-from-conventional-to-cutting-edge-the-shift-from-rgb-to-srgb-for-2024/"><u>[Updated] From Conventional to Cutting-Edge The Shift From Rgb to Srgb for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-buddy-list-in-the-virtual-realm-games/"><u>2024 Approved Best Buddy List in the Virtual Realm Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-steps-to-avoid-automatic-podcast-suggestions-on-spotify/"><u>2024 Approved Steps to Avoid Automatic Podcast Suggestions on Spotify</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comprehensive-jpeg-restoration-services/"><u>Comprehensive JPEG Restoration Services</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/constellation-collection-highlighted-successes-and-praise/"><u>Constellation Collection: Highlighted Successes & Praise</u></a></li>
+<li><a href="https://win-top.techidaily.com/effective-strategies-for-differentiating-ip-addresses-between-original-and-duplicate-virtual-machines/"><u>Effective Strategies for Differentiating IP Addresses Between Original and Duplicate Virtual Machines</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhancing-playback-of-corrupted-mov-files-on-mac/"><u>Enhancing Playback of Corrupted MOV Files on Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-walkthrough-for-moving-recovered-edb-files-onto-live-microsoft-exchange-servers/"><u>Expert Walkthrough for Moving Recovered EDB Files Onto Live Microsoft Exchange Servers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-realme-gt-5-pro-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Realme GT 5 Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720671047731-inconsistent-stellar-video-editing-results/"><u>Inconsistent Stellar Video Editing Results.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zoom-troubleshooting-guide-identifying-the-real-problem/"><u>Zoom Troubleshooting Guide - Identifying the Real Problem</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rectifying Blue Light Issues on Monitor
-date: 2025-02-08T17:18:40.310Z
-updated: 2025-02-09T21:16:58.118Z
+date: 2025-02-18T20:07:34.392Z
+updated: 2025-02-19T18:23:30.000Z
 categories:
   - repair-tools
 description: This Article Describes Rectifying Blue Light Issues on Monitor
@@ -43,6 +43,10 @@ Table of Content
 
 **We will cover the problem in the context of both system’s** integrated video cards (attached to the **motherboard) and dedicated graphics cards like NVidia GeForce, ATI Radeon, and others.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How do you know if your graphics card is damaged or not working?**
 
  Distorted visuals typically indicate a damaged or corrupt video card. The following are a few visual indicators and causes of graphics card problems:
@@ -52,10 +56,6 @@ Table of Content
  Figure: Video glitches due to graphic card problem
 
 ![Random colored patterns on screen](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/colored.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Figure: Random colored patterns on the screen
 
@@ -76,10 +76,6 @@ Table of Content
 
 [How to fix ‘Video not playing’ issues](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Physical checks before troubleshooting video card problems**
 
  A graphics card is not always the cause of video problems; sometimes, the problems are caused due to other hardware-related aspects, as follows:
@@ -87,6 +83,10 @@ Table of Content
 ### **1\. Loose connection:**
 
  Visual issues can be caused due to a loose connection between the computer and the graphics card. Ensure that the video cable is fine and plugged in properly. Replace the faulty cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Swap graphics card slot:**
 
@@ -96,13 +96,13 @@ Table of Content
 
  Video display problems could be monitor-related issues instead of the graphics card. Replacing the monitor may fix the problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **4\. Test another graphics card:**
 
  If you use a dedicated NVidia GeForce or AMD card, replace it with another card of similar specifications. If the display problem gets fixed, your old graphics card needs repair or replacement.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **5\. Check your Sound Drivers:**
 
@@ -113,10 +113,6 @@ Table of Content
  Go to**Device Manager> Display adapters** . Right-click on your graphic card and click**Properties** . See the**Device Status** If it shows a video card error like Code 43 or Code 12, it indicates a video card problem. Follow the given troubleshooting methods to fix the video card error.
 
 ![Device Status of Graphics card showing Code 43](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/vv.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Figure: Device Status of Graphics card showing Code 43
 
@@ -170,7 +166,7 @@ To disable video card drives, follow the below steps:
 ![enable the graphics card](https://www.stellarinfo.com/blog/wp-content/uploads/2019/03/Screenshot-61.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, enable the graphics card again by visiting the**Device Manager** on your PC or laptop and following these steps:
@@ -179,6 +175,10 @@ To disable video card drives, follow the below steps:
 * Double-click on your graphic card
 * Click on properties.
 * Go to the**Driver** tab and click the**Enable** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **3.** **Uninstall and reinstall the drivers**
 
@@ -198,7 +198,7 @@ To uninstall the driver, follow the below steps:
 > **Note:** NVidia and AMD provide specific tools to uninstall and reinstall graphic drivers. However, these should be only used when the Windows normal uninstall/ reinstall process fails.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. Cool and clean video card**
@@ -211,15 +211,15 @@ To uninstall the driver, follow the below steps:
 
  If the motherboard or the dedicated graphic card is damaged due to overheating, you would need to replace them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **5\. Replace your video card**
 
  Buying a new video card is the only option when the existing card is damaged due to overheating or overclocking or has become outdated. If you are using an integrated video card, replace the whole motherboard.
 
  Before buying, consider the specific use of graphics cards. Gamers or video editing professionals need a more powerful GPU to process intense graphics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **To Sum Up**
 
@@ -235,10 +235,6 @@ To uninstall the driver, follow the below steps:
 
 [Video Repair](https://www.stellarinfo.com/images/free-download-windows.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.exe) [Video Repair Mac](https://www.stellarinfo.com/images/free-download-Mac.png) ](https://cloud.stellarinfo.com/StellarRepairforVideo-B.dmg.zip)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Was this article helpful?
 
 ![Yes](https://www.stellarinfo.com/blog/wp-content/themes/stellarblog2024/images/Yes.png) YES 0
@@ -248,6 +244,10 @@ To uninstall the driver, follow the below steps:
 About The Author
 
 ![](https://secure.gravatar.com/avatar/574139bee03ec4bdb0cd6e869a4670da?s=85&d=mm&r=g)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Harsha Alamchandani](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
@@ -268,20 +268,22 @@ About The Author
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-information-what-is-blue-video-icon-on-facebook-messenger/"><u>[New] In 2024, Information | What Is Blue Video Icon on Facebook Messenger?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-free-android-capturer/"><u>[New] In 2024, Ultimate Free Android Capturer</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-pathway-to-prosperity-a-graphic-designers-journey/"><u>[Updated] 2024 Approved The Pathway to Prosperity A Graphic Designer's Journey</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-perfect-recording-companion-10-best-on-spotify-platforms-for-2024/"><u>[Updated] Perfect Recording Companion 10 Best on Spotify Platforms for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/10-best-video-zoom-editor/"><u>10 Best Video Zoom Editor</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/debunking-the-myths-effective-solutions-for-eradicating-false-google-chrome-threat-notifications/"><u>Debunking the Myths: Effective Solutions for Eradicating False Google Chrome Threat Notifications</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/erase-the-obvious-techniques-for-masked-youtube-content-for-2024/"><u>Erase the Obvious Techniques for Masked YouTube Content for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-overclocking-mistakes-on-gpu/"><u>Fixing Overclocking Mistakes on GPU</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixitflow-video-file-repair-tool/"><u>FixItFlow: Video File Repair Tool</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-lava-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Lava Phone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/natural-remedies-for-unstable-video/"><u>Natural Remedies for Unstable Video</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rehabilitating-distorted-and-damaged-hevc-imagesvideos/"><u>Rehabilitating Distorted and Damaged HEVC Images/Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tainttrack-tracing-and-correcting-vids/"><u>TaintTrack: Tracing and Correcting Vids</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/troubleshooting-windows-11-clearing-distorted-videos/"><u>Troubleshooting Windows 11: Clearing Distorted Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-circlesmiths-arsenal/"><u>[New] In 2024, Circlesmith's Arsenal</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-smile-more-using-emojis-in-youtube-conversations/"><u>[Updated] 2024 Approved Smile More Using Emojis in YouTube Conversations</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-crafting-consumer-engagement-the-art-of-marketing-on-tiktok/"><u>[Updated] Crafting Consumer Engagement The Art of Marketing on TikTok</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-crafting-the-perfect-end-screen-youtube-template-guidebook/"><u>2024 Approved Crafting the Perfect End Screen - YouTube Template Guidebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-remedies-troubleshoot-steams-unwritable-library/"><u>9 Remedies: Troubleshoot Steam's Unwritable Library</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/adapting-to-unusual-video-compression-tech/"><u>Adapting to Unusual Video Compression Tech</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-repair-woes-what-should-i-do-now/"><u>Advanced Repair Woes: What Should I Do Now?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-color-and-contrast-post-win11-update/"><u>Correcting Color and Contrast Post Win11 Update</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/data-rescue-made-simple-with-stellar-ui-on-mac/"><u>Data Rescue Made Simple with Stellar UI on Mac</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effortlessly-play-uninterrupted-videos-vlc/"><u>Effortlessly Play Uninterrupted Videos (VLC)</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-unexpected-closure-notifications-from-roblox-games/"><u>Eliminating Unexpected Closure Notifications From Roblox Games</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhance-your-programming-skills-using-stellars-toolkit-invaluable-guides-and-hacks/"><u>Enhance Your Programming Skills Using Stellar's Toolkit: Invaluable Guides & Hacks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/essential-troubleshooting-for-predominant-video-blunders/"><u>Essential Troubleshooting for Predominant Video Blunders</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-motorola-defy-2-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Motorola Defy 2 Phone Network-Ready</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/setting-benchmarks-a-look-at-successful-igtv-videos/"><u>Setting Benchmarks A Look at Successful IGTV Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720673066661-stellar-repairs-missing-some-file-improvements/"><u>Stellar Repairs Missing some File Improvements</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-tips-on-optimal-placement-of-your-ps4-webcam/"><u>Top Tips on Optimal Placement of Your PS4 Webcam</u></a></li>
 </ul></div>
 
